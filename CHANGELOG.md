@@ -6,6 +6,10 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Changed
+
+- Upgraded the GitHub Actions runtime to the current Node 24-based releases.
+
 ## [0.1.0] - 2026-09-01
 
 ### Added
@@ -21,4 +25,3 @@ All notable changes to this project are documented here. The format follows
 
 [Unreleased]: https://github.com/meryemsakin/internet-half-life/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/meryemsakin/internet-half-life/releases/tag/v0.1.0
-

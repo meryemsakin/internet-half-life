@@ -17,6 +17,7 @@ from .catalog import Event, PROJECT_ROOT
 
 
 API = "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article"
+API_DATA_START = date(2015, 7, 1)
 DEFAULT_CACHE = PROJECT_ROOT / "data" / "cache"
 DEFAULT_RAW = PROJECT_ROOT / "data" / "raw"
 DEFAULT_SAMPLE = PROJECT_ROOT / "data" / "sample"
@@ -101,7 +102,7 @@ def fetch_event(
 ) -> pd.DataFrame:
     """Fetch all pages in one event universe and save a wide CSV."""
     client = client or WikimediaClient()
-    start = event.date - timedelta(days=before)
+    start = max(event.date - timedelta(days=before), API_DATA_START)
     end = event.date + timedelta(days=after)
     columns = [client.daily_views(article, start, end) for article in event.articles]
     frame = pd.concat(columns, axis=1)
@@ -130,4 +131,11 @@ def load_event_frame(
     missing = set(event.articles) - set(frame.columns)
     if missing:
         raise ValueError(f"{path} is missing catalog pages: {sorted(missing)}")
-    return frame[event.articles].sort_index()
+    frame = frame[event.articles].sort_index()
+    available = frame.ne(0).any(axis=1)
+    if not available.any():
+        raise ValueError(f"{path} contains no pageview observations")
+    # The API has no daily observations before July 2015. Older requests used
+    # to be padded with zeros, which must not be passed to forecasting models
+    # as if they were real traffic.
+    return frame.loc[available.idxmax() :]

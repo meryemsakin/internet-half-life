@@ -198,6 +198,8 @@ def render_forecast(
     palette = {
         "timesfm-multivariate": "#ef5b5b",
         "timesfm-univariate": "#3a86ff",
+        "exponential-decay": "#2db7a3",
+        "power-law-decay": "#7c5cff",
         "seasonal-naive": "#8d8a82",
     }
     for mode, group in subset.groupby("mode", sort=False):
@@ -206,8 +208,13 @@ def render_forecast(
             group["forecast"],
             color=palette[mode],
             linewidth=2 if mode != "seasonal-naive" else 1.1,
-            linestyle="--" if mode == "seasonal-naive" else "-",
-            label=mode.replace("timesfm-", "TimesFM-3 ").replace("seasonal-naive", "weekly naive"),
+            linestyle="--" if "decay" in mode or mode == "seasonal-naive" else "-",
+            label=(
+                mode.replace("timesfm-", "TimesFM-3 ")
+                .replace("exponential-decay", "exponential decay")
+                .replace("power-law-decay", "power-law decay")
+                .replace("seasonal-naive", "weekly naive")
+            ),
         )
         if mode == "timesfm-multivariate":
             ax.fill_between(
@@ -224,4 +231,3 @@ def render_forecast(
     fig.savefig(path, dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
     plt.close(fig)
     return path
-

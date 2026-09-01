@@ -9,7 +9,7 @@ import sys
 import pandas as pd
 
 from .catalog import PROJECT_ROOT, Event, get_event, load_catalog
-from .forecasting import forecast_event, forecast_scores, save_forecast
+from .forecasting import TimesFMBackend, forecast_event, forecast_scores, save_forecast
 from .metrics import analyze_event, load_metrics, save_metrics
 from .visualize import render_event_atlas, render_forecast
 from .wikimedia import fetch_event, load_event_frame
@@ -57,9 +57,12 @@ def cmd_analyze(args: argparse.Namespace) -> None:
 
 
 def cmd_forecast(args: argparse.Namespace) -> None:
-    for event in _selected_events(args.event):
+    events = _selected_events(args.event)
+    print(f"loading TimesFM-3 on {args.device or 'auto'}...")
+    backend = TimesFMBackend(device=args.device)
+    for event in events:
         frame = load_event_frame(event)
-        print(f"forecasting {event.title}; loading TimesFM-3 on {args.device or 'auto'}...")
+        print(f"\nforecasting {event.title}...")
         forecast = forecast_event(
             frame,
             event,
@@ -67,6 +70,7 @@ def cmd_forecast(args: argparse.Namespace) -> None:
             horizon=args.horizon,
             context_days=args.context,
             device=args.device,
+            backend=backend,
         )
         path = save_forecast(forecast, event)
         print(forecast_scores(forecast).to_string(index=False, float_format=lambda value: f"{value:.3f}"))

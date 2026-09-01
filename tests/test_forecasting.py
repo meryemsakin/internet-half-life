@@ -3,7 +3,12 @@ from datetime import date
 import numpy as np
 import pandas as pd
 
-from internet_half_life.forecasting import forecast_scores, seasonal_naive
+from internet_half_life.catalog import Event, Page
+from internet_half_life.forecasting import (
+    forecast_scores,
+    parametric_decay,
+    seasonal_naive,
+)
 
 
 def test_seasonal_naive_repeats_the_last_week_for_every_variate():
@@ -33,3 +38,41 @@ def test_forecast_scores_are_aggregated_by_mode():
     assert np.isclose(scores.loc["good", "wape"], 2 / 30)
     assert scores.loc["good", "interval_coverage"] == 1
     assert scores.loc["bad", "interval_coverage"] == 0
+    assert np.isclose(scores.loc["good", "mean_interval_width"], 3.5)
+
+
+def test_forecast_scores_leave_missing_intervals_unscored():
+    frame = pd.DataFrame(
+        {
+            "mode": ["point-only", "point-only"],
+            "actual": [10, 20],
+            "forecast": [11, 19],
+            "q10": [np.nan, np.nan],
+            "q90": [np.nan, np.nan],
+        }
+    )
+    score = forecast_scores(frame).iloc[0]
+    assert np.isnan(score["interval_coverage"])
+    assert np.isnan(score["relative_interval_width"])
+    assert score["interval_observations"] == 0
+
+
+def test_parametric_decay_follows_a_revealed_exponential_spike():
+    event = Event(
+        slug="test",
+        title="Test",
+        date=date(2024, 2, 1),
+        description="",
+        primary="Test",
+        pages=(Page(article="Test", label="Test", role="event"),),
+    )
+    index = pd.date_range("2024-01-04", periods=36, freq="D")
+    values = np.full(len(index), 100.0)
+    values[-8:] = 100 + 900 * np.exp(-0.25 * np.arange(8))
+    frame = pd.DataFrame({"Test": values}, index=index)
+
+    forecast = parametric_decay(frame, event, horizon=5, kind="exponential")
+
+    expected = 100 + 900 * np.exp(-0.25 * np.arange(8, 13))
+    np.testing.assert_allclose(forecast[0], expected)
+    assert np.all(np.diff(forecast[0]) < 0)

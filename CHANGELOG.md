@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Added
+
+- Six post-cutoff cultural events, expanding the catalog to sixteen cases.
+- An exact pre/post comparison around TimesFM-3's published November 2023
+  Wikipedia Pageviews training cutoff.
+
 ## [0.2.0] - 2026-09-01
 
 ### Added

@@ -8,11 +8,15 @@
 
 The first answer is that it often does something else: it disperses.
 
-Internet Half-Life follows ten cultural events through constellations of
+Internet Half-Life follows sixteen cultural events through constellations of
 related English Wikipedia pages. Across this deliberately selected catalog,
-the pages received **96.6 million views above their ordinary-day baselines** in
-the first 60 days. A traffic-weighted **77.5% of that excess landed outside the
+the pages received **176.4 million views above their ordinary-day baselines** in
+the first 60 days. A traffic-weighted **69.4% of that excess landed outside the
 page chosen to represent the event**.
+
+The weighting matters. Weighted by traffic the figure is 69.4%, but the median
+event disperses **53.2%**, and the range across events runs from 18.3% to
+97.8%. Dispersal is the rule; how much of it happens is not a constant.
 
 For Barbenheimer, the share was **97.8%**. People did not stay on the page for
 the portmanteau. They moved toward the films, actors, J. Robert Oppenheimer,
@@ -40,12 +44,12 @@ calculates:
 - **Lead/lag co-movement:** the strongest timing relationships between pages.
   These edges are descriptive, never causal.
 
-![Spillover across the ten selected events](figures/catalog-spillover.png)
+![Spillover across the sixteen selected events](figures/catalog-spillover.png)
 
-The catalog is small on purpose. Its ten events were hand-picked because they
-produced visible attention shocks; it is an atlas of interesting cases, not a
-representative sample of everything that happened online. The **77.5%** result
-is conditional on those event and page choices.
+The catalog is small on purpose. Its sixteen events were hand-picked because
+they produced visible attention shocks; it is an atlas of interesting cases,
+not a representative sample of everything that happened online. The **69.4%**
+result is conditional on those event and page choices.
 
 ## The forecasting test
 
@@ -68,26 +72,34 @@ The decay curves share the same fixed 28-day median baseline used by the atlas.
 They are the obvious null models for a project about fading attention; the
 weekly naive remains as a deliberately simple seasonal reference.
 
-### What happened across all ten events
+### What happened across all sixteen events
 
 | model | median event WAPE ↓ |
 |---|---:|
-| TimesFM-3 multivariate | **0.261** |
-| TimesFM-3 univariate | 0.286 |
-| exponential decay | 0.472 |
-| power-law decay | 0.439 |
-| weekly naive | 5.008 |
+| TimesFM-3 multivariate | **0.294** |
+| TimesFM-3 univariate | 0.332 |
+| exponential decay | 0.502 |
+| power-law decay | 0.467 |
+| weekly naive | 2.902 |
 
 The median alone makes the multivariate model look convincing. The paired
-event-level result does not. Multivariate TimesFM won six events and lost four;
-the median multivariate-minus-univariate difference was only **−0.004 WAPE**.
-An exact two-sided sign test gives **p = 0.754**. With ten selected events, the
-data do not distinguish the multivariate gain from zero.
+event-level result does not. Multivariate TimesFM won ten events and lost six;
+the median multivariate-minus-univariate difference was only **−0.008 WAPE**.
+An exact two-sided sign test gives **p = 0.454**. With sixteen selected events,
+the data still do not distinguish the multivariate gain from zero.
+
+The *mean* difference is **−0.755**, which looks decisive and is not. It is one
+event. On Ever Given, univariate TimesFM scored **12.43 WAPE** against **0.78**
+for the multivariate run; every other event falls between −0.45 and +0.21.
+Reporting the mean here would be reporting a single failure. The failure is
+worth its own sentence, though, and it is not the one the mean implies:
+multivariate context did not reliably improve accuracy, but on the one occasion
+the univariate model came apart entirely, the joint model did not.
 
 ![Multivariate minus univariate WAPE for every event](figures/multivariate-delta-by-event.png)
 
-The simple baselines matter, too. In **five of ten events**, at least one of the
-two parametric decay curves beat both TimesFM modes. On Straight Outta Compton,
+The simple baselines matter, too. In **six of sixteen events**, at least one of
+the two parametric decay curves beat both TimesFM modes. On Straight Outta Compton,
 for example, power-law decay scored **0.234 WAPE**, versus **0.248** for
 multivariate TimesFM. A 330M-parameter foundation model can still lose to a
 two-parameter description of the process being forecast.
@@ -104,12 +116,12 @@ univariate TimesFM **0.269**, exponential decay **0.411**, and power-law decay
 
 TimesFM returns 10th–90th percentile intervals. A calibrated nominal 80%
 interval should cover roughly 80% of observations over repeated cases. Across
-the ten events, mean event-level coverage was **88.9%** for multivariate and
-**88.1%** for univariate TimesFM. Some events reached 100%; Chandrayaan-3 fell
+the sixteen events, mean event-level coverage was **84.3%** for multivariate and
+**81.7%** for univariate TimesFM. Some events reached 100%; Chandrayaan-3 fell
 to 57.3% in the multivariate run.
 
 High coverage was often purchased with broad bands. The median interval width
-was **2.26 times mean actual traffic** for multivariate and **2.04 times** for
+was **2.16 times mean actual traffic** for multivariate and **1.89 times** for
 univariate forecasts. The maximum event-level ratio reached 59.2. Coverage is
 therefore reported beside sharpness, not as a standalone success metric.
 Point-only baselines have no interval and are left blank rather than assigned a
@@ -120,6 +132,43 @@ misleading zero.
 The checked-in [event table](results/catalog-study.csv) and
 [machine-readable summary](results/study-summary.json) contain the exact
 results behind these figures.
+
+## Was the model already told the answer?
+
+TimesFM 3.0's model card lists its pretraining sources, and one line is
+unusually specific:
+
+> Wikipedia Pageviews, **cutoff Nov 2023**.
+
+That is a boundary published by the people who trained the model, which makes
+it a natural experiment rather than a guess. Seven catalog events happened
+before that date and could be in the training corpus. Nine happened after and
+cannot be.
+
+Raw error cannot answer this on its own: the later events are also more recent,
+and Wikipedia traffic has changed for reasons unrelated to any model. So the
+comparison runs on the ratio of TimesFM's error to the lower-WAPE of the two
+parametric decay baselines on the same event. This is an oracle-normalized,
+exploratory comparison—not a causal test. A two-parameter curve has no training
+corpus and cannot have memorized anything, so if an era is simply harder to
+forecast, both should degrade and the ratio may be more stable than raw error.
+
+| | events | median WAPE | TimesFM ÷ best decay fit |
+|---|---:|---:|---:|
+| before the cutoff | 7 | 0.248 | **0.737** |
+| after the cutoff | 9 | 0.418 | **0.943** |
+
+On events it may have seen, TimesFM beats a two-parameter decay curve by 26%.
+On events it cannot have seen, the margin falls to 6%. The direction is exactly
+what contamination would produce.
+
+It is also not significant. An exact two-sided permutation test on the
+difference of medians gives **p = 0.47**. Sixteen hand-picked events cannot
+resolve an effect this size, and the post-cutoff group is only three years wide. This is a
+direction, not a finding, and the honest summary is that the test was run and
+came back underpowered. Enlarging the catalog on the post-cutoff side is the
+cheapest way to make it answerable — each event is one entry in
+`catalog/events.json`.
 
 ## Reproduce it
 

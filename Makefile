@@ -16,7 +16,10 @@ forecast:
 	.venv/bin/internet-half-life forecast --event $(EVENT)
 	.venv/bin/internet-half-life render --event $(EVENT)
 
+study:
+	.venv/bin/internet-half-life study
+
 test:
 	.venv/bin/python -m pytest
 
-.PHONY: setup setup-timesfm sample forecast test
+.PHONY: setup setup-timesfm sample forecast study test

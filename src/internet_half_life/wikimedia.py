@@ -34,7 +34,7 @@ class WikimediaClient:
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.user_agent = user_agent or os.environ.get(
             "ATTENTION_AFTERLIFE_USER_AGENT",
-            "internet-half-life/0.1 (educational research; contact via repository issues)",
+            "internet-half-life/0.2 (educational research; contact via repository issues)",
         )
         self.pace_seconds = pace_seconds
         self.session = requests.Session()

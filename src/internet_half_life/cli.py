@@ -159,9 +159,16 @@ def build_parser() -> argparse.ArgumentParser:
     analyze_parser.add_argument("--event", default="straight-outta-compton")
     analyze_parser.set_defaults(func=cmd_analyze)
 
-    forecast_parser = commands.add_parser("forecast", help="compare TimesFM-3 forecasting modes")
+    forecast_parser = commands.add_parser(
+        "forecast", help="compare TimesFM-3 with attention-decay baselines"
+    )
     forecast_parser.add_argument("--event", default="straight-outta-compton")
-    forecast_parser.add_argument("--reveal-days", type=int, default=7)
+    forecast_parser.add_argument(
+        "--reveal-days",
+        type=int,
+        default=7,
+        help="days after the event day to reveal; the event day is also observed",
+    )
     forecast_parser.add_argument("--horizon", type=int, default=30)
     forecast_parser.add_argument("--context", type=int, default=512)
     forecast_parser.add_argument("--device", choices=["cpu", "mps", "cuda"])

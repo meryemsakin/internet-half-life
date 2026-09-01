@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from itertools import product
+from itertools import combinations, product
 import json
 from math import comb
 from pathlib import Path
@@ -115,6 +115,76 @@ def collect_catalog_study(
     return pd.DataFrame(rows)
 
 
+TRAINING_CUTOFF = "2023-12-01"
+
+
+def training_cutoff_split(study: pd.DataFrame, cutoff: str = TRAINING_CUTOFF) -> dict:
+    """Compare forecast skill either side of TimesFM 3.0's Wikipedia cutoff.
+
+    The model card states the pretraining pageview data was cut off in November
+    2023. Pageviews before December may have been available to the model;
+    observations after November could not have been. If skill comes partly from
+    having seen these series, it should be higher on the earlier side.
+
+    Raw WAPE cannot answer this on its own, because the two groups are also
+    separated in time and Wikipedia traffic has changed for reasons that have
+    nothing to do with any model. So the comparison is run on the ratio of
+    TimesFM's error to the best parametric decay fit on the same event. A
+    parametric fit has no training corpus and cannot have memorised anything,
+    so if an era is simply harder, both degrade and the ratio holds steady. A
+    shift in the ratio is a statement about the model.
+    """
+    frame = study.copy()
+    frame["pre_training_cutoff"] = (
+        pd.to_datetime(frame["event_date"]) < pd.Timestamp(cutoff)
+    )
+    frame["skill_vs_decay"] = (
+        frame["timesfm_multivariate_wape"] / frame["best_decay_wape"]
+    )
+
+    groups = {}
+    for seen, part in frame.groupby("pre_training_cutoff"):
+        key = "seen" if seen else "unseen"
+        groups[key] = {
+            "events": int(len(part)),
+            "median_wape": float(part["timesfm_multivariate_wape"].median()),
+            "median_skill_vs_decay": float(part["skill_vs_decay"].median()),
+            "slugs": part["event_slug"].tolist(),
+        }
+
+    seen = frame.loc[frame["pre_training_cutoff"], "skill_vs_decay"].to_numpy(float)
+    unseen = frame.loc[~frame["pre_training_cutoff"], "skill_vs_decay"].to_numpy(float)
+    return {
+        "cutoff": cutoff,
+        "groups": groups,
+        "median_difference": (
+            float(np.median(seen) - np.median(unseen))
+            if len(seen) and len(unseen) else None
+        ),
+        "permutation_p_value": _two_sample_permutation(seen, unseen),
+    }
+
+
+def _two_sample_permutation(a: np.ndarray, b: np.ndarray) -> float:
+    """Exact two-sided permutation test on the difference of medians."""
+    a = a[np.isfinite(a)]
+    b = b[np.isfinite(b)]
+    if len(a) < 2 or len(b) < 2:
+        return 1.0
+    observed = abs(float(np.median(a) - np.median(b)))
+    pool = np.concatenate([a, b])
+    hits = 0
+    partitions = 0
+    for left_indices in combinations(range(len(pool)), len(a)):
+        mask = np.zeros(len(pool), dtype=bool)
+        mask[list(left_indices)] = True
+        difference = abs(float(np.median(pool[mask]) - np.median(pool[~mask])))
+        if difference >= observed - 1e-12:
+            hits += 1
+        partitions += 1
+    return float(hits / partitions)
+
+
 def summarize_catalog_study(study: pd.DataFrame) -> dict:
     deltas = study["multivariate_minus_univariate_wape"].to_numpy(dtype=float)
     wins = int((deltas < 0).sum())
@@ -165,6 +235,7 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
         ].tolist(),
         "median_event_wape": model_medians,
         "interval_diagnostics": interval_diagnostics,
+        "training_cutoff_split": training_cutoff_split(study),
     }
 
 

@@ -11,6 +11,12 @@ import pandas as pd
 from .catalog import PROJECT_ROOT, Event, get_event, load_catalog
 from .forecasting import TimesFMBackend, forecast_event, forecast_scores, save_forecast
 from .metrics import analyze_event, load_metrics, save_metrics
+from .study import (
+    collect_catalog_study,
+    render_catalog_study,
+    save_catalog_study,
+    summarize_catalog_study,
+)
 from .visualize import render_event_atlas, render_forecast
 from .wikimedia import fetch_event, load_event_frame
 
@@ -96,6 +102,27 @@ def cmd_render(args: argparse.Namespace) -> None:
             print(f"forecast figure -> {figure_path.relative_to(PROJECT_ROOT)}")
 
 
+def cmd_study(_: argparse.Namespace) -> None:
+    study = collect_catalog_study()
+    summary = summarize_catalog_study(study)
+    table_path, summary_path = save_catalog_study(study, summary)
+    figures = render_catalog_study(study)
+    comparison = summary["multivariate_vs_univariate"]
+    print(
+        f"multivariate wins: {comparison['multivariate_wins']}/{len(study)}; "
+        f"median WAPE difference: {comparison['median_wape_difference']:+.3f}; "
+        f"exact sign-test p={comparison['exact_sign_test_p_value']:.3f}"
+    )
+    print(
+        "simple decay beats both TimesFM modes: "
+        f"{len(summary['decay_beats_both_timesfm_events'])}/{len(study)} events"
+    )
+    print(f"table -> {table_path.relative_to(PROJECT_ROOT)}")
+    print(f"summary -> {summary_path.relative_to(PROJECT_ROOT)}")
+    for path in figures:
+        print(f"figure -> {path.relative_to(PROJECT_ROOT)}")
+
+
 def cmd_build(args: argparse.Namespace) -> None:
     for event in _selected_events(args.event):
         raw_path = PROJECT_ROOT / "data" / "raw" / f"{event.slug}.csv"
@@ -143,6 +170,11 @@ def build_parser() -> argparse.ArgumentParser:
     render_parser = commands.add_parser("render", help="render atlas and forecast figures")
     render_parser.add_argument("--event", default="straight-outta-compton")
     render_parser.set_defaults(func=cmd_render)
+
+    study_parser = commands.add_parser(
+        "study", help="summarize forecasts across the full event catalog"
+    )
+    study_parser.set_defaults(func=cmd_study)
 
     build = commands.add_parser("build", help="fetch, analyze, and render one event")
     build.add_argument("--event", default="straight-outta-compton")

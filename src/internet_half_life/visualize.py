@@ -141,8 +141,9 @@ def render_event_atlas(
     }
     nx.draw_networkx_labels(graph, positions, labels=labels, font_size=8, ax=network_ax)
     edge_labels = {
-        (u, v): (f"+{data['lag']}d" if data["lag"] else "same day")
+        (u, v): f"+{data['lag']}d"
         for u, v, data in graph.edges(data=True)
+        if data["lag"]
     }
     nx.draw_networkx_edge_labels(
         graph,
@@ -154,6 +155,7 @@ def render_event_atlas(
         ax=network_ax,
     )
     network_ax.set_title("WHERE ATTENTION TRAVELLED", loc="left", fontsize=10, weight="bold")
+    network_ax.margins(0.2)
     network_ax.axis("off")
 
     primary = metrics.page(event.primary)

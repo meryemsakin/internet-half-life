@@ -1,0 +1,55 @@
+{
+  "catalog_events": 10,
+  "total_excess_views_60d": 96599209,
+  "weighted_spillover_share": 0.7751295251289273,
+  "median_event_spillover_share": 0.4149646531384091,
+  "highest_spillover_event": {
+    "slug": "barbenheimer",
+    "share": 0.9776566798022761
+  },
+  "multivariate_vs_univariate": {
+    "multivariate_wins": 6,
+    "univariate_wins": 4,
+    "ties": 0,
+    "median_wape_difference": -0.0035129074993113657,
+    "mean_wape_difference": -1.1989182353861416,
+    "exact_sign_test_p_value": 0.75390625,
+    "exact_sign_flip_mean_p_value": 0.353515625
+  },
+  "decay_beats_both_timesfm_events": [
+    "straight-outta-compton",
+    "chatgpt-launch",
+    "ever-given",
+    "gta-vi-trailer",
+    "inside-out-2"
+  ],
+  "median_event_wape": {
+    "timesfm-multivariate": 0.2612422742179984,
+    "timesfm-univariate": 0.2861972652723497,
+    "exponential-decay": 0.471846405836831,
+    "power-law-decay": 0.43927738908340874,
+    "seasonal-naive": 5.008237373980527
+  },
+  "interval_diagnostics": {
+    "multivariate": {
+      "mean_event_coverage": 0.8893333333333333,
+      "coverage_range": [
+        0.5733333333333334,
+        1.0
+      ],
+      "events_at_or_above_80_percent": 8,
+      "median_relative_interval_width": 2.25951302895427,
+      "maximum_relative_interval_width": 13.852994689466485
+    },
+    "univariate": {
+      "mean_event_coverage": 0.8809523809523808,
+      "coverage_range": [
+        0.6866666666666666,
+        1.0
+      ],
+      "events_at_or_above_80_percent": 9,
+      "median_relative_interval_width": 2.040330164296455,
+      "maximum_relative_interval_width": 59.239942986299916
+    }
+  }
+}

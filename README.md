@@ -239,7 +239,6 @@ src/internet_half_life/forecasting.py TimesFM and decay baselines
 src/internet_half_life/study.py       paired cross-event evaluation
 src/internet_half_life/visualize.py   publication-ready figures
 results/                              checked-in aggregate results
-article/medium-tr.md                  Turkish article draft
 tests/                                deterministic unit tests
 ```
 

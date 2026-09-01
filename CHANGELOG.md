@@ -12,6 +12,10 @@ All notable changes to this project are documented here. The format follows
 - An exact pre/post comparison around TimesFM-3's published November 2023
   Wikipedia Pageviews training cutoff.
 
+### Removed
+
+- The Turkish publication draft, keeping editorial work outside the code repository.
+
 ## [0.2.0] - 2026-09-01
 
 ### Added

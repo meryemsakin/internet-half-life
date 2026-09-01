@@ -1,5 +1,9 @@
 # Internet Half-Life
 
+[![tests](https://github.com/meryemsakin/internet-half-life/actions/workflows/ci.yml/badge.svg)](https://github.com/meryemsakin/internet-half-life/actions/workflows/ci.yml)
+[![Python 3.10–3.13](https://img.shields.io/badge/python-3.10%E2%80%933.13-3776AB)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 **How many days does it take the internet to forget something?**
 
 Internet Half-Life is a small data atlas of cultural events as seen through

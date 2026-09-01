@@ -42,6 +42,79 @@ def seasonal_naive(
     return np.stack([tail[:, step % period] for step in range(horizon)], axis=1)
 
 
+def _pre_event_baselines(
+    context: pd.DataFrame,
+    event: Event,
+    days: int = 28,
+) -> np.ndarray:
+    event_day = pd.Timestamp(event.date)
+    pre_event = context.loc[
+        event_day - pd.Timedelta(days=days) : event_day - pd.Timedelta(days=1),
+        event.articles,
+    ]
+    if len(pre_event) < days:
+        raise ValueError(
+            f"decay baselines need {days} pre-event days; found {len(pre_event)}"
+        )
+    return np.maximum(pre_event.median().to_numpy(dtype=float), 1.0)
+
+
+def parametric_decay(
+    context: pd.DataFrame,
+    event: Event,
+    horizon: int,
+    kind: str,
+    baseline_days: int = 28,
+) -> np.ndarray:
+    """Fit a two-parameter decay curve to each page's revealed excess traffic.
+
+    The ordinary-day level is fixed to the median of the 28 days before the
+    event. The two fitted parameters are the spike amplitude and decay rate.
+    Only observations from the revealed peak onward are used, so the curve is
+    a deliberately simple null model for post-spike attention decay.
+    """
+    if kind not in {"exponential", "power-law"}:
+        raise ValueError("kind must be 'exponential' or 'power-law'")
+
+    event_day = pd.Timestamp(event.date)
+    revealed = context.loc[event_day:, event.articles]
+    if revealed.empty:
+        raise ValueError("no revealed post-event observations for decay fit")
+    baselines = _pre_event_baselines(context, event, baseline_days)
+    predictions = np.empty((len(event.articles), horizon), dtype=float)
+
+    for article_index, article in enumerate(event.articles):
+        values = revealed[article].to_numpy(dtype=float)
+        peak_index = int(np.argmax(values))
+        excess = np.maximum(values[peak_index:] - baselines[article_index], 1.0)
+        elapsed = np.arange(len(excess), dtype=float)
+
+        if len(excess) >= 2:
+            if kind == "exponential":
+                transformed_time = elapsed
+            else:
+                transformed_time = np.log1p(elapsed)
+            slope, intercept = np.polyfit(transformed_time, np.log(excess), 1)
+            slope = min(float(slope), 0.0)
+            intercept = float(intercept)
+        else:
+            slope = 0.0
+            intercept = float(np.log(excess[0]))
+
+        future_elapsed = np.arange(
+            len(excess), len(excess) + horizon, dtype=float
+        )
+        if kind == "exponential":
+            future_time = future_elapsed
+        else:
+            future_time = np.log1p(future_elapsed)
+        predictions[article_index] = (
+            baselines[article_index] + np.exp(intercept + slope * future_time)
+        )
+
+    return predictions
+
+
 class TimesFMBackend:
     """Lazy TimesFM wrapper so the rest of the project stays lightweight."""
 
@@ -126,21 +199,46 @@ def forecast_event(
     horizon: int = 30,
     context_days: int = 512,
     device: str | None = None,
+    backend: TimesFMBackend | None = None,
 ) -> pd.DataFrame:
-    """Compare multivariate TimesFM-3, univariate TimesFM-3, and weekly naive."""
+    """Compare TimesFM-3 with explicit post-spike attention-decay baselines."""
     context, truth = _forecast_window(
         frame, event, reveal_days, horizon, context_days
     )
     matrix = context[event.articles].to_numpy(dtype=float).T
-    backend = TimesFMBackend(device=device)
+    backend = backend or TimesFMBackend(device=device)
     outputs = []
 
-    for univariate, mode in ((False, "timesfm-multivariate"), (True, "timesfm-univariate")):
+    for univariate, mode in (
+        (False, "timesfm-multivariate"),
+        (True, "timesfm-univariate"),
+    ):
         point, low, high = backend.predict(matrix, horizon, univariate=univariate)
         outputs.append(_long_forecast(event, truth, point, low, high, mode))
 
+    missing_interval = np.full((len(event.articles), horizon), np.nan)
+    for kind, mode in (
+        ("exponential", "exponential-decay"),
+        ("power-law", "power-law-decay"),
+    ):
+        point = parametric_decay(context, event, horizon, kind=kind)
+        outputs.append(
+            _long_forecast(
+                event, truth, point, missing_interval, missing_interval, mode
+            )
+        )
+
     naive = seasonal_naive(context[event.articles], horizon)
-    outputs.append(_long_forecast(event, truth, naive, naive, naive, "seasonal-naive"))
+    outputs.append(
+        _long_forecast(
+            event,
+            truth,
+            naive,
+            missing_interval,
+            missing_interval,
+            "seasonal-naive",
+        )
+    )
     return pd.concat(outputs, ignore_index=True)
 
 
@@ -157,20 +255,44 @@ def save_forecast(
 
 
 def forecast_scores(forecast: pd.DataFrame) -> pd.DataFrame:
-    """Return per-mode errors normalized by each page's mean actual traffic."""
+    """Return point errors and interval diagnostics for each forecast mode."""
     rows = []
     for mode, group in forecast.groupby("mode", sort=False):
         absolute_error = (group["forecast"] - group["actual"]).abs()
         denominator = group["actual"].abs().sum()
+        interval_rows = group[
+            group["q10"].notna()
+            & group["q90"].notna()
+            & np.isfinite(group["q10"])
+            & np.isfinite(group["q90"])
+            & (group["q90"] >= group["q10"])
+        ]
+        if interval_rows.empty:
+            coverage = np.nan
+            mean_width = np.nan
+            relative_width = np.nan
+        else:
+            widths = interval_rows["q90"] - interval_rows["q10"]
+            actual_scale = interval_rows["actual"].abs().mean()
+            coverage = float(
+                (
+                    (interval_rows["actual"] >= interval_rows["q10"])
+                    & (interval_rows["actual"] <= interval_rows["q90"])
+                ).mean()
+            )
+            mean_width = float(widths.mean())
+            relative_width = (
+                float(mean_width / actual_scale) if actual_scale else np.nan
+            )
         rows.append(
             {
                 "mode": mode,
                 "wape": float(absolute_error.sum() / denominator) if denominator else np.nan,
                 "median_absolute_error": float(absolute_error.median()),
-                "interval_coverage": float(
-                    ((group["actual"] >= group["q10"]) & (group["actual"] <= group["q90"])).mean()
-                ),
+                "interval_coverage": coverage,
+                "mean_interval_width": mean_width,
+                "relative_interval_width": relative_width,
+                "interval_observations": len(interval_rows),
             }
         )
     return pd.DataFrame(rows)
-

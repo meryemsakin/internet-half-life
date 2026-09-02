@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "internet-half-life"
 version = "0.2.0"
-description = "An atlas of how Wikipedia attention spreads, fades, and returns."
+description = "An atlas of how Wikipedia attention rises, fades, and returns."
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
 license = { text = "MIT" }

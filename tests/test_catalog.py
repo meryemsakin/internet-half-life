@@ -22,7 +22,7 @@ def test_catalog_spans_the_training_cutoff():
     """Both sides of TimesFM's November 2023 pageview cutoff must stay populated.
 
     The contamination check in study.py compares events the model may have been
-    trained on against events it cannot have seen. If the catalog ever drifts to
+    trained on against events outside the stated Pageviews window. If the catalog ever drifts to
     one side of that date the comparison silently stops meaning anything, so it
     is asserted here rather than discovered in a result table.
     """

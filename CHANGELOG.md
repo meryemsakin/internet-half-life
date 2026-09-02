@@ -15,11 +15,25 @@ All notable changes to this project are documented here. The format follows
 - Fourteen-day related-page peak offsets and a catalog-level timing figure.
 - Sensitivity checks for the pre-event window and zero-traffic baseline floor.
 - Median page-level WAPE as a robustness check on pooled event-level error.
+- Constellation-level half-lives and day-53–59 retained attention, with a
+  per-event figure and 7/14/21-day peak-window sensitivity.
+- Event-level median peak-offset sign test, respecting within-event clustering.
+- Full source CSVs, saved forecasts, page metrics, a SHA-256 snapshot manifest,
+  and offline regression checks linking published results to those inputs.
+- Page-level error contributions identifying the Ever Given overprediction.
+- Literature references and explicit data/provenance and model-output terms.
 
 ### Changed
 
 - Reframed outside-page attention as a descriptive property of the manually
   curated constellations, not evidence of page-to-page diffusion.
+- Restricted descriptive peak search to event days 0–13 rather than the whole
+  60-day window. Later surges no longer replace the initial peak. This changes
+  affected page half-lives but not the recorded model forecasts.
+- Separated no-excess and unobserved half-lives from observed crossings; neither
+  is displayed as zero or as an invented 60-day observation.
+- Fixed the forecast renderer to support the flat baseline and removed
+  page-to-page travel language from the descriptive network figure.
 
 ### Removed
 

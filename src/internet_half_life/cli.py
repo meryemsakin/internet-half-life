@@ -12,7 +12,10 @@ from .catalog import PROJECT_ROOT, Event, get_event, load_catalog
 from .forecasting import TimesFMBackend, forecast_event, forecast_scores, save_forecast
 from .metrics import analyze_event, load_metrics, save_metrics
 from .study import (
+    DEFAULT_RESULTS,
     collect_catalog_study,
+    collect_forecast_errors,
+    collect_page_half_lives,
     collect_peak_offsets,
     render_catalog_study,
     save_catalog_study,
@@ -35,7 +38,7 @@ def _print_metrics(metrics) -> None:
     print(f"{'page':24} {'peak':>8} {'lift':>9} {'half-life':>11}")
     print("-" * 56)
     for page in sorted(metrics.pages, key=lambda item: item.excess_views_60d, reverse=True):
-        half_life = f"{page.half_life_days}d" if page.half_life_days is not None else "60+d"
+        half_life = f"{page.half_life_days}d" if page.half_life_days is not None else page.half_life_status.replace("_", " ")
         print(f"{page.label[:24]:24} {page.peak_offset_days:>+7}d {page.peak_lift:>8.1f}x {half_life:>11}")
 
 
@@ -108,8 +111,19 @@ def cmd_study(_: argparse.Namespace) -> None:
     study = collect_catalog_study()
     peak_offsets = collect_peak_offsets()
     summary = summarize_catalog_study(study)
+    pages = collect_page_half_lives()
+    observed = pages.loc[pages["half_life_status"] == "observed", "half_life_days"]
+    summary["page_half_lives"] = {
+        "pages": len(pages),
+        "observed": len(observed),
+        "no_excess": int((pages["half_life_status"] == "no_excess").sum()),
+        "not_observed": int((pages["half_life_status"] == "not_observed").sum()),
+        "median_days_among_observed": float(observed.median()) if len(observed) else None,
+    }
     table_path, summary_path = save_catalog_study(study, summary)
     peak_path = save_peak_offsets(peak_offsets)
+    pages.to_csv(DEFAULT_RESULTS / "page-half-lives.csv", index=False)
+    collect_forecast_errors().to_csv(DEFAULT_RESULTS / "forecast-error-breakdown.csv", index=False)
     figures = render_catalog_study(study, peak_offsets=peak_offsets)
     comparison = summary["multivariate_vs_univariate"]
     print(
@@ -124,6 +138,8 @@ def cmd_study(_: argparse.Namespace) -> None:
     print(f"table -> {table_path.relative_to(PROJECT_ROOT)}")
     print(f"summary -> {summary_path.relative_to(PROJECT_ROOT)}")
     print(f"peak offsets -> {peak_path.relative_to(PROJECT_ROOT)}")
+    decay = summary["constellation_decay"]
+    print(f"median constellation half-life: {decay['median_half_life_days']:g} days")
     for path in figures:
         print(f"figure -> {path.relative_to(PROJECT_ROOT)}")
 
@@ -146,7 +162,7 @@ def cmd_build(args: argparse.Namespace) -> None:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="internet-half-life",
-        description="Measure and forecast how Wikipedia attention spreads and fades.",
+        description="Measure and forecast how Wikipedia attention rises, fades, and returns.",
     )
     commands = parser.add_subparsers(dest="command", required=True)
 

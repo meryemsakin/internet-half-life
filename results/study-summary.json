@@ -30,7 +30,63 @@
   "peak_timing_14d": {
     "after": 11,
     "same_day": 35,
-    "before": 19
+    "before": 19,
+    "event_medians": {
+      "events": 16,
+      "after": 2,
+      "same_day": 10,
+      "before": 4,
+      "exact_sign_test_p_value": 0.6875
+    }
+  },
+  "constellation_decay": {
+    "peak_window_days": 14,
+    "sustained_days": 3,
+    "late_window_event_day_offsets": [
+      53,
+      59
+    ],
+    "observed_events": 16,
+    "not_observed_events": [],
+    "no_excess_events": [],
+    "median_half_life_days": 2.0,
+    "half_life_iqr_days": [
+      1.0,
+      4.5
+    ],
+    "half_life_range_days": [
+      1.0,
+      11.0
+    ],
+    "median_last_week_retained_peak_share": 0.0030376116785521177,
+    "last_week_below_1pct_events": 12,
+    "last_week_below_5pct_events": 14,
+    "last_week_above_initial_peak_events": [
+      "chatgpt-launch"
+    ]
+  },
+  "decay_forecast_family_comparison": {
+    "exponential_wins": 9,
+    "power_law_wins": 6,
+    "ties": 1,
+    "interpretation": "forecast comparison after eight revealed days, not a test of a universal decay law"
+  },
+  "peak_window_sensitivity": {
+    "7": {
+      "median_system_half_life_days": 2.0,
+      "not_observed_or_no_excess_events": 1,
+      "last_week_below_1pct_events": 12
+    },
+    "14": {
+      "median_system_half_life_days": 2.0,
+      "not_observed_or_no_excess_events": 0,
+      "last_week_below_1pct_events": 12
+    },
+    "21": {
+      "median_system_half_life_days": 2.0,
+      "not_observed_or_no_excess_events": 0,
+      "last_week_below_1pct_events": 12
+    }
   },
   "baseline_floor_sensitivity": {
     "1": {
@@ -142,5 +198,12 @@
     },
     "median_difference": -0.20603170752727318,
     "permutation_p_value": 0.46678321678321677
+  },
+  "page_half_lives": {
+    "pages": 81,
+    "observed": 80,
+    "no_excess": 1,
+    "not_observed": 0,
+    "median_days_among_observed": 2.0
   }
 }

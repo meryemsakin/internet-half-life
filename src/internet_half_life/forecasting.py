@@ -335,3 +335,28 @@ def forecast_scores(forecast: pd.DataFrame) -> pd.DataFrame:
             }
         )
     return pd.DataFrame(rows)
+
+
+def forecast_error_breakdown(forecast: pd.DataFrame) -> pd.DataFrame:
+    """Expose each page's denominator and contribution to pooled model error."""
+    rows = []
+    for mode, group in forecast.groupby("mode", sort=False):
+        group = group.copy()
+        group["absolute_error"] = (group["forecast"] - group["actual"]).abs()
+        total_error = float(group["absolute_error"].sum())
+        for article, page in group.groupby("article", sort=False):
+            denominator = float(page["actual"].abs().sum())
+            error = float(page["absolute_error"].sum())
+            worst = page.loc[page["absolute_error"].idxmax()]
+            rows.append({
+                "mode": mode,
+                "article": article,
+                "actual_total": denominator,
+                "absolute_error_total": error,
+                "page_wape": error / denominator if denominator else np.nan,
+                "share_of_mode_absolute_error": error / total_error if total_error else 0.0,
+                "worst_error_date": worst["date"],
+                "worst_error_actual": float(worst["actual"]),
+                "worst_error_forecast": float(worst["forecast"]),
+            })
+    return pd.DataFrame(rows)

@@ -10,6 +10,7 @@ from internet_half_life.study import (
     exact_sign_flip_test,
     exact_sign_test,
     peak_offset_table,
+    summarize_peak_timing,
 )
 
 
@@ -17,6 +18,22 @@ def test_exact_sign_test_is_two_sided():
     assert exact_sign_test(5, 0) == 0.0625
     assert exact_sign_test(3, 2) == 1.0
     assert exact_sign_test(0, 0) == 1.0
+    assert exact_sign_test(2, 4) == .6875
+
+
+def test_peak_test_weights_events_equally_not_their_page_counts():
+    frame = pd.DataFrame({
+        "median_related_peak_offset_14d": [2, -1, 0],
+        "related_peaks_after_primary_14d": [20, 0, 0],
+        "related_peaks_before_primary_14d": [0, 3, 0],
+        "related_peaks_with_primary_14d": [0, 0, 5],
+    })
+    summary = summarize_peak_timing(frame)
+    assert summary["after"] == 20
+    assert summary["event_medians"] == {
+        "events": 3, "after": 1, "before": 1, "same_day": 1,
+        "exact_sign_test_p_value": 1.0,
+    }
 
 
 def test_exact_sign_flip_test_finds_a_consistent_direction():

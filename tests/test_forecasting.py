@@ -6,6 +6,7 @@ import pandas as pd
 from internet_half_life.catalog import Event, Page
 from internet_half_life.forecasting import (
     flat_baseline,
+    forecast_error_breakdown,
     forecast_scores,
     parametric_decay,
     seasonal_naive,
@@ -60,6 +61,23 @@ def test_forecast_scores_are_aggregated_by_mode():
     assert scores.loc["bad", "interval_coverage"] == 0
     assert np.isclose(scores.loc["good", "mean_interval_width"], 3.5)
     assert np.isclose(scores.loc["good", "median_page_wape"], 2 / 30)
+
+
+def test_error_breakdown_exposes_denominators_and_error_shares():
+    frame = pd.DataFrame({
+        "date": ["2024-01-01", "2024-01-02", "2024-01-01"],
+        "article": ["large", "large", "small"],
+        "mode": ["test"] * 3,
+        "actual": [100, 100, 1],
+        "forecast": [200, 400, 1],
+    })
+    result = forecast_error_breakdown(frame).set_index("article")
+    assert result.loc["large", "actual_total"] == 200
+    assert result.loc["large", "absolute_error_total"] == 400
+    assert result.loc["large", "page_wape"] == 2
+    assert result.loc["large", "share_of_mode_absolute_error"] == 1
+    assert result.loc["large", "worst_error_date"] == "2024-01-02"
+    assert result.loc["small", "page_wape"] == 0
 
 
 def test_forecast_scores_leave_missing_intervals_unscored():

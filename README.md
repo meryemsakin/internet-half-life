@@ -6,26 +6,36 @@
 
 **How many days does it take the internet to forget something?**
 
-The first answer is that it often does something else: it disperses.
+The first problem is deciding what "something" is. An internet event rarely
+lives in one time series.
 
 Internet Half-Life follows sixteen cultural events through constellations of
 related English Wikipedia pages. Across this deliberately selected catalog,
-the pages received **176.4 million views above their ordinary-day baselines** in
-the first 60 days. A traffic-weighted **69.4% of that excess landed outside the
-page chosen to represent the event**.
+the pages received **176.4 million views above their ordinary-day baselines**
+in the first 60 days. For the median event, **53.2% of that excess sat outside
+the page chosen to represent the event**. Traffic-weighted across the full
+catalog, the share was 69.4%.
 
-The weighting matters. Weighted by traffic the figure is 69.4%, but the median
-event disperses **53.2%**, and the range across events runs from 18.3% to
-97.8%. Dispersal is the rule; how much of it happens is not a constant.
+Those are properties of the constellations in this repository, not estimates
+for the internet as a whole. The events and their four to six related pages
+were chosen manually. Adding another related page can only increase the amount
+of attention counted outside the primary page.
 
-For Barbenheimer, the share was **97.8%**. People did not stay on the page for
-the portmanteau. They moved toward the films, actors, J. Robert Oppenheimer,
-and the Manhattan Project.
+For Barbenheimer, the share was **97.8%**: most traffic in its chosen seven-page
+constellation landed on the films, actors, J. Robert Oppenheimer, and the
+Manhattan Project rather than on the portmanteau's own page.
 
 ![The Barbenheimer attention atlas](figures/barbenheimer-atlas.png)
 
-This repository makes that dispersal visible, measures how it fades, and then
-asks a harder question: can TimesFM-3 predict it?
+The timing check changed the interpretation. Within the first fourteen days,
+35 of 65 related pages peaked on the same day as the primary page, 19 peaked
+before it, and only 11 after it. The data do not show attention flowing outward
+from a primary page. They show an event appearing across several pages at once.
+
+![Peak timing of related pages](figures/peak-offsets.png)
+
+This repository makes that distributed attention visible, measures how its
+parts fade, and then asks whether TimesFM-3 can forecast them together.
 
 ## What the atlas measures
 
@@ -39,17 +49,28 @@ calculates:
   use a logarithmic scale so a new or previously dormant page does not flatten
   every other series.
 - **Attention half-life:** the first day after the peak when excess traffic
-  stays below half its peak excess for three consecutive days.
+  stays below half its peak excess for three consecutive days. This is an
+  empirical threshold, not an assumption that attention decays exponentially.
 - **Spillover:** the share of 60-day excess traffic outside the primary page.
 - **Lead/lag co-movement:** the strongest timing relationships between pages.
   These edges are descriptive, never causal.
+- **Peak timing:** the peak day of each related page minus the primary page's
+  peak day, restricted to the first fourteen days after the event.
 
 ![Spillover across the sixteen selected events](figures/catalog-spillover.png)
 
 The catalog is small on purpose. Its sixteen events were hand-picked because
 they produced visible attention shocks; it is an atlas of interesting cases,
-not a representative sample of everything that happened online. The **69.4%**
-result is conditional on those event and page choices.
+not a representative sample of everything that happened online.
+
+Two sensitivity checks bound the baseline choices. Raising the minimum
+ordinary-day level from 1 to 5 or 10 views leaves both the median and
+traffic-weighted outside-page shares unchanged to three decimals. Changing the
+pre-event window from 14 to 28 to 56 days moves the median event share from
+53.3% to 53.2% to 52.3%; the traffic-weighted share moves from 67.3% to 69.4%
+to 70.0%. The share is stable, although the absolute amount of excess traffic
+is not. Scheduled events can have promotion traffic inside any pre-event
+window, so their excess totals should be read as baseline-dependent.
 
 ## The forecasting test
 
@@ -60,17 +81,19 @@ constellation part of the experiment rather than decoration:
 > After observing the event day and the following seven days, do related pages
 > help forecast the next 30 days?
 
-Every event uses the same cutoff and is forecast five ways:
+Every event uses the same cutoff and is forecast six ways:
 
 1. TimesFM-3 with all pages modeled jointly.
 2. TimesFM-3 with each page modeled independently.
 3. A two-parameter exponential decay fitted after the revealed peak.
 4. A two-parameter power-law decay fitted after the revealed peak.
-5. A weekly seasonal-naive forecast.
+5. A zero-parameter forecast that returns immediately to the pre-event median.
+6. A weekly seasonal-naive forecast.
 
-The decay curves share the same fixed 28-day median baseline used by the atlas.
-They are the obvious null models for a project about fading attention; the
-weekly naive remains as a deliberately simple seasonal reference.
+The decay curves and flat forecast share the same fixed 28-day median baseline
+used by the atlas. They are the relevant null models for fading attention. The
+weekly naive remains only as a sanity check because repeating a spike week is a
+deliberately weak opponent.
 
 ### What happened across all sixteen events
 
@@ -78,9 +101,18 @@ weekly naive remains as a deliberately simple seasonal reference.
 |---|---:|
 | TimesFM-3 multivariate | **0.294** |
 | TimesFM-3 univariate | 0.332 |
-| exponential decay | 0.502 |
 | power-law decay | 0.467 |
-| weekly naive | 2.902 |
+| exponential decay | 0.502 |
+| flat pre-event median | 0.725 |
+
+The weekly naive scored 2.902 and is kept in the machine-readable results as a
+sanity check, not displayed as a serious competitor.
+
+WAPE here pools absolute error across every page and forecast day, then divides
+by total actual traffic. Higher-traffic pages therefore carry more weight. A
+second calculation takes the median page-level WAPE within each event; it
+preserves the same practical conclusion, with a multivariate-minus-univariate
+median difference of −0.006 instead of −0.008.
 
 The median alone makes the multivariate model look convincing. The paired
 event-level result does not. Multivariate TimesFM won ten events and lost six;
@@ -103,6 +135,10 @@ the two parametric decay curves beat both TimesFM modes. On Straight Outta Compt
 for example, power-law decay scored **0.234 WAPE**, versus **0.248** for
 multivariate TimesFM. A 330M-parameter foundation model can still lose to a
 two-parameter description of the process being forecast.
+
+The flat pre-event median beat both TimesFM modes on only **one of sixteen**
+events and was never the best method overall. The forecast window is not solved
+merely by predicting that the spike is already over.
 
 ![Forecast model comparison](figures/forecast-model-comparison.png)
 
@@ -159,8 +195,9 @@ forecast, both should degrade and the ratio may be more stable than raw error.
 | after the cutoff | 9 | 0.418 | **0.943** |
 
 On events it may have seen, TimesFM beats a two-parameter decay curve by 26%.
-On events it cannot have seen, the margin falls to 6%. The direction is exactly
-what contamination would produce.
+On events it cannot have seen, the margin falls to 6%. That direction is
+consistent with a temporal-exposure advantage, but it is also consistent with
+event-type imbalance and distribution shift.
 
 It is also not significant. An exact two-sided permutation test on the
 difference of medians gives **p = 0.47**. Sixteen hand-picked events cannot
@@ -209,11 +246,8 @@ mistaking them for zero traffic.
 internet-half-life list
 ```
 
-The included universes are Barbenheimer, Straight Outta Compton, ChatGPT's
-launch, James Webb's first images, Ever Given, the 2022 World Cup final,
-Chandrayaan-3, the first GTA VI trailer, the 2024 total solar eclipse, and
-Inside Out 2. Add another by editing [`catalog/events.json`](catalog/events.json);
-the analysis code does not need to change.
+The full sixteen-event catalog is in [`catalog/events.json`](catalog/events.json).
+Add another event there; the analysis code does not need to change.
 
 ## Interpretation and licensing
 

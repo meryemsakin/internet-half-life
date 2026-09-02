@@ -11,6 +11,15 @@ All notable changes to this project are documented here. The format follows
 - Six post-cutoff cultural events, expanding the catalog to sixteen cases.
 - An exact pre/post comparison around TimesFM-3's published November 2023
   Wikipedia Pageviews training cutoff.
+- A zero-parameter return-to-baseline forecast.
+- Fourteen-day related-page peak offsets and a catalog-level timing figure.
+- Sensitivity checks for the pre-event window and zero-traffic baseline floor.
+- Median page-level WAPE as a robustness check on pooled event-level error.
+
+### Changed
+
+- Reframed outside-page attention as a descriptive property of the manually
+  curated constellations, not evidence of page-to-page diffusion.
 
 ### Removed
 

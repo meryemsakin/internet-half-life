@@ -1,0 +1,142 @@
+{
+  "slug": "us-election-2024",
+  "title": "The 2024 United States presidential election",
+  "event_date": "2024-11-05",
+  "primary": "2024_United_States_presidential_election",
+  "total_excess_views_60d": 21130998,
+  "spillover_share": 0.540758226374353,
+  "pages": [
+    {
+      "article": "2024_United_States_presidential_election",
+      "label": "2024 election",
+      "role": "event",
+      "baseline_views": 99760.0,
+      "peak_date": "2024-11-06",
+      "peak_offset_days": 1,
+      "peak_views": 4260085,
+      "peak_lift": 42.70333801122695,
+      "half_life_days": 1,
+      "excess_views_60d": 9704237,
+      "first_week_share": 0.8622650085730593,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Donald_Trump",
+      "label": "Donald Trump",
+      "role": "person",
+      "baseline_views": 61280.5,
+      "peak_date": "2024-11-06",
+      "peak_offset_days": 1,
+      "peak_views": 2782082,
+      "peak_lift": 45.39914002007164,
+      "half_life_days": 1,
+      "excess_views_60d": 6051466,
+      "first_week_share": 0.8409082195950535,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Kamala_Harris",
+      "label": "Kamala Harris",
+      "role": "person",
+      "baseline_views": 92845.5,
+      "peak_date": "2024-11-06",
+      "peak_offset_days": 1,
+      "peak_views": 1485955,
+      "peak_lift": 16.004599038187095,
+      "half_life_days": 1,
+      "excess_views_60d": 2453694,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "JD_Vance",
+      "label": "JD Vance",
+      "role": "person",
+      "baseline_views": 25820.0,
+      "peak_date": "2024-11-06",
+      "peak_offset_days": 1,
+      "peak_views": 1021207,
+      "peak_lift": 39.551006971340044,
+      "half_life_days": 1,
+      "excess_views_60d": 2536690,
+      "first_week_share": 0.8749188903650033,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Tim_Walz",
+      "label": "Tim Walz",
+      "role": "person",
+      "baseline_views": 16093.0,
+      "peak_date": "2024-11-06",
+      "peak_offset_days": 1,
+      "peak_views": 225994,
+      "peak_lift": 14.043000062138818,
+      "half_life_days": 1,
+      "excess_views_60d": 384911,
+      "first_week_share": 0.9971733725458612,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kamala_Harris",
+      "target": "Tim_Walz",
+      "lag_days": 0,
+      "correlation": 0.988742334721314
+    },
+    {
+      "source": "Donald_Trump",
+      "target": "JD_Vance",
+      "lag_days": 0,
+      "correlation": 0.9794947586943896
+    },
+    {
+      "source": "2024_United_States_presidential_election",
+      "target": "Donald_Trump",
+      "lag_days": 0,
+      "correlation": 0.9677138238950518
+    },
+    {
+      "source": "2024_United_States_presidential_election",
+      "target": "JD_Vance",
+      "lag_days": 0,
+      "correlation": 0.9586897029407362
+    },
+    {
+      "source": "2024_United_States_presidential_election",
+      "target": "Tim_Walz",
+      "lag_days": 0,
+      "correlation": 0.9486777076917567
+    },
+    {
+      "source": "2024_United_States_presidential_election",
+      "target": "Kamala_Harris",
+      "lag_days": 0,
+      "correlation": 0.9403425599364046
+    },
+    {
+      "source": "Kamala_Harris",
+      "target": "JD_Vance",
+      "lag_days": 1,
+      "correlation": 0.921494783945302
+    },
+    {
+      "source": "Tim_Walz",
+      "target": "JD_Vance",
+      "lag_days": 1,
+      "correlation": 0.9180479012460946
+    },
+    {
+      "source": "Donald_Trump",
+      "target": "Tim_Walz",
+      "lag_days": 0,
+      "correlation": 0.9033243663302877
+    },
+    {
+      "source": "Kamala_Harris",
+      "target": "Donald_Trump",
+      "lag_days": 1,
+      "correlation": 0.8919075608824564
+    }
+  ]
+}

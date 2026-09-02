@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2022-12-08,ChatGPT,ChatGPT,event,timesfm-multivariate,75917.0,76157.78125,31395.220703125,110949.8125
+2022-12-09,ChatGPT,ChatGPT,event,timesfm-multivariate,75277.0,87251.609375,28170.099609375,143062.171875
+2022-12-10,ChatGPT,ChatGPT,event,timesfm-multivariate,56528.0,86936.046875,19746.685546875,169649.078125
+2022-12-11,ChatGPT,ChatGPT,event,timesfm-multivariate,68069.0,84003.828125,13698.3896484375,190705.5625
+2022-12-12,ChatGPT,ChatGPT,event,timesfm-multivariate,84582.0,76346.21875,748.56884765625,219492.796875
+2022-12-13,ChatGPT,ChatGPT,event,timesfm-multivariate,123453.0,69134.5625,0.0,235918.953125
+2022-12-14,ChatGPT,ChatGPT,event,timesfm-multivariate,121869.0,58044.22265625,0.0,244987.3125
+2022-12-15,ChatGPT,ChatGPT,event,timesfm-multivariate,96276.0,57677.390625,0.0,267367.53125
+2022-12-16,ChatGPT,ChatGPT,event,timesfm-multivariate,92980.0,47251.15625,0.0,274214.1875
+2022-12-17,ChatGPT,ChatGPT,event,timesfm-multivariate,52496.0,43423.578125,0.0,287457.375
+2022-12-18,ChatGPT,ChatGPT,event,timesfm-multivariate,53625.0,38780.0390625,0.0,290780.84375
+2022-12-19,ChatGPT,ChatGPT,event,timesfm-multivariate,92800.0,34155.24609375,0.0,289333.03125
+2022-12-20,ChatGPT,ChatGPT,event,timesfm-multivariate,90633.0,30074.908203125,0.0,291039.90625
+2022-12-21,ChatGPT,ChatGPT,event,timesfm-multivariate,65078.0,28348.1953125,0.0,288972.5
+2022-12-22,ChatGPT,ChatGPT,event,timesfm-multivariate,70794.0,26482.8984375,0.0,293135.90625
+2022-12-23,ChatGPT,ChatGPT,event,timesfm-multivariate,67808.0,25160.84765625,0.0,294020.53125
+2022-12-24,ChatGPT,ChatGPT,event,timesfm-multivariate,52901.0,24906.751953125,0.0,304116.40625
+2022-12-25,ChatGPT,ChatGPT,event,timesfm-multivariate,50022.0,22857.875,0.0,310323.125
+2022-12-26,ChatGPT,ChatGPT,event,timesfm-multivariate,55715.0,21890.140625,0.0,314970.1875
+2022-12-27,ChatGPT,ChatGPT,event,timesfm-multivariate,65111.0,20364.30859375,0.0,321115.15625
+2022-12-28,ChatGPT,ChatGPT,event,timesfm-multivariate,65163.0,17975.84765625,0.0,322513.125
+2022-12-29,ChatGPT,ChatGPT,event,timesfm-multivariate,94381.0,15552.8134765625,0.0,325714.8125
+2022-12-30,ChatGPT,ChatGPT,event,timesfm-multivariate,77949.0,13905.2841796875,0.0,326038.625
+2022-12-31,ChatGPT,ChatGPT,event,timesfm-multivariate,50027.0,11363.955078125,0.0,323372.40625
+2023-01-01,ChatGPT,ChatGPT,event,timesfm-multivariate,53575.0,9943.8994140625,0.0,322797.03125
+2023-01-02,ChatGPT,ChatGPT,event,timesfm-multivariate,72838.0,8618.95703125,0.0,322864.03125
+2023-01-03,ChatGPT,ChatGPT,event,timesfm-multivariate,85588.0,8359.783203125,0.0,317293.5625
+2023-01-04,ChatGPT,ChatGPT,event,timesfm-multivariate,96031.0,7073.1728515625,0.0,312290.53125
+2023-01-05,ChatGPT,ChatGPT,event,timesfm-multivariate,112121.0,6292.31103515625,0.0,307549.0
+2023-01-06,ChatGPT,ChatGPT,event,timesfm-multivariate,115590.0,6149.51416015625,0.0,305186.75
+2022-12-08,OpenAI,OpenAI,organization,timesfm-multivariate,41134.0,40141.6015625,30904.08984375,45330.2109375
+2022-12-09,OpenAI,OpenAI,organization,timesfm-multivariate,39980.0,36293.08984375,21860.59765625,47819.3515625
+2022-12-10,OpenAI,OpenAI,organization,timesfm-multivariate,29946.0,31569.4453125,15058.7275390625,48489.80859375
+2022-12-11,OpenAI,OpenAI,organization,timesfm-multivariate,32350.0,26924.873046875,11680.0810546875,46098.6640625
+2022-12-12,OpenAI,OpenAI,organization,timesfm-multivariate,37930.0,25533.525390625,10567.3671875,48217.2578125
+2022-12-13,OpenAI,OpenAI,organization,timesfm-multivariate,34262.0,22953.416015625,8930.787109375,47018.80859375
+2022-12-14,OpenAI,OpenAI,organization,timesfm-multivariate,32774.0,20576.001953125,7546.25341796875,46445.05859375
+2022-12-15,OpenAI,OpenAI,organization,timesfm-multivariate,28762.0,18398.537109375,7026.75732421875,43061.91796875
+2022-12-16,OpenAI,OpenAI,organization,timesfm-multivariate,29090.0,15799.8115234375,5621.23876953125,39972.68359375
+2022-12-17,OpenAI,OpenAI,organization,timesfm-multivariate,21620.0,13669.568359375,4391.0732421875,37272.21875
+2022-12-18,OpenAI,OpenAI,organization,timesfm-multivariate,20406.0,12149.7958984375,3904.767333984375,36231.296875
+2022-12-19,OpenAI,OpenAI,organization,timesfm-multivariate,27200.0,11610.662109375,3775.263427734375,36349.625
+2022-12-20,OpenAI,OpenAI,organization,timesfm-multivariate,24908.0,10953.427734375,3595.28076171875,36266.328125
+2022-12-21,OpenAI,OpenAI,organization,timesfm-multivariate,24149.0,10187.421875,3868.7255859375,35093.66015625
+2022-12-22,OpenAI,OpenAI,organization,timesfm-multivariate,27358.0,9530.734375,4018.00048828125,33704.87890625
+2022-12-23,OpenAI,OpenAI,organization,timesfm-multivariate,25197.0,8520.357421875,3535.31494140625,31394.560546875
+2022-12-24,OpenAI,OpenAI,organization,timesfm-multivariate,19416.0,7448.74462890625,3195.6171875,28680.05859375
+2022-12-25,OpenAI,OpenAI,organization,timesfm-multivariate,18001.0,6495.2939453125,3064.94091796875,25935.6015625
+2022-12-26,OpenAI,OpenAI,organization,timesfm-multivariate,20332.0,6924.484375,2814.405029296875,26126.685546875
+2022-12-27,OpenAI,OpenAI,organization,timesfm-multivariate,20488.0,6764.4189453125,2940.99853515625,25277.46875
+2022-12-28,OpenAI,OpenAI,organization,timesfm-multivariate,23824.0,6696.53662109375,2835.2470703125,24606.26953125
+2022-12-29,OpenAI,OpenAI,organization,timesfm-multivariate,24347.0,6539.2646484375,2983.0888671875,24006.310546875
+2022-12-30,OpenAI,OpenAI,organization,timesfm-multivariate,21487.0,5752.09375,2606.0517578125,22637.671875
+2022-12-31,OpenAI,OpenAI,organization,timesfm-multivariate,15724.0,5163.90234375,2008.029052734375,21480.66796875
+2023-01-01,OpenAI,OpenAI,organization,timesfm-multivariate,15876.0,4889.4013671875,1874.1131591796875,21034.912109375
+2023-01-02,OpenAI,OpenAI,organization,timesfm-multivariate,21233.0,5052.6513671875,1866.66748046875,21425.1328125
+2023-01-03,OpenAI,OpenAI,organization,timesfm-multivariate,25434.0,5065.5185546875,2028.1048583984375,21041.6796875
+2023-01-04,OpenAI,OpenAI,organization,timesfm-multivariate,28973.0,5250.32470703125,2254.04296875,21108.060546875
+2023-01-05,OpenAI,OpenAI,organization,timesfm-multivariate,35153.0,5545.25,2888.781982421875,21039.37890625
+2023-01-06,OpenAI,OpenAI,organization,timesfm-multivariate,40891.0,4887.166015625,2335.89453125,19947.033203125
+2022-12-08,GPT-3,GPT-3,technology,timesfm-multivariate,19878.0,21745.6796875,17342.171875,24616.60546875
+2022-12-09,GPT-3,GPT-3,technology,timesfm-multivariate,18733.0,19108.404296875,12354.8583984375,25168.451171875
+2022-12-10,GPT-3,GPT-3,technology,timesfm-multivariate,19619.0,15797.1669921875,8358.318359375,23795.498046875
+2022-12-11,GPT-3,GPT-3,technology,timesfm-multivariate,16350.0,14244.5439453125,7059.72119140625,23285.8515625
+2022-12-12,GPT-3,GPT-3,technology,timesfm-multivariate,18215.0,14413.4619140625,6750.89501953125,25462.38671875
+2022-12-13,GPT-3,GPT-3,technology,timesfm-multivariate,16088.0,13091.341796875,5928.3642578125,24654.984375
+2022-12-14,GPT-3,GPT-3,technology,timesfm-multivariate,15872.0,11780.2373046875,5322.5908203125,23911.166015625
+2022-12-15,GPT-3,GPT-3,technology,timesfm-multivariate,14416.0,10695.1484375,4745.7529296875,22734.923828125
+2022-12-16,GPT-3,GPT-3,technology,timesfm-multivariate,13843.0,9530.056640625,4378.1455078125,21199.005859375
+2022-12-17,GPT-3,GPT-3,technology,timesfm-multivariate,10573.0,7556.1806640625,2884.80126953125,18970.837890625
+2022-12-18,GPT-3,GPT-3,technology,timesfm-multivariate,9465.0,6944.482421875,2683.095703125,18581.3671875
+2022-12-19,GPT-3,GPT-3,technology,timesfm-multivariate,12296.0,7510.60009765625,3354.6005859375,19449.5390625
+2022-12-20,GPT-3,GPT-3,technology,timesfm-multivariate,11857.0,7343.58349609375,3257.129638671875,19632.9921875
+2022-12-21,GPT-3,GPT-3,technology,timesfm-multivariate,10592.0,6945.49658203125,3296.42138671875,19170.43359375
+2022-12-22,GPT-3,GPT-3,technology,timesfm-multivariate,9163.0,6623.1083984375,3256.976806640625,18585.33984375
+2022-12-23,GPT-3,GPT-3,technology,timesfm-multivariate,8537.0,5845.193359375,2903.343017578125,17021.17578125
+2022-12-24,GPT-3,GPT-3,technology,timesfm-multivariate,6837.0,4491.572265625,1930.484375,14897.7451171875
+2022-12-25,GPT-3,GPT-3,technology,timesfm-multivariate,7368.0,4236.27294921875,2133.95361328125,13791.3671875
+2022-12-26,GPT-3,GPT-3,technology,timesfm-multivariate,8223.0,4996.759765625,2490.978759765625,14544.5302734375
+2022-12-27,GPT-3,GPT-3,technology,timesfm-multivariate,8372.0,5038.603515625,2662.67529296875,14262.884765625
+2022-12-28,GPT-3,GPT-3,technology,timesfm-multivariate,8318.0,4909.97900390625,2483.092041015625,13883.6337890625
+2022-12-29,GPT-3,GPT-3,technology,timesfm-multivariate,9096.0,4692.0830078125,2514.961669921875,13428.78125
+2022-12-30,GPT-3,GPT-3,technology,timesfm-multivariate,8025.0,4236.52197265625,2344.109130859375,12643.07421875
+2022-12-31,GPT-3,GPT-3,technology,timesfm-multivariate,5642.0,3169.566650390625,1429.1717529296875,11194.8564453125
+2023-01-01,GPT-3,GPT-3,technology,timesfm-multivariate,5895.0,3179.895263671875,1525.2164306640625,11257.0615234375
+2023-01-02,GPT-3,GPT-3,technology,timesfm-multivariate,8038.0,3977.26708984375,2062.91015625,12471.6259765625
+2023-01-03,GPT-3,GPT-3,technology,timesfm-multivariate,9618.0,4012.515625,2201.361328125,12356.005859375
+2023-01-04,GPT-3,GPT-3,technology,timesfm-multivariate,10286.0,4111.83447265625,2216.525634765625,12604.8427734375
+2023-01-05,GPT-3,GPT-3,technology,timesfm-multivariate,10721.0,4155.9521484375,2500.789306640625,12413.7412109375
+2023-01-06,GPT-3,GPT-3,technology,timesfm-multivariate,10281.0,3858.9287109375,2348.490234375,11771.689453125
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,18998.0,18791.935546875,17378.728515625,20411.779296875
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,17613.0,17507.923828125,16008.5,19531.833984375
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,16580.0,15762.763671875,14204.978515625,17855.234375
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,18023.0,15629.8671875,13760.66796875,18000.939453125
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,21097.0,18364.86328125,15902.505859375,21282.818359375
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,19285.0,18458.021484375,15824.0888671875,21665.29296875
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,16026.0,18123.01171875,15379.16015625,21455.91796875
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,15312.0,17598.875,14949.1474609375,20839.412109375
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,14039.0,16374.779296875,13914.3466796875,19499.25
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,12326.0,14758.279296875,12441.462890625,17745.94140625
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,13206.0,14636.0849609375,12217.8603515625,17855.875
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,15606.0,17416.248046875,14512.8134765625,21069.6875
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,16263.0,17593.701171875,14482.7099609375,21478.97265625
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,15893.0,17345.5703125,14116.203125,21423.18359375
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,12779.0,16964.546875,13779.396484375,21008.490234375
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,11871.0,15788.5537109375,12733.98046875,19677.62890625
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9913.0,14136.5361328125,11466.0537109375,17708.39453125
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9396.0,14173.3291015625,11377.3125,17972.71875
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,11428.0,16953.328125,13531.2763671875,21480.888671875
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,13437.0,17235.7265625,13690.81640625,21913.20703125
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,11401.0,17002.54296875,13373.1572265625,21775.00390625
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,11489.0,16665.3828125,13209.837890625,21375.791015625
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,7875.0,15591.29296875,12293.5380859375,20202.19140625
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,6764.0,14142.689453125,11185.697265625,18409.234375
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,6752.0,14189.4931640625,11105.8916015625,18647.3125
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9078.0,17143.673828125,13341.7392578125,22289.20703125
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9775.0,17457.525390625,13630.8173828125,22685.2890625
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9955.0,17370.693359375,13561.0791015625,22532.087890625
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9857.0,17100.05078125,13356.58203125,22185.6328125
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,timesfm-multivariate,9311.0,16037.1708984375,12594.59765625,20939.25390625
+2022-12-08,Sam_Altman,Sam Altman,person,timesfm-multivariate,12257.0,12663.130859375,8710.744140625,16898.47265625
+2022-12-09,Sam_Altman,Sam Altman,person,timesfm-multivariate,9824.0,10663.7578125,5945.6806640625,16244.8779296875
+2022-12-10,Sam_Altman,Sam Altman,person,timesfm-multivariate,7720.0,8762.5771484375,3866.473388671875,15732.7275390625
+2022-12-11,Sam_Altman,Sam Altman,person,timesfm-multivariate,9754.0,8104.8779296875,3569.008544921875,15873.935546875
+2022-12-12,Sam_Altman,Sam Altman,person,timesfm-multivariate,10656.0,7106.14111328125,2915.3515625,15703.873046875
+2022-12-13,Sam_Altman,Sam Altman,person,timesfm-multivariate,9045.0,6530.26806640625,2627.98486328125,15630.3759765625
+2022-12-14,Sam_Altman,Sam Altman,person,timesfm-multivariate,8725.0,5810.6748046875,2087.1748046875,15442.669921875
+2022-12-15,Sam_Altman,Sam Altman,person,timesfm-multivariate,8462.0,5158.30078125,1749.342529296875,14784.3486328125
+2022-12-16,Sam_Altman,Sam Altman,person,timesfm-multivariate,9669.0,4300.28515625,1417.5546875,13648.810546875
+2022-12-17,Sam_Altman,Sam Altman,person,timesfm-multivariate,7776.0,3650.64501953125,1222.89111328125,12769.2001953125
+2022-12-18,Sam_Altman,Sam Altman,person,timesfm-multivariate,7358.0,3297.9755859375,1081.638916015625,12433.8671875
+2022-12-19,Sam_Altman,Sam Altman,person,timesfm-multivariate,8342.0,3303.296142578125,1167.254150390625,12417.505859375
+2022-12-20,Sam_Altman,Sam Altman,person,timesfm-multivariate,7628.0,3156.79833984375,1075.6494140625,12306.8896484375
+2022-12-21,Sam_Altman,Sam Altman,person,timesfm-multivariate,7390.0,2847.0283203125,1060.775390625,11570.390625
+2022-12-22,Sam_Altman,Sam Altman,person,timesfm-multivariate,8507.0,2671.401611328125,1013.9736328125,11065.9169921875
+2022-12-23,Sam_Altman,Sam Altman,person,timesfm-multivariate,6582.0,2339.25634765625,914.6876220703124,10058.9267578125
+2022-12-24,Sam_Altman,Sam Altman,person,timesfm-multivariate,5084.0,2024.2196044921875,788.5650634765625,9137.5439453125
+2022-12-25,Sam_Altman,Sam Altman,person,timesfm-multivariate,4694.0,1828.9720458984375,697.847900390625,8458.4453125
+2022-12-26,Sam_Altman,Sam Altman,person,timesfm-multivariate,5412.0,1939.027587890625,713.8546142578125,8347.404296875
+2022-12-27,Sam_Altman,Sam Altman,person,timesfm-multivariate,6028.0,1921.4837646484375,805.712158203125,8027.62255859375
+2022-12-28,Sam_Altman,Sam Altman,person,timesfm-multivariate,6755.0,1897.396728515625,732.5416259765625,7865.056640625
+2022-12-29,Sam_Altman,Sam Altman,person,timesfm-multivariate,5816.0,1863.2359619140625,804.8120727539062,7689.3974609375
+2022-12-30,Sam_Altman,Sam Altman,person,timesfm-multivariate,5163.0,1671.7060546875,770.9220581054688,7269.82470703125
+2022-12-31,Sam_Altman,Sam Altman,person,timesfm-multivariate,3826.0,1453.909912109375,567.7197265625,6805.853515625
+2023-01-01,Sam_Altman,Sam Altman,person,timesfm-multivariate,3648.0,1461.1239013671875,604.3827514648438,6799.736328125
+2023-01-02,Sam_Altman,Sam Altman,person,timesfm-multivariate,4835.0,1543.3997802734375,654.7774047851562,6960.53369140625
+2023-01-03,Sam_Altman,Sam Altman,person,timesfm-multivariate,5232.0,1501.22314453125,639.3626098632812,6792.255859375
+2023-01-04,Sam_Altman,Sam Altman,person,timesfm-multivariate,6478.0,1498.518310546875,695.9439697265625,6729.44580078125
+2023-01-05,Sam_Altman,Sam Altman,person,timesfm-multivariate,11022.0,1509.052734375,802.2646484375,6649.8876953125
+2023-01-06,Sam_Altman,Sam Altman,person,timesfm-multivariate,19226.0,1317.775634765625,674.3456420898438,6320.74560546875
+2022-12-08,ChatGPT,ChatGPT,event,timesfm-univariate,75917.0,65815.296875,59918.22265625,69050.78125
+2022-12-09,ChatGPT,ChatGPT,event,timesfm-univariate,75277.0,78658.125,60622.43359375,85969.640625
+2022-12-10,ChatGPT,ChatGPT,event,timesfm-univariate,56528.0,86533.171875,58247.69921875,106732.984375
+2022-12-11,ChatGPT,ChatGPT,event,timesfm-univariate,68069.0,97877.796875,48487.046875,132778.515625
+2022-12-12,ChatGPT,ChatGPT,event,timesfm-univariate,84582.0,110641.28125,44246.08984375,151917.203125
+2022-12-13,ChatGPT,ChatGPT,event,timesfm-univariate,123453.0,121676.84375,36559.20703125,169599.21875
+2022-12-14,ChatGPT,ChatGPT,event,timesfm-univariate,121869.0,128433.859375,21952.19140625,183287.71875
+2022-12-15,ChatGPT,ChatGPT,event,timesfm-univariate,96276.0,136101.96875,7043.59521484375,205822.828125
+2022-12-16,ChatGPT,ChatGPT,event,timesfm-univariate,92980.0,143648.578125,2450.038330078125,241889.265625
+2022-12-17,ChatGPT,ChatGPT,event,timesfm-univariate,52496.0,153607.703125,3843.53857421875,278812.3125
+2022-12-18,ChatGPT,ChatGPT,event,timesfm-univariate,53625.0,153165.78125,137.74819946289062,318591.125
+2022-12-19,ChatGPT,ChatGPT,event,timesfm-univariate,92800.0,156828.296875,4826.89111328125,358366.8125
+2022-12-20,ChatGPT,ChatGPT,event,timesfm-univariate,90633.0,156736.625,448.1695861816406,400314.28125
+2022-12-21,ChatGPT,ChatGPT,event,timesfm-univariate,65078.0,157370.203125,5125.837890625,448723.03125
+2022-12-22,ChatGPT,ChatGPT,event,timesfm-univariate,70794.0,160878.21875,2058.46044921875,517708.03125
+2022-12-23,ChatGPT,ChatGPT,event,timesfm-univariate,67808.0,165326.359375,392.5024719238281,587996.9375
+2022-12-24,ChatGPT,ChatGPT,event,timesfm-univariate,52901.0,166589.828125,0.0,668295.0625
+2022-12-25,ChatGPT,ChatGPT,event,timesfm-univariate,50022.0,165583.5625,0.0,734320.75
+2022-12-26,ChatGPT,ChatGPT,event,timesfm-univariate,55715.0,170138.078125,0.0,790746.375
+2022-12-27,ChatGPT,ChatGPT,event,timesfm-univariate,65111.0,172598.859375,0.0,854766.625
+2022-12-28,ChatGPT,ChatGPT,event,timesfm-univariate,65163.0,171224.171875,0.0,907811.8125
+2022-12-29,ChatGPT,ChatGPT,event,timesfm-univariate,94381.0,173857.125,0.0,957400.375
+2022-12-30,ChatGPT,ChatGPT,event,timesfm-univariate,77949.0,174631.0,0.0,1002712.875
+2022-12-31,ChatGPT,ChatGPT,event,timesfm-univariate,50027.0,164907.359375,0.0,1041653.0
+2023-01-01,ChatGPT,ChatGPT,event,timesfm-univariate,53575.0,165218.390625,0.0,1081985.125
+2023-01-02,ChatGPT,ChatGPT,event,timesfm-univariate,72838.0,167622.390625,0.0,1128536.75
+2023-01-03,ChatGPT,ChatGPT,event,timesfm-univariate,85588.0,163165.953125,0.0,1175097.0
+2023-01-04,ChatGPT,ChatGPT,event,timesfm-univariate,96031.0,171310.96875,0.0,1269042.125
+2023-01-05,ChatGPT,ChatGPT,event,timesfm-univariate,112121.0,160542.0625,0.0,1313471.375
+2023-01-06,ChatGPT,ChatGPT,event,timesfm-univariate,115590.0,157106.34375,0.0,1381067.75
+2022-12-08,OpenAI,OpenAI,organization,timesfm-univariate,41134.0,41559.1640625,32324.513671875,49778.375
+2022-12-09,OpenAI,OpenAI,organization,timesfm-univariate,39980.0,38291.3984375,21337.908203125,55273.25390625
+2022-12-10,OpenAI,OpenAI,organization,timesfm-univariate,29946.0,33922.2890625,14625.966796875,57488.9765625
+2022-12-11,OpenAI,OpenAI,organization,timesfm-univariate,32350.0,30247.11328125,11793.74609375,57574.23828125
+2022-12-12,OpenAI,OpenAI,organization,timesfm-univariate,37930.0,28374.330078125,8747.0185546875,61982.9765625
+2022-12-13,OpenAI,OpenAI,organization,timesfm-univariate,34262.0,26421.7734375,7820.35205078125,62573.80078125
+2022-12-14,OpenAI,OpenAI,organization,timesfm-univariate,32774.0,23431.42578125,8000.79931640625,60243.203125
+2022-12-15,OpenAI,OpenAI,organization,timesfm-univariate,28762.0,21404.376953125,6593.35107421875,59028.85546875
+2022-12-16,OpenAI,OpenAI,organization,timesfm-univariate,29090.0,18466.890625,5918.72998046875,55140.56640625
+2022-12-17,OpenAI,OpenAI,organization,timesfm-univariate,21620.0,15826.5634765625,4555.23046875,51579.58984375
+2022-12-18,OpenAI,OpenAI,organization,timesfm-univariate,20406.0,14280.59375,3972.090087890625,50687.765625
+2022-12-19,OpenAI,OpenAI,organization,timesfm-univariate,27200.0,13668.1669921875,3744.79541015625,50550.171875
+2022-12-20,OpenAI,OpenAI,organization,timesfm-univariate,24908.0,12965.4033203125,3433.12890625,50435.7109375
+2022-12-21,OpenAI,OpenAI,organization,timesfm-univariate,24149.0,11981.302734375,3502.297607421875,48662.78515625
+2022-12-22,OpenAI,OpenAI,organization,timesfm-univariate,27358.0,11204.689453125,3499.99951171875,47164.18359375
+2022-12-23,OpenAI,OpenAI,organization,timesfm-univariate,25197.0,10098.771484375,3165.6953125,44644.2734375
+2022-12-24,OpenAI,OpenAI,organization,timesfm-univariate,19416.0,8837.4375,2780.399658203125,41790.70703125
+2022-12-25,OpenAI,OpenAI,organization,timesfm-univariate,18001.0,7962.24560546875,3314.21142578125,38808.84375
+2022-12-26,OpenAI,OpenAI,organization,timesfm-univariate,20332.0,8246.384765625,2437.11767578125,39620.77734375
+2022-12-27,OpenAI,OpenAI,organization,timesfm-univariate,20488.0,8246.849609375,2938.7470703125,38972.87109375
+2022-12-28,OpenAI,OpenAI,organization,timesfm-univariate,23824.0,8412.837890625,2805.6142578125,39071.453125
+2022-12-29,OpenAI,OpenAI,organization,timesfm-univariate,24347.0,8139.32763671875,2931.791015625,38533.0390625
+2022-12-30,OpenAI,OpenAI,organization,timesfm-univariate,21487.0,7383.37890625,2488.877685546875,37439.41796875
+2022-12-31,OpenAI,OpenAI,organization,timesfm-univariate,15724.0,6682.86181640625,1749.8834228515625,35949.94921875
+2023-01-01,OpenAI,OpenAI,organization,timesfm-univariate,15876.0,6306.29345703125,1492.01953125,35339.20703125
+2023-01-02,OpenAI,OpenAI,organization,timesfm-univariate,21233.0,6526.236328125,1616.2021484375,35441.34765625
+2023-01-03,OpenAI,OpenAI,organization,timesfm-univariate,25434.0,6686.423828125,1861.6019287109375,35163.30078125
+2023-01-04,OpenAI,OpenAI,organization,timesfm-univariate,28973.0,6749.759765625,2086.679443359375,35162.75
+2023-01-05,OpenAI,OpenAI,organization,timesfm-univariate,35153.0,6760.9677734375,2500.89599609375,35264.78125
+2023-01-06,OpenAI,OpenAI,organization,timesfm-univariate,40891.0,6175.9775390625,2033.780029296875,34952.4765625
+2022-12-08,GPT-3,GPT-3,technology,timesfm-univariate,19878.0,22709.90625,18467.755859375,26428.568359375
+2022-12-09,GPT-3,GPT-3,technology,timesfm-univariate,18733.0,20844.908203125,13833.841796875,27862.787109375
+2022-12-10,GPT-3,GPT-3,technology,timesfm-univariate,19619.0,17912.365234375,9899.142578125,27240.30078125
+2022-12-11,GPT-3,GPT-3,technology,timesfm-univariate,16350.0,16565.673828125,8533.9931640625,27194.55078125
+2022-12-12,GPT-3,GPT-3,technology,timesfm-univariate,18215.0,17531.1640625,8254.9619140625,31006.25390625
+2022-12-13,GPT-3,GPT-3,technology,timesfm-univariate,16088.0,16550.158203125,7854.48291015625,30521.734375
+2022-12-14,GPT-3,GPT-3,technology,timesfm-univariate,15872.0,15065.017578125,7051.4853515625,29838.1640625
+2022-12-15,GPT-3,GPT-3,technology,timesfm-univariate,14416.0,14200.572265625,6419.53662109375,29052.1796875
+2022-12-16,GPT-3,GPT-3,technology,timesfm-univariate,13843.0,12211.6630859375,5292.255859375,26671.751953125
+2022-12-17,GPT-3,GPT-3,technology,timesfm-univariate,10573.0,9487.205078125,3868.751953125,22528.439453125
+2022-12-18,GPT-3,GPT-3,technology,timesfm-univariate,9465.0,8685.2294921875,3512.3525390625,22075.59765625
+2022-12-19,GPT-3,GPT-3,technology,timesfm-univariate,12296.0,9326.43359375,3707.588134765625,23575.810546875
+2022-12-20,GPT-3,GPT-3,technology,timesfm-univariate,11857.0,9256.1845703125,3855.95947265625,23789.349609375
+2022-12-21,GPT-3,GPT-3,technology,timesfm-univariate,10592.0,8787.1298828125,4025.070068359375,23158.294921875
+2022-12-22,GPT-3,GPT-3,technology,timesfm-univariate,9163.0,8306.66015625,3751.40185546875,22555.1796875
+2022-12-23,GPT-3,GPT-3,technology,timesfm-univariate,8537.0,7198.09912109375,3391.9384765625,20447.078125
+2022-12-24,GPT-3,GPT-3,technology,timesfm-univariate,6837.0,5643.22998046875,2297.53515625,18078.5703125
+2022-12-25,GPT-3,GPT-3,technology,timesfm-univariate,7368.0,5145.611328125,2374.81103515625,16632.875
+2022-12-26,GPT-3,GPT-3,technology,timesfm-univariate,8223.0,5779.7998046875,2529.26904296875,17334.658203125
+2022-12-27,GPT-3,GPT-3,technology,timesfm-univariate,8372.0,5731.873046875,2654.58544921875,16944.943359375
+2022-12-28,GPT-3,GPT-3,technology,timesfm-univariate,8318.0,5582.56884765625,2459.787109375,16523.55859375
+2022-12-29,GPT-3,GPT-3,technology,timesfm-univariate,9096.0,5355.4765625,2522.108154296875,16010.037109375
+2022-12-30,GPT-3,GPT-3,technology,timesfm-univariate,8025.0,4956.98583984375,2367.75390625,15317.6923828125
+2022-12-31,GPT-3,GPT-3,technology,timesfm-univariate,5642.0,3910.74267578125,1492.7930908203125,13793.5966796875
+2023-01-01,GPT-3,GPT-3,technology,timesfm-univariate,5895.0,3914.4697265625,1572.07666015625,13809.228515625
+2023-01-02,GPT-3,GPT-3,technology,timesfm-univariate,8038.0,4831.88232421875,2198.499267578125,15039.501953125
+2023-01-03,GPT-3,GPT-3,technology,timesfm-univariate,9618.0,4956.0791015625,2383.1376953125,14983.966796875
+2023-01-04,GPT-3,GPT-3,technology,timesfm-univariate,10286.0,5002.70458984375,2371.6533203125,15082.5205078125
+2023-01-05,GPT-3,GPT-3,technology,timesfm-univariate,10721.0,5003.36328125,2580.906982421875,14952.8193359375
+2023-01-06,GPT-3,GPT-3,technology,timesfm-univariate,10281.0,4621.38232421875,2361.92138671875,14297.1181640625
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,18998.0,18957.86328125,17708.521484375,20352.365234375
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,17613.0,17505.919921875,16336.9306640625,19016.228515625
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,16580.0,15708.669921875,14615.5166015625,17153.671875
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,18023.0,15696.8466796875,14387.0361328125,17349.92578125
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,21097.0,18390.3671875,16604.6640625,20401.287109375
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,19285.0,18628.21875,16667.556640625,20918.87109375
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,16026.0,18493.8671875,16425.650390625,20844.044921875
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,15312.0,18200.23828125,16191.5771484375,20460.828125
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,14039.0,16902.216796875,15076.40625,19028.626953125
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,12326.0,15217.34375,13525.34765625,17215.78125
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,13206.0,15233.390625,13449.255859375,17375.607421875
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,15606.0,18038.759765625,15828.5146484375,20530.171875
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,16263.0,18342.75,15928.5341796875,21057.484375
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,15893.0,18267.392578125,15807.8642578125,21041.625
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,12779.0,18044.126953125,15592.080078125,20821.16015625
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,11871.0,16745.947265625,14489.9609375,19312.677734375
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9913.0,15018.439453125,13045.9580078125,17257.8671875
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9396.0,15072.2353515625,12941.783203125,17529.005859375
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,11428.0,17916.50390625,15319.7353515625,20869.228515625
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,13437.0,18313.533203125,15541.6025390625,21443.703125
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,11401.0,18208.208984375,15410.17578125,21347.728515625
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,11489.0,17904.34375,15219.7626953125,20991.298828125
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,7875.0,16625.63671875,14092.8359375,19557.08984375
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,6764.0,15078.8681640625,12804.03125,17744.19140625
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,6752.0,15243.5712890625,12818.162109375,18092.54296875
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9078.0,18159.4453125,15202.365234375,21512.41015625
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9775.0,18614.943359375,15560.609375,22106.28515625
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9955.0,18669.8125,15640.248046875,22112.66796875
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9857.0,18451.041015625,15417.716796875,21879.6953125
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,timesfm-univariate,9311.0,17160.296875,14365.62890625,20369.2734375
+2022-12-08,Sam_Altman,Sam Altman,person,timesfm-univariate,12257.0,13504.2353515625,9141.44921875,19629.845703125
+2022-12-09,Sam_Altman,Sam Altman,person,timesfm-univariate,9824.0,11291.736328125,6258.6787109375,19102.583984375
+2022-12-10,Sam_Altman,Sam Altman,person,timesfm-univariate,7720.0,9591.4990234375,4508.423828125,18669.814453125
+2022-12-11,Sam_Altman,Sam Altman,person,timesfm-univariate,9754.0,8871.1474609375,4171.3349609375,18611.859375
+2022-12-12,Sam_Altman,Sam Altman,person,timesfm-univariate,10656.0,8287.5927734375,3615.6982421875,19078.283203125
+2022-12-13,Sam_Altman,Sam Altman,person,timesfm-univariate,9045.0,7429.3125,3252.349609375,18241.27734375
+2022-12-14,Sam_Altman,Sam Altman,person,timesfm-univariate,8725.0,6593.66845703125,2641.175537109375,17524.693359375
+2022-12-15,Sam_Altman,Sam Altman,person,timesfm-univariate,8462.0,6071.478515625,2272.10107421875,16785.45703125
+2022-12-16,Sam_Altman,Sam Altman,person,timesfm-univariate,9669.0,4922.78515625,1627.138916015625,15099.3388671875
+2022-12-17,Sam_Altman,Sam Altman,person,timesfm-univariate,7776.0,4086.048583984375,1251.69970703125,13679.0458984375
+2022-12-18,Sam_Altman,Sam Altman,person,timesfm-univariate,7358.0,3734.658935546875,1118.6448974609375,13287.212890625
+2022-12-19,Sam_Altman,Sam Altman,person,timesfm-univariate,8342.0,3804.899169921875,1280.67236328125,13357.775390625
+2022-12-20,Sam_Altman,Sam Altman,person,timesfm-univariate,7628.0,3574.453369140625,1158.73828125,13218.6669921875
+2022-12-21,Sam_Altman,Sam Altman,person,timesfm-univariate,7390.0,3245.360107421875,1152.87890625,12649.5634765625
+2022-12-22,Sam_Altman,Sam Altman,person,timesfm-univariate,8507.0,3069.699462890625,1068.0572509765625,12296.1455078125
+2022-12-23,Sam_Altman,Sam Altman,person,timesfm-univariate,6582.0,2709.061767578125,979.851806640625,11373.29296875
+2022-12-24,Sam_Altman,Sam Altman,person,timesfm-univariate,5084.0,2380.272705078125,828.8888549804688,10544.8818359375
+2022-12-25,Sam_Altman,Sam Altman,person,timesfm-univariate,4694.0,2161.13916015625,763.0662841796875,9875.65625
+2022-12-26,Sam_Altman,Sam Altman,person,timesfm-univariate,5412.0,2261.34814453125,740.9111938476562,9787.2646484375
+2022-12-27,Sam_Altman,Sam Altman,person,timesfm-univariate,6028.0,2230.73291015625,811.022705078125,9477.4248046875
+2022-12-28,Sam_Altman,Sam Altman,person,timesfm-univariate,6755.0,2240.54052734375,801.819091796875,9318.3896484375
+2022-12-29,Sam_Altman,Sam Altman,person,timesfm-univariate,5816.0,2183.7978515625,846.622314453125,9078.876953125
+2022-12-30,Sam_Altman,Sam Altman,person,timesfm-univariate,5163.0,1983.8797607421875,761.0501098632812,8621.4814453125
+2022-12-31,Sam_Altman,Sam Altman,person,timesfm-univariate,3826.0,1778.9312744140625,562.2347412109375,8066.00927734375
+2023-01-01,Sam_Altman,Sam Altman,person,timesfm-univariate,3648.0,1759.2449951171875,584.492431640625,7949.95556640625
+2023-01-02,Sam_Altman,Sam Altman,person,timesfm-univariate,4835.0,1866.313720703125,699.6326904296875,8031.94873046875
+2023-01-03,Sam_Altman,Sam Altman,person,timesfm-univariate,5232.0,1802.1138916015625,676.877197265625,7773.62353515625
+2023-01-04,Sam_Altman,Sam Altman,person,timesfm-univariate,6478.0,1790.9969482421875,759.287841796875,7590.8994140625
+2023-01-05,Sam_Altman,Sam Altman,person,timesfm-univariate,11022.0,1735.1751708984375,781.864013671875,7491.39501953125
+2023-01-06,Sam_Altman,Sam Altman,person,timesfm-univariate,19226.0,1555.89501953125,646.96826171875,7205.17138671875
+2022-12-08,ChatGPT,ChatGPT,event,exponential-decay,75917.0,51993.99999999995,,
+2022-12-09,ChatGPT,ChatGPT,event,exponential-decay,75277.0,51993.99999999995,,
+2022-12-10,ChatGPT,ChatGPT,event,exponential-decay,56528.0,51993.99999999995,,
+2022-12-11,ChatGPT,ChatGPT,event,exponential-decay,68069.0,51993.99999999995,,
+2022-12-12,ChatGPT,ChatGPT,event,exponential-decay,84582.0,51993.99999999995,,
+2022-12-13,ChatGPT,ChatGPT,event,exponential-decay,123453.0,51993.99999999995,,
+2022-12-14,ChatGPT,ChatGPT,event,exponential-decay,121869.0,51993.99999999995,,
+2022-12-15,ChatGPT,ChatGPT,event,exponential-decay,96276.0,51993.99999999995,,
+2022-12-16,ChatGPT,ChatGPT,event,exponential-decay,92980.0,51993.99999999995,,
+2022-12-17,ChatGPT,ChatGPT,event,exponential-decay,52496.0,51993.99999999995,,
+2022-12-18,ChatGPT,ChatGPT,event,exponential-decay,53625.0,51993.99999999995,,
+2022-12-19,ChatGPT,ChatGPT,event,exponential-decay,92800.0,51993.99999999995,,
+2022-12-20,ChatGPT,ChatGPT,event,exponential-decay,90633.0,51993.99999999995,,
+2022-12-21,ChatGPT,ChatGPT,event,exponential-decay,65078.0,51993.99999999995,,
+2022-12-22,ChatGPT,ChatGPT,event,exponential-decay,70794.0,51993.99999999995,,
+2022-12-23,ChatGPT,ChatGPT,event,exponential-decay,67808.0,51993.99999999995,,
+2022-12-24,ChatGPT,ChatGPT,event,exponential-decay,52901.0,51993.99999999995,,
+2022-12-25,ChatGPT,ChatGPT,event,exponential-decay,50022.0,51993.99999999995,,
+2022-12-26,ChatGPT,ChatGPT,event,exponential-decay,55715.0,51993.99999999995,,
+2022-12-27,ChatGPT,ChatGPT,event,exponential-decay,65111.0,51993.99999999995,,
+2022-12-28,ChatGPT,ChatGPT,event,exponential-decay,65163.0,51993.99999999995,,
+2022-12-29,ChatGPT,ChatGPT,event,exponential-decay,94381.0,51993.99999999995,,
+2022-12-30,ChatGPT,ChatGPT,event,exponential-decay,77949.0,51993.99999999995,,
+2022-12-31,ChatGPT,ChatGPT,event,exponential-decay,50027.0,51993.99999999995,,
+2023-01-01,ChatGPT,ChatGPT,event,exponential-decay,53575.0,51993.99999999995,,
+2023-01-02,ChatGPT,ChatGPT,event,exponential-decay,72838.0,51993.99999999995,,
+2023-01-03,ChatGPT,ChatGPT,event,exponential-decay,85588.0,51993.99999999995,,
+2023-01-04,ChatGPT,ChatGPT,event,exponential-decay,96031.0,51993.99999999995,,
+2023-01-05,ChatGPT,ChatGPT,event,exponential-decay,112121.0,51993.99999999995,,
+2023-01-06,ChatGPT,ChatGPT,event,exponential-decay,115590.0,51993.99999999995,,
+2022-12-08,OpenAI,OpenAI,organization,exponential-decay,41134.0,41263.00000000001,,
+2022-12-09,OpenAI,OpenAI,organization,exponential-decay,39980.0,41263.00000000001,,
+2022-12-10,OpenAI,OpenAI,organization,exponential-decay,29946.0,41263.00000000001,,
+2022-12-11,OpenAI,OpenAI,organization,exponential-decay,32350.0,41263.00000000001,,
+2022-12-12,OpenAI,OpenAI,organization,exponential-decay,37930.0,41263.00000000001,,
+2022-12-13,OpenAI,OpenAI,organization,exponential-decay,34262.0,41263.00000000001,,
+2022-12-14,OpenAI,OpenAI,organization,exponential-decay,32774.0,41263.00000000001,,
+2022-12-15,OpenAI,OpenAI,organization,exponential-decay,28762.0,41263.00000000001,,
+2022-12-16,OpenAI,OpenAI,organization,exponential-decay,29090.0,41263.00000000001,,
+2022-12-17,OpenAI,OpenAI,organization,exponential-decay,21620.0,41263.00000000001,,
+2022-12-18,OpenAI,OpenAI,organization,exponential-decay,20406.0,41263.00000000001,,
+2022-12-19,OpenAI,OpenAI,organization,exponential-decay,27200.0,41263.00000000001,,
+2022-12-20,OpenAI,OpenAI,organization,exponential-decay,24908.0,41263.00000000001,,
+2022-12-21,OpenAI,OpenAI,organization,exponential-decay,24149.0,41263.00000000001,,
+2022-12-22,OpenAI,OpenAI,organization,exponential-decay,27358.0,41263.00000000001,,
+2022-12-23,OpenAI,OpenAI,organization,exponential-decay,25197.0,41263.00000000001,,
+2022-12-24,OpenAI,OpenAI,organization,exponential-decay,19416.0,41263.00000000001,,
+2022-12-25,OpenAI,OpenAI,organization,exponential-decay,18001.0,41263.00000000001,,
+2022-12-26,OpenAI,OpenAI,organization,exponential-decay,20332.0,41263.00000000001,,
+2022-12-27,OpenAI,OpenAI,organization,exponential-decay,20488.0,41263.00000000001,,
+2022-12-28,OpenAI,OpenAI,organization,exponential-decay,23824.0,41263.00000000001,,
+2022-12-29,OpenAI,OpenAI,organization,exponential-decay,24347.0,41263.00000000001,,
+2022-12-30,OpenAI,OpenAI,organization,exponential-decay,21487.0,41263.00000000001,,
+2022-12-31,OpenAI,OpenAI,organization,exponential-decay,15724.0,41263.00000000001,,
+2023-01-01,OpenAI,OpenAI,organization,exponential-decay,15876.0,41263.00000000001,,
+2023-01-02,OpenAI,OpenAI,organization,exponential-decay,21233.0,41263.00000000001,,
+2023-01-03,OpenAI,OpenAI,organization,exponential-decay,25434.0,41263.00000000001,,
+2023-01-04,OpenAI,OpenAI,organization,exponential-decay,28973.0,41263.00000000001,,
+2023-01-05,OpenAI,OpenAI,organization,exponential-decay,35153.0,41263.00000000001,,
+2023-01-06,OpenAI,OpenAI,organization,exponential-decay,40891.0,41263.00000000001,,
+2022-12-08,GPT-3,GPT-3,technology,exponential-decay,19878.0,21661.00000000001,,
+2022-12-09,GPT-3,GPT-3,technology,exponential-decay,18733.0,21661.00000000001,,
+2022-12-10,GPT-3,GPT-3,technology,exponential-decay,19619.0,21661.00000000001,,
+2022-12-11,GPT-3,GPT-3,technology,exponential-decay,16350.0,21661.00000000001,,
+2022-12-12,GPT-3,GPT-3,technology,exponential-decay,18215.0,21661.00000000001,,
+2022-12-13,GPT-3,GPT-3,technology,exponential-decay,16088.0,21661.00000000001,,
+2022-12-14,GPT-3,GPT-3,technology,exponential-decay,15872.0,21661.00000000001,,
+2022-12-15,GPT-3,GPT-3,technology,exponential-decay,14416.0,21661.00000000001,,
+2022-12-16,GPT-3,GPT-3,technology,exponential-decay,13843.0,21661.00000000001,,
+2022-12-17,GPT-3,GPT-3,technology,exponential-decay,10573.0,21661.00000000001,,
+2022-12-18,GPT-3,GPT-3,technology,exponential-decay,9465.0,21661.00000000001,,
+2022-12-19,GPT-3,GPT-3,technology,exponential-decay,12296.0,21661.00000000001,,
+2022-12-20,GPT-3,GPT-3,technology,exponential-decay,11857.0,21661.00000000001,,
+2022-12-21,GPT-3,GPT-3,technology,exponential-decay,10592.0,21661.00000000001,,
+2022-12-22,GPT-3,GPT-3,technology,exponential-decay,9163.0,21661.00000000001,,
+2022-12-23,GPT-3,GPT-3,technology,exponential-decay,8537.0,21661.00000000001,,
+2022-12-24,GPT-3,GPT-3,technology,exponential-decay,6837.0,21661.00000000001,,
+2022-12-25,GPT-3,GPT-3,technology,exponential-decay,7368.0,21661.00000000001,,
+2022-12-26,GPT-3,GPT-3,technology,exponential-decay,8223.0,21661.00000000001,,
+2022-12-27,GPT-3,GPT-3,technology,exponential-decay,8372.0,21661.00000000001,,
+2022-12-28,GPT-3,GPT-3,technology,exponential-decay,8318.0,21661.00000000001,,
+2022-12-29,GPT-3,GPT-3,technology,exponential-decay,9096.0,21661.00000000001,,
+2022-12-30,GPT-3,GPT-3,technology,exponential-decay,8025.0,21661.00000000001,,
+2022-12-31,GPT-3,GPT-3,technology,exponential-decay,5642.0,21661.00000000001,,
+2023-01-01,GPT-3,GPT-3,technology,exponential-decay,5895.0,21661.00000000001,,
+2023-01-02,GPT-3,GPT-3,technology,exponential-decay,8038.0,21661.00000000001,,
+2023-01-03,GPT-3,GPT-3,technology,exponential-decay,9618.0,21661.00000000001,,
+2023-01-04,GPT-3,GPT-3,technology,exponential-decay,10286.0,21661.00000000001,,
+2023-01-05,GPT-3,GPT-3,technology,exponential-decay,10721.0,21661.00000000001,,
+2023-01-06,GPT-3,GPT-3,technology,exponential-decay,10281.0,21661.00000000001,,
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,18998.0,19622.0,,
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,17613.0,19622.0,,
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,16580.0,19622.0,,
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,18023.0,19622.0,,
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,21097.0,19622.0,,
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,19285.0,19622.0,,
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,16026.0,19622.0,,
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,15312.0,19622.0,,
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,14039.0,19622.0,,
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,12326.0,19622.0,,
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,13206.0,19622.0,,
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,15606.0,19622.0,,
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,16263.0,19622.0,,
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,15893.0,19622.0,,
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,12779.0,19622.0,,
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,11871.0,19622.0,,
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9913.0,19622.0,,
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9396.0,19622.0,,
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,11428.0,19622.0,,
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,13437.0,19622.0,,
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,11401.0,19622.0,,
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,11489.0,19622.0,,
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,7875.0,19622.0,,
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,6764.0,19622.0,,
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,6752.0,19622.0,,
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9078.0,19622.0,,
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9775.0,19622.0,,
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9955.0,19622.0,,
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9857.0,19622.0,,
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,exponential-decay,9311.0,19622.0,,
+2022-12-08,Sam_Altman,Sam Altman,person,exponential-decay,12257.0,12883.000000000007,,
+2022-12-09,Sam_Altman,Sam Altman,person,exponential-decay,9824.0,12883.000000000007,,
+2022-12-10,Sam_Altman,Sam Altman,person,exponential-decay,7720.0,12883.000000000007,,
+2022-12-11,Sam_Altman,Sam Altman,person,exponential-decay,9754.0,12883.000000000007,,
+2022-12-12,Sam_Altman,Sam Altman,person,exponential-decay,10656.0,12883.000000000007,,
+2022-12-13,Sam_Altman,Sam Altman,person,exponential-decay,9045.0,12883.000000000007,,
+2022-12-14,Sam_Altman,Sam Altman,person,exponential-decay,8725.0,12883.000000000007,,
+2022-12-15,Sam_Altman,Sam Altman,person,exponential-decay,8462.0,12883.000000000007,,
+2022-12-16,Sam_Altman,Sam Altman,person,exponential-decay,9669.0,12883.000000000007,,
+2022-12-17,Sam_Altman,Sam Altman,person,exponential-decay,7776.0,12883.000000000007,,
+2022-12-18,Sam_Altman,Sam Altman,person,exponential-decay,7358.0,12883.000000000007,,
+2022-12-19,Sam_Altman,Sam Altman,person,exponential-decay,8342.0,12883.000000000007,,
+2022-12-20,Sam_Altman,Sam Altman,person,exponential-decay,7628.0,12883.000000000007,,
+2022-12-21,Sam_Altman,Sam Altman,person,exponential-decay,7390.0,12883.000000000007,,
+2022-12-22,Sam_Altman,Sam Altman,person,exponential-decay,8507.0,12883.000000000007,,
+2022-12-23,Sam_Altman,Sam Altman,person,exponential-decay,6582.0,12883.000000000007,,
+2022-12-24,Sam_Altman,Sam Altman,person,exponential-decay,5084.0,12883.000000000007,,
+2022-12-25,Sam_Altman,Sam Altman,person,exponential-decay,4694.0,12883.000000000007,,
+2022-12-26,Sam_Altman,Sam Altman,person,exponential-decay,5412.0,12883.000000000007,,
+2022-12-27,Sam_Altman,Sam Altman,person,exponential-decay,6028.0,12883.000000000007,,
+2022-12-28,Sam_Altman,Sam Altman,person,exponential-decay,6755.0,12883.000000000007,,
+2022-12-29,Sam_Altman,Sam Altman,person,exponential-decay,5816.0,12883.000000000007,,
+2022-12-30,Sam_Altman,Sam Altman,person,exponential-decay,5163.0,12883.000000000007,,
+2022-12-31,Sam_Altman,Sam Altman,person,exponential-decay,3826.0,12883.000000000007,,
+2023-01-01,Sam_Altman,Sam Altman,person,exponential-decay,3648.0,12883.000000000007,,
+2023-01-02,Sam_Altman,Sam Altman,person,exponential-decay,4835.0,12883.000000000007,,
+2023-01-03,Sam_Altman,Sam Altman,person,exponential-decay,5232.0,12883.000000000007,,
+2023-01-04,Sam_Altman,Sam Altman,person,exponential-decay,6478.0,12883.000000000007,,
+2023-01-05,Sam_Altman,Sam Altman,person,exponential-decay,11022.0,12883.000000000007,,
+2023-01-06,Sam_Altman,Sam Altman,person,exponential-decay,19226.0,12883.000000000007,,
+2022-12-08,ChatGPT,ChatGPT,event,power-law-decay,75917.0,51993.99999999995,,
+2022-12-09,ChatGPT,ChatGPT,event,power-law-decay,75277.0,51993.99999999995,,
+2022-12-10,ChatGPT,ChatGPT,event,power-law-decay,56528.0,51993.99999999995,,
+2022-12-11,ChatGPT,ChatGPT,event,power-law-decay,68069.0,51993.99999999995,,
+2022-12-12,ChatGPT,ChatGPT,event,power-law-decay,84582.0,51993.99999999995,,
+2022-12-13,ChatGPT,ChatGPT,event,power-law-decay,123453.0,51993.99999999995,,
+2022-12-14,ChatGPT,ChatGPT,event,power-law-decay,121869.0,51993.99999999995,,
+2022-12-15,ChatGPT,ChatGPT,event,power-law-decay,96276.0,51993.99999999995,,
+2022-12-16,ChatGPT,ChatGPT,event,power-law-decay,92980.0,51993.99999999995,,
+2022-12-17,ChatGPT,ChatGPT,event,power-law-decay,52496.0,51993.99999999995,,
+2022-12-18,ChatGPT,ChatGPT,event,power-law-decay,53625.0,51993.99999999995,,
+2022-12-19,ChatGPT,ChatGPT,event,power-law-decay,92800.0,51993.99999999995,,
+2022-12-20,ChatGPT,ChatGPT,event,power-law-decay,90633.0,51993.99999999995,,
+2022-12-21,ChatGPT,ChatGPT,event,power-law-decay,65078.0,51993.99999999995,,
+2022-12-22,ChatGPT,ChatGPT,event,power-law-decay,70794.0,51993.99999999995,,
+2022-12-23,ChatGPT,ChatGPT,event,power-law-decay,67808.0,51993.99999999995,,
+2022-12-24,ChatGPT,ChatGPT,event,power-law-decay,52901.0,51993.99999999995,,
+2022-12-25,ChatGPT,ChatGPT,event,power-law-decay,50022.0,51993.99999999995,,
+2022-12-26,ChatGPT,ChatGPT,event,power-law-decay,55715.0,51993.99999999995,,
+2022-12-27,ChatGPT,ChatGPT,event,power-law-decay,65111.0,51993.99999999995,,
+2022-12-28,ChatGPT,ChatGPT,event,power-law-decay,65163.0,51993.99999999995,,
+2022-12-29,ChatGPT,ChatGPT,event,power-law-decay,94381.0,51993.99999999995,,
+2022-12-30,ChatGPT,ChatGPT,event,power-law-decay,77949.0,51993.99999999995,,
+2022-12-31,ChatGPT,ChatGPT,event,power-law-decay,50027.0,51993.99999999995,,
+2023-01-01,ChatGPT,ChatGPT,event,power-law-decay,53575.0,51993.99999999995,,
+2023-01-02,ChatGPT,ChatGPT,event,power-law-decay,72838.0,51993.99999999995,,
+2023-01-03,ChatGPT,ChatGPT,event,power-law-decay,85588.0,51993.99999999995,,
+2023-01-04,ChatGPT,ChatGPT,event,power-law-decay,96031.0,51993.99999999995,,
+2023-01-05,ChatGPT,ChatGPT,event,power-law-decay,112121.0,51993.99999999995,,
+2023-01-06,ChatGPT,ChatGPT,event,power-law-decay,115590.0,51993.99999999995,,
+2022-12-08,OpenAI,OpenAI,organization,power-law-decay,41134.0,41263.00000000001,,
+2022-12-09,OpenAI,OpenAI,organization,power-law-decay,39980.0,41263.00000000001,,
+2022-12-10,OpenAI,OpenAI,organization,power-law-decay,29946.0,41263.00000000001,,
+2022-12-11,OpenAI,OpenAI,organization,power-law-decay,32350.0,41263.00000000001,,
+2022-12-12,OpenAI,OpenAI,organization,power-law-decay,37930.0,41263.00000000001,,
+2022-12-13,OpenAI,OpenAI,organization,power-law-decay,34262.0,41263.00000000001,,
+2022-12-14,OpenAI,OpenAI,organization,power-law-decay,32774.0,41263.00000000001,,
+2022-12-15,OpenAI,OpenAI,organization,power-law-decay,28762.0,41263.00000000001,,
+2022-12-16,OpenAI,OpenAI,organization,power-law-decay,29090.0,41263.00000000001,,
+2022-12-17,OpenAI,OpenAI,organization,power-law-decay,21620.0,41263.00000000001,,
+2022-12-18,OpenAI,OpenAI,organization,power-law-decay,20406.0,41263.00000000001,,
+2022-12-19,OpenAI,OpenAI,organization,power-law-decay,27200.0,41263.00000000001,,
+2022-12-20,OpenAI,OpenAI,organization,power-law-decay,24908.0,41263.00000000001,,
+2022-12-21,OpenAI,OpenAI,organization,power-law-decay,24149.0,41263.00000000001,,
+2022-12-22,OpenAI,OpenAI,organization,power-law-decay,27358.0,41263.00000000001,,
+2022-12-23,OpenAI,OpenAI,organization,power-law-decay,25197.0,41263.00000000001,,
+2022-12-24,OpenAI,OpenAI,organization,power-law-decay,19416.0,41263.00000000001,,
+2022-12-25,OpenAI,OpenAI,organization,power-law-decay,18001.0,41263.00000000001,,
+2022-12-26,OpenAI,OpenAI,organization,power-law-decay,20332.0,41263.00000000001,,
+2022-12-27,OpenAI,OpenAI,organization,power-law-decay,20488.0,41263.00000000001,,
+2022-12-28,OpenAI,OpenAI,organization,power-law-decay,23824.0,41263.00000000001,,
+2022-12-29,OpenAI,OpenAI,organization,power-law-decay,24347.0,41263.00000000001,,
+2022-12-30,OpenAI,OpenAI,organization,power-law-decay,21487.0,41263.00000000001,,
+2022-12-31,OpenAI,OpenAI,organization,power-law-decay,15724.0,41263.00000000001,,
+2023-01-01,OpenAI,OpenAI,organization,power-law-decay,15876.0,41263.00000000001,,
+2023-01-02,OpenAI,OpenAI,organization,power-law-decay,21233.0,41263.00000000001,,
+2023-01-03,OpenAI,OpenAI,organization,power-law-decay,25434.0,41263.00000000001,,
+2023-01-04,OpenAI,OpenAI,organization,power-law-decay,28973.0,41263.00000000001,,
+2023-01-05,OpenAI,OpenAI,organization,power-law-decay,35153.0,41263.00000000001,,
+2023-01-06,OpenAI,OpenAI,organization,power-law-decay,40891.0,41263.00000000001,,
+2022-12-08,GPT-3,GPT-3,technology,power-law-decay,19878.0,21661.00000000001,,
+2022-12-09,GPT-3,GPT-3,technology,power-law-decay,18733.0,21661.00000000001,,
+2022-12-10,GPT-3,GPT-3,technology,power-law-decay,19619.0,21661.00000000001,,
+2022-12-11,GPT-3,GPT-3,technology,power-law-decay,16350.0,21661.00000000001,,
+2022-12-12,GPT-3,GPT-3,technology,power-law-decay,18215.0,21661.00000000001,,
+2022-12-13,GPT-3,GPT-3,technology,power-law-decay,16088.0,21661.00000000001,,
+2022-12-14,GPT-3,GPT-3,technology,power-law-decay,15872.0,21661.00000000001,,
+2022-12-15,GPT-3,GPT-3,technology,power-law-decay,14416.0,21661.00000000001,,
+2022-12-16,GPT-3,GPT-3,technology,power-law-decay,13843.0,21661.00000000001,,
+2022-12-17,GPT-3,GPT-3,technology,power-law-decay,10573.0,21661.00000000001,,
+2022-12-18,GPT-3,GPT-3,technology,power-law-decay,9465.0,21661.00000000001,,
+2022-12-19,GPT-3,GPT-3,technology,power-law-decay,12296.0,21661.00000000001,,
+2022-12-20,GPT-3,GPT-3,technology,power-law-decay,11857.0,21661.00000000001,,
+2022-12-21,GPT-3,GPT-3,technology,power-law-decay,10592.0,21661.00000000001,,
+2022-12-22,GPT-3,GPT-3,technology,power-law-decay,9163.0,21661.00000000001,,
+2022-12-23,GPT-3,GPT-3,technology,power-law-decay,8537.0,21661.00000000001,,
+2022-12-24,GPT-3,GPT-3,technology,power-law-decay,6837.0,21661.00000000001,,
+2022-12-25,GPT-3,GPT-3,technology,power-law-decay,7368.0,21661.00000000001,,
+2022-12-26,GPT-3,GPT-3,technology,power-law-decay,8223.0,21661.00000000001,,
+2022-12-27,GPT-3,GPT-3,technology,power-law-decay,8372.0,21661.00000000001,,
+2022-12-28,GPT-3,GPT-3,technology,power-law-decay,8318.0,21661.00000000001,,
+2022-12-29,GPT-3,GPT-3,technology,power-law-decay,9096.0,21661.00000000001,,
+2022-12-30,GPT-3,GPT-3,technology,power-law-decay,8025.0,21661.00000000001,,
+2022-12-31,GPT-3,GPT-3,technology,power-law-decay,5642.0,21661.00000000001,,
+2023-01-01,GPT-3,GPT-3,technology,power-law-decay,5895.0,21661.00000000001,,
+2023-01-02,GPT-3,GPT-3,technology,power-law-decay,8038.0,21661.00000000001,,
+2023-01-03,GPT-3,GPT-3,technology,power-law-decay,9618.0,21661.00000000001,,
+2023-01-04,GPT-3,GPT-3,technology,power-law-decay,10286.0,21661.00000000001,,
+2023-01-05,GPT-3,GPT-3,technology,power-law-decay,10721.0,21661.00000000001,,
+2023-01-06,GPT-3,GPT-3,technology,power-law-decay,10281.0,21661.00000000001,,
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,18998.0,19622.0,,
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,17613.0,19622.0,,
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,16580.0,19622.0,,
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,18023.0,19622.0,,
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,21097.0,19622.0,,
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,19285.0,19622.0,,
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,16026.0,19622.0,,
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,15312.0,19622.0,,
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,14039.0,19622.0,,
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,12326.0,19622.0,,
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,13206.0,19622.0,,
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,15606.0,19622.0,,
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,16263.0,19622.0,,
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,15893.0,19622.0,,
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,12779.0,19622.0,,
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,11871.0,19622.0,,
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9913.0,19622.0,,
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9396.0,19622.0,,
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,11428.0,19622.0,,
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,13437.0,19622.0,,
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,11401.0,19622.0,,
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,11489.0,19622.0,,
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,7875.0,19622.0,,
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,6764.0,19622.0,,
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,6752.0,19622.0,,
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9078.0,19622.0,,
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9775.0,19622.0,,
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9955.0,19622.0,,
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9857.0,19622.0,,
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,power-law-decay,9311.0,19622.0,,
+2022-12-08,Sam_Altman,Sam Altman,person,power-law-decay,12257.0,12883.000000000007,,
+2022-12-09,Sam_Altman,Sam Altman,person,power-law-decay,9824.0,12883.000000000007,,
+2022-12-10,Sam_Altman,Sam Altman,person,power-law-decay,7720.0,12883.000000000007,,
+2022-12-11,Sam_Altman,Sam Altman,person,power-law-decay,9754.0,12883.000000000007,,
+2022-12-12,Sam_Altman,Sam Altman,person,power-law-decay,10656.0,12883.000000000007,,
+2022-12-13,Sam_Altman,Sam Altman,person,power-law-decay,9045.0,12883.000000000007,,
+2022-12-14,Sam_Altman,Sam Altman,person,power-law-decay,8725.0,12883.000000000007,,
+2022-12-15,Sam_Altman,Sam Altman,person,power-law-decay,8462.0,12883.000000000007,,
+2022-12-16,Sam_Altman,Sam Altman,person,power-law-decay,9669.0,12883.000000000007,,
+2022-12-17,Sam_Altman,Sam Altman,person,power-law-decay,7776.0,12883.000000000007,,
+2022-12-18,Sam_Altman,Sam Altman,person,power-law-decay,7358.0,12883.000000000007,,
+2022-12-19,Sam_Altman,Sam Altman,person,power-law-decay,8342.0,12883.000000000007,,
+2022-12-20,Sam_Altman,Sam Altman,person,power-law-decay,7628.0,12883.000000000007,,
+2022-12-21,Sam_Altman,Sam Altman,person,power-law-decay,7390.0,12883.000000000007,,
+2022-12-22,Sam_Altman,Sam Altman,person,power-law-decay,8507.0,12883.000000000007,,
+2022-12-23,Sam_Altman,Sam Altman,person,power-law-decay,6582.0,12883.000000000007,,
+2022-12-24,Sam_Altman,Sam Altman,person,power-law-decay,5084.0,12883.000000000007,,
+2022-12-25,Sam_Altman,Sam Altman,person,power-law-decay,4694.0,12883.000000000007,,
+2022-12-26,Sam_Altman,Sam Altman,person,power-law-decay,5412.0,12883.000000000007,,
+2022-12-27,Sam_Altman,Sam Altman,person,power-law-decay,6028.0,12883.000000000007,,
+2022-12-28,Sam_Altman,Sam Altman,person,power-law-decay,6755.0,12883.000000000007,,
+2022-12-29,Sam_Altman,Sam Altman,person,power-law-decay,5816.0,12883.000000000007,,
+2022-12-30,Sam_Altman,Sam Altman,person,power-law-decay,5163.0,12883.000000000007,,
+2022-12-31,Sam_Altman,Sam Altman,person,power-law-decay,3826.0,12883.000000000007,,
+2023-01-01,Sam_Altman,Sam Altman,person,power-law-decay,3648.0,12883.000000000007,,
+2023-01-02,Sam_Altman,Sam Altman,person,power-law-decay,4835.0,12883.000000000007,,
+2023-01-03,Sam_Altman,Sam Altman,person,power-law-decay,5232.0,12883.000000000007,,
+2023-01-04,Sam_Altman,Sam Altman,person,power-law-decay,6478.0,12883.000000000007,,
+2023-01-05,Sam_Altman,Sam Altman,person,power-law-decay,11022.0,12883.000000000007,,
+2023-01-06,Sam_Altman,Sam Altman,person,power-law-decay,19226.0,12883.000000000007,,
+2022-12-08,ChatGPT,ChatGPT,event,seasonal-naive,75917.0,0.0,,
+2022-12-09,ChatGPT,ChatGPT,event,seasonal-naive,75277.0,0.0,,
+2022-12-10,ChatGPT,ChatGPT,event,seasonal-naive,56528.0,0.0,,
+2022-12-11,ChatGPT,ChatGPT,event,seasonal-naive,68069.0,0.0,,
+2022-12-12,ChatGPT,ChatGPT,event,seasonal-naive,84582.0,1925.0,,
+2022-12-13,ChatGPT,ChatGPT,event,seasonal-naive,123453.0,29591.0,,
+2022-12-14,ChatGPT,ChatGPT,event,seasonal-naive,121869.0,51994.0,,
+2022-12-15,ChatGPT,ChatGPT,event,seasonal-naive,96276.0,0.0,,
+2022-12-16,ChatGPT,ChatGPT,event,seasonal-naive,92980.0,0.0,,
+2022-12-17,ChatGPT,ChatGPT,event,seasonal-naive,52496.0,0.0,,
+2022-12-18,ChatGPT,ChatGPT,event,seasonal-naive,53625.0,0.0,,
+2022-12-19,ChatGPT,ChatGPT,event,seasonal-naive,92800.0,1925.0,,
+2022-12-20,ChatGPT,ChatGPT,event,seasonal-naive,90633.0,29591.0,,
+2022-12-21,ChatGPT,ChatGPT,event,seasonal-naive,65078.0,51994.0,,
+2022-12-22,ChatGPT,ChatGPT,event,seasonal-naive,70794.0,0.0,,
+2022-12-23,ChatGPT,ChatGPT,event,seasonal-naive,67808.0,0.0,,
+2022-12-24,ChatGPT,ChatGPT,event,seasonal-naive,52901.0,0.0,,
+2022-12-25,ChatGPT,ChatGPT,event,seasonal-naive,50022.0,0.0,,
+2022-12-26,ChatGPT,ChatGPT,event,seasonal-naive,55715.0,1925.0,,
+2022-12-27,ChatGPT,ChatGPT,event,seasonal-naive,65111.0,29591.0,,
+2022-12-28,ChatGPT,ChatGPT,event,seasonal-naive,65163.0,51994.0,,
+2022-12-29,ChatGPT,ChatGPT,event,seasonal-naive,94381.0,0.0,,
+2022-12-30,ChatGPT,ChatGPT,event,seasonal-naive,77949.0,0.0,,
+2022-12-31,ChatGPT,ChatGPT,event,seasonal-naive,50027.0,0.0,,
+2023-01-01,ChatGPT,ChatGPT,event,seasonal-naive,53575.0,0.0,,
+2023-01-02,ChatGPT,ChatGPT,event,seasonal-naive,72838.0,1925.0,,
+2023-01-03,ChatGPT,ChatGPT,event,seasonal-naive,85588.0,29591.0,,
+2023-01-04,ChatGPT,ChatGPT,event,seasonal-naive,96031.0,51994.0,,
+2023-01-05,ChatGPT,ChatGPT,event,seasonal-naive,112121.0,0.0,,
+2023-01-06,ChatGPT,ChatGPT,event,seasonal-naive,115590.0,0.0,,
+2022-12-08,OpenAI,OpenAI,organization,seasonal-naive,41134.0,9884.0,,
+2022-12-09,OpenAI,OpenAI,organization,seasonal-naive,39980.0,15751.0,,
+2022-12-10,OpenAI,OpenAI,organization,seasonal-naive,29946.0,15129.0,,
+2022-12-11,OpenAI,OpenAI,organization,seasonal-naive,32350.0,22438.0,,
+2022-12-12,OpenAI,OpenAI,organization,seasonal-naive,37930.0,34117.0,,
+2022-12-13,OpenAI,OpenAI,organization,seasonal-naive,34262.0,38188.0,,
+2022-12-14,OpenAI,OpenAI,organization,seasonal-naive,32774.0,41263.0,,
+2022-12-15,OpenAI,OpenAI,organization,seasonal-naive,28762.0,9884.0,,
+2022-12-16,OpenAI,OpenAI,organization,seasonal-naive,29090.0,15751.0,,
+2022-12-17,OpenAI,OpenAI,organization,seasonal-naive,21620.0,15129.0,,
+2022-12-18,OpenAI,OpenAI,organization,seasonal-naive,20406.0,22438.0,,
+2022-12-19,OpenAI,OpenAI,organization,seasonal-naive,27200.0,34117.0,,
+2022-12-20,OpenAI,OpenAI,organization,seasonal-naive,24908.0,38188.0,,
+2022-12-21,OpenAI,OpenAI,organization,seasonal-naive,24149.0,41263.0,,
+2022-12-22,OpenAI,OpenAI,organization,seasonal-naive,27358.0,9884.0,,
+2022-12-23,OpenAI,OpenAI,organization,seasonal-naive,25197.0,15751.0,,
+2022-12-24,OpenAI,OpenAI,organization,seasonal-naive,19416.0,15129.0,,
+2022-12-25,OpenAI,OpenAI,organization,seasonal-naive,18001.0,22438.0,,
+2022-12-26,OpenAI,OpenAI,organization,seasonal-naive,20332.0,34117.0,,
+2022-12-27,OpenAI,OpenAI,organization,seasonal-naive,20488.0,38188.0,,
+2022-12-28,OpenAI,OpenAI,organization,seasonal-naive,23824.0,41263.0,,
+2022-12-29,OpenAI,OpenAI,organization,seasonal-naive,24347.0,9884.0,,
+2022-12-30,OpenAI,OpenAI,organization,seasonal-naive,21487.0,15751.0,,
+2022-12-31,OpenAI,OpenAI,organization,seasonal-naive,15724.0,15129.0,,
+2023-01-01,OpenAI,OpenAI,organization,seasonal-naive,15876.0,22438.0,,
+2023-01-02,OpenAI,OpenAI,organization,seasonal-naive,21233.0,34117.0,,
+2023-01-03,OpenAI,OpenAI,organization,seasonal-naive,25434.0,38188.0,,
+2023-01-04,OpenAI,OpenAI,organization,seasonal-naive,28973.0,41263.0,,
+2023-01-05,OpenAI,OpenAI,organization,seasonal-naive,35153.0,9884.0,,
+2023-01-06,OpenAI,OpenAI,organization,seasonal-naive,40891.0,15751.0,,
+2022-12-08,GPT-3,GPT-3,technology,seasonal-naive,19878.0,7383.0,,
+2022-12-09,GPT-3,GPT-3,technology,seasonal-naive,18733.0,11841.0,,
+2022-12-10,GPT-3,GPT-3,technology,seasonal-naive,19619.0,10283.0,,
+2022-12-11,GPT-3,GPT-3,technology,seasonal-naive,16350.0,12584.0,,
+2022-12-12,GPT-3,GPT-3,technology,seasonal-naive,18215.0,19227.0,,
+2022-12-13,GPT-3,GPT-3,technology,seasonal-naive,16088.0,19773.0,,
+2022-12-14,GPT-3,GPT-3,technology,seasonal-naive,15872.0,21661.0,,
+2022-12-15,GPT-3,GPT-3,technology,seasonal-naive,14416.0,7383.0,,
+2022-12-16,GPT-3,GPT-3,technology,seasonal-naive,13843.0,11841.0,,
+2022-12-17,GPT-3,GPT-3,technology,seasonal-naive,10573.0,10283.0,,
+2022-12-18,GPT-3,GPT-3,technology,seasonal-naive,9465.0,12584.0,,
+2022-12-19,GPT-3,GPT-3,technology,seasonal-naive,12296.0,19227.0,,
+2022-12-20,GPT-3,GPT-3,technology,seasonal-naive,11857.0,19773.0,,
+2022-12-21,GPT-3,GPT-3,technology,seasonal-naive,10592.0,21661.0,,
+2022-12-22,GPT-3,GPT-3,technology,seasonal-naive,9163.0,7383.0,,
+2022-12-23,GPT-3,GPT-3,technology,seasonal-naive,8537.0,11841.0,,
+2022-12-24,GPT-3,GPT-3,technology,seasonal-naive,6837.0,10283.0,,
+2022-12-25,GPT-3,GPT-3,technology,seasonal-naive,7368.0,12584.0,,
+2022-12-26,GPT-3,GPT-3,technology,seasonal-naive,8223.0,19227.0,,
+2022-12-27,GPT-3,GPT-3,technology,seasonal-naive,8372.0,19773.0,,
+2022-12-28,GPT-3,GPT-3,technology,seasonal-naive,8318.0,21661.0,,
+2022-12-29,GPT-3,GPT-3,technology,seasonal-naive,9096.0,7383.0,,
+2022-12-30,GPT-3,GPT-3,technology,seasonal-naive,8025.0,11841.0,,
+2022-12-31,GPT-3,GPT-3,technology,seasonal-naive,5642.0,10283.0,,
+2023-01-01,GPT-3,GPT-3,technology,seasonal-naive,5895.0,12584.0,,
+2023-01-02,GPT-3,GPT-3,technology,seasonal-naive,8038.0,19227.0,,
+2023-01-03,GPT-3,GPT-3,technology,seasonal-naive,9618.0,19773.0,,
+2023-01-04,GPT-3,GPT-3,technology,seasonal-naive,10286.0,21661.0,,
+2023-01-05,GPT-3,GPT-3,technology,seasonal-naive,10721.0,7383.0,,
+2023-01-06,GPT-3,GPT-3,technology,seasonal-naive,10281.0,11841.0,,
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,18998.0,19173.0,,
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,17613.0,16722.0,,
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,16580.0,15797.0,,
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,18023.0,16636.0,,
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,21097.0,18673.0,,
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,19285.0,18707.0,,
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,16026.0,19622.0,,
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,15312.0,19173.0,,
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,14039.0,16722.0,,
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,12326.0,15797.0,,
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,13206.0,16636.0,,
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,15606.0,18673.0,,
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,16263.0,18707.0,,
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,15893.0,19622.0,,
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,12779.0,19173.0,,
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,11871.0,16722.0,,
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9913.0,15797.0,,
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9396.0,16636.0,,
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,11428.0,18673.0,,
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,13437.0,18707.0,,
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,11401.0,19622.0,,
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,11489.0,19173.0,,
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,7875.0,16722.0,,
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,6764.0,15797.0,,
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,6752.0,16636.0,,
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9078.0,18673.0,,
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9775.0,18707.0,,
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9955.0,19622.0,,
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9857.0,19173.0,,
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,seasonal-naive,9311.0,16722.0,,
+2022-12-08,Sam_Altman,Sam Altman,person,seasonal-naive,12257.0,3164.0,,
+2022-12-09,Sam_Altman,Sam Altman,person,seasonal-naive,9824.0,4657.0,,
+2022-12-10,Sam_Altman,Sam Altman,person,seasonal-naive,7720.0,4021.0,,
+2022-12-11,Sam_Altman,Sam Altman,person,seasonal-naive,9754.0,6337.0,,
+2022-12-12,Sam_Altman,Sam Altman,person,seasonal-naive,10656.0,11568.0,,
+2022-12-13,Sam_Altman,Sam Altman,person,seasonal-naive,9045.0,10774.0,,
+2022-12-14,Sam_Altman,Sam Altman,person,seasonal-naive,8725.0,12883.0,,
+2022-12-15,Sam_Altman,Sam Altman,person,seasonal-naive,8462.0,3164.0,,
+2022-12-16,Sam_Altman,Sam Altman,person,seasonal-naive,9669.0,4657.0,,
+2022-12-17,Sam_Altman,Sam Altman,person,seasonal-naive,7776.0,4021.0,,
+2022-12-18,Sam_Altman,Sam Altman,person,seasonal-naive,7358.0,6337.0,,
+2022-12-19,Sam_Altman,Sam Altman,person,seasonal-naive,8342.0,11568.0,,
+2022-12-20,Sam_Altman,Sam Altman,person,seasonal-naive,7628.0,10774.0,,
+2022-12-21,Sam_Altman,Sam Altman,person,seasonal-naive,7390.0,12883.0,,
+2022-12-22,Sam_Altman,Sam Altman,person,seasonal-naive,8507.0,3164.0,,
+2022-12-23,Sam_Altman,Sam Altman,person,seasonal-naive,6582.0,4657.0,,
+2022-12-24,Sam_Altman,Sam Altman,person,seasonal-naive,5084.0,4021.0,,
+2022-12-25,Sam_Altman,Sam Altman,person,seasonal-naive,4694.0,6337.0,,
+2022-12-26,Sam_Altman,Sam Altman,person,seasonal-naive,5412.0,11568.0,,
+2022-12-27,Sam_Altman,Sam Altman,person,seasonal-naive,6028.0,10774.0,,
+2022-12-28,Sam_Altman,Sam Altman,person,seasonal-naive,6755.0,12883.0,,
+2022-12-29,Sam_Altman,Sam Altman,person,seasonal-naive,5816.0,3164.0,,
+2022-12-30,Sam_Altman,Sam Altman,person,seasonal-naive,5163.0,4657.0,,
+2022-12-31,Sam_Altman,Sam Altman,person,seasonal-naive,3826.0,4021.0,,
+2023-01-01,Sam_Altman,Sam Altman,person,seasonal-naive,3648.0,6337.0,,
+2023-01-02,Sam_Altman,Sam Altman,person,seasonal-naive,4835.0,11568.0,,
+2023-01-03,Sam_Altman,Sam Altman,person,seasonal-naive,5232.0,10774.0,,
+2023-01-04,Sam_Altman,Sam Altman,person,seasonal-naive,6478.0,12883.0,,
+2023-01-05,Sam_Altman,Sam Altman,person,seasonal-naive,11022.0,3164.0,,
+2023-01-06,Sam_Altman,Sam Altman,person,seasonal-naive,19226.0,4657.0,,
+2022-12-08,ChatGPT,ChatGPT,event,flat-baseline,75917.0,1.0,,
+2022-12-09,ChatGPT,ChatGPT,event,flat-baseline,75277.0,1.0,,
+2022-12-10,ChatGPT,ChatGPT,event,flat-baseline,56528.0,1.0,,
+2022-12-11,ChatGPT,ChatGPT,event,flat-baseline,68069.0,1.0,,
+2022-12-12,ChatGPT,ChatGPT,event,flat-baseline,84582.0,1.0,,
+2022-12-13,ChatGPT,ChatGPT,event,flat-baseline,123453.0,1.0,,
+2022-12-14,ChatGPT,ChatGPT,event,flat-baseline,121869.0,1.0,,
+2022-12-15,ChatGPT,ChatGPT,event,flat-baseline,96276.0,1.0,,
+2022-12-16,ChatGPT,ChatGPT,event,flat-baseline,92980.0,1.0,,
+2022-12-17,ChatGPT,ChatGPT,event,flat-baseline,52496.0,1.0,,
+2022-12-18,ChatGPT,ChatGPT,event,flat-baseline,53625.0,1.0,,
+2022-12-19,ChatGPT,ChatGPT,event,flat-baseline,92800.0,1.0,,
+2022-12-20,ChatGPT,ChatGPT,event,flat-baseline,90633.0,1.0,,
+2022-12-21,ChatGPT,ChatGPT,event,flat-baseline,65078.0,1.0,,
+2022-12-22,ChatGPT,ChatGPT,event,flat-baseline,70794.0,1.0,,
+2022-12-23,ChatGPT,ChatGPT,event,flat-baseline,67808.0,1.0,,
+2022-12-24,ChatGPT,ChatGPT,event,flat-baseline,52901.0,1.0,,
+2022-12-25,ChatGPT,ChatGPT,event,flat-baseline,50022.0,1.0,,
+2022-12-26,ChatGPT,ChatGPT,event,flat-baseline,55715.0,1.0,,
+2022-12-27,ChatGPT,ChatGPT,event,flat-baseline,65111.0,1.0,,
+2022-12-28,ChatGPT,ChatGPT,event,flat-baseline,65163.0,1.0,,
+2022-12-29,ChatGPT,ChatGPT,event,flat-baseline,94381.0,1.0,,
+2022-12-30,ChatGPT,ChatGPT,event,flat-baseline,77949.0,1.0,,
+2022-12-31,ChatGPT,ChatGPT,event,flat-baseline,50027.0,1.0,,
+2023-01-01,ChatGPT,ChatGPT,event,flat-baseline,53575.0,1.0,,
+2023-01-02,ChatGPT,ChatGPT,event,flat-baseline,72838.0,1.0,,
+2023-01-03,ChatGPT,ChatGPT,event,flat-baseline,85588.0,1.0,,
+2023-01-04,ChatGPT,ChatGPT,event,flat-baseline,96031.0,1.0,,
+2023-01-05,ChatGPT,ChatGPT,event,flat-baseline,112121.0,1.0,,
+2023-01-06,ChatGPT,ChatGPT,event,flat-baseline,115590.0,1.0,,
+2022-12-08,OpenAI,OpenAI,organization,flat-baseline,41134.0,3427.0,,
+2022-12-09,OpenAI,OpenAI,organization,flat-baseline,39980.0,3427.0,,
+2022-12-10,OpenAI,OpenAI,organization,flat-baseline,29946.0,3427.0,,
+2022-12-11,OpenAI,OpenAI,organization,flat-baseline,32350.0,3427.0,,
+2022-12-12,OpenAI,OpenAI,organization,flat-baseline,37930.0,3427.0,,
+2022-12-13,OpenAI,OpenAI,organization,flat-baseline,34262.0,3427.0,,
+2022-12-14,OpenAI,OpenAI,organization,flat-baseline,32774.0,3427.0,,
+2022-12-15,OpenAI,OpenAI,organization,flat-baseline,28762.0,3427.0,,
+2022-12-16,OpenAI,OpenAI,organization,flat-baseline,29090.0,3427.0,,
+2022-12-17,OpenAI,OpenAI,organization,flat-baseline,21620.0,3427.0,,
+2022-12-18,OpenAI,OpenAI,organization,flat-baseline,20406.0,3427.0,,
+2022-12-19,OpenAI,OpenAI,organization,flat-baseline,27200.0,3427.0,,
+2022-12-20,OpenAI,OpenAI,organization,flat-baseline,24908.0,3427.0,,
+2022-12-21,OpenAI,OpenAI,organization,flat-baseline,24149.0,3427.0,,
+2022-12-22,OpenAI,OpenAI,organization,flat-baseline,27358.0,3427.0,,
+2022-12-23,OpenAI,OpenAI,organization,flat-baseline,25197.0,3427.0,,
+2022-12-24,OpenAI,OpenAI,organization,flat-baseline,19416.0,3427.0,,
+2022-12-25,OpenAI,OpenAI,organization,flat-baseline,18001.0,3427.0,,
+2022-12-26,OpenAI,OpenAI,organization,flat-baseline,20332.0,3427.0,,
+2022-12-27,OpenAI,OpenAI,organization,flat-baseline,20488.0,3427.0,,
+2022-12-28,OpenAI,OpenAI,organization,flat-baseline,23824.0,3427.0,,
+2022-12-29,OpenAI,OpenAI,organization,flat-baseline,24347.0,3427.0,,
+2022-12-30,OpenAI,OpenAI,organization,flat-baseline,21487.0,3427.0,,
+2022-12-31,OpenAI,OpenAI,organization,flat-baseline,15724.0,3427.0,,
+2023-01-01,OpenAI,OpenAI,organization,flat-baseline,15876.0,3427.0,,
+2023-01-02,OpenAI,OpenAI,organization,flat-baseline,21233.0,3427.0,,
+2023-01-03,OpenAI,OpenAI,organization,flat-baseline,25434.0,3427.0,,
+2023-01-04,OpenAI,OpenAI,organization,flat-baseline,28973.0,3427.0,,
+2023-01-05,OpenAI,OpenAI,organization,flat-baseline,35153.0,3427.0,,
+2023-01-06,OpenAI,OpenAI,organization,flat-baseline,40891.0,3427.0,,
+2022-12-08,GPT-3,GPT-3,technology,flat-baseline,19878.0,2972.0,,
+2022-12-09,GPT-3,GPT-3,technology,flat-baseline,18733.0,2972.0,,
+2022-12-10,GPT-3,GPT-3,technology,flat-baseline,19619.0,2972.0,,
+2022-12-11,GPT-3,GPT-3,technology,flat-baseline,16350.0,2972.0,,
+2022-12-12,GPT-3,GPT-3,technology,flat-baseline,18215.0,2972.0,,
+2022-12-13,GPT-3,GPT-3,technology,flat-baseline,16088.0,2972.0,,
+2022-12-14,GPT-3,GPT-3,technology,flat-baseline,15872.0,2972.0,,
+2022-12-15,GPT-3,GPT-3,technology,flat-baseline,14416.0,2972.0,,
+2022-12-16,GPT-3,GPT-3,technology,flat-baseline,13843.0,2972.0,,
+2022-12-17,GPT-3,GPT-3,technology,flat-baseline,10573.0,2972.0,,
+2022-12-18,GPT-3,GPT-3,technology,flat-baseline,9465.0,2972.0,,
+2022-12-19,GPT-3,GPT-3,technology,flat-baseline,12296.0,2972.0,,
+2022-12-20,GPT-3,GPT-3,technology,flat-baseline,11857.0,2972.0,,
+2022-12-21,GPT-3,GPT-3,technology,flat-baseline,10592.0,2972.0,,
+2022-12-22,GPT-3,GPT-3,technology,flat-baseline,9163.0,2972.0,,
+2022-12-23,GPT-3,GPT-3,technology,flat-baseline,8537.0,2972.0,,
+2022-12-24,GPT-3,GPT-3,technology,flat-baseline,6837.0,2972.0,,
+2022-12-25,GPT-3,GPT-3,technology,flat-baseline,7368.0,2972.0,,
+2022-12-26,GPT-3,GPT-3,technology,flat-baseline,8223.0,2972.0,,
+2022-12-27,GPT-3,GPT-3,technology,flat-baseline,8372.0,2972.0,,
+2022-12-28,GPT-3,GPT-3,technology,flat-baseline,8318.0,2972.0,,
+2022-12-29,GPT-3,GPT-3,technology,flat-baseline,9096.0,2972.0,,
+2022-12-30,GPT-3,GPT-3,technology,flat-baseline,8025.0,2972.0,,
+2022-12-31,GPT-3,GPT-3,technology,flat-baseline,5642.0,2972.0,,
+2023-01-01,GPT-3,GPT-3,technology,flat-baseline,5895.0,2972.0,,
+2023-01-02,GPT-3,GPT-3,technology,flat-baseline,8038.0,2972.0,,
+2023-01-03,GPT-3,GPT-3,technology,flat-baseline,9618.0,2972.0,,
+2023-01-04,GPT-3,GPT-3,technology,flat-baseline,10286.0,2972.0,,
+2023-01-05,GPT-3,GPT-3,technology,flat-baseline,10721.0,2972.0,,
+2023-01-06,GPT-3,GPT-3,technology,flat-baseline,10281.0,2972.0,,
+2022-12-08,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,18998.0,16648.5,,
+2022-12-09,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,17613.0,16648.5,,
+2022-12-10,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,16580.0,16648.5,,
+2022-12-11,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,18023.0,16648.5,,
+2022-12-12,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,21097.0,16648.5,,
+2022-12-13,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,19285.0,16648.5,,
+2022-12-14,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,16026.0,16648.5,,
+2022-12-15,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,15312.0,16648.5,,
+2022-12-16,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,14039.0,16648.5,,
+2022-12-17,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,12326.0,16648.5,,
+2022-12-18,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,13206.0,16648.5,,
+2022-12-19,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,15606.0,16648.5,,
+2022-12-20,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,16263.0,16648.5,,
+2022-12-21,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,15893.0,16648.5,,
+2022-12-22,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,12779.0,16648.5,,
+2022-12-23,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,11871.0,16648.5,,
+2022-12-24,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9913.0,16648.5,,
+2022-12-25,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9396.0,16648.5,,
+2022-12-26,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,11428.0,16648.5,,
+2022-12-27,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,13437.0,16648.5,,
+2022-12-28,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,11401.0,16648.5,,
+2022-12-29,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,11489.0,16648.5,,
+2022-12-30,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,7875.0,16648.5,,
+2022-12-31,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,6764.0,16648.5,,
+2023-01-01,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,6752.0,16648.5,,
+2023-01-02,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9078.0,16648.5,,
+2023-01-03,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9775.0,16648.5,,
+2023-01-04,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9955.0,16648.5,,
+2023-01-05,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9857.0,16648.5,,
+2023-01-06,Artificial_intelligence,Artificial intelligence,idea,flat-baseline,9311.0,16648.5,,
+2022-12-08,Sam_Altman,Sam Altman,person,flat-baseline,12257.0,946.0,,
+2022-12-09,Sam_Altman,Sam Altman,person,flat-baseline,9824.0,946.0,,
+2022-12-10,Sam_Altman,Sam Altman,person,flat-baseline,7720.0,946.0,,
+2022-12-11,Sam_Altman,Sam Altman,person,flat-baseline,9754.0,946.0,,
+2022-12-12,Sam_Altman,Sam Altman,person,flat-baseline,10656.0,946.0,,
+2022-12-13,Sam_Altman,Sam Altman,person,flat-baseline,9045.0,946.0,,
+2022-12-14,Sam_Altman,Sam Altman,person,flat-baseline,8725.0,946.0,,
+2022-12-15,Sam_Altman,Sam Altman,person,flat-baseline,8462.0,946.0,,
+2022-12-16,Sam_Altman,Sam Altman,person,flat-baseline,9669.0,946.0,,
+2022-12-17,Sam_Altman,Sam Altman,person,flat-baseline,7776.0,946.0,,
+2022-12-18,Sam_Altman,Sam Altman,person,flat-baseline,7358.0,946.0,,
+2022-12-19,Sam_Altman,Sam Altman,person,flat-baseline,8342.0,946.0,,
+2022-12-20,Sam_Altman,Sam Altman,person,flat-baseline,7628.0,946.0,,
+2022-12-21,Sam_Altman,Sam Altman,person,flat-baseline,7390.0,946.0,,
+2022-12-22,Sam_Altman,Sam Altman,person,flat-baseline,8507.0,946.0,,
+2022-12-23,Sam_Altman,Sam Altman,person,flat-baseline,6582.0,946.0,,
+2022-12-24,Sam_Altman,Sam Altman,person,flat-baseline,5084.0,946.0,,
+2022-12-25,Sam_Altman,Sam Altman,person,flat-baseline,4694.0,946.0,,
+2022-12-26,Sam_Altman,Sam Altman,person,flat-baseline,5412.0,946.0,,
+2022-12-27,Sam_Altman,Sam Altman,person,flat-baseline,6028.0,946.0,,
+2022-12-28,Sam_Altman,Sam Altman,person,flat-baseline,6755.0,946.0,,
+2022-12-29,Sam_Altman,Sam Altman,person,flat-baseline,5816.0,946.0,,
+2022-12-30,Sam_Altman,Sam Altman,person,flat-baseline,5163.0,946.0,,
+2022-12-31,Sam_Altman,Sam Altman,person,flat-baseline,3826.0,946.0,,
+2023-01-01,Sam_Altman,Sam Altman,person,flat-baseline,3648.0,946.0,,
+2023-01-02,Sam_Altman,Sam Altman,person,flat-baseline,4835.0,946.0,,
+2023-01-03,Sam_Altman,Sam Altman,person,flat-baseline,5232.0,946.0,,
+2023-01-04,Sam_Altman,Sam Altman,person,flat-baseline,6478.0,946.0,,
+2023-01-05,Sam_Altman,Sam Altman,person,flat-baseline,11022.0,946.0,,
+2023-01-06,Sam_Altman,Sam Altman,person,flat-baseline,19226.0,946.0,,

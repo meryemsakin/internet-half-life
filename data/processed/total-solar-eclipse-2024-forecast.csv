@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,7145.0,12060.912109375,8144.33203125,17049.9296875
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,5859.0,11149.67578125,6925.27685546875,16441.25390625
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,5251.0,11466.5439453125,6285.58056640625,17978.64453125
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,4793.0,11595.609375,6491.2177734375,19019.8984375
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,5460.0,11048.048828125,6322.24072265625,18317.9296875
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,4462.0,10223.6337890625,5961.21435546875,17372.578125
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,4968.0,10024.97265625,5930.9443359375,16849.90625
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,4457.0,8648.9560546875,4761.80419921875,15442.494140625
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,3829.0,8720.6884765625,4408.68505859375,15538.1240234375
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2855.0,8112.56640625,4226.4091796875,15212.2099609375
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2715.0,7699.0732421875,3530.51171875,14366.412109375
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2419.0,7425.9541015625,3482.56640625,13984.1689453125
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2364.0,6638.52490234375,2434.0146484375,12357.828125
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2535.0,6821.984375,2773.22314453125,12701.3623046875
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2251.0,6147.5703125,1919.404296875,11906.716796875
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2230.0,5944.7060546875,1662.79541015625,11732.4931640625
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2216.0,5123.17822265625,311.96875,11398.9453125
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2698.0,4764.58642578125,657.84765625,10477.041015625
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2095.0,4525.9853515625,335.876953125,10580.779296875
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1950.0,4479.83544921875,0.0,10760.263671875
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,2056.0,4234.02978515625,0.0,10260.3076171875
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1941.0,3964.22998046875,0.0,9718.5810546875
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1796.0,3603.02197265625,0.0,8945.33203125
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1431.0,3547.43115234375,0.0,8875.5419921875
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1338.0,3416.58984375,0.0,8773.806640625
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1621.0,3292.7060546875,0.0,8368.4345703125
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1300.0,3095.13330078125,0.0,8528.0537109375
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,1112.0,2870.40673828125,0.0,7943.255859375
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,803.0,2866.06494140625,0.0,8629.63671875
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-multivariate,730.0,2428.5888671875,0.0,7380.6044921875
+2024-04-16,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,17710.0,15214.94921875,12532.65234375,18827.54296875
+2024-04-17,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,13162.0,13330.6318359375,10331.55078125,17872.171875
+2024-04-18,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,11666.0,12185.5283203125,8960.48828125,17277.541015625
+2024-04-19,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,10075.0,10536.779296875,7505.56884765625,15602.3115234375
+2024-04-20,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,21291.0,8824.216796875,6173.1142578125,13768.9296875
+2024-04-21,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,10600.0,7827.6865234375,5200.8154296875,12860.3232421875
+2024-04-22,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,13307.0,7913.822265625,5278.05908203125,12934.845703125
+2024-04-23,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,12779.0,7832.25048828125,5214.6025390625,13082.8125
+2024-04-24,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,8166.0,7042.74365234375,4360.4951171875,12216.564453125
+2024-04-25,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,6063.0,6393.45703125,4003.827880859375,11210.509765625
+2024-04-26,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,5120.0,5672.16796875,3282.941650390625,10138.064453125
+2024-04-27,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4450.0,4983.1123046875,2792.9404296875,9162.15625
+2024-04-28,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4102.0,4658.9814453125,2857.273681640625,8239.119140625
+2024-04-29,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4805.0,4751.3251953125,2720.511474609375,8430.7763671875
+2024-04-30,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4130.0,4710.740234375,2913.488037109375,8222.181640625
+2024-05-01,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4306.0,4419.82763671875,2607.431396484375,7661.486328125
+2024-05-02,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4377.0,3952.267333984375,2469.54541015625,6977.8857421875
+2024-05-03,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4069.0,3628.72119140625,2378.63232421875,6302.5458984375
+2024-05-04,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,3773.0,3259.06640625,2064.577392578125,6019.78125
+2024-05-05,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,3585.0,3332.63818359375,2152.341796875,5860.01416015625
+2024-05-06,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,4307.0,3605.171875,2001.8173828125,6382.78955078125
+2024-05-07,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,3931.0,3439.09130859375,1623.967529296875,6247.568359375
+2024-05-08,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,3371.0,2911.221923828125,1392.4140625,5655.50927734375
+2024-05-09,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2878.0,3012.39013671875,1092.44384765625,5673.7255859375
+2024-05-10,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2196.0,2915.392578125,980.01611328125,5647.671875
+2024-05-11,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2262.0,2486.20654296875,679.90234375,4975.35400390625
+2024-05-12,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2352.0,2423.7060546875,446.20068359375,4915.62890625
+2024-05-13,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2401.0,2541.080078125,925.916015625,4648.22265625
+2024-05-14,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2473.0,2482.330810546875,860.1630859375,4678.208984375
+2024-05-15,Solar_eclipse,Solar eclipse,idea,timesfm-multivariate,2095.0,2401.200439453125,541.64404296875,4769.3720703125
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,2.57334566116333,0.2785012722015381,7.333342552185059
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,2.176013946533203,0.0,8.518369674682617
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,4.0,1.8943771123886108,0.0,9.226555824279783
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,2.0,1.569200038909912,0.0,9.558255195617676
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,2.0,1.3241175413131714,0.0,10.221953392028809
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,1.0,1.0740617513656616,0.0,10.636473655700684
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,3.0,1.016701579093933,0.0,11.04436492919922
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.8846188187599182,0.0,11.21743106842041
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.7515625953674316,0.0,11.196030616760254
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.6651208996772766,0.0,11.370089530944824
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,2.0,0.4635037779808044,0.0,11.04905128479004
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.3231545090675354,0.0,10.745595932006836
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.2318205833435058,0.0,10.740534782409668
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.2672066688537597,0.0,10.204252243041992
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.2114222049713134,0.0,9.684476852416992
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,3.0,0.1434439420700073,0.0,9.065656661987305
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0393404960632324,0.0,8.194585800170898
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,7.318485736846924
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,1.0,0.0,0.0,7.276602268218994
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.97066593170166
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.854377269744873
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.758307456970215
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.860939979553223
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.566226959228516
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,1.0,0.0,0.0,6.516754150390625
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,1.0,0.0,0.0,6.2727861404418945
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.348106861114502
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,1.0,0.0,0.0,6.27189826965332
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.33413028717041
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,timesfm-multivariate,0.0,0.0,0.0,6.254875659942627
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,67.0,102.4639129638672,62.641578674316406,147.50160217285156
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,41.0,89.94818115234375,54.06801986694336,130.3812713623047
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,41.0,83.7197036743164,45.782958984375,129.7139892578125
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,44.0,79.66706848144531,44.44354248046875,126.98121643066406
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,38.0,77.47197723388672,43.125736236572266,124.81803894042967
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,46.0,71.29190826416016,37.713008880615234,117.21234130859376
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,43.0,73.26946258544922,38.88990783691406,119.86622619628906
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,26.0,70.14441680908203,37.51681900024414,116.6333236694336
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,27.0,69.80194854736328,34.38020706176758,115.0376434326172
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,25.0,58.12795639038086,26.654693603515625,105.64417266845705
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,20.0,52.05300521850586,17.28759002685547,100.02140808105467
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,18.0,50.91507339477539,18.027313232421875,93.02619934082033
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,14.0,47.12256622314453,18.14291000366211,87.89520263671875
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,27.0,51.40573501586914,21.101959228515625,86.53656005859375
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,18.0,48.083213806152344,18.729976654052734,84.16636657714844
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,19.0,44.64863967895508,14.806838989257812,78.60466003417969
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,18.0,45.92533874511719,16.599014282226562,78.45638275146484
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,18.0,36.08196258544922,3.914257049560547,73.17891693115234
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,12.0,39.01015853881836,9.390178680419922,76.6978988647461
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,16.0,41.412742614746094,11.800765991210938,79.04698944091797
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,9.0,44.98981094360352,16.12427520751953,83.8862075805664
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,9.0,40.17011260986328,9.47866439819336,80.13398742675781
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,13.0,35.866600036621094,2.83740234375,76.72251892089844
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,18.0,38.79548645019531,3.3070640563964844,73.85856628417969
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,11.0,38.70721435546875,0.0,78.10621643066406
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,20.0,34.617958068847656,0.0,71.75983428955078
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,15.0,34.51261520385742,0.0,73.93489074707031
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,22.0,34.85908889770508,0.0,72.73812103271484
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,13.0,40.66960906982422,0.5125350952148438,76.3702392578125
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,timesfm-multivariate,11.0,38.646202087402344,0.0,73.83001708984375
+2024-04-16,Saros,Saros,idea,timesfm-multivariate,11.0,10.46921730041504,5.8710737228393555,17.454355239868164
+2024-04-17,Saros,Saros,idea,timesfm-multivariate,8.0,9.945045471191406,4.914674282073975,18.201770782470703
+2024-04-18,Saros,Saros,idea,timesfm-multivariate,10.0,9.594564437866213,4.349575996398926,18.41679573059082
+2024-04-19,Saros,Saros,idea,timesfm-multivariate,3.0,9.250107765197754,4.027345180511475,18.28541374206543
+2024-04-20,Saros,Saros,idea,timesfm-multivariate,5.0,8.764747619628906,3.8004961013793945,17.95559310913086
+2024-04-21,Saros,Saros,idea,timesfm-multivariate,10.0,8.241291046142578,3.5177059173583984,17.571483612060547
+2024-04-22,Saros,Saros,idea,timesfm-multivariate,10.0,7.821862697601318,3.1991934776306152,17.31414031982422
+2024-04-23,Saros,Saros,idea,timesfm-multivariate,8.0,7.755602359771728,3.205846786499023,17.519710540771484
+2024-04-24,Saros,Saros,idea,timesfm-multivariate,5.0,7.801858901977539,3.2822957038879395,17.902023315429688
+2024-04-25,Saros,Saros,idea,timesfm-multivariate,12.0,7.935196876525879,3.364999771118164,18.308574676513672
+2024-04-26,Saros,Saros,idea,timesfm-multivariate,5.0,7.955991744995117,3.3779258728027344,18.38527488708496
+2024-04-27,Saros,Saros,idea,timesfm-multivariate,9.0,7.662956237792969,3.3274240493774414,18.056316375732425
+2024-04-28,Saros,Saros,idea,timesfm-multivariate,7.0,7.313945770263672,3.234877586364746,17.45840835571289
+2024-04-29,Saros,Saros,idea,timesfm-multivariate,6.0,7.020569801330566,3.0029282569885254,17.19293212890625
+2024-04-30,Saros,Saros,idea,timesfm-multivariate,6.0,6.993831157684326,2.8825621604919434,17.176977157592773
+2024-05-01,Saros,Saros,idea,timesfm-multivariate,16.0,7.0828399658203125,3.002971649169922,17.20464515686035
+2024-05-02,Saros,Saros,idea,timesfm-multivariate,3.0,7.188536643981934,3.0921168327331543,17.31636619567871
+2024-05-03,Saros,Saros,idea,timesfm-multivariate,2.0,7.154602527618408,2.9709396362304688,17.318714141845703
+2024-05-04,Saros,Saros,idea,timesfm-multivariate,9.0,6.928252220153809,2.936209201812744,16.94690704345703
+2024-05-05,Saros,Saros,idea,timesfm-multivariate,7.0,6.685239791870117,2.8815741539001465,16.443401336669922
+2024-05-06,Saros,Saros,idea,timesfm-multivariate,14.0,6.41731595993042,2.5820505619049072,16.096067428588867
+2024-05-07,Saros,Saros,idea,timesfm-multivariate,3.0,6.389864921569824,2.5085268020629883,16.142894744873047
+2024-05-08,Saros,Saros,idea,timesfm-multivariate,7.0,6.521831512451172,2.671748638153076,16.303115844726562
+2024-05-09,Saros,Saros,idea,timesfm-multivariate,4.0,6.664342403411865,2.5720739364624023,16.542924880981445
+2024-05-10,Saros,Saros,idea,timesfm-multivariate,4.0,6.673792362213135,2.6286463737487793,16.58344268798828
+2024-05-11,Saros,Saros,idea,timesfm-multivariate,7.0,6.55344820022583,2.5632994174957275,16.446704864501953
+2024-05-12,Saros,Saros,idea,timesfm-multivariate,3.0,6.335702896118164,2.6527469158172607,15.87353801727295
+2024-05-13,Saros,Saros,idea,timesfm-multivariate,4.0,6.077542304992676,2.423203945159912,15.376221656799316
+2024-05-14,Saros,Saros,idea,timesfm-multivariate,6.0,6.0533952713012695,2.3992035388946533,15.497846603393556
+2024-05-15,Saros,Saros,idea,timesfm-multivariate,10.0,6.249669551849365,2.4552431106567383,15.736169815063477
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,7145.0,11006.9150390625,6364.326171875,16508.15625
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,5859.0,9278.5654296875,4459.72998046875,14689.29296875
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,5251.0,8598.84375,3093.71484375,15225.0849609375
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,4793.0,8457.671875,3162.72998046875,15482.99609375
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,5460.0,8129.3115234375,3177.96337890625,15135.583984375
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,4462.0,7234.2666015625,2727.94384765625,14032.33984375
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,4968.0,7141.83251953125,2977.279296875,13797.0380859375
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,4457.0,5857.96533203125,1542.8935546875,12358.3935546875
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,3829.0,5716.5322265625,1000.77197265625,12203.2900390625
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2855.0,4756.7646484375,624.53515625,11401.8505859375
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2715.0,4283.46826171875,0.0,10296.810546875
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2419.0,4220.072265625,0.0,10030.27734375
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2364.0,3382.48974609375,0.0,8657.77734375
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2535.0,3617.80810546875,0.0,9083.75
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2251.0,3230.353515625,0.0,9152.72265625
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2230.0,3089.763671875,0.0,8243.6435546875
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2216.0,2156.30859375,0.0,7751.2021484375
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2698.0,1498.02392578125,0.0,6970.4169921875
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2095.0,1363.73291015625,0.0,6989.1640625
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1950.0,1552.8876953125,0.0,7099.96337890625
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,2056.0,1256.185546875,0.0,7093.20068359375
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1941.0,1000.20263671875,0.0,6440.4775390625
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1796.0,555.6494140625,0.0,5729.525390625
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1431.0,627.7822265625,0.0,5575.625
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1338.0,514.787109375,0.0,5608.2373046875
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1621.0,272.5810546875,0.0,5012.44775390625
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1300.0,195.3935546875,0.0,5100.291015625
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,1112.0,0.0,0.0,4956.814453125
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,803.0,0.0,0.0,5234.98095703125
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,timesfm-univariate,730.0,0.0,0.0,4008.9052734375
+2024-04-16,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,17710.0,14413.427734375,11741.564453125,17108.38671875
+2024-04-17,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,13162.0,12503.06640625,9730.138671875,15448.2001953125
+2024-04-18,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,11666.0,11102.359375,8277.8994140625,14481.3623046875
+2024-04-19,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,10075.0,9630.53125,7032.25927734375,12943.2421875
+2024-04-20,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,21291.0,8251.17578125,5949.99365234375,11586.1484375
+2024-04-21,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,10600.0,7485.7431640625,5470.0537109375,10758.599609375
+2024-04-22,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,13307.0,7378.80712890625,5441.982421875,10578.3125
+2024-04-23,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,12779.0,6747.4912109375,4928.68408203125,9963.12890625
+2024-04-24,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,8166.0,6206.638671875,4215.75048828125,9317.5009765625
+2024-04-25,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,6063.0,5696.43505859375,3861.4814453125,8820.05078125
+2024-04-26,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,5120.0,5131.224609375,3066.84423828125,8126.552734375
+2024-04-27,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4450.0,4787.79736328125,2803.717529296875,7697.0634765625
+2024-04-28,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4102.0,4605.71337890625,2797.41162109375,7207.3564453125
+2024-04-29,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4805.0,4757.0849609375,2971.777099609375,7311.72802734375
+2024-04-30,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4130.0,4595.5927734375,2766.060302734375,7309.6064453125
+2024-05-01,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4306.0,4391.06298828125,2649.03759765625,6673.03125
+2024-05-02,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4377.0,4180.61376953125,2626.713134765625,6409.2060546875
+2024-05-03,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4069.0,3802.431884765625,2356.3583984375,5918.5263671875
+2024-05-04,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,3773.0,3498.14599609375,2000.137451171875,5724.3671875
+2024-05-05,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,3585.0,3498.3369140625,2056.7041015625,5558.181640625
+2024-05-06,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,4307.0,3680.8603515625,1979.39794921875,5844.8125
+2024-05-07,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,3931.0,3441.0302734375,1536.990234375,5651.25439453125
+2024-05-08,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,3371.0,3027.083740234375,1404.623291015625,5285.99755859375
+2024-05-09,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2878.0,2986.433837890625,980.6484375,5084.322265625
+2024-05-10,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2196.0,2923.247314453125,871.7431640625,5113.39501953125
+2024-05-11,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2262.0,2573.32763671875,582.98974609375,4517.09765625
+2024-05-12,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2352.0,2462.714599609375,333.3779296875,4435.64208984375
+2024-05-13,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2401.0,2457.872314453125,628.57861328125,4151.10302734375
+2024-05-14,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2473.0,2444.455322265625,578.76904296875,4191.0908203125
+2024-05-15,Solar_eclipse,Solar eclipse,idea,timesfm-univariate,2095.0,2260.097412109375,370.9765625,4035.91650390625
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,4.999611854553223,0.9461473822593688,12.297456741333008
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,4.877409934997559,0.6584467887878418,13.109357833862305
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,4.0,4.412400722503662,0.2672644853591919,12.85918426513672
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,2.0,3.7596514225006104,0.0,12.261247634887695
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,2.0,3.366249084472656,0.0,11.897274017333984
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,1.0,3.469363212585449,0.0,12.171032905578612
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,3.0,3.7843339443206783,0.0614546537399292,12.7606201171875
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,3.686574697494507,0.0,12.7570161819458
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,3.515848159790039,0.0,12.489945411682127
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,3.320279359817505,0.0,12.208939552307127
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,2.0,3.0228238105773926,0.0,11.655517578125
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.685389995574951,0.0,11.269322395324709
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.6728639602661133,0.0,11.472573280334473
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.9505043029785156,0.0,11.83694076538086
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.916750431060791,0.0,11.845656394958496
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,3.0,2.854308843612671,0.0,11.751952171325684
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.7085418701171875,0.0,11.657855987548828
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.5233845710754395,0.0,11.118041038513184
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,1.0,2.2988007068634033,0.0,10.873430252075195
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.4532222747802734,0.0,11.04595184326172
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.753424644470215,0.0,11.6470365524292
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.765159368515014,0.0,11.797136306762695
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.662965774536133,0.0,11.70950698852539
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.5243802070617676,0.0,11.39053726196289
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,1.0,2.354142189025879,0.0,11.199262619018556
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,1.0,2.151837110519409,0.0,10.870586395263672
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.1807303428649902,0.0,11.059776306152344
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,1.0,2.4170994758605957,0.0,11.996590614318848
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.415219783782959,0.0,12.040974617004396
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,timesfm-univariate,0.0,2.3392207622528076,0.0,11.550402641296388
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,67.0,97.67327880859376,45.77622985839844,170.43438720703125
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,41.0,89.79564666748047,40.86591720581055,165.60572814941406
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,41.0,85.9688491821289,37.30241394042969,169.85946655273438
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,44.0,83.2080078125,38.36952209472656,165.94935607910156
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,38.0,82.10224151611328,42.70582580566406,163.2496337890625
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,46.0,77.74397277832031,41.955657958984375,154.75308227539062
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,43.0,78.84806060791016,44.271728515625,156.25924682617188
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,26.0,74.89482116699219,43.47270202636719,148.387939453125
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,27.0,73.65491485595703,38.84456634521485,144.81593322753906
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,25.0,61.934539794921875,32.88749694824219,132.17718505859375
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,20.0,55.344200134277344,25.747875213623047,123.6802749633789
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,18.0,55.22845458984375,27.057804107666016,117.00234985351562
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,14.0,52.87994766235352,23.78575134277344,114.26438903808594
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,27.0,53.47712326049805,26.65723419189453,111.43561553955078
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,18.0,52.279537200927734,23.486160278320312,112.06854248046876
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,19.0,51.35749053955078,24.661399841308594,103.59860229492188
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,18.0,48.44355010986328,21.46724319458008,98.27398681640624
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,18.0,39.354026794433594,13.529136657714844,87.21967315673828
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,12.0,39.724456787109375,14.136466979980469,87.01651763916016
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,16.0,41.79046630859375,17.947341918945312,84.97117614746094
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,9.0,43.041255950927734,16.069957733154297,87.96070861816406
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,9.0,39.81407928466797,6.918132781982422,85.03343200683594
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,13.0,36.85344314575195,11.34902572631836,77.969482421875
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,18.0,40.733787536621094,8.205699920654297,77.9723892211914
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,11.0,38.502891540527344,1.9782943725585935,81.93903350830078
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,20.0,33.59236145019531,0.0,73.82862854003906
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,15.0,33.95830154418945,0.0,74.75325775146484
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,22.0,33.69647216796875,0.0,71.42168426513672
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,13.0,40.1040153503418,0.14617919921875,84.0273208618164
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,timesfm-univariate,11.0,39.40964889526367,0.0,82.70591735839844
+2024-04-16,Saros,Saros,idea,timesfm-univariate,11.0,11.058366775512695,6.093355655670166,18.52109718322754
+2024-04-17,Saros,Saros,idea,timesfm-univariate,8.0,10.865104675292969,5.550790786743164,19.647048950195312
+2024-04-18,Saros,Saros,idea,timesfm-univariate,10.0,10.83684539794922,5.371281623840332,19.99571228027344
+2024-04-19,Saros,Saros,idea,timesfm-univariate,3.0,10.323351860046388,4.954500198364258,19.512287139892575
+2024-04-20,Saros,Saros,idea,timesfm-univariate,5.0,9.13464641571045,4.145468711853027,17.949676513671875
+2024-04-21,Saros,Saros,idea,timesfm-univariate,10.0,7.974120616912842,3.325328826904297,16.449462890625
+2024-04-22,Saros,Saros,idea,timesfm-univariate,10.0,7.752322196960449,3.2403485774993896,15.912800788879396
+2024-04-23,Saros,Saros,idea,timesfm-univariate,8.0,7.804800987243652,3.274670124053955,15.877817153930664
+2024-04-24,Saros,Saros,idea,timesfm-univariate,5.0,7.932670593261719,3.3108811378479004,16.093364715576172
+2024-04-25,Saros,Saros,idea,timesfm-univariate,12.0,8.216965675354004,3.4913787841796875,16.549575805664062
+2024-04-26,Saros,Saros,idea,timesfm-univariate,5.0,8.21064281463623,3.458367347717285,16.41973114013672
+2024-04-27,Saros,Saros,idea,timesfm-univariate,9.0,7.381097316741943,3.0037484169006348,15.382864952087402
+2024-04-28,Saros,Saros,idea,timesfm-univariate,7.0,6.586508750915527,2.538396120071411,14.236485481262209
+2024-04-29,Saros,Saros,idea,timesfm-univariate,6.0,6.3600382804870605,2.4494383335113525,14.031624794006348
+2024-04-30,Saros,Saros,idea,timesfm-univariate,6.0,6.430366516113281,2.3934690952301025,14.235666275024414
+2024-05-01,Saros,Saros,idea,timesfm-univariate,16.0,6.7300705909729,2.6821470260620117,14.60548210144043
+2024-05-02,Saros,Saros,idea,timesfm-univariate,3.0,6.956171989440918,2.867971897125244,14.900068283081056
+2024-05-03,Saros,Saros,idea,timesfm-univariate,2.0,6.810355186462402,2.6844441890716553,14.737935066223145
+2024-05-04,Saros,Saros,idea,timesfm-univariate,9.0,6.180917739868164,2.305845022201538,13.858899116516112
+2024-05-05,Saros,Saros,idea,timesfm-univariate,7.0,5.597725868225098,1.929762363433838,12.959099769592283
+2024-05-06,Saros,Saros,idea,timesfm-univariate,14.0,5.431676387786865,1.8151378631591797,12.726764678955078
+2024-05-07,Saros,Saros,idea,timesfm-univariate,3.0,5.522934436798096,1.8024358749389648,12.91243839263916
+2024-05-08,Saros,Saros,idea,timesfm-univariate,7.0,5.824878692626953,2.070488691329956,13.30337619781494
+2024-05-09,Saros,Saros,idea,timesfm-univariate,4.0,6.156597137451172,2.117806196212769,13.827713012695312
+2024-05-10,Saros,Saros,idea,timesfm-univariate,4.0,6.095917701721191,2.143277883529663,13.714159965515137
+2024-05-11,Saros,Saros,idea,timesfm-univariate,7.0,5.5879058837890625,1.7969746589660645,13.029475212097168
+2024-05-12,Saros,Saros,idea,timesfm-univariate,3.0,5.0561933517456055,1.6473405361175537,12.067554473876951
+2024-05-13,Saros,Saros,idea,timesfm-univariate,4.0,4.911996364593506,1.5197441577911377,11.71339511871338
+2024-05-14,Saros,Saros,idea,timesfm-univariate,6.0,5.0206122398376465,1.5630831718444824,12.03692626953125
+2024-05-15,Saros,Saros,idea,timesfm-univariate,10.0,5.36799955368042,1.782982349395752,12.485376358032228
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,7145.0,41282.005582469064,,
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,5859.0,41282.000536745814,,
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,5251.0,41282.00005160728,,
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,4793.0,41282.00000496196,,
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,5460.0,41282.000000477085,,
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,4462.0,41282.00000004587,,
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,4968.0,41282.00000000441,,
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,4457.0,41282.00000000042,,
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,3829.0,41282.00000000005,,
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2855.0,41282.00000000001,,
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2715.0,41282.0,,
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2419.0,41282.0,,
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2364.0,41282.0,,
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2535.0,41282.0,,
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2251.0,41282.0,,
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2230.0,41282.0,,
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2216.0,41282.0,,
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2698.0,41282.0,,
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2095.0,41282.0,,
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1950.0,41282.0,,
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,2056.0,41282.0,,
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1941.0,41282.0,,
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1796.0,41282.0,,
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1431.0,41282.0,,
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1338.0,41282.0,,
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1621.0,41282.0,,
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1300.0,41282.0,,
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,1112.0,41282.0,,
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,803.0,41282.0,,
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,exponential-decay,730.0,41282.0,,
+2024-04-16,Solar_eclipse,Solar eclipse,idea,exponential-decay,17710.0,14776.452672906296,,
+2024-04-17,Solar_eclipse,Solar eclipse,idea,exponential-decay,13162.0,14527.778256927024,,
+2024-04-18,Solar_eclipse,Solar eclipse,idea,exponential-decay,11666.0,14422.265277469403,,
+2024-04-19,Solar_eclipse,Solar eclipse,idea,exponential-decay,10075.0,14377.495940060153,,
+2024-04-20,Solar_eclipse,Solar eclipse,idea,exponential-decay,21291.0,14358.50023372747,,
+2024-04-21,Solar_eclipse,Solar eclipse,idea,exponential-decay,10600.0,14350.440323084187,,
+2024-04-22,Solar_eclipse,Solar eclipse,idea,exponential-decay,13307.0,14347.02048923121,,
+2024-04-23,Solar_eclipse,Solar eclipse,idea,exponential-decay,12779.0,14345.56944788602,,
+2024-04-24,Solar_eclipse,Solar eclipse,idea,exponential-decay,8166.0,14344.953768564748,,
+2024-04-25,Solar_eclipse,Solar eclipse,idea,exponential-decay,6063.0,14344.6925347771,,
+2024-04-26,Solar_eclipse,Solar eclipse,idea,exponential-decay,5120.0,14344.581692834789,,
+2024-04-27,Solar_eclipse,Solar eclipse,idea,exponential-decay,4450.0,14344.53466240934,,
+2024-04-28,Solar_eclipse,Solar eclipse,idea,exponential-decay,4102.0,14344.51470731949,,
+2024-04-29,Solar_eclipse,Solar eclipse,idea,exponential-decay,4805.0,14344.50624034078,,
+2024-04-30,Solar_eclipse,Solar eclipse,idea,exponential-decay,4130.0,14344.502647787252,,
+2024-05-01,Solar_eclipse,Solar eclipse,idea,exponential-decay,4306.0,14344.501123460654,,
+2024-05-02,Solar_eclipse,Solar eclipse,idea,exponential-decay,4377.0,14344.500476686277,,
+2024-05-03,Solar_eclipse,Solar eclipse,idea,exponential-decay,4069.0,14344.5002022588,,
+2024-05-04,Solar_eclipse,Solar eclipse,idea,exponential-decay,3773.0,14344.500085818754,,
+2024-05-05,Solar_eclipse,Solar eclipse,idea,exponential-decay,3585.0,14344.500036413045,,
+2024-05-06,Solar_eclipse,Solar eclipse,idea,exponential-decay,4307.0,14344.500015450118,,
+2024-05-07,Solar_eclipse,Solar eclipse,idea,exponential-decay,3931.0,14344.50000655551,,
+2024-05-08,Solar_eclipse,Solar eclipse,idea,exponential-decay,3371.0,14344.500002781517,,
+2024-05-09,Solar_eclipse,Solar eclipse,idea,exponential-decay,2878.0,14344.500001180202,,
+2024-05-10,Solar_eclipse,Solar eclipse,idea,exponential-decay,2196.0,14344.500000500762,,
+2024-05-11,Solar_eclipse,Solar eclipse,idea,exponential-decay,2262.0,14344.500000212474,,
+2024-05-12,Solar_eclipse,Solar eclipse,idea,exponential-decay,2352.0,14344.500000090153,,
+2024-05-13,Solar_eclipse,Solar eclipse,idea,exponential-decay,2401.0,14344.500000038252,,
+2024-05-14,Solar_eclipse,Solar eclipse,idea,exponential-decay,2473.0,14344.50000001623,,
+2024-05-15,Solar_eclipse,Solar eclipse,idea,exponential-decay,2095.0,14344.500000006889,,
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.7659492899723,,
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.63427910526109,,
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,exponential-decay,4.0,5.567798181042697,,
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,exponential-decay,2.0,5.5342316352477985,,
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,exponential-decay,2.0,5.517283721092758,,
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,exponential-decay,1.0,5.50872663583407,,
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,exponential-decay,3.0,5.5044061213769755,,
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.50222467236605,,
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.501123248025379,,
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500567133455592,,
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,exponential-decay,2.0,5.500286348472629,,
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500144578752971,,
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500072998523857,,
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500036857313925,,
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500018609439178,,
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,exponential-decay,3.0,5.500009395997419,,
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500004744085335,,
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500002395312031,,
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,exponential-decay,1.0,5.500001209404832,,
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.5000006106344514,,
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500000308312339,,
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500000155668418,,
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.50000007859775,,
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500000039684391,,
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,exponential-decay,1.0,5.500000020036844,,
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,exponential-decay,1.0,5.500000010116701,,
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500000005107972,,
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,exponential-decay,1.0,5.50000000257904,,
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.50000000130217,,
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,exponential-decay,0.0,5.500000000657472,,
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,exponential-decay,67.0,102.10587356043948,,
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,exponential-decay,41.0,99.846076750757,,
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,exponential-decay,41.0,99.00249200049812,,
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,exponential-decay,44.0,98.68758084219388,,
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,exponential-decay,38.0,98.57002414431132,,
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,exponential-decay,46.0,98.52614009367473,,
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,exponential-decay,43.0,98.50975812705808,,
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,exponential-decay,26.0,98.50364272006316,,
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,exponential-decay,27.0,98.50135983159264,,
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,exponential-decay,25.0,98.5005076266988,,
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,exponential-decay,20.0,98.50018949763098,,
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,exponential-decay,18.0,98.50007073968378,,
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,exponential-decay,14.0,98.50002640720538,,
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,exponential-decay,27.0,98.50000985784015,,
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,exponential-decay,18.0,98.50000367994308,,
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,exponential-decay,19.0,98.500001373727,,
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,exponential-decay,18.0,98.50000051281388,,
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,exponential-decay,18.0,98.500000191434,,
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,exponential-decay,12.0,98.50000007146254,,
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,exponential-decay,16.0,98.50000002667704,,
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,exponential-decay,9.0,98.50000000995855,,
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,exponential-decay,9.0,98.50000000371756,,
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,exponential-decay,13.0,98.50000000138776,,
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,exponential-decay,18.0,98.50000000051806,,
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,exponential-decay,11.0,98.5000000001934,,
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,exponential-decay,20.0,98.5000000000722,,
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,exponential-decay,15.0,98.50000000002694,,
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,exponential-decay,22.0,98.50000000001006,,
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,exponential-decay,13.0,98.50000000000377,,
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,exponential-decay,11.0,98.5000000000014,,
+2024-04-16,Saros,Saros,idea,exponential-decay,11.0,9.277102657844589,,
+2024-04-17,Saros,Saros,idea,exponential-decay,8.0,8.3326472736671,,
+2024-04-18,Saros,Saros,idea,exponential-decay,10.0,7.6603823167765395,,
+2024-04-19,Saros,Saros,idea,exponential-decay,3.0,7.181862971305653,,
+2024-04-20,Saros,Saros,idea,exponential-decay,5.0,6.841252083228139,,
+2024-04-21,Saros,Saros,idea,exponential-decay,10.0,6.598804670861167,,
+2024-04-22,Saros,Saros,idea,exponential-decay,10.0,6.426230188303631,,
+2024-04-23,Saros,Saros,idea,exponential-decay,8.0,6.3033913766238285,,
+2024-04-24,Saros,Saros,idea,exponential-decay,5.0,6.215954500491954,,
+2024-04-25,Saros,Saros,idea,exponential-decay,12.0,6.153716782598449,,
+2024-04-26,Saros,Saros,idea,exponential-decay,5.0,6.109415868613951,,
+2024-04-27,Saros,Saros,idea,exponential-decay,9.0,6.077882402312693,,
+2024-04-28,Saros,Saros,idea,exponential-decay,7.0,6.055436827096786,,
+2024-04-29,Saros,Saros,idea,exponential-decay,6.0,6.0394600282900885,,
+2024-04-30,Saros,Saros,idea,exponential-decay,6.0,6.028087715589063,,
+2024-05-01,Saros,Saros,idea,exponential-decay,16.0,6.019992883968871,,
+2024-05-02,Saros,Saros,idea,exponential-decay,3.0,6.014230968984476,,
+2024-05-03,Saros,Saros,idea,exponential-decay,2.0,6.010129628049282,,
+2024-05-04,Saros,Saros,idea,exponential-decay,9.0,6.007210286560861,,
+2024-05-05,Saros,Saros,idea,exponential-decay,7.0,6.005132294299139,,
+2024-05-06,Saros,Saros,idea,exponential-decay,14.0,6.0036531758551686,,
+2024-05-07,Saros,Saros,idea,exponential-decay,3.0,6.002600336818374,,
+2024-05-08,Saros,Saros,idea,exponential-decay,7.0,6.001850924192282,,
+2024-05-09,Saros,Saros,idea,exponential-decay,4.0,6.001317491003999,,
+2024-05-10,Saros,Saros,idea,exponential-decay,4.0,6.000937792348739,,
+2024-05-11,Saros,Saros,idea,exponential-decay,7.0,6.000667522196876,,
+2024-05-12,Saros,Saros,idea,exponential-decay,3.0,6.000475143440785,,
+2024-05-13,Saros,Saros,idea,exponential-decay,4.0,6.000338207913352,,
+2024-05-14,Saros,Saros,idea,exponential-decay,6.0,6.0002407369708495,,
+2024-05-15,Saros,Saros,idea,exponential-decay,10.0,6.000171356987361,,
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,7145.0,41282.16833537463,,
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,5859.0,41282.07108471133,,
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,5251.0,41282.032590494,,
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,4793.0,41282.01599173282,,
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,5460.0,41282.00830736539,,
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,4462.0,41282.004530229635,,
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,4968.0,41282.00257604627,,
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,4457.0,41282.00151920248,,
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,3829.0,41282.00092509371,,
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2855.0,41282.00057952607,,
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2715.0,41282.00037234438,,
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2419.0,41282.00024472244,,
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2364.0,41282.00016417146,,
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2535.0,41282.00011219888,,
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2251.0,41282.00007798821,,
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2230.0,41282.00005505454,,
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2216.0,41282.00003942139,,
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2698.0,41282.000028599665,,
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2095.0,41282.000021001506,,
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1950.0,41282.00001559617,,
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,2056.0,41282.00001170363,,
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1941.0,41282.00000886852,,
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1796.0,41282.00000678161,,
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1431.0,41282.00000523014,,
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1338.0,41282.00000406599,,
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1621.0,41282.00000318481,,
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1300.0,41282.00000251232,,
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,1112.0,41282.000001995126,,
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,803.0,41282.00000159444,,
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,power-law-decay,730.0,41282.000001281864,,
+2024-04-16,Solar_eclipse,Solar eclipse,idea,power-law-decay,17710.0,15970.85255100944,,
+2024-04-17,Solar_eclipse,Solar eclipse,idea,power-law-decay,13162.0,15542.040970679696,,
+2024-04-18,Solar_eclipse,Solar eclipse,idea,power-law-decay,11666.0,15252.416087666048,,
+2024-04-19,Solar_eclipse,Solar eclipse,idea,power-law-decay,10075.0,15049.632820465433,,
+2024-04-20,Solar_eclipse,Solar eclipse,idea,power-law-decay,21291.0,14903.340559644812,,
+2024-04-21,Solar_eclipse,Solar eclipse,idea,power-law-decay,10600.0,14795.101107213144,,
+2024-04-22,Solar_eclipse,Solar eclipse,idea,power-law-decay,13307.0,14713.265151626912,,
+2024-04-23,Solar_eclipse,Solar eclipse,idea,power-law-decay,12779.0,14650.222331968507,,
+2024-04-24,Solar_eclipse,Solar eclipse,idea,power-law-decay,8166.0,14600.855290440388,,
+2024-04-25,Solar_eclipse,Solar eclipse,idea,power-law-decay,6063.0,14561.63529459327,,
+2024-04-26,Solar_eclipse,Solar eclipse,idea,power-law-decay,5120.0,14530.074565451514,,
+2024-04-27,Solar_eclipse,Solar eclipse,idea,power-law-decay,4450.0,14504.384405933177,,
+2024-04-28,Solar_eclipse,Solar eclipse,idea,power-law-decay,4102.0,14483.255992231643,,
+2024-04-29,Solar_eclipse,Solar eclipse,idea,power-law-decay,4805.0,14465.71641586197,,
+2024-04-30,Solar_eclipse,Solar eclipse,idea,power-law-decay,4130.0,14451.03209485676,,
+2024-05-01,Solar_eclipse,Solar eclipse,idea,power-law-decay,4306.0,14438.64270147276,,
+2024-05-02,Solar_eclipse,Solar eclipse,idea,power-law-decay,4377.0,14428.11516509444,,
+2024-05-03,Solar_eclipse,Solar eclipse,idea,power-law-decay,4069.0,14419.111134882058,,
+2024-05-04,Solar_eclipse,Solar eclipse,idea,power-law-decay,3773.0,14411.36362453954,,
+2024-05-05,Solar_eclipse,Solar eclipse,idea,power-law-decay,3585.0,14404.66002132997,,
+2024-05-06,Solar_eclipse,Solar eclipse,idea,power-law-decay,4307.0,14398.82957113937,,
+2024-05-07,Solar_eclipse,Solar eclipse,idea,power-law-decay,3931.0,14393.73405431654,,
+2024-05-08,Solar_eclipse,Solar eclipse,idea,power-law-decay,3371.0,14389.260764635485,,
+2024-05-09,Solar_eclipse,Solar eclipse,idea,power-law-decay,2878.0,14385.317170037652,,
+2024-05-10,Solar_eclipse,Solar eclipse,idea,power-law-decay,2196.0,14381.826814755774,,
+2024-05-11,Solar_eclipse,Solar eclipse,idea,power-law-decay,2262.0,14378.726147015766,,
+2024-05-12,Solar_eclipse,Solar eclipse,idea,power-law-decay,2352.0,14375.962043382098,,
+2024-05-13,Solar_eclipse,Solar eclipse,idea,power-law-decay,2401.0,14373.489862086692,,
+2024-05-14,Solar_eclipse,Solar eclipse,idea,power-law-decay,2473.0,14371.271901377388,,
+2024-05-15,Solar_eclipse,Solar eclipse,idea,power-law-decay,2095.0,14369.276170402489,,
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,6.153713534642813,,
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,6.002532949950738,,
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,power-law-decay,4.0,5.89612963182511,,
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,power-law-decay,2.0,5.818791678191559,,
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,power-law-decay,2.0,5.761054667037584,,
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,power-law-decay,1.0,5.71696510178115,,
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,power-law-decay,3.0,5.682639060877526,,
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.655462796314474,,
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.633629518182413,,
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.615860686799113,,
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,power-law-decay,2.0,5.601232742718772,,
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.589066249411969,,
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.57885314273699,,
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.570207895006816,,
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.562834059890922,,
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,power-law-decay,3.0,5.556500930183888,,
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.551026978623673,,
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.546267931459633,,
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,power-law-decay,1.0,5.5421080588480605,,
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.538453732975773,,
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.535228607249178,,
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.532369969272821,,
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.529825953921862,,
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.52755339364749,,
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,power-law-decay,1.0,5.525516145780072,,
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,power-law-decay,1.0,5.523683780330032,,
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.5220305426972605,,
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,power-law-decay,1.0,5.5205345277926625,,
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.519177018032334,,
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,power-law-decay,0.0,5.517941949304084,,
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,power-law-decay,67.0,109.23285908529706,,
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,power-law-decay,41.0,105.76878816791876,,
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,power-law-decay,41.0,103.62931857948529,,
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,power-law-decay,44.0,102.24196394523383,,
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,power-law-decay,38.0,101.30585256030142,,
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,power-law-decay,46.0,100.65299997141832,,
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,power-law-decay,43.0,100.18481172436766,,
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,power-law-decay,26.0,99.84093921801004,,
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,power-law-decay,27.0,99.58309781607024,,
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,power-law-decay,25.0,99.38623829878634,,
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,power-law-decay,20.0,99.23352389401394,,
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,power-law-decay,18.0,99.11336648061956,,
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,power-law-decay,14.0,99.0176210464721,,
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,power-law-decay,27.0,98.94045423990694,,
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,power-law-decay,18.0,98.8776172727776,,
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,power-law-decay,19.0,98.82596800405008,,
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,power-law-decay,18.0,98.78315034755656,,
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,power-law-decay,18.0,98.74737520819956,,
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,power-law-decay,12.0,98.7172682552254,,
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,power-law-decay,16.0,98.69176250053266,,
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,power-law-decay,9.0,98.67002141597592,,
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,power-law-decay,9.0,98.65138318655517,,
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,power-law-decay,13.0,98.6353197994092,,
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,power-law-decay,18.0,98.62140668326856,,
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,power-law-decay,11.0,98.60929994234093,,
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,power-law-decay,20.0,98.59871911884956,,
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,power-law-decay,15.0,98.58943402296674,,
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,power-law-decay,22.0,98.58125458472388,,
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,power-law-decay,13.0,98.57402297200848,,
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,power-law-decay,11.0,98.5676074226343,,
+2024-04-16,Saros,Saros,idea,power-law-decay,11.0,11.810904023322044,,
+2024-04-17,Saros,Saros,idea,power-law-decay,8.0,11.17612050167698,,
+2024-04-18,Saros,Saros,idea,power-law-decay,10.0,10.66184018878446,,
+2024-04-19,Saros,Saros,idea,power-law-decay,3.0,10.237088391825004,,
+2024-04-20,Saros,Saros,idea,power-law-decay,5.0,9.880614973758824,,
+2024-04-21,Saros,Saros,idea,power-law-decay,10.0,9.577366709927563,,
+2024-04-22,Saros,Saros,idea,power-law-decay,10.0,9.316388602226713,,
+2024-04-23,Saros,Saros,idea,power-law-decay,8.0,9.089522382074154,,
+2024-04-24,Saros,Saros,idea,power-law-decay,5.0,8.890570408322718,,
+2024-04-25,Saros,Saros,idea,power-law-decay,12.0,8.714741985763855,,
+2024-04-26,Saros,Saros,idea,power-law-decay,5.0,8.55827689379823,,
+2024-04-27,Saros,Saros,idea,power-law-decay,9.0,8.418183400186713,,
+2024-04-28,Saros,Saros,idea,power-law-decay,7.0,8.292052161255773,,
+2024-04-29,Saros,Saros,idea,power-law-decay,6.0,8.177921583392338,,
+2024-04-30,Saros,Saros,idea,power-law-decay,6.0,8.074178800642013,,
+2024-05-01,Saros,Saros,idea,power-law-decay,16.0,7.979485757898312,,
+2024-05-02,Saros,Saros,idea,power-law-decay,3.0,7.892723286572463,,
+2024-05-03,Saros,Saros,idea,power-law-decay,2.0,7.812948270624555,,
+2024-05-04,Saros,Saros,idea,power-law-decay,9.0,7.739360468261255,,
+2024-05-05,Saros,Saros,idea,power-law-decay,7.0,7.671276546116864,,
+2024-05-06,Saros,Saros,idea,power-law-decay,14.0,7.608109563747591,,
+2024-05-07,Saros,Saros,idea,power-law-decay,3.0,7.549352621113597,,
+2024-05-08,Saros,Saros,idea,power-law-decay,7.0,7.494565717443424,,
+2024-05-09,Saros,Saros,idea,power-law-decay,4.0,7.443365110301536,,
+2024-05-10,Saros,Saros,idea,power-law-decay,4.0,7.395414637925416,,
+2024-05-11,Saros,Saros,idea,power-law-decay,7.0,7.350418595589555,,
+2024-05-12,Saros,Saros,idea,power-law-decay,3.0,7.308115851301245,,
+2024-05-13,Saros,Saros,idea,power-law-decay,4.0,7.268274956820885,,
+2024-05-14,Saros,Saros,idea,power-law-decay,6.0,7.230690063329845,,
+2024-05-15,Saros,Saros,idea,power-law-decay,10.0,7.1951774916483915,,
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,7145.0,235004.0,,
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,5859.0,73790.0,,
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,5251.0,41758.0,,
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,4793.0,26147.0,,
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,5460.0,19169.0,,
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,4462.0,14780.0,,
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,4968.0,13973.0,,
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,4457.0,235004.0,,
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,3829.0,73790.0,,
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2855.0,41758.0,,
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2715.0,26147.0,,
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2419.0,19169.0,,
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2364.0,14780.0,,
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2535.0,13973.0,,
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2251.0,235004.0,,
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2230.0,73790.0,,
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2216.0,41758.0,,
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2698.0,26147.0,,
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2095.0,19169.0,,
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1950.0,14780.0,,
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,2056.0,13973.0,,
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1941.0,235004.0,,
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1796.0,73790.0,,
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1431.0,41758.0,,
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1338.0,26147.0,,
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1621.0,19169.0,,
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1300.0,14780.0,,
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,1112.0,13973.0,,
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,803.0,235004.0,,
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,seasonal-naive,730.0,73790.0,,
+2024-04-16,Solar_eclipse,Solar eclipse,idea,seasonal-naive,17710.0,187325.0,,
+2024-04-17,Solar_eclipse,Solar eclipse,idea,seasonal-naive,13162.0,80704.0,,
+2024-04-18,Solar_eclipse,Solar eclipse,idea,seasonal-naive,11666.0,46164.0,,
+2024-04-19,Solar_eclipse,Solar eclipse,idea,seasonal-naive,10075.0,31545.0,,
+2024-04-20,Solar_eclipse,Solar eclipse,idea,seasonal-naive,21291.0,19747.0,,
+2024-04-21,Solar_eclipse,Solar eclipse,idea,seasonal-naive,10600.0,15092.0,,
+2024-04-22,Solar_eclipse,Solar eclipse,idea,seasonal-naive,13307.0,16882.0,,
+2024-04-23,Solar_eclipse,Solar eclipse,idea,seasonal-naive,12779.0,187325.0,,
+2024-04-24,Solar_eclipse,Solar eclipse,idea,seasonal-naive,8166.0,80704.0,,
+2024-04-25,Solar_eclipse,Solar eclipse,idea,seasonal-naive,6063.0,46164.0,,
+2024-04-26,Solar_eclipse,Solar eclipse,idea,seasonal-naive,5120.0,31545.0,,
+2024-04-27,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4450.0,19747.0,,
+2024-04-28,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4102.0,15092.0,,
+2024-04-29,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4805.0,16882.0,,
+2024-04-30,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4130.0,187325.0,,
+2024-05-01,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4306.0,80704.0,,
+2024-05-02,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4377.0,46164.0,,
+2024-05-03,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4069.0,31545.0,,
+2024-05-04,Solar_eclipse,Solar eclipse,idea,seasonal-naive,3773.0,19747.0,,
+2024-05-05,Solar_eclipse,Solar eclipse,idea,seasonal-naive,3585.0,15092.0,,
+2024-05-06,Solar_eclipse,Solar eclipse,idea,seasonal-naive,4307.0,16882.0,,
+2024-05-07,Solar_eclipse,Solar eclipse,idea,seasonal-naive,3931.0,187325.0,,
+2024-05-08,Solar_eclipse,Solar eclipse,idea,seasonal-naive,3371.0,80704.0,,
+2024-05-09,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2878.0,46164.0,,
+2024-05-10,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2196.0,31545.0,,
+2024-05-11,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2262.0,19747.0,,
+2024-05-12,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2352.0,15092.0,,
+2024-05-13,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2401.0,16882.0,,
+2024-05-14,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2473.0,187325.0,,
+2024-05-15,Solar_eclipse,Solar eclipse,idea,seasonal-naive,2095.0,80704.0,,
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,43.0,,
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,18.0,,
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,4.0,9.0,,
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,2.0,7.0,,
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,2.0,9.0,,
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,1.0,3.0,,
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,3.0,2.0,,
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,43.0,,
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,18.0,,
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,9.0,,
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,2.0,7.0,,
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,9.0,,
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,3.0,,
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,2.0,,
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,43.0,,
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,3.0,18.0,,
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,9.0,,
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,7.0,,
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,1.0,9.0,,
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,3.0,,
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,2.0,,
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,43.0,,
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,18.0,,
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,9.0,,
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,1.0,7.0,,
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,1.0,9.0,,
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,3.0,,
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,1.0,2.0,,
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,43.0,,
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,seasonal-naive,0.0,18.0,,
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,67.0,13956.0,,
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,41.0,840.0,,
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,41.0,361.0,,
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,44.0,205.0,,
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,38.0,145.0,,
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,46.0,120.0,,
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,43.0,125.0,,
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,26.0,13956.0,,
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,27.0,840.0,,
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,25.0,361.0,,
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,20.0,205.0,,
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,18.0,145.0,,
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,14.0,120.0,,
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,27.0,125.0,,
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,18.0,13956.0,,
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,19.0,840.0,,
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,18.0,361.0,,
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,18.0,205.0,,
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,12.0,145.0,,
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,16.0,120.0,,
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,9.0,125.0,,
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,9.0,13956.0,,
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,13.0,840.0,,
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,18.0,361.0,,
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,11.0,205.0,,
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,20.0,145.0,,
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,15.0,120.0,,
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,22.0,125.0,,
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,13.0,13956.0,,
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,seasonal-naive,11.0,840.0,,
+2024-04-16,Saros,Saros,idea,seasonal-naive,11.0,45.0,,
+2024-04-17,Saros,Saros,idea,seasonal-naive,8.0,28.0,,
+2024-04-18,Saros,Saros,idea,seasonal-naive,10.0,25.0,,
+2024-04-19,Saros,Saros,idea,seasonal-naive,3.0,20.0,,
+2024-04-20,Saros,Saros,idea,seasonal-naive,5.0,20.0,,
+2024-04-21,Saros,Saros,idea,seasonal-naive,10.0,11.0,,
+2024-04-22,Saros,Saros,idea,seasonal-naive,10.0,10.0,,
+2024-04-23,Saros,Saros,idea,seasonal-naive,8.0,45.0,,
+2024-04-24,Saros,Saros,idea,seasonal-naive,5.0,28.0,,
+2024-04-25,Saros,Saros,idea,seasonal-naive,12.0,25.0,,
+2024-04-26,Saros,Saros,idea,seasonal-naive,5.0,20.0,,
+2024-04-27,Saros,Saros,idea,seasonal-naive,9.0,20.0,,
+2024-04-28,Saros,Saros,idea,seasonal-naive,7.0,11.0,,
+2024-04-29,Saros,Saros,idea,seasonal-naive,6.0,10.0,,
+2024-04-30,Saros,Saros,idea,seasonal-naive,6.0,45.0,,
+2024-05-01,Saros,Saros,idea,seasonal-naive,16.0,28.0,,
+2024-05-02,Saros,Saros,idea,seasonal-naive,3.0,25.0,,
+2024-05-03,Saros,Saros,idea,seasonal-naive,2.0,20.0,,
+2024-05-04,Saros,Saros,idea,seasonal-naive,9.0,20.0,,
+2024-05-05,Saros,Saros,idea,seasonal-naive,7.0,11.0,,
+2024-05-06,Saros,Saros,idea,seasonal-naive,14.0,10.0,,
+2024-05-07,Saros,Saros,idea,seasonal-naive,3.0,45.0,,
+2024-05-08,Saros,Saros,idea,seasonal-naive,7.0,28.0,,
+2024-05-09,Saros,Saros,idea,seasonal-naive,4.0,25.0,,
+2024-05-10,Saros,Saros,idea,seasonal-naive,4.0,20.0,,
+2024-05-11,Saros,Saros,idea,seasonal-naive,7.0,20.0,,
+2024-05-12,Saros,Saros,idea,seasonal-naive,3.0,11.0,,
+2024-05-13,Saros,Saros,idea,seasonal-naive,4.0,10.0,,
+2024-05-14,Saros,Saros,idea,seasonal-naive,6.0,45.0,,
+2024-05-15,Saros,Saros,idea,seasonal-naive,10.0,28.0,,
+2024-04-16,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,7145.0,41282.0,,
+2024-04-17,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,5859.0,41282.0,,
+2024-04-18,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,5251.0,41282.0,,
+2024-04-19,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,4793.0,41282.0,,
+2024-04-20,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,5460.0,41282.0,,
+2024-04-21,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,4462.0,41282.0,,
+2024-04-22,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,4968.0,41282.0,,
+2024-04-23,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,4457.0,41282.0,,
+2024-04-24,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,3829.0,41282.0,,
+2024-04-25,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2855.0,41282.0,,
+2024-04-26,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2715.0,41282.0,,
+2024-04-27,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2419.0,41282.0,,
+2024-04-28,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2364.0,41282.0,,
+2024-04-29,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2535.0,41282.0,,
+2024-04-30,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2251.0,41282.0,,
+2024-05-01,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2230.0,41282.0,,
+2024-05-02,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2216.0,41282.0,,
+2024-05-03,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2698.0,41282.0,,
+2024-05-04,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2095.0,41282.0,,
+2024-05-05,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1950.0,41282.0,,
+2024-05-06,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,2056.0,41282.0,,
+2024-05-07,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1941.0,41282.0,,
+2024-05-08,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1796.0,41282.0,,
+2024-05-09,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1431.0,41282.0,,
+2024-05-10,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1338.0,41282.0,,
+2024-05-11,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1621.0,41282.0,,
+2024-05-12,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1300.0,41282.0,,
+2024-05-13,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,1112.0,41282.0,,
+2024-05-14,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,803.0,41282.0,,
+2024-05-15,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,flat-baseline,730.0,41282.0,,
+2024-04-16,Solar_eclipse,Solar eclipse,idea,flat-baseline,17710.0,14344.5,,
+2024-04-17,Solar_eclipse,Solar eclipse,idea,flat-baseline,13162.0,14344.5,,
+2024-04-18,Solar_eclipse,Solar eclipse,idea,flat-baseline,11666.0,14344.5,,
+2024-04-19,Solar_eclipse,Solar eclipse,idea,flat-baseline,10075.0,14344.5,,
+2024-04-20,Solar_eclipse,Solar eclipse,idea,flat-baseline,21291.0,14344.5,,
+2024-04-21,Solar_eclipse,Solar eclipse,idea,flat-baseline,10600.0,14344.5,,
+2024-04-22,Solar_eclipse,Solar eclipse,idea,flat-baseline,13307.0,14344.5,,
+2024-04-23,Solar_eclipse,Solar eclipse,idea,flat-baseline,12779.0,14344.5,,
+2024-04-24,Solar_eclipse,Solar eclipse,idea,flat-baseline,8166.0,14344.5,,
+2024-04-25,Solar_eclipse,Solar eclipse,idea,flat-baseline,6063.0,14344.5,,
+2024-04-26,Solar_eclipse,Solar eclipse,idea,flat-baseline,5120.0,14344.5,,
+2024-04-27,Solar_eclipse,Solar eclipse,idea,flat-baseline,4450.0,14344.5,,
+2024-04-28,Solar_eclipse,Solar eclipse,idea,flat-baseline,4102.0,14344.5,,
+2024-04-29,Solar_eclipse,Solar eclipse,idea,flat-baseline,4805.0,14344.5,,
+2024-04-30,Solar_eclipse,Solar eclipse,idea,flat-baseline,4130.0,14344.5,,
+2024-05-01,Solar_eclipse,Solar eclipse,idea,flat-baseline,4306.0,14344.5,,
+2024-05-02,Solar_eclipse,Solar eclipse,idea,flat-baseline,4377.0,14344.5,,
+2024-05-03,Solar_eclipse,Solar eclipse,idea,flat-baseline,4069.0,14344.5,,
+2024-05-04,Solar_eclipse,Solar eclipse,idea,flat-baseline,3773.0,14344.5,,
+2024-05-05,Solar_eclipse,Solar eclipse,idea,flat-baseline,3585.0,14344.5,,
+2024-05-06,Solar_eclipse,Solar eclipse,idea,flat-baseline,4307.0,14344.5,,
+2024-05-07,Solar_eclipse,Solar eclipse,idea,flat-baseline,3931.0,14344.5,,
+2024-05-08,Solar_eclipse,Solar eclipse,idea,flat-baseline,3371.0,14344.5,,
+2024-05-09,Solar_eclipse,Solar eclipse,idea,flat-baseline,2878.0,14344.5,,
+2024-05-10,Solar_eclipse,Solar eclipse,idea,flat-baseline,2196.0,14344.5,,
+2024-05-11,Solar_eclipse,Solar eclipse,idea,flat-baseline,2262.0,14344.5,,
+2024-05-12,Solar_eclipse,Solar eclipse,idea,flat-baseline,2352.0,14344.5,,
+2024-05-13,Solar_eclipse,Solar eclipse,idea,flat-baseline,2401.0,14344.5,,
+2024-05-14,Solar_eclipse,Solar eclipse,idea,flat-baseline,2473.0,14344.5,,
+2024-05-15,Solar_eclipse,Solar eclipse,idea,flat-baseline,2095.0,14344.5,,
+2024-04-16,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-17,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-18,Eclipse_glasses,Eclipse glasses,object,flat-baseline,4.0,5.5,,
+2024-04-19,Eclipse_glasses,Eclipse glasses,object,flat-baseline,2.0,5.5,,
+2024-04-20,Eclipse_glasses,Eclipse glasses,object,flat-baseline,2.0,5.5,,
+2024-04-21,Eclipse_glasses,Eclipse glasses,object,flat-baseline,1.0,5.5,,
+2024-04-22,Eclipse_glasses,Eclipse glasses,object,flat-baseline,3.0,5.5,,
+2024-04-23,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-24,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-25,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-26,Eclipse_glasses,Eclipse glasses,object,flat-baseline,2.0,5.5,,
+2024-04-27,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-28,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-29,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-30,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-01,Eclipse_glasses,Eclipse glasses,object,flat-baseline,3.0,5.5,,
+2024-05-02,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-03,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-04,Eclipse_glasses,Eclipse glasses,object,flat-baseline,1.0,5.5,,
+2024-05-05,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-06,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-07,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-08,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-09,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-10,Eclipse_glasses,Eclipse glasses,object,flat-baseline,1.0,5.5,,
+2024-05-11,Eclipse_glasses,Eclipse glasses,object,flat-baseline,1.0,5.5,,
+2024-05-12,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-13,Eclipse_glasses,Eclipse glasses,object,flat-baseline,1.0,5.5,,
+2024-05-14,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-05-15,Eclipse_glasses,Eclipse glasses,object,flat-baseline,0.0,5.5,,
+2024-04-16,Total_solar_eclipse,Total eclipse,idea,flat-baseline,67.0,98.5,,
+2024-04-17,Total_solar_eclipse,Total eclipse,idea,flat-baseline,41.0,98.5,,
+2024-04-18,Total_solar_eclipse,Total eclipse,idea,flat-baseline,41.0,98.5,,
+2024-04-19,Total_solar_eclipse,Total eclipse,idea,flat-baseline,44.0,98.5,,
+2024-04-20,Total_solar_eclipse,Total eclipse,idea,flat-baseline,38.0,98.5,,
+2024-04-21,Total_solar_eclipse,Total eclipse,idea,flat-baseline,46.0,98.5,,
+2024-04-22,Total_solar_eclipse,Total eclipse,idea,flat-baseline,43.0,98.5,,
+2024-04-23,Total_solar_eclipse,Total eclipse,idea,flat-baseline,26.0,98.5,,
+2024-04-24,Total_solar_eclipse,Total eclipse,idea,flat-baseline,27.0,98.5,,
+2024-04-25,Total_solar_eclipse,Total eclipse,idea,flat-baseline,25.0,98.5,,
+2024-04-26,Total_solar_eclipse,Total eclipse,idea,flat-baseline,20.0,98.5,,
+2024-04-27,Total_solar_eclipse,Total eclipse,idea,flat-baseline,18.0,98.5,,
+2024-04-28,Total_solar_eclipse,Total eclipse,idea,flat-baseline,14.0,98.5,,
+2024-04-29,Total_solar_eclipse,Total eclipse,idea,flat-baseline,27.0,98.5,,
+2024-04-30,Total_solar_eclipse,Total eclipse,idea,flat-baseline,18.0,98.5,,
+2024-05-01,Total_solar_eclipse,Total eclipse,idea,flat-baseline,19.0,98.5,,
+2024-05-02,Total_solar_eclipse,Total eclipse,idea,flat-baseline,18.0,98.5,,
+2024-05-03,Total_solar_eclipse,Total eclipse,idea,flat-baseline,18.0,98.5,,
+2024-05-04,Total_solar_eclipse,Total eclipse,idea,flat-baseline,12.0,98.5,,
+2024-05-05,Total_solar_eclipse,Total eclipse,idea,flat-baseline,16.0,98.5,,
+2024-05-06,Total_solar_eclipse,Total eclipse,idea,flat-baseline,9.0,98.5,,
+2024-05-07,Total_solar_eclipse,Total eclipse,idea,flat-baseline,9.0,98.5,,
+2024-05-08,Total_solar_eclipse,Total eclipse,idea,flat-baseline,13.0,98.5,,
+2024-05-09,Total_solar_eclipse,Total eclipse,idea,flat-baseline,18.0,98.5,,
+2024-05-10,Total_solar_eclipse,Total eclipse,idea,flat-baseline,11.0,98.5,,
+2024-05-11,Total_solar_eclipse,Total eclipse,idea,flat-baseline,20.0,98.5,,
+2024-05-12,Total_solar_eclipse,Total eclipse,idea,flat-baseline,15.0,98.5,,
+2024-05-13,Total_solar_eclipse,Total eclipse,idea,flat-baseline,22.0,98.5,,
+2024-05-14,Total_solar_eclipse,Total eclipse,idea,flat-baseline,13.0,98.5,,
+2024-05-15,Total_solar_eclipse,Total eclipse,idea,flat-baseline,11.0,98.5,,
+2024-04-16,Saros,Saros,idea,flat-baseline,11.0,6.0,,
+2024-04-17,Saros,Saros,idea,flat-baseline,8.0,6.0,,
+2024-04-18,Saros,Saros,idea,flat-baseline,10.0,6.0,,
+2024-04-19,Saros,Saros,idea,flat-baseline,3.0,6.0,,
+2024-04-20,Saros,Saros,idea,flat-baseline,5.0,6.0,,
+2024-04-21,Saros,Saros,idea,flat-baseline,10.0,6.0,,
+2024-04-22,Saros,Saros,idea,flat-baseline,10.0,6.0,,
+2024-04-23,Saros,Saros,idea,flat-baseline,8.0,6.0,,
+2024-04-24,Saros,Saros,idea,flat-baseline,5.0,6.0,,
+2024-04-25,Saros,Saros,idea,flat-baseline,12.0,6.0,,
+2024-04-26,Saros,Saros,idea,flat-baseline,5.0,6.0,,
+2024-04-27,Saros,Saros,idea,flat-baseline,9.0,6.0,,
+2024-04-28,Saros,Saros,idea,flat-baseline,7.0,6.0,,
+2024-04-29,Saros,Saros,idea,flat-baseline,6.0,6.0,,
+2024-04-30,Saros,Saros,idea,flat-baseline,6.0,6.0,,
+2024-05-01,Saros,Saros,idea,flat-baseline,16.0,6.0,,
+2024-05-02,Saros,Saros,idea,flat-baseline,3.0,6.0,,
+2024-05-03,Saros,Saros,idea,flat-baseline,2.0,6.0,,
+2024-05-04,Saros,Saros,idea,flat-baseline,9.0,6.0,,
+2024-05-05,Saros,Saros,idea,flat-baseline,7.0,6.0,,
+2024-05-06,Saros,Saros,idea,flat-baseline,14.0,6.0,,
+2024-05-07,Saros,Saros,idea,flat-baseline,3.0,6.0,,
+2024-05-08,Saros,Saros,idea,flat-baseline,7.0,6.0,,
+2024-05-09,Saros,Saros,idea,flat-baseline,4.0,6.0,,
+2024-05-10,Saros,Saros,idea,flat-baseline,4.0,6.0,,
+2024-05-11,Saros,Saros,idea,flat-baseline,7.0,6.0,,
+2024-05-12,Saros,Saros,idea,flat-baseline,3.0,6.0,,
+2024-05-13,Saros,Saros,idea,flat-baseline,4.0,6.0,,
+2024-05-14,Saros,Saros,idea,flat-baseline,6.0,6.0,,
+2024-05-15,Saros,Saros,idea,flat-baseline,10.0,6.0,,

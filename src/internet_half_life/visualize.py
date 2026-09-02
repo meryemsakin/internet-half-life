@@ -135,7 +135,7 @@ def render_event_atlas(
     labels = {
         page.article: (
             f"{page.label}\n"
-            f"half-life: {page.half_life_days if page.half_life_days is not None else '60+'}d"
+            f"half-life: {str(page.half_life_days) + 'd' if page.half_life_days is not None else page.half_life_status.replace('_', ' ')}"
         )
         for page in metrics.pages
     }
@@ -154,21 +154,22 @@ def render_event_atlas(
         rotate=False,
         ax=network_ax,
     )
-    network_ax.set_title("WHERE ATTENTION TRAVELLED", loc="left", fontsize=10, weight="bold")
+    network_ax.set_title("HOW THE SELECTED PAGES CO-MOVED", loc="left", fontsize=10, weight="bold")
     network_ax.margins(0.2)
     network_ax.axis("off")
 
     primary = metrics.page(event.primary)
     fig.suptitle(event.title, x=0.055, y=0.98, ha="left", fontsize=26, weight="bold")
     subtitle = (
-        f"{event.date.isoformat()}  ·  primary half-life {primary.half_life_days or '60+'} days  ·  "
+        f"{event.date.isoformat()}  ·  primary half-life "
+        f"{str(primary.half_life_days) + ' days' if primary.half_life_days is not None else primary.half_life_status.replace('_', ' ')}  ·  "
         f"{metrics.spillover_share:.0%} of excess attention landed on related pages"
     )
     fig.text(0.056, 0.925, subtitle, ha="left", fontsize=11, color="#5d5a54")
     fig.text(
         0.056,
         0.025,
-        "Source: Wikimedia daily pageviews. Arrows show strongest lead/lag co-movement, not causality.",
+        "Source: Wikimedia daily pageviews. Peak search: days 0–13. Arrows show lead/lag co-movement, not causality.",
         fontsize=8,
         color="#77736b",
     )
@@ -203,6 +204,7 @@ def render_forecast(
         "exponential-decay": "#2db7a3",
         "power-law-decay": "#7c5cff",
         "seasonal-naive": "#8d8a82",
+        "flat-baseline": "#a66a3f",
     }
     for mode, group in subset.groupby("mode", sort=False):
         ax.plot(
@@ -210,12 +212,13 @@ def render_forecast(
             group["forecast"],
             color=palette[mode],
             linewidth=2 if mode != "seasonal-naive" else 1.1,
-            linestyle="--" if "decay" in mode or mode == "seasonal-naive" else "-",
+            linestyle="--" if "decay" in mode or mode in {"seasonal-naive", "flat-baseline"} else "-",
             label=(
                 mode.replace("timesfm-", "TimesFM-3 ")
                 .replace("exponential-decay", "exponential decay")
                 .replace("power-law-decay", "power-law decay")
                 .replace("seasonal-naive", "weekly naive")
+                .replace("flat-baseline", "flat pre-event median")
             ),
         )
         if mode == "timesfm-multivariate":

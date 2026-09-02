@@ -1,0 +1,124 @@
+{
+  "slug": "world-cup-final-2022",
+  "title": "2022 World Cup final",
+  "event_date": "2022-12-18",
+  "primary": "2022_FIFA_World_Cup_final",
+  "total_excess_views_60d": 11693471,
+  "spillover_share": 0.9739505917447437,
+  "pages": [
+    {
+      "article": "2022_FIFA_World_Cup_final",
+      "label": "World Cup final",
+      "role": "event",
+      "baseline_views": 5.0,
+      "peak_date": "2022-12-20",
+      "peak_offset_days": 2,
+      "peak_views": 35012,
+      "peak_lift": 7002.4,
+      "half_life_days": 3,
+      "excess_views_60d": 304608,
+      "first_week_share": 0.3711196028994642,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Lionel_Messi",
+      "label": "Lionel Messi",
+      "role": "person",
+      "baseline_views": 161799.0,
+      "peak_date": "2022-12-18",
+      "peak_offset_days": 0,
+      "peak_views": 3086080,
+      "peak_lift": 19.073541863670357,
+      "half_life_days": 2,
+      "excess_views_60d": 5868234,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Kylian_Mbapp\u00e9",
+      "label": "Kylian Mbappe",
+      "role": "person",
+      "baseline_views": 106526.0,
+      "peak_date": "2022-12-18",
+      "peak_offset_days": 0,
+      "peak_views": 2216858,
+      "peak_lift": 20.81048758049678,
+      "half_life_days": 2,
+      "excess_views_60d": 3946296,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Argentina_national_football_team",
+      "label": "Argentina",
+      "role": "organization",
+      "baseline_views": 68287.5,
+      "peak_date": "2022-12-18",
+      "peak_offset_days": 0,
+      "peak_views": 749244,
+      "peak_lift": 10.971905546403075,
+      "half_life_days": 2,
+      "excess_views_60d": 1159792,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "France_national_football_team",
+      "label": "France",
+      "role": "organization",
+      "baseline_views": 59830.5,
+      "peak_date": "2022-12-18",
+      "peak_offset_days": 0,
+      "peak_views": 394154,
+      "peak_lift": 6.587843992612464,
+      "half_life_days": 1,
+      "excess_views_60d": 414541,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Lionel_Messi",
+      "target": "Argentina_national_football_team",
+      "lag_days": 0,
+      "correlation": 0.9879983871716106
+    },
+    {
+      "source": "Lionel_Messi",
+      "target": "Kylian_Mbapp\u00e9",
+      "lag_days": 0,
+      "correlation": 0.9788719531907253
+    },
+    {
+      "source": "Kylian_Mbapp\u00e9",
+      "target": "Argentina_national_football_team",
+      "lag_days": 0,
+      "correlation": 0.9634217789201662
+    },
+    {
+      "source": "Kylian_Mbapp\u00e9",
+      "target": "France_national_football_team",
+      "lag_days": 0,
+      "correlation": 0.9274605262972117
+    },
+    {
+      "source": "Argentina_national_football_team",
+      "target": "France_national_football_team",
+      "lag_days": 0,
+      "correlation": 0.9173866820960066
+    },
+    {
+      "source": "Lionel_Messi",
+      "target": "France_national_football_team",
+      "lag_days": 0,
+      "correlation": 0.8849300109912065
+    },
+    {
+      "source": "Kylian_Mbapp\u00e9",
+      "target": "2022_FIFA_World_Cup_final",
+      "lag_days": 5,
+      "correlation": 0.3714412422229651
+    }
+  ]
+}

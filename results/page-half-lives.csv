@@ -1,0 +1,82 @@
+event_slug,is_primary,peak_window_days,observation_days_after_peak,article,label,role,baseline_views,peak_date,peak_offset_days,peak_views,peak_lift,half_life_days,excess_views_60d,first_week_share,half_life_status
+straight-outta-compton,True,14,56,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,27850.0,2015-08-17,3,290671,10.437019748653501,3.0,2750828,0.4717274217072096,observed
+straight-outta-compton,False,14,56,N.W.A,N.W.A,organization,43213.5,2015-08-17,3,231608,5.3596214146042325,3.0,1778402,0.5626949257521432,observed
+straight-outta-compton,False,14,56,Dr._Dre,Dr. Dre,person,22458.5,2015-08-17,3,220746,9.829062493042724,7.0,2666883,0.3757320812349098,observed
+straight-outta-compton,False,14,56,Ice_Cube,Ice Cube,person,22699.0,2015-08-17,3,216754,9.549055024450416,3.0,2451522,0.3911757675435913,observed
+straight-outta-compton,False,14,56,Eazy-E,Eazy-E,person,38764.0,2015-08-17,3,338170,8.723815911670622,3.0,3474921,0.44333784854389496,observed
+ever-given,True,14,53,2021_Suez_Canal_obstruction,Suez obstruction,event,1.0,2021-03-29,6,150343,150343.0,1.0,920479,0.6393616801686948,observed
+ever-given,False,14,53,Ever_Given,Ever Given,object,1.0,2021-03-29,6,395217,395217.0,1.0,2099457,0.7020272384716619,observed
+ever-given,False,14,53,Suez_Canal,Suez Canal,place,3547.0,2021-03-29,6,630004,177.61601353256273,1.0,3465595,0.7324909575412014,observed
+ever-given,False,14,53,Container_ship,Container ship,idea,915.5,2021-03-29,6,24424,26.67831785909339,1.0,138348,0.6786497768300837,observed
+ever-given,False,14,57,Supply_chain,Supply chain,idea,875.0,2021-03-25,2,815,0.9314285714285714,,0,0.0,no_excess
+jwst-first-images,True,14,58,James_Webb_Space_Telescope,James Webb,event,3489.5,2022-07-13,1,332918,95.40564550795243,1.0,1243614,0.7473054340012255,observed
+jwst-first-images,False,14,59,NASA,NASA,organization,3020.5,2022-07-12,0,13943,4.616123158417481,2.0,96930,0.40998963174645753,observed
+jwst-first-images,False,14,59,Hubble_Space_Telescope,Hubble,technology,1564.0,2022-07-12,0,32989,21.092710997442456,2.0,116220,0.7821717432455687,observed
+jwst-first-images,False,14,59,Webb's_First_Deep_Field,Webb's First Deep Field,work,1.0,2022-07-12,0,75554,75554.0,2.0,272809,0.7721079583151582,observed
+jwst-first-images,False,14,59,Carina_Nebula,Carina Nebula,idea,156.5,2022-07-12,0,65537,418.7667731629393,2.0,186139,0.8221893316285142,observed
+chatgpt-launch,True,14,46,ChatGPT,ChatGPT,event,1.0,2022-12-13,13,123453,123453.0,11.0,6448558,0.004886984035810797,observed
+chatgpt-launch,False,14,52,OpenAI,OpenAI,organization,3427.0,2022-12-07,7,41263,12.04056025678436,17.0,1744403,0.06589360371427933,observed
+chatgpt-launch,False,14,52,GPT-3,GPT-3,technology,2972.0,2022-12-07,7,21661,7.28835800807537,10.0,556745,0.1155825377865989,observed
+chatgpt-launch,False,14,47,Artificial_intelligence,Artificial intelligence,idea,16648.5,2022-12-12,12,21097,1.2672012493618043,2.0,23732,0.3785896382445273,observed
+chatgpt-launch,False,14,52,Sam_Altman,Sam Altman,person,946.0,2022-12-07,7,12883,13.618393234672304,16.0,515977,0.06753207991829094,observed
+world-cup-final-2022,True,14,57,2022_FIFA_World_Cup_final,World Cup final,event,5.0,2022-12-20,2,35012,7002.4,3.0,304608,0.3711196028994642,observed
+world-cup-final-2022,False,14,59,Lionel_Messi,Lionel Messi,person,161799.0,2022-12-18,0,3086080,19.073541863670357,2.0,5868234,1.0,observed
+world-cup-final-2022,False,14,59,Kylian_Mbappé,Kylian Mbappe,person,106526.0,2022-12-18,0,2216858,20.81048758049678,2.0,3946296,1.0,observed
+world-cup-final-2022,False,14,59,Argentina_national_football_team,Argentina,organization,68287.5,2022-12-18,0,749244,10.971905546403075,2.0,1159792,1.0,observed
+world-cup-final-2022,False,14,59,France_national_football_team,France,organization,59830.5,2022-12-18,0,394154,6.587843992612464,1.0,414541,1.0,observed
+barbenheimer,True,14,58,Barbenheimer,Barbenheimer,event,7049.0,2023-07-22,1,139861,19.84125407859271,3.0,919308,0.6674215823206151,observed
+barbenheimer,False,14,57,Barbie_(film),Barbie,work,54159.0,2023-07-23,2,833627,15.392215513580384,4.0,9093507,0.4641989058786671,observed
+barbenheimer,False,14,57,Oppenheimer_(film),Oppenheimer,work,79744.5,2023-07-23,2,1362922,17.091109731705636,3.0,13289932,0.5008664829887768,observed
+barbenheimer,False,14,57,Margot_Robbie,Margot Robbie,person,44114.5,2023-07-23,2,247289,5.60561720069365,8.0,1987840,0.5541043429311069,observed
+barbenheimer,False,14,57,Cillian_Murphy,Cillian Murphy,person,26361.5,2023-07-23,2,284411,10.7888777194014,4.0,2630214,0.5416278786387955,observed
+barbenheimer,False,14,58,J._Robert_Oppenheimer,J. R. Oppenheimer,history,75179.0,2023-07-22,1,1464456,19.47958871493369,4.0,12054586,0.5708468959448296,observed
+barbenheimer,False,14,58,Manhattan_Project,Manhattan Project,history,10950.0,2023-07-22,1,146550,13.383561643835616,4.0,1169259,0.5972680133315202,observed
+chandrayaan-3,True,14,58,Chandrayaan-3,Chandrayaan-3,event,26320.5,2023-08-24,1,940655,35.73849280978705,1.0,2626867,0.876568741394216,observed
+chandrayaan-3,False,14,59,Indian_Space_Research_Organisation,ISRO,organization,533.5,2023-08-23,0,10425,19.540768509840674,2.0,30291,0.8761183189726321,observed
+chandrayaan-3,False,14,59,Moon_landing,Moon landing,idea,3101.0,2023-08-23,0,145272,46.84682360528862,2.0,321585,0.9300371596933936,observed
+chandrayaan-3,False,14,59,Lunar_south_pole,Lunar south pole,place,825.5,2023-08-23,0,102896,124.64688067837675,2.0,235134,0.880233994730653,observed
+chandrayaan-3,False,14,59,Vikram_(spacecraft),Vikram,object,207.0,2023-08-23,0,1765,8.526570048309178,2.0,3144,1.0,observed
+gta-vi-trailer,True,14,59,Grand_Theft_Auto_VI,GTA VI,event,55.5,2023-12-05,0,341519,6153.495495495496,1.0,1252038,0.5942251752742329,observed
+gta-vi-trailer,False,14,59,Rockstar_Games,Rockstar Games,organization,4756.5,2023-12-05,0,83467,17.547986965205506,2.0,228678,0.812647040817219,observed
+gta-vi-trailer,False,14,59,Grand_Theft_Auto_V,GTA V,work,10913.5,2023-12-05,0,168422,15.432446053053557,1.0,426608,0.7998089578828315,observed
+gta-vi-trailer,False,14,59,Grand_Theft_Auto,Grand Theft Auto,idea,6618.5,2023-12-05,0,144467,21.827755533731207,1.0,445662,0.7323139509314234,observed
+gta-vi-trailer,False,14,59,Take-Two_Interactive,Take-Two,organization,1965.5,2023-12-05,0,21950,11.167641821419487,1.0,50595,0.8887340646308923,observed
+total-solar-eclipse-2024,True,14,59,"Solar_eclipse_of_April_8,_2024",2024 eclipse,event,41282.0,2024-04-08,0,1335210,32.3436364517223,1.0,1520634,1.0,observed
+total-solar-eclipse-2024,False,14,59,Solar_eclipse,Solar eclipse,idea,14344.5,2024-04-08,0,491270,34.24796960507511,1.0,784285,0.9836162874465277,observed
+total-solar-eclipse-2024,False,14,59,Eclipse_glasses,Eclipse glasses,object,5.5,2024-04-08,0,146,26.545454545454547,1.0,199,1.0,observed
+total-solar-eclipse-2024,False,14,58,Total_solar_eclipse,Total eclipse,idea,98.5,2024-04-09,1,13956,141.68527918781726,1.0,20231,0.9986901290099353,observed
+total-solar-eclipse-2024,False,14,59,Saros,Saros,idea,6.0,2024-04-08,0,49,8.166666666666666,3.0,223,0.6995515695067265,observed
+inside-out-2,True,14,58,Inside_Out_2,Inside Out 2,event,22262.5,2024-06-15,1,216432,9.721819202695116,4.0,3735376,0.2628298998547937,observed
+inside-out-2,False,14,57,Inside_Out_(2015_film),Inside Out,work,8732.5,2024-06-16,2,65303,7.47815631262525,10.0,979030,0.3280914128824383,observed
+inside-out-2,False,14,56,Pixar,Pixar,organization,3699.0,2024-06-17,3,7686,2.0778588807785887,1.0,45765,0.41745875669179505,observed
+inside-out-2,False,14,49,Anxiety,Anxiety,idea,1313.0,2024-06-24,10,1873,1.4265041888804264,10.0,16979,0.15919665469108898,observed
+inside-out-2,False,14,57,Amy_Poehler,Amy Poehler,person,4660.5,2024-06-16,2,13014,2.792404248471194,8.0,86206,0.4906561028234694,observed
+paris-2024-opening,True,14,58,2024_Summer_Olympics_opening_ceremony,Opening ceremony,event,3442.5,2024-07-27,1,70590,20.505446623093682,2.0,276817,0.8346940397446688,observed
+paris-2024-opening,False,14,58,2024_Summer_Olympics,Paris 2024,event,60192.5,2024-07-27,1,635872,10.56397391701624,16.0,7636950,0.4181125044610411,observed
+paris-2024-opening,False,14,58,Celine_Dion,Celine Dion,person,38406.5,2024-07-27,1,533150,13.88176480543658,1.0,1039928,1.0,observed
+paris-2024-opening,False,14,53,Léon_Marchand,Léon Marchand,person,212.5,2024-08-01,6,187097,880.4564705882353,3.0,1393300,0.4916023110600732,observed
+paris-2024-opening,False,14,59,Paris,Paris,place,6310.5,2024-07-26,0,28808,4.565089929482609,3.0,151161,0.5711426889210841,observed
+deadpool-wolverine,True,14,57,Deadpool_&_Wolverine,Deadpool & Wolverine,event,36260.0,2024-07-28,2,727240,20.056260341974628,9.0,11011139,0.33745491724334786,observed
+deadpool-wolverine,False,14,57,Ryan_Reynolds,Ryan Reynolds,person,20013.5,2024-07-28,2,122225,6.107127688810054,16.0,1654906,0.3222227358464058,observed
+deadpool-wolverine,False,14,58,Hugh_Jackman,Hugh Jackman,person,10423.0,2024-07-27,1,109163,10.473280245610669,9.0,1226719,0.42639430872106815,observed
+deadpool-wolverine,False,14,57,Wolverine_(character),Wolverine,work,2348.0,2024-07-28,2,19349,8.240630323679728,17.0,340093,0.288673980352433,observed
+deadpool-wolverine,False,14,57,Marvel_Cinematic_Universe,MCU,organization,10160.0,2024-07-28,2,112047,11.028248031496062,1.0,423372,0.5562578536133708,observed
+us-election-2024,True,14,58,2024_United_States_presidential_election,2024 election,event,99760.0,2024-11-06,1,4260085,42.70333801122695,1.0,9704237,0.8622650085730593,observed
+us-election-2024,False,14,58,Donald_Trump,Donald Trump,person,61280.5,2024-11-06,1,2782082,45.39914002007164,1.0,6051466,0.8409082195950535,observed
+us-election-2024,False,14,58,Kamala_Harris,Kamala Harris,person,92845.5,2024-11-06,1,1485955,16.004599038187095,1.0,2453694,1.0,observed
+us-election-2024,False,14,58,JD_Vance,JD Vance,person,25820.0,2024-11-06,1,1021207,39.551006971340044,1.0,2536690,0.8749188903650033,observed
+us-election-2024,False,14,58,Tim_Walz,Tim Walz,person,16093.0,2024-11-06,1,225994,14.043000062138818,1.0,384911,0.9971733725458612,observed
+notre-dame-reopening,True,14,58,Notre-Dame_de_Paris,Notre-Dame,place,3512.5,2024-12-08,1,84017,23.919430604982207,1.0,272596,0.8836338691069034,observed
+notre-dame-reopening,False,14,58,Notre-Dame_fire,2019 fire,history,1509.0,2024-12-08,1,31220,20.689198144466534,1.0,94686,0.9301163846820015,observed
+notre-dame-reopening,False,14,58,Emmanuel_Macron,Emmanuel Macron,person,5962.0,2024-12-08,1,38969,6.536229453203623,1.0,192145,0.5276483905383955,observed
+notre-dame-reopening,False,14,58,Gothic_architecture,Gothic architecture,idea,1485.0,2024-12-08,1,2005,1.3501683501683501,2.0,3202,0.4113054341036852,observed
+notre-dame-reopening,False,14,57,Paris,Paris,place,5422.5,2024-12-09,2,6151,1.1343476256339327,1.0,8350,0.1383316366249476,observed
+super-bowl-lix,True,14,58,Super_Bowl_LIX,Super Bowl LIX,event,44767.5,2025-02-10,1,672728,15.027151393309879,1.0,949417,1.0,observed
+super-bowl-lix,False,14,58,Kendrick_Lamar,Kendrick Lamar,person,24581.0,2025-02-10,1,1781900,72.49094829339734,1.0,3480239,0.890813245871907,observed
+super-bowl-lix,False,14,58,Philadelphia_Eagles,Eagles,organization,9637.5,2025-02-10,1,443707,46.039636835278856,1.0,621295,0.9972935562011604,observed
+super-bowl-lix,False,14,58,Kansas_City_Chiefs,Chiefs,organization,10470.0,2025-02-10,1,156227,14.921394460362942,1.0,234967,1.0,observed
+pope-francis-death,True,14,59,Pope_Francis,Pope Francis,person,10094.5,2025-04-21,0,2929703,290.22764871959976,2.0,9990346,0.6944641203850257,observed
+pope-francis-death,False,14,59,2025_papal_conclave,2025 conclave,event,1.0,2025-04-21,0,145938,145938.0,3.0,2195354,0.2823599291959292,observed
+pope-francis-death,False,14,59,Pope_Leo_XIV,Pope Leo XIV,person,1.0,2025-04-21,0,3,3.0,3.0,14144225,4.242013966830986e-07,observed
+pope-francis-death,False,14,59,College_of_Cardinals,College of Cardinals,organization,607.0,2025-04-21,0,67621,111.40197693574959,2.0,377934,0.5500775267639323,observed
+pope-francis-death,False,14,59,Vatican_City,Vatican City,place,4518.0,2025-04-21,0,127928,28.31518370960602,2.0,903740,0.496620709496094,observed

@@ -1,0 +1,124 @@
+{
+  "slug": "pope-francis-death",
+  "title": "The death of Pope Francis",
+  "event_date": "2025-04-21",
+  "primary": "Pope_Francis",
+  "total_excess_views_60d": 27611599,
+  "spillover_share": 0.6381829969354545,
+  "pages": [
+    {
+      "article": "Pope_Francis",
+      "label": "Pope Francis",
+      "role": "person",
+      "baseline_views": 10094.5,
+      "peak_date": "2025-04-21",
+      "peak_offset_days": 0,
+      "peak_views": 2929703,
+      "peak_lift": 290.22764871959976,
+      "half_life_days": 2,
+      "excess_views_60d": 9990346,
+      "first_week_share": 0.6944641203850257,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "2025_papal_conclave",
+      "label": "2025 conclave",
+      "role": "event",
+      "baseline_views": 1.0,
+      "peak_date": "2025-04-21",
+      "peak_offset_days": 0,
+      "peak_views": 145938,
+      "peak_lift": 145938.0,
+      "half_life_days": 3,
+      "excess_views_60d": 2195354,
+      "first_week_share": 0.2823599291959292,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Pope_Leo_XIV",
+      "label": "Pope Leo XIV",
+      "role": "person",
+      "baseline_views": 1.0,
+      "peak_date": "2025-04-21",
+      "peak_offset_days": 0,
+      "peak_views": 3,
+      "peak_lift": 3.0,
+      "half_life_days": 3,
+      "excess_views_60d": 14144225,
+      "first_week_share": 4.242013966830986e-07,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "College_of_Cardinals",
+      "label": "College of Cardinals",
+      "role": "organization",
+      "baseline_views": 607.0,
+      "peak_date": "2025-04-21",
+      "peak_offset_days": 0,
+      "peak_views": 67621,
+      "peak_lift": 111.40197693574959,
+      "half_life_days": 2,
+      "excess_views_60d": 377934,
+      "first_week_share": 0.5500775267639323,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Vatican_City",
+      "label": "Vatican City",
+      "role": "place",
+      "baseline_views": 4518.0,
+      "peak_date": "2025-04-21",
+      "peak_offset_days": 0,
+      "peak_views": 127928,
+      "peak_lift": 28.31518370960602,
+      "half_life_days": 2,
+      "excess_views_60d": 903740,
+      "first_week_share": 0.496620709496094,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Pope_Francis",
+      "target": "Vatican_City",
+      "lag_days": 0,
+      "correlation": 0.9853067673331671
+    },
+    {
+      "source": "Pope_Francis",
+      "target": "College_of_Cardinals",
+      "lag_days": 0,
+      "correlation": 0.9648655774402136
+    },
+    {
+      "source": "College_of_Cardinals",
+      "target": "Vatican_City",
+      "lag_days": 0,
+      "correlation": 0.9492066859773507
+    },
+    {
+      "source": "2025_papal_conclave",
+      "target": "College_of_Cardinals",
+      "lag_days": 0,
+      "correlation": 0.6546071232684509
+    },
+    {
+      "source": "Pope_Francis",
+      "target": "2025_papal_conclave",
+      "lag_days": 0,
+      "correlation": 0.6247524578226291
+    },
+    {
+      "source": "2025_papal_conclave",
+      "target": "Vatican_City",
+      "lag_days": 0,
+      "correlation": 0.6236852017038442
+    },
+    {
+      "source": "2025_papal_conclave",
+      "target": "Pope_Leo_XIV",
+      "lag_days": 5,
+      "correlation": 0.36837029088898465
+    }
+  ]
+}

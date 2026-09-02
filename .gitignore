@@ -5,10 +5,8 @@ __pycache__/
 *.egg-info/
 .DS_Store
 
-data/raw/*.csv
 data/cache/
-data/processed/*.json
-data/processed/*-forecast.csv
+article/
 
 !data/raw/.gitkeep
 !data/processed/.gitkeep

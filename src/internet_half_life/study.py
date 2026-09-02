@@ -2,7 +2,8 @@
 
 from __future__ import annotations
 
-from itertools import product
+from dataclasses import asdict
+from itertools import combinations, product
 import json
 from math import comb
 from pathlib import Path
@@ -15,8 +16,9 @@ import numpy as np
 import pandas as pd
 
 from .catalog import Event, PROJECT_ROOT, load_catalog
-from .forecasting import forecast_scores
-from .metrics import load_metrics
+from .forecasting import forecast_error_breakdown, forecast_scores
+from .metrics import PEAK_WINDOW_DAYS, analyze_event, calculate_constellation_decay
+from .wikimedia import load_event_frame
 
 
 DEFAULT_PROCESSED = PROJECT_ROOT / "data" / "processed"
@@ -28,8 +30,130 @@ MODE_COLUMNS = {
     "timesfm-univariate": "timesfm_univariate_wape",
     "exponential-decay": "exponential_decay_wape",
     "power-law-decay": "power_law_decay_wape",
+    "flat-baseline": "flat_baseline_wape",
     "seasonal-naive": "seasonal_naive_wape",
 }
+
+BASELINE_FLOORS = (1, 5, 10)
+BASELINE_WINDOWS = (14, 28, 56)
+PEAK_WINDOWS = (7, 14, 21)
+
+
+def peak_offset_table(
+    frame: pd.DataFrame,
+    event: Event,
+    post_days: int = PEAK_WINDOW_DAYS,
+) -> pd.DataFrame:
+    """Measure whether related pages peak before, with, or after the primary."""
+    event_day = pd.Timestamp(event.date)
+    post = frame.loc[
+        event_day : event_day + pd.Timedelta(days=post_days - 1),
+        event.articles,
+    ]
+    expected_dates = pd.date_range(event_day, periods=post_days, freq="D")
+    if not post.index.equals(expected_dates) or not np.isfinite(post.to_numpy()).all():
+        raise ValueError(f"{event.slug} needs {post_days} complete days for peak timing")
+    primary_peak = int((post[event.primary].idxmax() - event_day).days)
+    rows = []
+    for page in event.pages:
+        if page.article == event.primary:
+            continue
+        peak = int((post[page.article].idxmax() - event_day).days)
+        rows.append(
+            {
+                "event_slug": event.slug,
+                "event_title": event.title,
+                "article": page.article,
+                "page_label": page.label,
+                "primary_peak_offset_days": primary_peak,
+                "related_peak_offset_days": peak,
+                "relative_peak_offset_days": peak - primary_peak,
+            }
+        )
+    return pd.DataFrame(rows)
+
+
+def collect_peak_offsets(
+    events: list[Event] | None = None,
+    post_days: int = PEAK_WINDOW_DAYS,
+) -> pd.DataFrame:
+    events = events or list(load_catalog().values())
+    return pd.concat(
+        [peak_offset_table(load_event_frame(event), event, post_days) for event in events],
+        ignore_index=True,
+    )
+
+
+def collect_page_half_lives(events: list[Event] | None = None) -> pd.DataFrame:
+    rows = []
+    for event in events or list(load_catalog().values()):
+        metrics = analyze_event(load_event_frame(event), event)
+        for page in metrics.pages:
+            rows.append({
+                "event_slug": event.slug,
+                "is_primary": page.article == event.primary,
+                "peak_window_days": PEAK_WINDOW_DAYS,
+                "observation_days_after_peak": 59 - page.peak_offset_days,
+                **asdict(page),
+            })
+    return pd.DataFrame(rows)
+
+
+def collect_forecast_errors(
+    events: list[Event] | None = None,
+    processed_dir: str | Path = DEFAULT_PROCESSED,
+) -> pd.DataFrame:
+    rows = []
+    for event in events or list(load_catalog().values()):
+        forecast = pd.read_csv(Path(processed_dir) / f"{event.slug}-forecast.csv")
+        breakdown = forecast_error_breakdown(forecast)
+        breakdown.insert(0, "event_slug", event.slug)
+        rows.append(breakdown)
+    return pd.concat(rows, ignore_index=True)
+
+
+def summarize_peak_timing(study: pd.DataFrame) -> dict:
+    """Use one median per event; related pages are not independent trials."""
+    offsets = study["median_related_peak_offset_14d"].dropna()
+    after, before = int((offsets > 0).sum()), int((offsets < 0).sum())
+    return {
+        "after": int(study["related_peaks_after_primary_14d"].sum()),
+        "same_day": int(study["related_peaks_with_primary_14d"].sum()),
+        "before": int(study["related_peaks_before_primary_14d"].sum()),
+        "event_medians": {
+            "events": len(offsets),
+            "after": after,
+            "same_day": int((offsets == 0).sum()),
+            "before": before,
+            "exact_sign_test_p_value": exact_sign_test(after, before),
+        },
+    }
+
+
+def summarize_decay(study: pd.DataFrame) -> dict:
+    observed = study.loc[study["system_half_life_status"] == "observed", "system_half_life_days"]
+    retained = study["last_week_retained_peak_share"].dropna()
+    return {
+        "peak_window_days": PEAK_WINDOW_DAYS,
+        "sustained_days": 3,
+        "late_window_event_day_offsets": [53, 59],
+        "observed_events": int(len(observed)),
+        "not_observed_events": study.loc[
+            study["system_half_life_status"] == "not_observed", "event_slug"
+        ].tolist(),
+        "no_excess_events": study.loc[
+            study["system_half_life_status"] == "no_excess", "event_slug"
+        ].tolist(),
+        "median_half_life_days": float(observed.median()) if len(observed) else None,
+        "half_life_iqr_days": [float(observed.quantile(.25)), float(observed.quantile(.75))] if len(observed) else None,
+        "half_life_range_days": [float(observed.min()), float(observed.max())] if len(observed) else None,
+        "median_last_week_retained_peak_share": float(retained.median()) if len(retained) else None,
+        "last_week_below_1pct_events": int((retained < .01).sum()),
+        "last_week_below_5pct_events": int((retained < .05).sum()),
+        "last_week_above_initial_peak_events": study.loc[
+            study["last_week_retained_peak_share"] > 1, "event_slug"
+        ].tolist(),
+    }
 
 
 def exact_sign_test(wins: int, losses: int) -> float:
@@ -66,7 +190,11 @@ def collect_catalog_study(
     rows: list[dict] = []
 
     for event in events:
-        metrics = load_metrics(event.slug, input_dir=processed_dir)
+        frame = load_event_frame(event)
+        # Recompute from the published inputs instead of trusting stale JSON.
+        metrics = analyze_event(frame, event)
+        decay = calculate_constellation_decay(frame, event)
+        peak_offsets = peak_offset_table(frame, event)
         forecast_path = processed_dir / f"{event.slug}-forecast.csv"
         if not forecast_path.exists():
             raise FileNotFoundError(
@@ -87,9 +215,19 @@ def collect_catalog_study(
             "total_excess_views_60d": metrics.total_excess_views_60d,
             "spillover_share": metrics.spillover_share,
             "primary_half_life_days": metrics.page(event.primary).half_life_days,
+            "system_peak_offset_days": decay.peak_offset_days,
+            "system_peak_excess_views": decay.peak_excess_views,
+            "system_half_life_days": decay.half_life_days,
+            "system_half_life_status": decay.half_life_status,
+            "system_observation_days_after_peak": decay.observation_days_after_peak,
+            "last_week_mean_excess_views": decay.last_week_mean_excess_views,
+            "last_week_retained_peak_share": decay.last_week_retained_peak_share,
         }
         for mode, column in MODE_COLUMNS.items():
             row[column] = float(scores.loc[mode, "wape"])
+            row[column.replace("_wape", "_median_page_wape")] = float(
+                scores.loc[mode, "median_page_wape"]
+            )
         for prefix, mode in (
             ("multivariate", "timesfm-multivariate"),
             ("univariate", "timesfm-univariate"),
@@ -110,9 +248,101 @@ def collect_catalog_study(
         row["decay_beats_both_timesfm"] = row["best_decay_wape"] < min(
             row["timesfm_multivariate_wape"], row["timesfm_univariate_wape"]
         )
+        relative_offsets = peak_offsets["relative_peak_offset_days"]
+        row["related_peaks_after_primary_14d"] = int((relative_offsets > 0).sum())
+        row["related_peaks_with_primary_14d"] = int((relative_offsets == 0).sum())
+        row["related_peaks_before_primary_14d"] = int((relative_offsets < 0).sum())
+        row["median_related_peak_offset_14d"] = float(relative_offsets.median())
+
+        for floor in BASELINE_FLOORS:
+            sensitivity = analyze_event(frame, event, baseline_floor=float(floor))
+            row[f"spillover_floor_{floor}"] = sensitivity.spillover_share
+            row[f"total_excess_floor_{floor}"] = sensitivity.total_excess_views_60d
+        for days in BASELINE_WINDOWS:
+            sensitivity = analyze_event(frame, event, baseline_days=days)
+            row[f"spillover_baseline_{days}d"] = sensitivity.spillover_share
+            row[f"total_excess_baseline_{days}d"] = sensitivity.total_excess_views_60d
+            event_day = pd.Timestamp(event.date)
+            row[f"baseline_days_observed_{days}d"] = len(frame.loc[
+                event_day - pd.Timedelta(days=days) : event_day - pd.Timedelta(days=1)
+            ])
+        for days in PEAK_WINDOWS:
+            sensitivity = calculate_constellation_decay(frame, event, peak_window_days=days)
+            row[f"system_half_life_peak_{days}d"] = sensitivity.half_life_days
+            row[f"last_week_retained_peak_{days}d"] = sensitivity.last_week_retained_peak_share
         rows.append(row)
 
     return pd.DataFrame(rows)
+
+
+TRAINING_CUTOFF = "2023-12-01"
+
+
+def training_cutoff_split(study: pd.DataFrame, cutoff: str = TRAINING_CUTOFF) -> dict:
+    """Compare forecast skill either side of TimesFM 3.0's Wikipedia cutoff.
+
+    The model card states the pretraining pageview data was cut off in November
+    2023. Pageviews before December may have been available to the model;
+    observations after November should be outside that stated source window. If skill comes partly from
+    having seen these series, it should be higher on the earlier side.
+
+    Raw WAPE cannot answer this on its own, because the two groups are also
+    separated in time and Wikipedia traffic has changed for reasons that have
+    nothing to do with any model. So the comparison is run on the ratio of
+    TimesFM's error to the best parametric decay fit on the same event. A
+    parametric fit has no training corpus and cannot have memorised anything,
+    but the ratio does not remove differences in event type or difficulty.
+    This is an exploratory association, not a causal test of memorization.
+    """
+    frame = study.copy()
+    frame["pre_training_cutoff"] = (
+        pd.to_datetime(frame["event_date"]) < pd.Timestamp(cutoff)
+    )
+    frame["skill_vs_decay"] = (
+        frame["timesfm_multivariate_wape"] / frame["best_decay_wape"]
+    )
+
+    groups = {}
+    for seen, part in frame.groupby("pre_training_cutoff"):
+        key = "seen" if seen else "unseen"
+        groups[key] = {
+            "events": int(len(part)),
+            "median_wape": float(part["timesfm_multivariate_wape"].median()),
+            "median_skill_vs_decay": float(part["skill_vs_decay"].median()),
+            "slugs": part["event_slug"].tolist(),
+        }
+
+    seen = frame.loc[frame["pre_training_cutoff"], "skill_vs_decay"].to_numpy(float)
+    unseen = frame.loc[~frame["pre_training_cutoff"], "skill_vs_decay"].to_numpy(float)
+    return {
+        "cutoff": cutoff,
+        "groups": groups,
+        "median_difference": (
+            float(np.median(seen) - np.median(unseen))
+            if len(seen) and len(unseen) else None
+        ),
+        "permutation_p_value": _two_sample_permutation(seen, unseen),
+    }
+
+
+def _two_sample_permutation(a: np.ndarray, b: np.ndarray) -> float:
+    """Exact two-sided permutation test on the difference of medians."""
+    a = a[np.isfinite(a)]
+    b = b[np.isfinite(b)]
+    if len(a) < 2 or len(b) < 2:
+        return 1.0
+    observed = abs(float(np.median(a) - np.median(b)))
+    pool = np.concatenate([a, b])
+    hits = 0
+    partitions = 0
+    for left_indices in combinations(range(len(pool)), len(a)):
+        mask = np.zeros(len(pool), dtype=bool)
+        mask[list(left_indices)] = True
+        difference = abs(float(np.median(pool[mask]) - np.median(pool[~mask])))
+        if difference >= observed - 1e-12:
+            hits += 1
+        partitions += 1
+    return float(hits / partitions)
 
 
 def summarize_catalog_study(study: pd.DataFrame) -> dict:
@@ -129,6 +359,14 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
     model_medians = {
         mode: float(study[column].median()) for mode, column in MODE_COLUMNS.items()
     }
+    page_model_medians = {
+        mode: float(study[column.replace("_wape", "_median_page_wape")].median())
+        for mode, column in MODE_COLUMNS.items()
+    }
+    page_deltas = (
+        study["timesfm_multivariate_median_page_wape"]
+        - study["timesfm_univariate_median_page_wape"]
+    )
     interval_diagnostics = {}
     for prefix in ("multivariate", "univariate"):
         coverage = study[f"{prefix}_interval_coverage"]
@@ -142,6 +380,31 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
         }
 
     highest_spillover = study.loc[study["spillover_share"].idxmax()]
+    flat_wins = study.loc[
+        study["flat_baseline_wape"]
+        < study[["timesfm_multivariate_wape", "timesfm_univariate_wape"]].min(axis=1),
+        "event_slug",
+    ].tolist()
+    peak_counts = summarize_peak_timing(study)
+    decay_delta = study["exponential_decay_wape"] - study["power_law_decay_wape"]
+    decay_ties = np.isclose(decay_delta, 0, atol=1e-12, rtol=0)
+    floor_sensitivity = {}
+    for floor in BASELINE_FLOORS:
+        excess = study[f"total_excess_floor_{floor}"]
+        share = study[f"spillover_floor_{floor}"]
+        floor_sensitivity[str(floor)] = {
+            "median_event_spillover_share": float(share.median()),
+            "traffic_weighted_spillover_share": float((excess * share).sum() / excess.sum()),
+        }
+    window_sensitivity = {}
+    for days in BASELINE_WINDOWS:
+        excess = study[f"total_excess_baseline_{days}d"]
+        share = study[f"spillover_baseline_{days}d"]
+        window_sensitivity[str(days)] = {
+            "total_excess_views_60d": int(excess.sum()),
+            "median_event_spillover_share": float(share.median()),
+            "traffic_weighted_spillover_share": float((excess * share).sum() / excess.sum()),
+        }
     return {
         "catalog_events": len(study),
         "total_excess_views_60d": total_excess,
@@ -163,8 +426,34 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
         "decay_beats_both_timesfm_events": study.loc[
             study["decay_beats_both_timesfm"], "event_slug"
         ].tolist(),
+        "flat_baseline_beats_both_timesfm_events": flat_wins,
+        "peak_timing_14d": peak_counts,
+        "constellation_decay": summarize_decay(study),
+        "decay_forecast_family_comparison": {
+            "exponential_wins": int(((decay_delta < 0) & ~decay_ties).sum()),
+            "power_law_wins": int(((decay_delta > 0) & ~decay_ties).sum()),
+            "ties": int(decay_ties.sum()),
+            "interpretation": "forecast comparison after eight revealed days, not a test of a universal decay law",
+        },
+        "peak_window_sensitivity": {
+            str(days): {
+                "median_system_half_life_days": float(study[f"system_half_life_peak_{days}d"].median()),
+                "not_observed_or_no_excess_events": int(study[f"system_half_life_peak_{days}d"].isna().sum()),
+                "last_week_below_1pct_events": int((study[f"last_week_retained_peak_{days}d"] < .01).sum()),
+            }
+            for days in PEAK_WINDOWS
+        },
+        "baseline_floor_sensitivity": floor_sensitivity,
+        "baseline_window_sensitivity": window_sensitivity,
         "median_event_wape": model_medians,
+        "median_event_median_page_wape": page_model_medians,
+        "page_level_multivariate_vs_univariate": {
+            "multivariate_wins": int((page_deltas < 0).sum()),
+            "univariate_wins": int((page_deltas > 0).sum()),
+            "median_wape_difference": float(page_deltas.median()),
+        },
         "interval_diagnostics": interval_diagnostics,
+        "training_cutoff_split": training_cutoff_split(study),
     }
 
 
@@ -182,6 +471,17 @@ def save_catalog_study(
     return table_path, summary_path
 
 
+def save_peak_offsets(
+    peak_offsets: pd.DataFrame,
+    output_dir: str | Path = DEFAULT_RESULTS,
+) -> Path:
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    path = output_dir / "peak-offsets.csv"
+    peak_offsets.to_csv(path, index=False)
+    return path
+
+
 def _figure_setup(figsize: tuple[float, float]):
     fig, ax = plt.subplots(figsize=figsize, facecolor="#fbfaf7")
     ax.set_facecolor("#fbfaf7")
@@ -192,11 +492,99 @@ def _figure_setup(figsize: tuple[float, float]):
 
 def render_catalog_study(
     study: pd.DataFrame,
+    peak_offsets: pd.DataFrame | None = None,
     output_dir: str | Path = DEFAULT_FIGURES,
 ) -> list[Path]:
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     paths = []
+
+    ordered = study.sort_values(["system_half_life_days", "event_date"], na_position="last")
+    fig, (half_ax, tail_ax) = plt.subplots(
+        1, 2, figsize=(13, 7), sharey=True, facecolor="#fbfaf7",
+        gridspec_kw={"width_ratios": [1, 1.1]},
+    )
+    y = np.arange(len(ordered))
+    colors = ["#ef5b5b" if slug == "chatgpt-launch" else "#7c5cff" for slug in ordered["event_slug"]]
+    for ax in (half_ax, tail_ax):
+        ax.set_facecolor("#fbfaf7")
+        ax.spines[["top", "right"]].set_visible(False)
+        ax.grid(axis="x", color="#dedbd2", linewidth=.7)
+    half_ax.scatter(ordered["system_half_life_days"], y, c=colors, s=48, zorder=3)
+    half_ax.set_yticks(y, labels=ordered["event_title"])
+    half_ax.set_xlim(left=0)
+    half_ax.set_xlabel("days from initial peak to a 3-day half-peak crossing")
+    half_ax.set_title("The first drop", loc="left", fontsize=13, weight="bold")
+    tail = 100 * ordered["last_week_retained_peak_share"]
+    tail_ax.scatter(tail, y, c=colors, s=48, zorder=3)
+    tail_ax.set_xscale("symlog", linthresh=.1)
+    tail_ax.set_xlim(-.01, max(220, tail.max() * 1.8))
+    tail_ax.set_xticks([0, .1, 1, 10, 100], labels=["0", "0.1%", "1%", "10%", "100%"])
+    tail_ax.axvline(1, color="#8d8a82", linestyle="--", linewidth=1)
+    tail_ax.set_xlabel("mean excess on days 53–59 ÷ initial peak excess")
+    tail_ax.set_title("What remained near day 60", loc="left", fontsize=13, weight="bold")
+    for index, (value, status) in enumerate(zip(ordered["system_half_life_days"], ordered["system_half_life_status"])):
+        if pd.notna(value):
+            half_ax.annotate(f"{value:g}d", (value, index), xytext=(7, 0), textcoords="offset points", va="center", fontsize=9)
+        else:
+            half_ax.text(.1, index, status.replace("_", " "), va="center", fontsize=9)
+    for index, value in enumerate(tail):
+        if pd.notna(value):
+            label = "<0.01%" if 0 < value < .01 else f"{value:.2f}%"
+            tail_ax.annotate(label, (value, index), xytext=(7, 0), textcoords="offset points", va="center", fontsize=9)
+    fig.suptitle("A short half-life does not mean attention stays gone", x=.035, ha="left", fontsize=19, weight="bold")
+    fig.text(.035, .02, "16 curated Wikipedia constellations. Initial peak: event days 0–13. A later rebound does not undo the first crossing.", fontsize=9, color="#5d5a54")
+    fig.tight_layout(rect=(0, .055, 1, .95))
+    path = output_dir / "half-life-distribution.png"
+    fig.savefig(path, dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+    plt.close(fig)
+    paths.append(path)
+
+    if peak_offsets is not None:
+        order = study.sort_values("median_related_peak_offset_14d")["event_slug"]
+        labels = study.set_index("event_slug")["event_title"]
+        y_by_slug = {slug: index for index, slug in enumerate(order)}
+        fig, ax = _figure_setup((10.5, 6.2))
+        for slug, group in peak_offsets.groupby("event_slug", sort=False):
+            y = y_by_slug[slug]
+            values = group["relative_peak_offset_days"].to_numpy(dtype=float)
+            jitter = np.linspace(-0.12, 0.12, len(values))
+            ax.scatter(
+                values,
+                y + jitter,
+                s=42,
+                color="#ef5b5b" if slug == "barbenheimer" else "#7c5cff",
+                alpha=0.88,
+                edgecolor="#fbfaf7",
+                linewidth=0.5,
+                zorder=3,
+            )
+            ax.scatter(np.median(values), y, marker="D", s=36, color="#222222", zorder=4)
+        ax.axvline(0, color="#222222", linewidth=1.2)
+        ax.set_yticks(range(len(order)), labels=[labels[slug] for slug in order])
+        ax.set_xlabel("related-page peak day − primary-page peak day  (first 14 days)")
+        ax.set_title(
+            "No consistent outward delay in this catalog",
+            loc="left",
+            fontsize=17,
+            weight="bold",
+        )
+        ax.text(
+            0.99,
+            0.02,
+            "black diamonds: one median per event\n"
+            f"event-level sign test p = {summarize_peak_timing(study)['event_medians']['exact_sign_test_p_value']:.3f}",
+            transform=ax.transAxes,
+            ha="right",
+            va="bottom",
+            fontsize=10,
+            color="#4b4a46",
+        )
+        fig.tight_layout()
+        path = output_dir / "peak-offsets.png"
+        fig.savefig(path, dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+        plt.close(fig)
+        paths.append(path)
 
     spillover = study.sort_values("spillover_share")
     fig, ax = _figure_setup((10.5, 6.2))
@@ -215,7 +603,7 @@ def render_catalog_study(
     ax.set_xlim(0, 105)
     ax.set_xlabel("share of 60-day excess views outside the primary page")
     ax.set_title(
-        "The event page is rarely where attention ends up",
+        "Attention outside the chosen primary page",
         loc="left",
         fontsize=17,
         weight="bold",
@@ -253,9 +641,15 @@ def render_catalog_study(
         "TimesFM-3\nunivariate",
         "exponential\ndecay",
         "power-law\ndecay",
-        "weekly\nnaive",
+        "flat pre-event\nmedian",
     ]
-    columns = list(MODE_COLUMNS.values())
+    columns = [
+        MODE_COLUMNS["timesfm-multivariate"],
+        MODE_COLUMNS["timesfm-univariate"],
+        MODE_COLUMNS["exponential-decay"],
+        MODE_COLUMNS["power-law-decay"],
+        MODE_COLUMNS["flat-baseline"],
+    ]
     palette = ["#ef5b5b", "#3a86ff", "#2db7a3", "#7c5cff", "#8d8a82"]
     fig, ax = _figure_setup((10.5, 6.2))
     arrays = [study[column].to_numpy(dtype=float) for column in columns]

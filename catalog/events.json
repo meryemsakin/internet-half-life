@@ -7,55 +7,31 @@
       "description": "The film's release revived attention across N.W.A and the lives of its members.",
       "primary": "Straight_Outta_Compton_(2015_film)",
       "pages": [
-        {"article": "Straight_Outta_Compton_(2015_film)", "label": "Straight Outta Compton", "role": "event"},
-        {"article": "N.W.A", "label": "N.W.A", "role": "organization"},
-        {"article": "Dr._Dre", "label": "Dr. Dre", "role": "person"},
-        {"article": "Ice_Cube", "label": "Ice Cube", "role": "person"},
-        {"article": "Eazy-E", "label": "Eazy-E", "role": "person"}
-      ]
-    },
-    {
-      "slug": "barbenheimer",
-      "title": "Barbenheimer",
-      "date": "2023-07-21",
-      "description": "Barbie and Oppenheimer opened on the same day and became one shared cultural event.",
-      "primary": "Barbenheimer",
-      "pages": [
-        {"article": "Barbenheimer", "label": "Barbenheimer", "role": "event"},
-        {"article": "Barbie_(film)", "label": "Barbie", "role": "work"},
-        {"article": "Oppenheimer_(film)", "label": "Oppenheimer", "role": "work"},
-        {"article": "Margot_Robbie", "label": "Margot Robbie", "role": "person"},
-        {"article": "Cillian_Murphy", "label": "Cillian Murphy", "role": "person"},
-        {"article": "J._Robert_Oppenheimer", "label": "J. R. Oppenheimer", "role": "history"},
-        {"article": "Manhattan_Project", "label": "Manhattan Project", "role": "history"}
-      ]
-    },
-    {
-      "slug": "chatgpt-launch",
-      "title": "ChatGPT launches",
-      "date": "2022-11-30",
-      "description": "ChatGPT's public launch moved attention through a network of AI people, labs, and ideas.",
-      "primary": "ChatGPT",
-      "pages": [
-        {"article": "ChatGPT", "label": "ChatGPT", "role": "event"},
-        {"article": "OpenAI", "label": "OpenAI", "role": "organization"},
-        {"article": "GPT-3", "label": "GPT-3", "role": "technology"},
-        {"article": "Artificial_intelligence", "label": "Artificial intelligence", "role": "idea"},
-        {"article": "Sam_Altman", "label": "Sam Altman", "role": "person"}
-      ]
-    },
-    {
-      "slug": "jwst-first-images",
-      "title": "James Webb's first images",
-      "date": "2022-07-12",
-      "description": "The first full-color JWST images redirected attention across telescopes, agencies, and deep space.",
-      "primary": "James_Webb_Space_Telescope",
-      "pages": [
-        {"article": "James_Webb_Space_Telescope", "label": "James Webb", "role": "event"},
-        {"article": "NASA", "label": "NASA", "role": "organization"},
-        {"article": "Hubble_Space_Telescope", "label": "Hubble", "role": "technology"},
-        {"article": "Webb's_First_Deep_Field", "label": "Webb's First Deep Field", "role": "work"},
-        {"article": "Carina_Nebula", "label": "Carina Nebula", "role": "idea"}
+        {
+          "article": "Straight_Outta_Compton_(2015_film)",
+          "label": "Straight Outta Compton",
+          "role": "event"
+        },
+        {
+          "article": "N.W.A",
+          "label": "N.W.A",
+          "role": "organization"
+        },
+        {
+          "article": "Dr._Dre",
+          "label": "Dr. Dre",
+          "role": "person"
+        },
+        {
+          "article": "Ice_Cube",
+          "label": "Ice Cube",
+          "role": "person"
+        },
+        {
+          "article": "Eazy-E",
+          "label": "Eazy-E",
+          "role": "person"
+        }
       ]
     },
     {
@@ -65,11 +41,99 @@
       "description": "One ship turned logistics infrastructure into a global object of attention.",
       "primary": "2021_Suez_Canal_obstruction",
       "pages": [
-        {"article": "2021_Suez_Canal_obstruction", "label": "Suez obstruction", "role": "event"},
-        {"article": "Ever_Given", "label": "Ever Given", "role": "object"},
-        {"article": "Suez_Canal", "label": "Suez Canal", "role": "place"},
-        {"article": "Container_ship", "label": "Container ship", "role": "idea"},
-        {"article": "Supply_chain", "label": "Supply chain", "role": "idea"}
+        {
+          "article": "2021_Suez_Canal_obstruction",
+          "label": "Suez obstruction",
+          "role": "event"
+        },
+        {
+          "article": "Ever_Given",
+          "label": "Ever Given",
+          "role": "object"
+        },
+        {
+          "article": "Suez_Canal",
+          "label": "Suez Canal",
+          "role": "place"
+        },
+        {
+          "article": "Container_ship",
+          "label": "Container ship",
+          "role": "idea"
+        },
+        {
+          "article": "Supply_chain",
+          "label": "Supply chain",
+          "role": "idea"
+        }
+      ]
+    },
+    {
+      "slug": "jwst-first-images",
+      "title": "James Webb's first images",
+      "date": "2022-07-12",
+      "description": "The first full-color JWST images redirected attention across telescopes, agencies, and deep space.",
+      "primary": "James_Webb_Space_Telescope",
+      "pages": [
+        {
+          "article": "James_Webb_Space_Telescope",
+          "label": "James Webb",
+          "role": "event"
+        },
+        {
+          "article": "NASA",
+          "label": "NASA",
+          "role": "organization"
+        },
+        {
+          "article": "Hubble_Space_Telescope",
+          "label": "Hubble",
+          "role": "technology"
+        },
+        {
+          "article": "Webb's_First_Deep_Field",
+          "label": "Webb's First Deep Field",
+          "role": "work"
+        },
+        {
+          "article": "Carina_Nebula",
+          "label": "Carina Nebula",
+          "role": "idea"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-launch",
+      "title": "ChatGPT launches",
+      "date": "2022-11-30",
+      "description": "ChatGPT's public launch moved attention through a network of AI people, labs, and ideas.",
+      "primary": "ChatGPT",
+      "pages": [
+        {
+          "article": "ChatGPT",
+          "label": "ChatGPT",
+          "role": "event"
+        },
+        {
+          "article": "OpenAI",
+          "label": "OpenAI",
+          "role": "organization"
+        },
+        {
+          "article": "GPT-3",
+          "label": "GPT-3",
+          "role": "technology"
+        },
+        {
+          "article": "Artificial_intelligence",
+          "label": "Artificial intelligence",
+          "role": "idea"
+        },
+        {
+          "article": "Sam_Altman",
+          "label": "Sam Altman",
+          "role": "person"
+        }
       ]
     },
     {
@@ -79,11 +143,75 @@
       "description": "A single match synchronized attention around players, teams, and the tournament.",
       "primary": "2022_FIFA_World_Cup_final",
       "pages": [
-        {"article": "2022_FIFA_World_Cup_final", "label": "World Cup final", "role": "event"},
-        {"article": "Lionel_Messi", "label": "Lionel Messi", "role": "person"},
-        {"article": "Kylian_Mbappé", "label": "Kylian Mbappe", "role": "person"},
-        {"article": "Argentina_national_football_team", "label": "Argentina", "role": "organization"},
-        {"article": "France_national_football_team", "label": "France", "role": "organization"}
+        {
+          "article": "2022_FIFA_World_Cup_final",
+          "label": "World Cup final",
+          "role": "event"
+        },
+        {
+          "article": "Lionel_Messi",
+          "label": "Lionel Messi",
+          "role": "person"
+        },
+        {
+          "article": "Kylian_Mbappé",
+          "label": "Kylian Mbappe",
+          "role": "person"
+        },
+        {
+          "article": "Argentina_national_football_team",
+          "label": "Argentina",
+          "role": "organization"
+        },
+        {
+          "article": "France_national_football_team",
+          "label": "France",
+          "role": "organization"
+        }
+      ]
+    },
+    {
+      "slug": "barbenheimer",
+      "title": "Barbenheimer",
+      "date": "2023-07-21",
+      "description": "Barbie and Oppenheimer opened on the same day and became one shared cultural event.",
+      "primary": "Barbenheimer",
+      "pages": [
+        {
+          "article": "Barbenheimer",
+          "label": "Barbenheimer",
+          "role": "event"
+        },
+        {
+          "article": "Barbie_(film)",
+          "label": "Barbie",
+          "role": "work"
+        },
+        {
+          "article": "Oppenheimer_(film)",
+          "label": "Oppenheimer",
+          "role": "work"
+        },
+        {
+          "article": "Margot_Robbie",
+          "label": "Margot Robbie",
+          "role": "person"
+        },
+        {
+          "article": "Cillian_Murphy",
+          "label": "Cillian Murphy",
+          "role": "person"
+        },
+        {
+          "article": "J._Robert_Oppenheimer",
+          "label": "J. R. Oppenheimer",
+          "role": "history"
+        },
+        {
+          "article": "Manhattan_Project",
+          "label": "Manhattan Project",
+          "role": "history"
+        }
       ]
     },
     {
@@ -93,11 +221,31 @@
       "description": "India's lunar landing spread attention from the mission to institutions and lunar geography.",
       "primary": "Chandrayaan-3",
       "pages": [
-        {"article": "Chandrayaan-3", "label": "Chandrayaan-3", "role": "event"},
-        {"article": "Indian_Space_Research_Organisation", "label": "ISRO", "role": "organization"},
-        {"article": "Moon_landing", "label": "Moon landing", "role": "idea"},
-        {"article": "Lunar_south_pole", "label": "Lunar south pole", "role": "place"},
-        {"article": "Vikram_(spacecraft)", "label": "Vikram", "role": "object"}
+        {
+          "article": "Chandrayaan-3",
+          "label": "Chandrayaan-3",
+          "role": "event"
+        },
+        {
+          "article": "Indian_Space_Research_Organisation",
+          "label": "ISRO",
+          "role": "organization"
+        },
+        {
+          "article": "Moon_landing",
+          "label": "Moon landing",
+          "role": "idea"
+        },
+        {
+          "article": "Lunar_south_pole",
+          "label": "Lunar south pole",
+          "role": "place"
+        },
+        {
+          "article": "Vikram_(spacecraft)",
+          "label": "Vikram",
+          "role": "object"
+        }
       ]
     },
     {
@@ -107,11 +255,31 @@
       "description": "A trailer revived attention for a franchise, its studio, and a decade-old predecessor.",
       "primary": "Grand_Theft_Auto_VI",
       "pages": [
-        {"article": "Grand_Theft_Auto_VI", "label": "GTA VI", "role": "event"},
-        {"article": "Rockstar_Games", "label": "Rockstar Games", "role": "organization"},
-        {"article": "Grand_Theft_Auto_V", "label": "GTA V", "role": "work"},
-        {"article": "Grand_Theft_Auto", "label": "Grand Theft Auto", "role": "idea"},
-        {"article": "Take-Two_Interactive", "label": "Take-Two", "role": "organization"}
+        {
+          "article": "Grand_Theft_Auto_VI",
+          "label": "GTA VI",
+          "role": "event"
+        },
+        {
+          "article": "Rockstar_Games",
+          "label": "Rockstar Games",
+          "role": "organization"
+        },
+        {
+          "article": "Grand_Theft_Auto_V",
+          "label": "GTA V",
+          "role": "work"
+        },
+        {
+          "article": "Grand_Theft_Auto",
+          "label": "Grand Theft Auto",
+          "role": "idea"
+        },
+        {
+          "article": "Take-Two_Interactive",
+          "label": "Take-Two",
+          "role": "organization"
+        }
       ]
     },
     {
@@ -121,11 +289,31 @@
       "description": "A scheduled astronomical event produced an attention wave whose date was known years ahead.",
       "primary": "Solar_eclipse_of_April_8,_2024",
       "pages": [
-        {"article": "Solar_eclipse_of_April_8,_2024", "label": "2024 eclipse", "role": "event"},
-        {"article": "Solar_eclipse", "label": "Solar eclipse", "role": "idea"},
-        {"article": "Eclipse_glasses", "label": "Eclipse glasses", "role": "object"},
-        {"article": "Total_solar_eclipse", "label": "Total eclipse", "role": "idea"},
-        {"article": "Saros", "label": "Saros", "role": "idea"}
+        {
+          "article": "Solar_eclipse_of_April_8,_2024",
+          "label": "2024 eclipse",
+          "role": "event"
+        },
+        {
+          "article": "Solar_eclipse",
+          "label": "Solar eclipse",
+          "role": "idea"
+        },
+        {
+          "article": "Eclipse_glasses",
+          "label": "Eclipse glasses",
+          "role": "object"
+        },
+        {
+          "article": "Total_solar_eclipse",
+          "label": "Total eclipse",
+          "role": "idea"
+        },
+        {
+          "article": "Saros",
+          "label": "Saros",
+          "role": "idea"
+        }
       ]
     },
     {
@@ -135,11 +323,230 @@
       "description": "A film release connected a fictional emotion to renewed interest in psychology and Pixar history.",
       "primary": "Inside_Out_2",
       "pages": [
-        {"article": "Inside_Out_2", "label": "Inside Out 2", "role": "event"},
-        {"article": "Inside_Out_(2015_film)", "label": "Inside Out", "role": "work"},
-        {"article": "Pixar", "label": "Pixar", "role": "organization"},
-        {"article": "Anxiety", "label": "Anxiety", "role": "idea"},
-        {"article": "Amy_Poehler", "label": "Amy Poehler", "role": "person"}
+        {
+          "article": "Inside_Out_2",
+          "label": "Inside Out 2",
+          "role": "event"
+        },
+        {
+          "article": "Inside_Out_(2015_film)",
+          "label": "Inside Out",
+          "role": "work"
+        },
+        {
+          "article": "Pixar",
+          "label": "Pixar",
+          "role": "organization"
+        },
+        {
+          "article": "Anxiety",
+          "label": "Anxiety",
+          "role": "idea"
+        },
+        {
+          "article": "Amy_Poehler",
+          "label": "Amy Poehler",
+          "role": "person"
+        }
+      ]
+    },
+    {
+      "slug": "paris-2024-opening",
+      "title": "The Paris 2024 opening ceremony",
+      "date": "2024-07-26",
+      "description": "A ceremony staged along the Seine pulled attention toward the city itself, not only the games.",
+      "primary": "2024_Summer_Olympics_opening_ceremony",
+      "pages": [
+        {
+          "article": "2024_Summer_Olympics_opening_ceremony",
+          "label": "Opening ceremony",
+          "role": "event"
+        },
+        {
+          "article": "2024_Summer_Olympics",
+          "label": "Paris 2024",
+          "role": "event"
+        },
+        {
+          "article": "Celine_Dion",
+          "label": "Celine Dion",
+          "role": "person"
+        },
+        {
+          "article": "Léon_Marchand",
+          "label": "Léon Marchand",
+          "role": "person"
+        },
+        {
+          "article": "Paris",
+          "label": "Paris",
+          "role": "place"
+        }
+      ]
+    },
+    {
+      "slug": "deadpool-wolverine",
+      "title": "Deadpool & Wolverine opens",
+      "date": "2024-07-26",
+      "description": "A film release that reached backwards into two decades of character history.",
+      "primary": "Deadpool_&_Wolverine",
+      "pages": [
+        {
+          "article": "Deadpool_&_Wolverine",
+          "label": "Deadpool & Wolverine",
+          "role": "event"
+        },
+        {
+          "article": "Ryan_Reynolds",
+          "label": "Ryan Reynolds",
+          "role": "person"
+        },
+        {
+          "article": "Hugh_Jackman",
+          "label": "Hugh Jackman",
+          "role": "person"
+        },
+        {
+          "article": "Wolverine_(character)",
+          "label": "Wolverine",
+          "role": "work"
+        },
+        {
+          "article": "Marvel_Cinematic_Universe",
+          "label": "MCU",
+          "role": "organization"
+        }
+      ]
+    },
+    {
+      "slug": "us-election-2024",
+      "title": "The 2024 United States presidential election",
+      "date": "2024-11-05",
+      "description": "An election night that moved attention across candidates and running mates at once.",
+      "primary": "2024_United_States_presidential_election",
+      "pages": [
+        {
+          "article": "2024_United_States_presidential_election",
+          "label": "2024 election",
+          "role": "event"
+        },
+        {
+          "article": "Donald_Trump",
+          "label": "Donald Trump",
+          "role": "person"
+        },
+        {
+          "article": "Kamala_Harris",
+          "label": "Kamala Harris",
+          "role": "person"
+        },
+        {
+          "article": "JD_Vance",
+          "label": "JD Vance",
+          "role": "person"
+        },
+        {
+          "article": "Tim_Walz",
+          "label": "Tim Walz",
+          "role": "person"
+        }
+      ]
+    },
+    {
+      "slug": "notre-dame-reopening",
+      "title": "Notre-Dame reopens",
+      "date": "2024-12-07",
+      "description": "A reopening that sent readers back to the fire five years earlier.",
+      "primary": "Notre-Dame_de_Paris",
+      "pages": [
+        {
+          "article": "Notre-Dame_de_Paris",
+          "label": "Notre-Dame",
+          "role": "place"
+        },
+        {
+          "article": "Notre-Dame_fire",
+          "label": "2019 fire",
+          "role": "history"
+        },
+        {
+          "article": "Emmanuel_Macron",
+          "label": "Emmanuel Macron",
+          "role": "person"
+        },
+        {
+          "article": "Gothic_architecture",
+          "label": "Gothic architecture",
+          "role": "idea"
+        },
+        {
+          "article": "Paris",
+          "label": "Paris",
+          "role": "place"
+        }
+      ]
+    },
+    {
+      "slug": "super-bowl-lix",
+      "title": "Super Bowl LIX",
+      "date": "2025-02-09",
+      "description": "The halftime show competed with the game for the evening's attention.",
+      "primary": "Super_Bowl_LIX",
+      "pages": [
+        {
+          "article": "Super_Bowl_LIX",
+          "label": "Super Bowl LIX",
+          "role": "event"
+        },
+        {
+          "article": "Kendrick_Lamar",
+          "label": "Kendrick Lamar",
+          "role": "person"
+        },
+        {
+          "article": "Philadelphia_Eagles",
+          "label": "Eagles",
+          "role": "organization"
+        },
+        {
+          "article": "Kansas_City_Chiefs",
+          "label": "Chiefs",
+          "role": "organization"
+        }
+      ]
+    },
+    {
+      "slug": "pope-francis-death",
+      "title": "The death of Pope Francis",
+      "date": "2025-04-21",
+      "description": "A death, a conclave and a successor, arriving as three overlapping waves.",
+      "primary": "Pope_Francis",
+      "pages": [
+        {
+          "article": "Pope_Francis",
+          "label": "Pope Francis",
+          "role": "person"
+        },
+        {
+          "article": "2025_papal_conclave",
+          "label": "2025 conclave",
+          "role": "event"
+        },
+        {
+          "article": "Pope_Leo_XIV",
+          "label": "Pope Leo XIV",
+          "role": "person"
+        },
+        {
+          "article": "College_of_Cardinals",
+          "label": "College of Cardinals",
+          "role": "organization"
+        },
+        {
+          "article": "Vatican_City",
+          "label": "Vatican City",
+          "role": "place"
+        }
       ]
     }
   ]

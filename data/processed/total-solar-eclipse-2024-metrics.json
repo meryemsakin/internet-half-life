@@ -1,0 +1,142 @@
+{
+  "slug": "total-solar-eclipse-2024",
+  "title": "The 2024 total solar eclipse",
+  "event_date": "2024-04-08",
+  "primary": "Solar_eclipse_of_April_8,_2024",
+  "total_excess_views_60d": 2325572,
+  "spillover_share": 0.34612473834394286,
+  "pages": [
+    {
+      "article": "Solar_eclipse_of_April_8,_2024",
+      "label": "2024 eclipse",
+      "role": "event",
+      "baseline_views": 41282.0,
+      "peak_date": "2024-04-08",
+      "peak_offset_days": 0,
+      "peak_views": 1335210,
+      "peak_lift": 32.3436364517223,
+      "half_life_days": 1,
+      "excess_views_60d": 1520634,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Solar_eclipse",
+      "label": "Solar eclipse",
+      "role": "idea",
+      "baseline_views": 14344.5,
+      "peak_date": "2024-04-08",
+      "peak_offset_days": 0,
+      "peak_views": 491270,
+      "peak_lift": 34.24796960507511,
+      "half_life_days": 1,
+      "excess_views_60d": 784285,
+      "first_week_share": 0.9836162874465277,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Eclipse_glasses",
+      "label": "Eclipse glasses",
+      "role": "object",
+      "baseline_views": 5.5,
+      "peak_date": "2024-04-08",
+      "peak_offset_days": 0,
+      "peak_views": 146,
+      "peak_lift": 26.545454545454547,
+      "half_life_days": 1,
+      "excess_views_60d": 199,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Total_solar_eclipse",
+      "label": "Total eclipse",
+      "role": "idea",
+      "baseline_views": 98.5,
+      "peak_date": "2024-04-09",
+      "peak_offset_days": 1,
+      "peak_views": 13956,
+      "peak_lift": 141.68527918781726,
+      "half_life_days": 1,
+      "excess_views_60d": 20231,
+      "first_week_share": 0.9986901290099353,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Saros",
+      "label": "Saros",
+      "role": "idea",
+      "baseline_views": 6.0,
+      "peak_date": "2024-04-08",
+      "peak_offset_days": 0,
+      "peak_views": 49,
+      "peak_lift": 8.166666666666666,
+      "half_life_days": 3,
+      "excess_views_60d": 223,
+      "first_week_share": 0.6995515695067265,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Solar_eclipse_of_April_8,_2024",
+      "target": "Total_solar_eclipse",
+      "lag_days": 1,
+      "correlation": 0.9886628543981704
+    },
+    {
+      "source": "Solar_eclipse_of_April_8,_2024",
+      "target": "Eclipse_glasses",
+      "lag_days": 0,
+      "correlation": 0.9604469829278675
+    },
+    {
+      "source": "Solar_eclipse",
+      "target": "Eclipse_glasses",
+      "lag_days": 0,
+      "correlation": 0.9595205535514252
+    },
+    {
+      "source": "Solar_eclipse_of_April_8,_2024",
+      "target": "Solar_eclipse",
+      "lag_days": 0,
+      "correlation": 0.9525131671183918
+    },
+    {
+      "source": "Eclipse_glasses",
+      "target": "Total_solar_eclipse",
+      "lag_days": 1,
+      "correlation": 0.9470130783427807
+    },
+    {
+      "source": "Solar_eclipse",
+      "target": "Total_solar_eclipse",
+      "lag_days": 0,
+      "correlation": 0.9444523807634643
+    },
+    {
+      "source": "Solar_eclipse",
+      "target": "Saros",
+      "lag_days": 1,
+      "correlation": 0.8443421983119028
+    },
+    {
+      "source": "Eclipse_glasses",
+      "target": "Saros",
+      "lag_days": 0,
+      "correlation": 0.82358661407334
+    },
+    {
+      "source": "Total_solar_eclipse",
+      "target": "Saros",
+      "lag_days": 0,
+      "correlation": 0.8207001091021575
+    },
+    {
+      "source": "Solar_eclipse_of_April_8,_2024",
+      "target": "Saros",
+      "lag_days": 1,
+      "correlation": 0.8124067637295186
+    }
+  ]
+}

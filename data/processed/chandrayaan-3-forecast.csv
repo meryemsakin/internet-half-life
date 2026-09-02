@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,65454.0,66186.875,51324.4140625,101658.21875
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,60022.0,57636.78515625,40410.8984375,104036.671875
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,59270.0,51728.18359375,32534.271484375,107019.0
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,66945.0,48057.703125,27722.115234375,110416.140625
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,48880.0,43261.0390625,22655.123046875,113067.296875
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,43218.0,40216.2265625,19418.900390625,115025.484375
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,41882.0,37246.734375,16372.3125,115848.578125
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,46438.0,36130.625,16332.052734375,116076.28125
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,35488.0,34550.95703125,14773.986328125,114754.25
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,33934.0,30680.001953125,11829.96484375,109354.625
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,41830.0,30257.12109375,11167.90234375,108727.359375
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,33284.0,29373.490234375,10271.447265625,108061.671875
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,30407.0,27829.08203125,9352.0712890625,106171.046875
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,29791.0,27210.587890625,8224.390625,106217.53125
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,32817.0,24924.06640625,7753.4072265625,103136.09375
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,28330.0,24613.71875,6617.6240234375,102743.859375
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,21291.0,23570.603515625,6123.46435546875,102129.515625
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,24838.0,22453.078125,6119.3125,99646.984375
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,22086.0,22617.94140625,5320.72265625,101694.5625
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,23913.0,24638.0703125,7871.47900390625,102568.328125
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,25233.0,24130.9609375,7243.2578125,102883.828125
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,25618.0,22180.673828125,5541.49560546875,100691.40625
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,26628.0,19739.53125,3919.50048828125,97788.28125
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,23006.0,19571.43359375,3214.71337890625,97073.1875
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,27221.0,20837.74609375,4380.28466796875,98358.03125
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,25371.0,21047.13671875,4733.9775390625,98957.96875
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,24107.0,20327.2265625,4823.32568359375,97497.046875
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,18493.0,20776.158203125,5467.9189453125,95876.578125
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,22757.0,19163.28125,4492.06298828125,94279.65625
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,timesfm-multivariate,22484.0,18019.3671875,2078.54931640625,92034.90625
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,892.0,1066.6412353515625,939.5206298828124,1406.0806884765625
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,1113.0,992.2447509765624,839.5457763671875,1464.8359375
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,2073.0,953.2509765625,751.5623779296875,1526.90771484375
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,959.0,941.6173095703124,699.8360595703125,1585.2584228515625
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,699.0,921.609619140625,653.4638671875,1639.22216796875
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,535.0,890.1387939453125,596.318603515625,1666.87744140625
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,467.0,882.5084228515625,568.8890380859375,1726.41357421875
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,454.0,878.5048828125,557.94775390625,1772.180908203125
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,433.0,872.0145263671875,537.8411865234375,1813.588623046875
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,346.0,852.8006591796875,509.71875,1850.408447265625
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,373.0,880.2685546875,516.032470703125,1920.508056640625
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,304.0,859.53125,489.4927978515625,1935.2880859375
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,309.0,829.2100830078125,464.7432861328125,1914.477294921875
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,303.0,852.268310546875,468.572021484375,1977.983154296875
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,310.0,825.2476806640625,445.920166015625,1973.561279296875
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,306.0,805.0517578125,428.7099609375,1977.7664794921875
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,335.0,798.38916015625,421.84619140625,1997.2674560546875
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,377.0,823.385498046875,413.965087890625,2075.265625
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,252.0,818.486328125,423.19775390625,2098.9140625
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,248.0,804.6026611328125,417.4912109375,2094.3154296875
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,226.0,796.2188720703125,412.79638671875,2120.856689453125
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,257.0,791.7095947265625,409.53515625,2132.072265625
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,216.0,796.64501953125,415.68896484375,2153.479736328125
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,244.0,793.4716796875,403.061767578125,2200.885986328125
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,245.0,815.0045166015625,410.961669921875,2235.806396484375
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,259.0,813.7509765625,401.619873046875,2258.09716796875
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,239.0,788.0081787109375,391.0654296875,2235.947265625
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,211.0,805.079833984375,410.125732421875,2244.826904296875
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,200.0,783.277587890625,379.717529296875,2247.93701171875
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,timesfm-multivariate,220.0,775.1005859375,374.164794921875,2242.248779296875
+2023-08-31,Moon_landing,Moon landing,idea,timesfm-multivariate,6595.0,7247.19970703125,6040.12109375,9041.1376953125
+2023-09-01,Moon_landing,Moon landing,idea,timesfm-multivariate,6237.0,6402.4853515625,5099.77880859375,8740.107421875
+2023-09-02,Moon_landing,Moon landing,idea,timesfm-multivariate,6909.0,5923.9169921875,4585.453125,8555.12890625
+2023-09-03,Moon_landing,Moon landing,idea,timesfm-multivariate,5281.0,5577.71630859375,4280.69140625,8304.96875
+2023-09-04,Moon_landing,Moon landing,idea,timesfm-multivariate,4204.0,5231.537109375,3972.0947265625,8015.908203125
+2023-09-05,Moon_landing,Moon landing,idea,timesfm-multivariate,3881.0,4791.263671875,3631.0458984375,7532.81787109375
+2023-09-06,Moon_landing,Moon landing,idea,timesfm-multivariate,3574.0,4615.2861328125,3577.47216796875,7310.01318359375
+2023-09-07,Moon_landing,Moon landing,idea,timesfm-multivariate,4360.0,4561.4892578125,3621.777587890625,7141.853515625
+2023-09-08,Moon_landing,Moon landing,idea,timesfm-multivariate,3426.0,4308.9208984375,3389.13134765625,6879.099609375
+2023-09-09,Moon_landing,Moon landing,idea,timesfm-multivariate,3196.0,4098.6865234375,3240.873291015625,6714.9111328125
+2023-09-10,Moon_landing,Moon landing,idea,timesfm-multivariate,3439.0,4119.42041015625,3134.648193359375,6763.505859375
+2023-09-11,Moon_landing,Moon landing,idea,timesfm-multivariate,2850.0,4085.6162109375,3119.728515625,6723.6357421875
+2023-09-12,Moon_landing,Moon landing,idea,timesfm-multivariate,2707.0,3914.9267578125,2949.8447265625,6545.26123046875
+2023-09-13,Moon_landing,Moon landing,idea,timesfm-multivariate,2790.0,3751.150390625,2868.244140625,6318.35986328125
+2023-09-14,Moon_landing,Moon landing,idea,timesfm-multivariate,2623.0,3619.364013671875,2777.104736328125,6199.2353515625
+2023-09-15,Moon_landing,Moon landing,idea,timesfm-multivariate,2606.0,3539.03076171875,2750.98046875,5994.93896484375
+2023-09-16,Moon_landing,Moon landing,idea,timesfm-multivariate,2398.0,3507.67529296875,2710.50537109375,6068.89990234375
+2023-09-17,Moon_landing,Moon landing,idea,timesfm-multivariate,2166.0,3508.954345703125,2667.578369140625,6134.3662109375
+2023-09-18,Moon_landing,Moon landing,idea,timesfm-multivariate,2351.0,3612.6044921875,2761.19287109375,6259.5908203125
+2023-09-19,Moon_landing,Moon landing,idea,timesfm-multivariate,2382.0,3556.557861328125,2692.67138671875,6171.08447265625
+2023-09-20,Moon_landing,Moon landing,idea,timesfm-multivariate,2628.0,3465.045166015625,2634.8017578125,5989.5419921875
+2023-09-21,Moon_landing,Moon landing,idea,timesfm-multivariate,2565.0,3261.184814453125,2459.593017578125,5718.447265625
+2023-09-22,Moon_landing,Moon landing,idea,timesfm-multivariate,2437.0,3093.791748046875,2356.96240234375,5517.98583984375
+2023-09-23,Moon_landing,Moon landing,idea,timesfm-multivariate,2664.0,3081.1572265625,2261.96923828125,5565.6826171875
+2023-09-24,Moon_landing,Moon landing,idea,timesfm-multivariate,2627.0,3239.927001953125,2345.41552734375,5758.1396484375
+2023-09-25,Moon_landing,Moon landing,idea,timesfm-multivariate,2467.0,3184.355224609375,2302.538818359375,5686.55712890625
+2023-09-26,Moon_landing,Moon landing,idea,timesfm-multivariate,2267.0,3077.427001953125,2180.15283203125,5446.2666015625
+2023-09-27,Moon_landing,Moon landing,idea,timesfm-multivariate,2119.0,3026.9912109375,2252.870361328125,5168.7880859375
+2023-09-28,Moon_landing,Moon landing,idea,timesfm-multivariate,2407.0,2935.412841796875,2219.61181640625,4971.49658203125
+2023-09-29,Moon_landing,Moon landing,idea,timesfm-multivariate,2353.0,2860.75634765625,2114.0498046875,4768.8759765625
+2023-08-31,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,4429.0,6088.80224609375,4848.75,7696.9599609375
+2023-09-01,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,3131.0,5143.10400390625,3575.700927734375,7428.8798828125
+2023-09-02,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2940.0,4340.6494140625,2602.42138671875,7031.63916015625
+2023-09-03,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2996.0,3763.4375,2020.2762451171875,6634.99267578125
+2023-09-04,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2698.0,3217.883544921875,1582.0206298828125,6156.9951171875
+2023-09-05,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2609.0,2846.26025390625,1299.264404296875,5794.32275390625
+2023-09-06,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2471.0,2557.693603515625,1150.70361328125,5483.0927734375
+2023-09-07,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2088.0,2309.16650390625,1085.01171875,5135.8701171875
+2023-09-08,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,1049.0,1968.88037109375,875.440673828125,4774.83447265625
+2023-09-09,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,996.0,1757.777099609375,818.4362182617188,4526.23876953125
+2023-09-10,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,788.0,1635.108642578125,687.906494140625,4407.68896484375
+2023-09-11,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,617.0,1566.61181640625,647.4168090820312,4371.63232421875
+2023-09-12,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,1027.0,1377.94970703125,611.8997802734375,4050.31005859375
+2023-09-13,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,2130.0,1363.749267578125,476.8107299804687,4158.13720703125
+2023-09-14,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,1883.0,1198.73681640625,370.6847534179687,3994.908447265625
+2023-09-15,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,597.0,1127.3961181640625,357.8173828125,3793.529052734375
+2023-09-16,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,474.0,958.0564575195312,291.3891906738281,3668.15380859375
+2023-09-17,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,396.0,919.783447265625,226.32867431640625,3644.487548828125
+2023-09-18,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,393.0,944.164306640625,239.05047607421875,3736.3955078125
+2023-09-19,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,434.0,998.881591796875,264.7469177246094,3738.79931640625
+2023-09-20,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,614.0,916.98486328125,172.42666625976562,3688.41943359375
+2023-09-21,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,793.0,860.0282592773438,190.81954956054688,3586.30322265625
+2023-09-22,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,681.0,711.220947265625,79.8980712890625,3432.213134765625
+2023-09-23,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,547.0,695.9462890625,102.9227294921875,3253.122802734375
+2023-09-24,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,510.0,742.1590576171875,144.0638427734375,3321.313232421875
+2023-09-25,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,627.0,784.8807373046875,177.32559204101562,3355.30419921875
+2023-09-26,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,514.0,707.3359375,103.34759521484376,3184.84619140625
+2023-09-27,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,478.0,756.295166015625,241.3526306152344,3069.8427734375
+2023-09-28,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,1564.0,647.1193237304688,177.4166259765625,2856.5
+2023-09-29,Lunar_south_pole,Lunar south pole,place,timesfm-multivariate,1746.0,624.0887451171875,184.4228515625,2718.02197265625
+2023-08-31,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,99.0,139.62728881835938,77.83761596679688,279.1642761230469
+2023-09-01,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,67.0,132.10374450683594,63.227264404296875,297.6822509765625
+2023-09-02,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,73.0,127.9851303100586,55.24324798583984,304.354736328125
+2023-09-03,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,60.0,128.39938354492188,50.84080123901367,315.43841552734375
+2023-09-04,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,67.0,129.05259704589844,48.47954559326172,327.1621398925781
+2023-09-05,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,43.0,122.68795013427734,42.70491409301758,328.6963195800781
+2023-09-06,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,71.0,117.1974639892578,34.87492370605469,329.2783203125
+2023-09-07,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,29.0,113.00146484375,30.97686004638672,330.14947509765625
+2023-09-08,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,18.0,113.2072296142578,31.79778480529785,335.1639099121094
+2023-09-09,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,19.0,110.48483276367188,29.82583236694336,338.2933044433594
+2023-09-10,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,15.0,113.4369125366211,30.241775512695312,346.7317199707031
+2023-09-11,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,18.0,112.99986267089844,28.660579681396484,352.6839599609375
+2023-09-12,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,14.0,110.06043243408205,28.350679397583008,350.68011474609375
+2023-09-13,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,13.0,106.4807586669922,22.996110916137695,349.4648742675781
+2023-09-14,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,10.0,107.4600830078125,24.65358543395996,354.1990051269531
+2023-09-15,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,9.0,110.06731414794922,28.144250869750977,360.0752258300781
+2023-09-16,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,9.0,107.85763549804688,26.275718688964844,363.7939758300781
+2023-09-17,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,6.0,110.27962493896484,27.592138290405273,370.5125122070313
+2023-09-18,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,8.0,112.2910614013672,29.04895401000977,380.65582275390625
+2023-09-19,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,16.0,109.53589630126952,27.301368713378903,379.6622314453125
+2023-09-20,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,9.0,102.0679931640625,21.81043815612793,376.4767761230469
+2023-09-21,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,16.0,98.51128387451172,18.148021697998047,375.5579223632813
+2023-09-22,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,22.0,100.54898071289062,21.43623924255371,382.32672119140625
+2023-09-23,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,16.0,100.96270751953124,20.660181045532227,385.3969421386719
+2023-09-24,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,28.0,102.729248046875,18.713415145874023,393.5546569824219
+2023-09-25,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,17.0,105.31578826904295,19.569862365722656,398.6910400390625
+2023-09-26,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,22.0,106.25830078125,22.016511917114254,400.20025634765625
+2023-09-27,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,13.0,101.05470275878906,20.893218994140625,393.2179870605469
+2023-09-28,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,16.0,96.41486358642578,16.806110382080078,393.39892578125
+2023-09-29,Vikram_(spacecraft),Vikram,object,timesfm-multivariate,7.0,99.28668212890624,20.39942169189453,398.3382263183594
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,65454.0,65621.125,50065.125,92856.46875
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,60022.0,56138.9921875,39408.6015625,92939.140625
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,59270.0,50346.9375,32206.234375,93069.578125
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,66945.0,47239.609375,28660.71484375,93637.453125
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,48880.0,43950.23828125,24682.62109375,93314.28125
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,43218.0,40632.0390625,21575.26171875,92172.625
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,41882.0,37990.0078125,18967.37890625,91182.875
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,46438.0,35573.78125,17346.591796875,89485.546875
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,35488.0,33119.109375,15054.5859375,88597.734375
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,33934.0,30309.4765625,12786.6669921875,86411.21875
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,41830.0,29884.92578125,11559.1650390625,87119.703125
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,33284.0,29757.923828125,11280.919921875,88011.484375
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,30407.0,28125.525390625,10212.6640625,85826.8125
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,29791.0,27487.431640625,9507.052734375,86458.40625
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,32817.0,25118.94140625,9143.255859375,83776.421875
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,28330.0,24280.267578125,7780.0205078125,83609.046875
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,21291.0,23415.203125,7437.1806640625,84000.6875
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,24838.0,23354.796875,7057.03857421875,85082.890625
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,22086.0,23067.89453125,6754.2744140625,86117.453125
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,23913.0,23600.58984375,7474.62744140625,86367.734375
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,25233.0,22738.03125,7577.751953125,85423.53125
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,25618.0,21500.060546875,7101.7255859375,83301.703125
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,26628.0,19515.58203125,4900.25244140625,81947.96875
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,23006.0,19430.48046875,4779.9677734375,81228.640625
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,27221.0,20560.546875,5296.99658203125,83352.484375
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,25371.0,21401.6328125,5839.5712890625,84530.3125
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,24107.0,20048.640625,5350.56689453125,82098.953125
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,18493.0,19929.3359375,6179.9091796875,79345.453125
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,22757.0,18360.55078125,4932.7236328125,77737.203125
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,timesfm-univariate,22484.0,17613.447265625,4028.20654296875,75475.34375
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,892.0,1086.2099609375,930.944091796875,1410.3662109375
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,1113.0,999.59375,818.325927734375,1465.62060546875
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,2073.0,984.05517578125,757.9947509765625,1545.967529296875
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,959.0,977.7379150390624,729.62353515625,1601.593505859375
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,699.0,964.50244140625,697.4564208984375,1647.928955078125
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,535.0,920.7882080078124,635.8035888671875,1653.021240234375
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,467.0,909.873046875,610.038330078125,1689.362060546875
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,454.0,899.43798828125,599.22802734375,1718.892578125
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,433.0,874.0023193359375,547.29931640625,1732.453857421875
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,346.0,860.2774658203125,529.884033203125,1750.28076171875
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,373.0,906.3795166015624,551.5296630859375,1813.16748046875
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,304.0,895.0880126953125,539.1470947265625,1825.025390625
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,309.0,858.5521240234375,490.8575439453125,1788.0859375
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,303.0,868.149169921875,506.8206787109375,1800.50927734375
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,310.0,829.4906005859375,465.2491455078125,1778.1240234375
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,306.0,810.4097900390625,436.358642578125,1772.68505859375
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,335.0,799.4984130859375,418.279296875,1791.01708984375
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,377.0,832.305908203125,436.914306640625,1849.3955078125
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,252.0,823.7178955078125,434.509521484375,1859.08642578125
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,248.0,805.833251953125,421.76904296875,1841.851318359375
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,226.0,801.0152587890625,431.8466796875,1850.34033203125
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,257.0,790.4794921875,417.781494140625,1842.37890625
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,216.0,781.47509765625,402.73876953125,1842.5025634765625
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,244.0,771.5675048828125,392.63623046875,1854.2734375
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,245.0,791.11083984375,404.4833984375,1871.34130859375
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,259.0,807.0159912109375,417.0419921875,1901.5562744140625
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,239.0,767.04345703125,394.683837890625,1843.98291015625
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,211.0,783.8916015625,410.93896484375,1850.71923828125
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,200.0,766.11376953125,386.8603515625,1842.401611328125
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,timesfm-univariate,220.0,762.6016845703125,379.16845703125,1846.705322265625
+2023-08-31,Moon_landing,Moon landing,idea,timesfm-univariate,6595.0,7383.599609375,6238.3046875,9368.970703125
+2023-09-01,Moon_landing,Moon landing,idea,timesfm-univariate,6237.0,6537.947265625,5312.4404296875,9168.77734375
+2023-09-02,Moon_landing,Moon landing,idea,timesfm-univariate,6909.0,6071.50439453125,4747.685546875,9114.318359375
+2023-09-03,Moon_landing,Moon landing,idea,timesfm-univariate,5281.0,5756.3046875,4446.0341796875,8986.921875
+2023-09-04,Moon_landing,Moon landing,idea,timesfm-univariate,4204.0,5381.59765625,4083.85009765625,8718.7744140625
+2023-09-05,Moon_landing,Moon landing,idea,timesfm-univariate,3881.0,4996.6845703125,3758.951171875,8343.115234375
+2023-09-06,Moon_landing,Moon landing,idea,timesfm-univariate,3574.0,4768.853515625,3601.22021484375,8096.5927734375
+2023-09-07,Moon_landing,Moon landing,idea,timesfm-univariate,4360.0,4585.732421875,3513.622802734375,7826.85546875
+2023-09-08,Moon_landing,Moon landing,idea,timesfm-univariate,3426.0,4313.8251953125,3252.979736328125,7542.04052734375
+2023-09-09,Moon_landing,Moon landing,idea,timesfm-univariate,3196.0,4143.294921875,3145.53759765625,7386.6416015625
+2023-09-10,Moon_landing,Moon landing,idea,timesfm-univariate,3439.0,4132.84521484375,3002.995849609375,7393.18115234375
+2023-09-11,Moon_landing,Moon landing,idea,timesfm-univariate,2850.0,4112.521484375,3004.75537109375,7393.75
+2023-09-12,Moon_landing,Moon landing,idea,timesfm-univariate,2707.0,3950.238525390625,2868.9482421875,7146.9482421875
+2023-09-13,Moon_landing,Moon landing,idea,timesfm-univariate,2790.0,3809.38623046875,2778.50390625,6958.9462890625
+2023-09-14,Moon_landing,Moon landing,idea,timesfm-univariate,2623.0,3636.86669921875,2696.427001953125,6751.53662109375
+2023-09-15,Moon_landing,Moon landing,idea,timesfm-univariate,2606.0,3537.709716796875,2628.6982421875,6531.3828125
+2023-09-16,Moon_landing,Moon landing,idea,timesfm-univariate,2398.0,3477.58935546875,2594.58935546875,6523.2939453125
+2023-09-17,Moon_landing,Moon landing,idea,timesfm-univariate,2166.0,3544.1005859375,2617.100830078125,6623.11962890625
+2023-09-18,Moon_landing,Moon landing,idea,timesfm-univariate,2351.0,3585.37158203125,2650.7998046875,6703.564453125
+2023-09-19,Moon_landing,Moon landing,idea,timesfm-univariate,2382.0,3551.765380859375,2637.82470703125,6523.4091796875
+2023-09-20,Moon_landing,Moon landing,idea,timesfm-univariate,2628.0,3411.478271484375,2525.3525390625,6321.53955078125
+2023-09-21,Moon_landing,Moon landing,idea,timesfm-univariate,2565.0,3227.868408203125,2407.482421875,5973.77001953125
+2023-09-22,Moon_landing,Moon landing,idea,timesfm-univariate,2437.0,3015.721435546875,2249.82568359375,5747.3447265625
+2023-09-23,Moon_landing,Moon landing,idea,timesfm-univariate,2664.0,3048.791259765625,2214.22900390625,5757.287109375
+2023-09-24,Moon_landing,Moon landing,idea,timesfm-univariate,2627.0,3154.04541015625,2267.372314453125,5925.396484375
+2023-09-25,Moon_landing,Moon landing,idea,timesfm-univariate,2467.0,3167.875244140625,2296.4443359375,5900.2744140625
+2023-09-26,Moon_landing,Moon landing,idea,timesfm-univariate,2267.0,3054.510498046875,2186.63623046875,5640.11328125
+2023-09-27,Moon_landing,Moon landing,idea,timesfm-univariate,2119.0,2952.603515625,2172.95947265625,5288.81494140625
+2023-09-28,Moon_landing,Moon landing,idea,timesfm-univariate,2407.0,2854.815185546875,2098.716064453125,5136.0244140625
+2023-09-29,Moon_landing,Moon landing,idea,timesfm-univariate,2353.0,2764.885009765625,2046.38623046875,4863.5341796875
+2023-08-31,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,4429.0,5834.22265625,4543.4716796875,7410.64990234375
+2023-09-01,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,3131.0,4803.28759765625,3333.4921875,6916.548828125
+2023-09-02,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2940.0,4053.572021484375,2509.943359375,6446.166015625
+2023-09-03,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2996.0,3566.091552734375,2064.8974609375,6048.67236328125
+2023-09-04,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2698.0,3138.575927734375,1729.2083740234375,5659.21875
+2023-09-05,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2609.0,2791.396240234375,1459.70263671875,5272.95751953125
+2023-09-06,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2471.0,2561.79833984375,1356.497314453125,4967.666015625
+2023-09-07,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2088.0,2282.6875,1239.220703125,4547.146484375
+2023-09-08,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,1049.0,1928.536376953125,979.0231323242188,4114.7197265625
+2023-09-09,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,996.0,1714.525390625,908.1887817382812,3847.325927734375
+2023-09-10,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,788.0,1620.4053955078125,763.4119262695312,3743.438232421875
+2023-09-11,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,617.0,1584.384521484375,745.938720703125,3709.014404296875
+2023-09-12,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,1027.0,1460.23876953125,648.2625732421875,3569.68359375
+2023-09-13,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,2130.0,1390.396484375,617.3316650390625,3491.7744140625
+2023-09-14,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,1883.0,1214.591796875,541.12939453125,3252.03759765625
+2023-09-15,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,597.0,1126.5706787109375,467.037841796875,3025.803955078125
+2023-09-16,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,474.0,966.8648071289062,410.7067260742187,2836.096923828125
+2023-09-17,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,396.0,938.0745849609376,363.8981018066406,2806.649658203125
+2023-09-18,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,393.0,948.204345703125,333.6581726074219,2863.13525390625
+2023-09-19,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,434.0,1002.0816040039062,369.091552734375,2840.031494140625
+2023-09-20,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,614.0,939.2213745117188,301.7999572753906,2800.487060546875
+2023-09-21,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,793.0,827.5668334960938,227.72134399414065,2632.451171875
+2023-09-22,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,681.0,658.0560302734375,103.25921630859376,2434.7392578125
+2023-09-23,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,547.0,629.8291625976562,79.2325439453125,2322.379150390625
+2023-09-24,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,510.0,670.2850952148438,91.962890625,2379.9912109375
+2023-09-25,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,627.0,704.9019775390625,139.05288696289062,2434.674072265625
+2023-09-26,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,514.0,674.0057983398438,80.60186767578125,2345.47998046875
+2023-09-27,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,478.0,672.906005859375,152.10403442382812,2225.23974609375
+2023-09-28,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,1564.0,600.5191650390625,86.442626953125,2120.8818359375
+2023-09-29,Lunar_south_pole,Lunar south pole,place,timesfm-univariate,1746.0,559.7369995117188,83.7252197265625,1937.937744140625
+2023-08-31,Vikram_(spacecraft),Vikram,object,timesfm-univariate,99.0,131.31460571289062,59.33538055419922,235.29017639160156
+2023-09-01,Vikram_(spacecraft),Vikram,object,timesfm-univariate,67.0,127.19171905517578,49.87459945678711,256.7236022949219
+2023-09-02,Vikram_(spacecraft),Vikram,object,timesfm-univariate,73.0,124.98347473144533,41.56853866577149,266.1348571777344
+2023-09-03,Vikram_(spacecraft),Vikram,object,timesfm-univariate,60.0,128.74853515625,40.45696640014648,279.5459289550781
+2023-09-04,Vikram_(spacecraft),Vikram,object,timesfm-univariate,67.0,129.69412231445312,36.26229095458984,287.9444885253906
+2023-09-05,Vikram_(spacecraft),Vikram,object,timesfm-univariate,43.0,120.25113677978516,30.096540451049805,281.27197265625
+2023-09-06,Vikram_(spacecraft),Vikram,object,timesfm-univariate,71.0,111.20049285888672,23.34648704528809,269.32220458984375
+2023-09-07,Vikram_(spacecraft),Vikram,object,timesfm-univariate,29.0,103.0466537475586,18.480167388916016,259.2925109863281
+2023-09-08,Vikram_(spacecraft),Vikram,object,timesfm-univariate,18.0,104.04373168945312,18.781827926635746,264.6304931640625
+2023-09-09,Vikram_(spacecraft),Vikram,object,timesfm-univariate,19.0,101.27833557128906,14.029825210571287,266.81756591796875
+2023-09-10,Vikram_(spacecraft),Vikram,object,timesfm-univariate,15.0,106.7046356201172,15.061355590820312,278.4424133300781
+2023-09-11,Vikram_(spacecraft),Vikram,object,timesfm-univariate,18.0,110.48863983154295,16.1002254486084,289.85552978515625
+2023-09-12,Vikram_(spacecraft),Vikram,object,timesfm-univariate,14.0,105.52525329589844,14.917221069335938,281.96978759765625
+2023-09-13,Vikram_(spacecraft),Vikram,object,timesfm-univariate,13.0,94.17139434814452,9.50497055053711,267.52001953125
+2023-09-14,Vikram_(spacecraft),Vikram,object,timesfm-univariate,10.0,89.70362854003906,4.611270904541016,265.1564636230469
+2023-09-15,Vikram_(spacecraft),Vikram,object,timesfm-univariate,9.0,96.62303161621094,12.671104431152344,274.7816162109375
+2023-09-16,Vikram_(spacecraft),Vikram,object,timesfm-univariate,9.0,97.46974182128906,13.326946258544922,279.77069091796875
+2023-09-17,Vikram_(spacecraft),Vikram,object,timesfm-univariate,6.0,97.19644165039062,8.777774810791016,285.46697998046875
+2023-09-18,Vikram_(spacecraft),Vikram,object,timesfm-univariate,8.0,100.56024169921876,8.52840805053711,294.1377868652344
+2023-09-19,Vikram_(spacecraft),Vikram,object,timesfm-univariate,16.0,98.1816177368164,7.5784149169921875,291.2525634765625
+2023-09-20,Vikram_(spacecraft),Vikram,object,timesfm-univariate,9.0,86.36904907226562,3.4311561584472656,273.30084228515625
+2023-09-21,Vikram_(spacecraft),Vikram,object,timesfm-univariate,16.0,79.24298095703125,0.0,263.70745849609375
+2023-09-22,Vikram_(spacecraft),Vikram,object,timesfm-univariate,22.0,83.49896240234375,0.0,274.8192138671875
+2023-09-23,Vikram_(spacecraft),Vikram,object,timesfm-univariate,16.0,85.90876007080078,0.0,278.5169677734375
+2023-09-24,Vikram_(spacecraft),Vikram,object,timesfm-univariate,28.0,90.12663269042967,0.0,289.7727966308594
+2023-09-25,Vikram_(spacecraft),Vikram,object,timesfm-univariate,17.0,96.91567993164062,0.7725753784179688,300.80499267578125
+2023-09-26,Vikram_(spacecraft),Vikram,object,timesfm-univariate,22.0,94.281982421875,0.4319572448730469,294.8621520996094
+2023-09-27,Vikram_(spacecraft),Vikram,object,timesfm-univariate,13.0,83.85089111328125,0.0,277.81353759765625
+2023-09-28,Vikram_(spacecraft),Vikram,object,timesfm-univariate,16.0,74.84190368652344,0.0,269.4902038574219
+2023-09-29,Vikram_(spacecraft),Vikram,object,timesfm-univariate,7.0,79.39964294433594,0.0,275.8275451660156
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,65454.0,48576.956149827936,,
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,60022.0,40814.747942671675,,
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,59270.0,35759.703708325615,,
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,66945.0,32467.667276265365,,
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,48880.0,30323.768357166413,,
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,43218.0,28927.580110113147,,
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,41882.0,28018.329396917707,,
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,46438.0,27426.1908646021,,
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,35488.0,27040.56780556633,,
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,33934.0,26789.43545132047,,
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,41830.0,26625.888542308436,,
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,33284.0,26519.380595422364,,
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,30407.0,26450.018582906123,,
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,29791.0,26404.847410979863,,
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,32817.0,26375.43023147236,,
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,28330.0,26356.272649030423,,
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,21291.0,26343.796505118455,,
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,24838.0,26335.671567257225,,
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,22086.0,26330.38029972179,,
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,23913.0,26326.9344257213,,
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,25233.0,26324.69034194597,,
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,25618.0,26323.228909522728,,
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,26628.0,26322.277169328725,,
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,23006.0,26321.657360035813,,
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,27221.0,26321.253716728537,,
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,25371.0,26320.99084890552,,
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,24107.0,26320.819659414377,,
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,18493.0,26320.708174328294,,
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,22757.0,26320.63557101406,,
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,exponential-decay,22484.0,26320.58828898358,,
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,892.0,946.3748211187078,,
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,1113.0,815.6783028236575,,
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,2073.0,726.3540819435113,,
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,959.0,665.3056581604628,,
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,699.0,623.5822598517848,,
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,535.0,595.0665036938349,,
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,467.0,575.577478776837,,
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,454.0,562.2577516017441,,
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,433.0,553.1544161206463,,
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,346.0,546.9327633951776,,
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,373.0,542.6805898136694,,
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,304.0,539.7744520131358,,
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,309.0,537.7882591275919,,
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,303.0,536.4308003801569,,
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,310.0,535.5030484662319,,
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,306.0,534.8689786534896,,
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,335.0,534.435625165993,,
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,377.0,534.1394507679196,,
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,252.0,533.9370310883621,,
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,248.0,533.798687845534,,
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,226.0,533.7041374891752,,
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,257.0,533.6395172756771,,
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,216.0,533.5953527462839,,
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,244.0,533.5651686049613,,
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,245.0,533.5445393262189,,
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,259.0,533.5304402953111,,
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,239.0,533.5208043465694,,
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,211.0,533.5142186805929,,
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,200.0,533.5097177230309,,
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,exponential-decay,220.0,533.5066415544178,,
+2023-08-31,Moon_landing,Moon landing,idea,exponential-decay,6595.0,5439.50150725514,,
+2023-09-01,Moon_landing,Moon landing,idea,exponential-decay,6237.0,4560.5365254694625,,
+2023-09-02,Moon_landing,Moon landing,idea,exponential-decay,6909.0,4011.9452624128894,,
+2023-09-03,Moon_landing,Moon landing,idea,exponential-decay,5281.0,3669.55121926159,,
+2023-09-04,Moon_landing,Moon landing,idea,exponential-decay,4204.0,3455.8517153134135,,
+2023-09-05,Moon_landing,Moon landing,idea,exponential-decay,3881.0,3322.474751253565,,
+2023-09-06,Moon_landing,Moon landing,idea,exponential-decay,3574.0,3239.229754362341,,
+2023-09-07,Moon_landing,Moon landing,idea,exponential-decay,4360.0,3187.2737846319874,,
+2023-09-08,Moon_landing,Moon landing,idea,exponential-decay,3426.0,3154.846336840156,,
+2023-09-09,Moon_landing,Moon landing,idea,exponential-decay,3196.0,3134.607288743289,,
+2023-09-10,Moon_landing,Moon landing,idea,exponential-decay,3439.0,3121.9754260540985,,
+2023-09-11,Moon_landing,Moon landing,idea,exponential-decay,2850.0,3114.0914606504466,,
+2023-09-12,Moon_landing,Moon landing,idea,exponential-decay,2707.0,3109.1708157688986,,
+2023-09-13,Moon_landing,Moon landing,idea,exponential-decay,2790.0,3106.099677729773,,
+2023-09-14,Moon_landing,Moon landing,idea,exponential-decay,2623.0,3104.182878390984,,
+2023-09-15,Moon_landing,Moon landing,idea,exponential-decay,2606.0,3102.986540206776,,
+2023-09-16,Moon_landing,Moon landing,idea,exponential-decay,2398.0,3102.239865778195,,
+2023-09-17,Moon_landing,Moon landing,idea,exponential-decay,2166.0,3101.7738414469013,,
+2023-09-18,Moon_landing,Moon landing,idea,exponential-decay,2351.0,3101.482980170494,,
+2023-09-19,Moon_landing,Moon landing,idea,exponential-decay,2382.0,3101.301443979286,,
+2023-09-20,Moon_landing,Moon landing,idea,exponential-decay,2628.0,3101.188141207858,,
+2023-09-21,Moon_landing,Moon landing,idea,exponential-decay,2565.0,3101.117425181879,,
+2023-09-22,Moon_landing,Moon landing,idea,exponential-decay,2437.0,3101.0732889593746,,
+2023-09-23,Moon_landing,Moon landing,idea,exponential-decay,2664.0,3101.045742075765,,
+2023-09-24,Moon_landing,Moon landing,idea,exponential-decay,2627.0,3101.02854915001,,
+2023-09-25,Moon_landing,Moon landing,idea,exponential-decay,2467.0,3101.017818473532,,
+2023-09-26,Moon_landing,Moon landing,idea,exponential-decay,2267.0,3101.01112110164,,
+2023-09-27,Moon_landing,Moon landing,idea,exponential-decay,2119.0,3101.0069410492133,,
+2023-09-28,Moon_landing,Moon landing,idea,exponential-decay,2407.0,3101.0043321395433,,
+2023-09-29,Moon_landing,Moon landing,idea,exponential-decay,2353.0,3101.002703832295,,
+2023-08-31,Lunar_south_pole,Lunar south pole,place,exponential-decay,4429.0,3461.4781308381957,,
+2023-09-01,Lunar_south_pole,Lunar south pole,place,exponential-decay,3131.0,2609.805745194408,,
+2023-09-02,Lunar_south_pole,Lunar south pole,place,exponential-decay,2940.0,2033.304782250372,,
+2023-09-03,Lunar_south_pole,Lunar south pole,place,exponential-decay,2996.0,1643.0686235140877,,
+2023-09-04,Lunar_south_pole,Lunar south pole,place,exponential-decay,2698.0,1378.9159691844634,,
+2023-09-05,Lunar_south_pole,Lunar south pole,place,exponential-decay,2609.0,1200.109820068641,,
+2023-09-06,Lunar_south_pole,Lunar south pole,place,exponential-decay,2471.0,1079.075113668403,,
+2023-09-07,Lunar_south_pole,Lunar south pole,place,exponential-decay,2088.0,997.1461630935396,,
+2023-09-08,Lunar_south_pole,Lunar south pole,place,exponential-decay,1049.0,941.688078863534,,
+2023-09-09,Lunar_south_pole,Lunar south pole,place,exponential-decay,996.0,904.1482460586204,,
+2023-09-10,Lunar_south_pole,Lunar south pole,place,exponential-decay,788.0,878.7373602231808,,
+2023-09-11,Lunar_south_pole,Lunar south pole,place,exponential-decay,617.0,861.536614490045,,
+2023-09-12,Lunar_south_pole,Lunar south pole,place,exponential-decay,1027.0,849.8933504302241,,
+2023-09-13,Lunar_south_pole,Lunar south pole,place,exponential-decay,2130.0,842.0119713278309,,
+2023-09-14,Lunar_south_pole,Lunar south pole,place,exponential-decay,1883.0,836.6770294905161,,
+2023-09-15,Lunar_south_pole,Lunar south pole,place,exponential-decay,597.0,833.065782773696,,
+2023-09-16,Lunar_south_pole,Lunar south pole,place,exponential-decay,474.0,830.6213132279311,,
+2023-09-17,Lunar_south_pole,Lunar south pole,place,exponential-decay,396.0,828.9666405265782,,
+2023-09-18,Lunar_south_pole,Lunar south pole,place,exponential-decay,393.0,827.8465849491439,,
+2023-09-19,Lunar_south_pole,Lunar south pole,place,exponential-decay,434.0,827.0884141667794,,
+2023-09-20,Lunar_south_pole,Lunar south pole,place,exponential-decay,614.0,826.5752048700159,,
+2023-09-21,Lunar_south_pole,Lunar south pole,place,exponential-decay,793.0,826.2278111318095,,
+2023-09-22,Lunar_south_pole,Lunar south pole,place,exponential-decay,681.0,825.9926587093844,,
+2023-09-23,Lunar_south_pole,Lunar south pole,place,exponential-decay,547.0,825.833482950898,,
+2023-09-24,Lunar_south_pole,Lunar south pole,place,exponential-decay,510.0,825.7257361463854,,
+2023-09-25,Lunar_south_pole,Lunar south pole,place,exponential-decay,627.0,825.6528018378383,,
+2023-09-26,Lunar_south_pole,Lunar south pole,place,exponential-decay,514.0,825.6034322682505,,
+2023-09-27,Lunar_south_pole,Lunar south pole,place,exponential-decay,478.0,825.5700137790669,,
+2023-09-28,Lunar_south_pole,Lunar south pole,place,exponential-decay,1564.0,825.5473926497228,,
+2023-09-29,Lunar_south_pole,Lunar south pole,place,exponential-decay,1746.0,825.5320803030158,,
+2023-08-31,Vikram_(spacecraft),Vikram,object,exponential-decay,99.0,207.04678310771985,,
+2023-09-01,Vikram_(spacecraft),Vikram,object,exponential-decay,67.0,207.01359401335017,,
+2023-09-02,Vikram_(spacecraft),Vikram,object,exponential-decay,73.0,207.0039500838651,,
+2023-09-03,Vikram_(spacecraft),Vikram,object,exponential-decay,60.0,207.0011477966175,,
+2023-09-04,Vikram_(spacecraft),Vikram,object,exponential-decay,67.0,207.00033352129225,,
+2023-09-05,Vikram_(spacecraft),Vikram,object,exponential-decay,43.0,207.0000969130338,,
+2023-09-06,Vikram_(spacecraft),Vikram,object,exponential-decay,71.0,207.0000281605293,,
+2023-09-07,Vikram_(spacecraft),Vikram,object,exponential-decay,29.0,207.0000081827529,,
+2023-09-08,Vikram_(spacecraft),Vikram,object,exponential-decay,18.0,207.0000023777055,,
+2023-09-09,Vikram_(spacecraft),Vikram,object,exponential-decay,19.0,207.00000069090237,,
+2023-09-10,Vikram_(spacecraft),Vikram,object,exponential-decay,15.0,207.00000020075913,,
+2023-09-11,Vikram_(spacecraft),Vikram,object,exponential-decay,18.0,207.00000005833564,,
+2023-09-12,Vikram_(spacecraft),Vikram,object,exponential-decay,14.0,207.00000001695088,,
+2023-09-13,Vikram_(spacecraft),Vikram,object,exponential-decay,13.0,207.0000000049255,,
+2023-09-14,Vikram_(spacecraft),Vikram,object,exponential-decay,10.0,207.00000000143123,,
+2023-09-15,Vikram_(spacecraft),Vikram,object,exponential-decay,9.0,207.00000000041587,,
+2023-09-16,Vikram_(spacecraft),Vikram,object,exponential-decay,9.0,207.00000000012085,,
+2023-09-17,Vikram_(spacecraft),Vikram,object,exponential-decay,6.0,207.0000000000351,,
+2023-09-18,Vikram_(spacecraft),Vikram,object,exponential-decay,8.0,207.0000000000102,,
+2023-09-19,Vikram_(spacecraft),Vikram,object,exponential-decay,16.0,207.00000000000296,,
+2023-09-20,Vikram_(spacecraft),Vikram,object,exponential-decay,9.0,207.00000000000085,,
+2023-09-21,Vikram_(spacecraft),Vikram,object,exponential-decay,16.0,207.00000000000023,,
+2023-09-22,Vikram_(spacecraft),Vikram,object,exponential-decay,22.0,207.00000000000009,,
+2023-09-23,Vikram_(spacecraft),Vikram,object,exponential-decay,16.0,207.00000000000003,,
+2023-09-24,Vikram_(spacecraft),Vikram,object,exponential-decay,28.0,207.0,,
+2023-09-25,Vikram_(spacecraft),Vikram,object,exponential-decay,17.0,207.0,,
+2023-09-26,Vikram_(spacecraft),Vikram,object,exponential-decay,22.0,207.0,,
+2023-09-27,Vikram_(spacecraft),Vikram,object,exponential-decay,13.0,207.0,,
+2023-09-28,Vikram_(spacecraft),Vikram,object,exponential-decay,16.0,207.0,,
+2023-09-29,Vikram_(spacecraft),Vikram,object,exponential-decay,7.0,207.0,,
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,65454.0,61503.90989807103,,
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,60022.0,55946.50700555136,,
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,59270.0,51723.39280351159,,
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,66945.0,48424.16655824594,,
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,48880.0,45787.822667837085,,
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,43218.0,43641.21039388022,,
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,41882.0,41865.37771258662,,
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,46438.0,40376.16749599077,,
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,35488.0,39112.52599873381,,
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,33934.0,38029.18935658902,,
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,41830.0,37091.95884812209,,
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,33284.0,36274.56179291759,,
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,30407.0,35556.51396587158,,
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,29791.0,34921.631929500225,,
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,32817.0,34356.97736531438,,
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,28330.0,33852.094779259,,
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,21291.0,33398.45231940737,,
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,24838.0,32989.0256882857,,
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,22086.0,32617.984476830152,,
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,23913.0,32280.452875722203,,
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,25233.0,31972.325119356836,,
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,25618.0,31690.121700409338,,
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,26628.0,31430.87629835104,,
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,23006.0,31192.04608826857,,
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,27221.0,30971.44002049111,,
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,25371.0,30767.1610381594,,
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,24107.0,30577.559196209306,,
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,18493.0,30401.19337415437,,
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,22757.0,30236.79981370918,,
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,power-law-decay,22484.0,30083.266114133028,,
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,892.0,1261.708823649439,,
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,1113.0,1167.565453438835,,
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,2073.0,1092.9319513745168,,
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,959.0,1032.49476133071,,
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,699.0,982.68085296942,,
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,535.0,941.0050747418102,,
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,467.0,905.6890879293128,,
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,454.0,875.4290782383587,,
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,433.0,849.2488826537474,,
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,346.0,826.4041538124068,,
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,373.0,806.3180908135973,,
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,304.0,788.5372902245801,,
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,309.0,772.7007659022405,,
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,303.0,758.5177929893617,,
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,310.0,745.7517904027907,,
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,306.0,734.208414369277,,
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,335.0,723.7266392206473,,
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,377.0,714.1719904716226,,
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,252.0,705.4313507255492,,
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,248.0,697.4089299870548,,
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,226.0,690.0231083800887,,
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,257.0,683.2039397460352,,
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,216.0,676.8911610235493,,
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,244.0,671.0325924002758,,
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,245.0,665.5828420573403,,
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,259.0,660.5022502987835,,
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,239.0,655.7560232750023,,
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,211.0,651.3135179557545,,
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,200.0,647.1476485861971,,
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,power-law-decay,220.0,643.2343913439609,,
+2023-08-31,Moon_landing,Moon landing,idea,power-law-decay,6595.0,7621.457581218347,,
+2023-09-01,Moon_landing,Moon landing,idea,power-law-decay,6237.0,6889.139346498516,,
+2023-09-02,Moon_landing,Moon landing,idea,power-law-decay,6909.0,6329.429367338983,,
+2023-09-03,Moon_landing,Moon landing,idea,power-law-decay,5281.0,5890.98850428136,,
+2023-09-04,Moon_landing,Moon landing,idea,power-law-decay,4204.0,5540.44090085104,,
+2023-09-05,Moon_landing,Moon landing,idea,power-law-decay,3881.0,5255.277856480405,,
+2023-09-06,Moon_landing,Moon landing,idea,power-law-decay,3574.0,5019.843469653111,,
+2023-09-07,Moon_landing,Moon landing,idea,power-law-decay,4360.0,4822.95750411714,,
+2023-09-08,Moon_landing,Moon landing,idea,power-law-decay,3426.0,4656.452075871825,,
+2023-09-09,Moon_landing,Moon landing,idea,power-law-decay,3196.0,4514.240309334444,,
+2023-09-10,Moon_landing,Moon landing,idea,power-law-decay,3439.0,4391.706121701558,,
+2023-09-11,Moon_landing,Moon landing,idea,power-law-decay,2850.0,4285.29409537887,,
+2023-09-12,Moon_landing,Moon landing,idea,power-law-decay,2707.0,4192.227544347501,,
+2023-09-13,Moon_landing,Moon landing,idea,power-law-decay,2790.0,4110.31076905114,,
+2023-09-14,Moon_landing,Moon landing,idea,power-law-decay,2623.0,4037.787835409672,,
+2023-09-15,Moon_landing,Moon landing,idea,power-law-decay,2606.0,3973.2400655217384,,
+2023-09-16,Moon_landing,Moon landing,idea,power-law-decay,2398.0,3915.510521308339,,
+2023-09-17,Moon_landing,Moon landing,idea,power-law-decay,2166.0,3863.647619490027,,
+2023-09-18,Moon_landing,Moon landing,idea,power-law-decay,2351.0,3816.8625094199656,,
+2023-09-19,Moon_landing,Moon landing,idea,power-law-decay,2382.0,3774.496487818862,,
+2023-09-20,Moon_landing,Moon landing,idea,power-law-decay,2628.0,3735.995825649294,,
+2023-09-21,Moon_landing,Moon landing,idea,power-law-decay,2565.0,3700.892132576114,,
+2023-09-22,Moon_landing,Moon landing,idea,power-law-decay,2437.0,3668.786903172207,,
+2023-09-23,Moon_landing,Moon landing,idea,power-law-decay,2664.0,3639.339252621277,,
+2023-09-24,Moon_landing,Moon landing,idea,power-law-decay,2627.0,3612.2561077866617,,
+2023-09-25,Moon_landing,Moon landing,idea,power-law-decay,2467.0,3587.2843049325847,,
+2023-09-26,Moon_landing,Moon landing,idea,power-law-decay,2267.0,3564.204180053927,,
+2023-09-27,Moon_landing,Moon landing,idea,power-law-decay,2119.0,3542.8243365950175,,
+2023-09-28,Moon_landing,Moon landing,idea,power-law-decay,2407.0,3522.9773485618807,,
+2023-09-29,Moon_landing,Moon landing,idea,power-law-decay,2353.0,3504.516211781761,,
+2023-08-31,Lunar_south_pole,Lunar south pole,place,power-law-decay,4429.0,5114.927421876425,,
+2023-09-01,Lunar_south_pole,Lunar south pole,place,power-law-decay,3131.0,4504.898615009069,,
+2023-09-02,Lunar_south_pole,Lunar south pole,place,power-law-decay,2940.0,4028.149955333371,,
+2023-09-03,Lunar_south_pole,Lunar south pole,place,power-law-decay,2996.0,3647.062522532087,,
+2023-09-04,Lunar_south_pole,Lunar south pole,place,power-law-decay,2698.0,3336.671494086706,,
+2023-09-05,Lunar_south_pole,Lunar south pole,place,power-law-decay,2609.0,3079.8210755938953,,
+2023-09-06,Lunar_south_pole,Lunar south pole,place,power-law-decay,2471.0,2864.370278306543,,
+2023-09-07,Lunar_south_pole,Lunar south pole,place,power-law-decay,2088.0,2681.508806199818,,
+2023-09-08,Lunar_south_pole,Lunar south pole,place,power-law-decay,1049.0,2524.7032930495325,,
+2023-09-09,Lunar_south_pole,Lunar south pole,place,power-law-decay,996.0,2389.0163697967873,,
+2023-09-10,Lunar_south_pole,Lunar south pole,place,power-law-decay,788.0,2270.6541490327772,,
+2023-09-11,Lunar_south_pole,Lunar south pole,place,power-law-decay,617.0,2166.658014758465,,
+2023-09-12,Lunar_south_pole,Lunar south pole,place,power-law-decay,1027.0,2074.690076888991,,
+2023-09-13,Lunar_south_pole,Lunar south pole,place,power-law-decay,2130.0,1992.8808971226676,,
+2023-09-14,Lunar_south_pole,Lunar south pole,place,power-law-decay,1883.0,1919.719511908114,,
+2023-09-15,Lunar_south_pole,Lunar south pole,place,power-law-decay,597.0,1853.972744377192,,
+2023-09-16,Lunar_south_pole,Lunar south pole,place,power-law-decay,474.0,1794.625154224736,,
+2023-09-17,Lunar_south_pole,Lunar south pole,place,power-law-decay,396.0,1740.8337618786572,,
+2023-09-18,Lunar_south_pole,Lunar south pole,place,power-law-decay,393.0,1691.8935032808486,,
+2023-09-19,Lunar_south_pole,Lunar south pole,place,power-law-decay,434.0,1647.21058227792,,
+2023-09-20,Lunar_south_pole,Lunar south pole,place,power-law-decay,614.0,1606.2817068340823,,
+2023-09-21,Lunar_south_pole,Lunar south pole,place,power-law-decay,793.0,1568.6777583568237,,
+2023-09-22,Lunar_south_pole,Lunar south pole,place,power-law-decay,681.0,1534.030836084071,,
+2023-09-23,Lunar_south_pole,Lunar south pole,place,power-law-decay,547.0,1502.0238959821268,,
+2023-09-24,Lunar_south_pole,Lunar south pole,place,power-law-decay,510.0,1472.3824021667922,,
+2023-09-25,Lunar_south_pole,Lunar south pole,place,power-law-decay,627.0,1444.8675525889548,,
+2023-09-26,Lunar_south_pole,Lunar south pole,place,power-law-decay,514.0,1419.2707458890318,,
+2023-09-27,Lunar_south_pole,Lunar south pole,place,power-law-decay,478.0,1395.409034048449,,
+2023-09-28,Lunar_south_pole,Lunar south pole,place,power-law-decay,1564.0,1373.121363454611,,
+2023-09-29,Lunar_south_pole,Lunar south pole,place,power-law-decay,1746.0,1352.265450644706,,
+2023-08-31,Vikram_(spacecraft),Vikram,object,power-law-decay,99.0,207.24376923311493,,
+2023-09-01,Vikram_(spacecraft),Vikram,object,power-law-decay,67.0,207.15194252817855,,
+2023-09-02,Vikram_(spacecraft),Vikram,object,power-law-decay,73.0,207.09907482679984,,
+2023-09-03,Vikram_(spacecraft),Vikram,object,power-law-decay,60.0,207.06705294747317,,
+2023-09-04,Vikram_(spacecraft),Vikram,object,power-law-decay,67.0,207.0468221313864,,
+2023-09-05,Vikram_(spacecraft),Vikram,object,power-law-decay,43.0,207.0335775168373,,
+2023-09-06,Vikram_(spacecraft),Vikram,object,power-law-decay,71.0,207.0246384264412,,
+2023-09-07,Vikram_(spacecraft),Vikram,object,power-law-decay,29.0,207.0184440739604,,
+2023-09-08,Vikram_(spacecraft),Vikram,object,power-law-decay,18.0,207.01405164422476,,
+2023-09-09,Vikram_(spacecraft),Vikram,object,power-law-decay,19.0,207.01087305268504,,
+2023-09-10,Vikram_(spacecraft),Vikram,object,power-law-decay,15.0,207.00853098468937,,
+2023-09-11,Vikram_(spacecraft),Vikram,object,power-law-decay,18.0,207.00677722571004,,
+2023-09-12,Vikram_(spacecraft),Vikram,object,power-law-decay,14.0,207.00544480329893,,
+2023-09-13,Vikram_(spacecraft),Vikram,object,power-law-decay,13.0,207.00441912130495,,
+2023-09-14,Vikram_(spacecraft),Vikram,object,power-law-decay,10.0,207.00362009303865,,
+2023-09-15,Vikram_(spacecraft),Vikram,object,power-law-decay,9.0,207.00299082136513,,
+2023-09-16,Vikram_(spacecraft),Vikram,object,power-law-decay,9.0,207.00249027348423,,
+2023-09-17,Vikram_(spacecraft),Vikram,object,power-law-decay,6.0,207.0020884485498,,
+2023-09-18,Vikram_(spacecraft),Vikram,object,power-law-decay,8.0,207.0017631331529,,
+2023-09-19,Vikram_(spacecraft),Vikram,object,power-law-decay,16.0,207.00149768740272,,
+2023-09-20,Vikram_(spacecraft),Vikram,object,power-law-decay,9.0,207.00127951156455,,
+2023-09-21,Vikram_(spacecraft),Vikram,object,power-law-decay,16.0,207.0010989693217,,
+2023-09-22,Vikram_(spacecraft),Vikram,object,power-law-decay,22.0,207.00094862196104,,
+2023-09-23,Vikram_(spacecraft),Vikram,object,power-law-decay,16.0,207.00082267719077,,
+2023-09-24,Vikram_(spacecraft),Vikram,object,power-law-decay,28.0,207.0007165880186,,
+2023-09-25,Vikram_(spacecraft),Vikram,object,power-law-decay,17.0,207.0006267577988,,
+2023-09-26,Vikram_(spacecraft),Vikram,object,power-law-decay,22.0,207.0005503212356,,
+2023-09-27,Vikram_(spacecraft),Vikram,object,power-law-decay,13.0,207.00048498029545,,
+2023-09-28,Vikram_(spacecraft),Vikram,object,power-law-decay,16.0,207.0004288802052,,
+2023-09-29,Vikram_(spacecraft),Vikram,object,power-law-decay,7.0,207.00038051498456,,
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,65454.0,940655.0,,
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,60022.0,245743.0,,
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,59270.0,135722.0,,
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,66945.0,127199.0,,
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,48880.0,102051.0,,
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,43218.0,83688.0,,
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,41882.0,72488.0,,
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,46438.0,940655.0,,
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,35488.0,245743.0,,
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,33934.0,135722.0,,
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,41830.0,127199.0,,
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,33284.0,102051.0,,
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,30407.0,83688.0,,
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,29791.0,72488.0,,
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,32817.0,940655.0,,
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,28330.0,245743.0,,
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,21291.0,135722.0,,
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,24838.0,127199.0,,
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,22086.0,102051.0,,
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,23913.0,83688.0,,
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,25233.0,72488.0,,
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,25618.0,940655.0,,
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,26628.0,245743.0,,
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,23006.0,135722.0,,
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,27221.0,127199.0,,
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,25371.0,102051.0,,
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,24107.0,83688.0,,
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,18493.0,72488.0,,
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,22757.0,940655.0,,
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,seasonal-naive,22484.0,245743.0,,
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,892.0,7682.0,,
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,1113.0,3637.0,,
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,2073.0,2911.0,,
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,959.0,2399.0,,
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,699.0,1762.0,,
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,535.0,1457.0,,
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,467.0,1216.0,,
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,454.0,7682.0,,
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,433.0,3637.0,,
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,346.0,2911.0,,
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,373.0,2399.0,,
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,304.0,1762.0,,
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,309.0,1457.0,,
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,303.0,1216.0,,
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,310.0,7682.0,,
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,306.0,3637.0,,
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,335.0,2911.0,,
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,377.0,2399.0,,
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,252.0,1762.0,,
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,248.0,1457.0,,
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,226.0,1216.0,,
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,257.0,7682.0,,
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,216.0,3637.0,,
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,244.0,2911.0,,
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,245.0,2399.0,,
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,259.0,1762.0,,
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,239.0,1457.0,,
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,211.0,1216.0,,
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,200.0,7682.0,,
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,seasonal-naive,220.0,3637.0,,
+2023-08-31,Moon_landing,Moon landing,idea,seasonal-naive,6595.0,88721.0,,
+2023-09-01,Moon_landing,Moon landing,idea,seasonal-naive,6237.0,29120.0,,
+2023-09-02,Moon_landing,Moon landing,idea,seasonal-naive,6909.0,20360.0,,
+2023-09-03,Moon_landing,Moon landing,idea,seasonal-naive,5281.0,15963.0,,
+2023-09-04,Moon_landing,Moon landing,idea,seasonal-naive,4204.0,12489.0,,
+2023-09-05,Moon_landing,Moon landing,idea,seasonal-naive,3881.0,8868.0,,
+2023-09-06,Moon_landing,Moon landing,idea,seasonal-naive,3574.0,8609.0,,
+2023-09-07,Moon_landing,Moon landing,idea,seasonal-naive,4360.0,88721.0,,
+2023-09-08,Moon_landing,Moon landing,idea,seasonal-naive,3426.0,29120.0,,
+2023-09-09,Moon_landing,Moon landing,idea,seasonal-naive,3196.0,20360.0,,
+2023-09-10,Moon_landing,Moon landing,idea,seasonal-naive,3439.0,15963.0,,
+2023-09-11,Moon_landing,Moon landing,idea,seasonal-naive,2850.0,12489.0,,
+2023-09-12,Moon_landing,Moon landing,idea,seasonal-naive,2707.0,8868.0,,
+2023-09-13,Moon_landing,Moon landing,idea,seasonal-naive,2790.0,8609.0,,
+2023-09-14,Moon_landing,Moon landing,idea,seasonal-naive,2623.0,88721.0,,
+2023-09-15,Moon_landing,Moon landing,idea,seasonal-naive,2606.0,29120.0,,
+2023-09-16,Moon_landing,Moon landing,idea,seasonal-naive,2398.0,20360.0,,
+2023-09-17,Moon_landing,Moon landing,idea,seasonal-naive,2166.0,15963.0,,
+2023-09-18,Moon_landing,Moon landing,idea,seasonal-naive,2351.0,12489.0,,
+2023-09-19,Moon_landing,Moon landing,idea,seasonal-naive,2382.0,8868.0,,
+2023-09-20,Moon_landing,Moon landing,idea,seasonal-naive,2628.0,8609.0,,
+2023-09-21,Moon_landing,Moon landing,idea,seasonal-naive,2565.0,88721.0,,
+2023-09-22,Moon_landing,Moon landing,idea,seasonal-naive,2437.0,29120.0,,
+2023-09-23,Moon_landing,Moon landing,idea,seasonal-naive,2664.0,20360.0,,
+2023-09-24,Moon_landing,Moon landing,idea,seasonal-naive,2627.0,15963.0,,
+2023-09-25,Moon_landing,Moon landing,idea,seasonal-naive,2467.0,12489.0,,
+2023-09-26,Moon_landing,Moon landing,idea,seasonal-naive,2267.0,8868.0,,
+2023-09-27,Moon_landing,Moon landing,idea,seasonal-naive,2119.0,8609.0,,
+2023-09-28,Moon_landing,Moon landing,idea,seasonal-naive,2407.0,88721.0,,
+2023-09-29,Moon_landing,Moon landing,idea,seasonal-naive,2353.0,29120.0,,
+2023-08-31,Lunar_south_pole,Lunar south pole,place,seasonal-naive,4429.0,54180.0,,
+2023-09-01,Lunar_south_pole,Lunar south pole,place,seasonal-naive,3131.0,18075.0,,
+2023-09-02,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2940.0,12943.0,,
+2023-09-03,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2996.0,9514.0,,
+2023-09-04,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2698.0,7748.0,,
+2023-09-05,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2609.0,7395.0,,
+2023-09-06,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2471.0,7365.0,,
+2023-09-07,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2088.0,54180.0,,
+2023-09-08,Lunar_south_pole,Lunar south pole,place,seasonal-naive,1049.0,18075.0,,
+2023-09-09,Lunar_south_pole,Lunar south pole,place,seasonal-naive,996.0,12943.0,,
+2023-09-10,Lunar_south_pole,Lunar south pole,place,seasonal-naive,788.0,9514.0,,
+2023-09-11,Lunar_south_pole,Lunar south pole,place,seasonal-naive,617.0,7748.0,,
+2023-09-12,Lunar_south_pole,Lunar south pole,place,seasonal-naive,1027.0,7395.0,,
+2023-09-13,Lunar_south_pole,Lunar south pole,place,seasonal-naive,2130.0,7365.0,,
+2023-09-14,Lunar_south_pole,Lunar south pole,place,seasonal-naive,1883.0,54180.0,,
+2023-09-15,Lunar_south_pole,Lunar south pole,place,seasonal-naive,597.0,18075.0,,
+2023-09-16,Lunar_south_pole,Lunar south pole,place,seasonal-naive,474.0,12943.0,,
+2023-09-17,Lunar_south_pole,Lunar south pole,place,seasonal-naive,396.0,9514.0,,
+2023-09-18,Lunar_south_pole,Lunar south pole,place,seasonal-naive,393.0,7748.0,,
+2023-09-19,Lunar_south_pole,Lunar south pole,place,seasonal-naive,434.0,7395.0,,
+2023-09-20,Lunar_south_pole,Lunar south pole,place,seasonal-naive,614.0,7365.0,,
+2023-09-21,Lunar_south_pole,Lunar south pole,place,seasonal-naive,793.0,54180.0,,
+2023-09-22,Lunar_south_pole,Lunar south pole,place,seasonal-naive,681.0,18075.0,,
+2023-09-23,Lunar_south_pole,Lunar south pole,place,seasonal-naive,547.0,12943.0,,
+2023-09-24,Lunar_south_pole,Lunar south pole,place,seasonal-naive,510.0,9514.0,,
+2023-09-25,Lunar_south_pole,Lunar south pole,place,seasonal-naive,627.0,7748.0,,
+2023-09-26,Lunar_south_pole,Lunar south pole,place,seasonal-naive,514.0,7395.0,,
+2023-09-27,Lunar_south_pole,Lunar south pole,place,seasonal-naive,478.0,7365.0,,
+2023-09-28,Lunar_south_pole,Lunar south pole,place,seasonal-naive,1564.0,54180.0,,
+2023-09-29,Lunar_south_pole,Lunar south pole,place,seasonal-naive,1746.0,18075.0,,
+2023-08-31,Vikram_(spacecraft),Vikram,object,seasonal-naive,99.0,1565.0,,
+2023-09-01,Vikram_(spacecraft),Vikram,object,seasonal-naive,67.0,435.0,,
+2023-09-02,Vikram_(spacecraft),Vikram,object,seasonal-naive,73.0,162.0,,
+2023-09-03,Vikram_(spacecraft),Vikram,object,seasonal-naive,60.0,111.0,,
+2023-09-04,Vikram_(spacecraft),Vikram,object,seasonal-naive,67.0,102.0,,
+2023-09-05,Vikram_(spacecraft),Vikram,object,seasonal-naive,43.0,151.0,,
+2023-09-06,Vikram_(spacecraft),Vikram,object,seasonal-naive,71.0,137.0,,
+2023-09-07,Vikram_(spacecraft),Vikram,object,seasonal-naive,29.0,1565.0,,
+2023-09-08,Vikram_(spacecraft),Vikram,object,seasonal-naive,18.0,435.0,,
+2023-09-09,Vikram_(spacecraft),Vikram,object,seasonal-naive,19.0,162.0,,
+2023-09-10,Vikram_(spacecraft),Vikram,object,seasonal-naive,15.0,111.0,,
+2023-09-11,Vikram_(spacecraft),Vikram,object,seasonal-naive,18.0,102.0,,
+2023-09-12,Vikram_(spacecraft),Vikram,object,seasonal-naive,14.0,151.0,,
+2023-09-13,Vikram_(spacecraft),Vikram,object,seasonal-naive,13.0,137.0,,
+2023-09-14,Vikram_(spacecraft),Vikram,object,seasonal-naive,10.0,1565.0,,
+2023-09-15,Vikram_(spacecraft),Vikram,object,seasonal-naive,9.0,435.0,,
+2023-09-16,Vikram_(spacecraft),Vikram,object,seasonal-naive,9.0,162.0,,
+2023-09-17,Vikram_(spacecraft),Vikram,object,seasonal-naive,6.0,111.0,,
+2023-09-18,Vikram_(spacecraft),Vikram,object,seasonal-naive,8.0,102.0,,
+2023-09-19,Vikram_(spacecraft),Vikram,object,seasonal-naive,16.0,151.0,,
+2023-09-20,Vikram_(spacecraft),Vikram,object,seasonal-naive,9.0,137.0,,
+2023-09-21,Vikram_(spacecraft),Vikram,object,seasonal-naive,16.0,1565.0,,
+2023-09-22,Vikram_(spacecraft),Vikram,object,seasonal-naive,22.0,435.0,,
+2023-09-23,Vikram_(spacecraft),Vikram,object,seasonal-naive,16.0,162.0,,
+2023-09-24,Vikram_(spacecraft),Vikram,object,seasonal-naive,28.0,111.0,,
+2023-09-25,Vikram_(spacecraft),Vikram,object,seasonal-naive,17.0,102.0,,
+2023-09-26,Vikram_(spacecraft),Vikram,object,seasonal-naive,22.0,151.0,,
+2023-09-27,Vikram_(spacecraft),Vikram,object,seasonal-naive,13.0,137.0,,
+2023-09-28,Vikram_(spacecraft),Vikram,object,seasonal-naive,16.0,1565.0,,
+2023-09-29,Vikram_(spacecraft),Vikram,object,seasonal-naive,7.0,435.0,,
+2023-08-31,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,65454.0,26320.5,,
+2023-09-01,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,60022.0,26320.5,,
+2023-09-02,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,59270.0,26320.5,,
+2023-09-03,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,66945.0,26320.5,,
+2023-09-04,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,48880.0,26320.5,,
+2023-09-05,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,43218.0,26320.5,,
+2023-09-06,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,41882.0,26320.5,,
+2023-09-07,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,46438.0,26320.5,,
+2023-09-08,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,35488.0,26320.5,,
+2023-09-09,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,33934.0,26320.5,,
+2023-09-10,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,41830.0,26320.5,,
+2023-09-11,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,33284.0,26320.5,,
+2023-09-12,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,30407.0,26320.5,,
+2023-09-13,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,29791.0,26320.5,,
+2023-09-14,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,32817.0,26320.5,,
+2023-09-15,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,28330.0,26320.5,,
+2023-09-16,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,21291.0,26320.5,,
+2023-09-17,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,24838.0,26320.5,,
+2023-09-18,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,22086.0,26320.5,,
+2023-09-19,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,23913.0,26320.5,,
+2023-09-20,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,25233.0,26320.5,,
+2023-09-21,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,25618.0,26320.5,,
+2023-09-22,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,26628.0,26320.5,,
+2023-09-23,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,23006.0,26320.5,,
+2023-09-24,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,27221.0,26320.5,,
+2023-09-25,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,25371.0,26320.5,,
+2023-09-26,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,24107.0,26320.5,,
+2023-09-27,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,18493.0,26320.5,,
+2023-09-28,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,22757.0,26320.5,,
+2023-09-29,Chandrayaan-3,Chandrayaan-3,event,flat-baseline,22484.0,26320.5,,
+2023-08-31,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,892.0,533.5,,
+2023-09-01,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,1113.0,533.5,,
+2023-09-02,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,2073.0,533.5,,
+2023-09-03,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,959.0,533.5,,
+2023-09-04,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,699.0,533.5,,
+2023-09-05,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,535.0,533.5,,
+2023-09-06,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,467.0,533.5,,
+2023-09-07,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,454.0,533.5,,
+2023-09-08,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,433.0,533.5,,
+2023-09-09,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,346.0,533.5,,
+2023-09-10,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,373.0,533.5,,
+2023-09-11,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,304.0,533.5,,
+2023-09-12,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,309.0,533.5,,
+2023-09-13,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,303.0,533.5,,
+2023-09-14,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,310.0,533.5,,
+2023-09-15,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,306.0,533.5,,
+2023-09-16,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,335.0,533.5,,
+2023-09-17,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,377.0,533.5,,
+2023-09-18,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,252.0,533.5,,
+2023-09-19,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,248.0,533.5,,
+2023-09-20,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,226.0,533.5,,
+2023-09-21,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,257.0,533.5,,
+2023-09-22,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,216.0,533.5,,
+2023-09-23,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,244.0,533.5,,
+2023-09-24,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,245.0,533.5,,
+2023-09-25,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,259.0,533.5,,
+2023-09-26,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,239.0,533.5,,
+2023-09-27,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,211.0,533.5,,
+2023-09-28,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,200.0,533.5,,
+2023-09-29,Indian_Space_Research_Organisation,ISRO,organization,flat-baseline,220.0,533.5,,
+2023-08-31,Moon_landing,Moon landing,idea,flat-baseline,6595.0,3101.0,,
+2023-09-01,Moon_landing,Moon landing,idea,flat-baseline,6237.0,3101.0,,
+2023-09-02,Moon_landing,Moon landing,idea,flat-baseline,6909.0,3101.0,,
+2023-09-03,Moon_landing,Moon landing,idea,flat-baseline,5281.0,3101.0,,
+2023-09-04,Moon_landing,Moon landing,idea,flat-baseline,4204.0,3101.0,,
+2023-09-05,Moon_landing,Moon landing,idea,flat-baseline,3881.0,3101.0,,
+2023-09-06,Moon_landing,Moon landing,idea,flat-baseline,3574.0,3101.0,,
+2023-09-07,Moon_landing,Moon landing,idea,flat-baseline,4360.0,3101.0,,
+2023-09-08,Moon_landing,Moon landing,idea,flat-baseline,3426.0,3101.0,,
+2023-09-09,Moon_landing,Moon landing,idea,flat-baseline,3196.0,3101.0,,
+2023-09-10,Moon_landing,Moon landing,idea,flat-baseline,3439.0,3101.0,,
+2023-09-11,Moon_landing,Moon landing,idea,flat-baseline,2850.0,3101.0,,
+2023-09-12,Moon_landing,Moon landing,idea,flat-baseline,2707.0,3101.0,,
+2023-09-13,Moon_landing,Moon landing,idea,flat-baseline,2790.0,3101.0,,
+2023-09-14,Moon_landing,Moon landing,idea,flat-baseline,2623.0,3101.0,,
+2023-09-15,Moon_landing,Moon landing,idea,flat-baseline,2606.0,3101.0,,
+2023-09-16,Moon_landing,Moon landing,idea,flat-baseline,2398.0,3101.0,,
+2023-09-17,Moon_landing,Moon landing,idea,flat-baseline,2166.0,3101.0,,
+2023-09-18,Moon_landing,Moon landing,idea,flat-baseline,2351.0,3101.0,,
+2023-09-19,Moon_landing,Moon landing,idea,flat-baseline,2382.0,3101.0,,
+2023-09-20,Moon_landing,Moon landing,idea,flat-baseline,2628.0,3101.0,,
+2023-09-21,Moon_landing,Moon landing,idea,flat-baseline,2565.0,3101.0,,
+2023-09-22,Moon_landing,Moon landing,idea,flat-baseline,2437.0,3101.0,,
+2023-09-23,Moon_landing,Moon landing,idea,flat-baseline,2664.0,3101.0,,
+2023-09-24,Moon_landing,Moon landing,idea,flat-baseline,2627.0,3101.0,,
+2023-09-25,Moon_landing,Moon landing,idea,flat-baseline,2467.0,3101.0,,
+2023-09-26,Moon_landing,Moon landing,idea,flat-baseline,2267.0,3101.0,,
+2023-09-27,Moon_landing,Moon landing,idea,flat-baseline,2119.0,3101.0,,
+2023-09-28,Moon_landing,Moon landing,idea,flat-baseline,2407.0,3101.0,,
+2023-09-29,Moon_landing,Moon landing,idea,flat-baseline,2353.0,3101.0,,
+2023-08-31,Lunar_south_pole,Lunar south pole,place,flat-baseline,4429.0,825.5,,
+2023-09-01,Lunar_south_pole,Lunar south pole,place,flat-baseline,3131.0,825.5,,
+2023-09-02,Lunar_south_pole,Lunar south pole,place,flat-baseline,2940.0,825.5,,
+2023-09-03,Lunar_south_pole,Lunar south pole,place,flat-baseline,2996.0,825.5,,
+2023-09-04,Lunar_south_pole,Lunar south pole,place,flat-baseline,2698.0,825.5,,
+2023-09-05,Lunar_south_pole,Lunar south pole,place,flat-baseline,2609.0,825.5,,
+2023-09-06,Lunar_south_pole,Lunar south pole,place,flat-baseline,2471.0,825.5,,
+2023-09-07,Lunar_south_pole,Lunar south pole,place,flat-baseline,2088.0,825.5,,
+2023-09-08,Lunar_south_pole,Lunar south pole,place,flat-baseline,1049.0,825.5,,
+2023-09-09,Lunar_south_pole,Lunar south pole,place,flat-baseline,996.0,825.5,,
+2023-09-10,Lunar_south_pole,Lunar south pole,place,flat-baseline,788.0,825.5,,
+2023-09-11,Lunar_south_pole,Lunar south pole,place,flat-baseline,617.0,825.5,,
+2023-09-12,Lunar_south_pole,Lunar south pole,place,flat-baseline,1027.0,825.5,,
+2023-09-13,Lunar_south_pole,Lunar south pole,place,flat-baseline,2130.0,825.5,,
+2023-09-14,Lunar_south_pole,Lunar south pole,place,flat-baseline,1883.0,825.5,,
+2023-09-15,Lunar_south_pole,Lunar south pole,place,flat-baseline,597.0,825.5,,
+2023-09-16,Lunar_south_pole,Lunar south pole,place,flat-baseline,474.0,825.5,,
+2023-09-17,Lunar_south_pole,Lunar south pole,place,flat-baseline,396.0,825.5,,
+2023-09-18,Lunar_south_pole,Lunar south pole,place,flat-baseline,393.0,825.5,,
+2023-09-19,Lunar_south_pole,Lunar south pole,place,flat-baseline,434.0,825.5,,
+2023-09-20,Lunar_south_pole,Lunar south pole,place,flat-baseline,614.0,825.5,,
+2023-09-21,Lunar_south_pole,Lunar south pole,place,flat-baseline,793.0,825.5,,
+2023-09-22,Lunar_south_pole,Lunar south pole,place,flat-baseline,681.0,825.5,,
+2023-09-23,Lunar_south_pole,Lunar south pole,place,flat-baseline,547.0,825.5,,
+2023-09-24,Lunar_south_pole,Lunar south pole,place,flat-baseline,510.0,825.5,,
+2023-09-25,Lunar_south_pole,Lunar south pole,place,flat-baseline,627.0,825.5,,
+2023-09-26,Lunar_south_pole,Lunar south pole,place,flat-baseline,514.0,825.5,,
+2023-09-27,Lunar_south_pole,Lunar south pole,place,flat-baseline,478.0,825.5,,
+2023-09-28,Lunar_south_pole,Lunar south pole,place,flat-baseline,1564.0,825.5,,
+2023-09-29,Lunar_south_pole,Lunar south pole,place,flat-baseline,1746.0,825.5,,
+2023-08-31,Vikram_(spacecraft),Vikram,object,flat-baseline,99.0,207.0,,
+2023-09-01,Vikram_(spacecraft),Vikram,object,flat-baseline,67.0,207.0,,
+2023-09-02,Vikram_(spacecraft),Vikram,object,flat-baseline,73.0,207.0,,
+2023-09-03,Vikram_(spacecraft),Vikram,object,flat-baseline,60.0,207.0,,
+2023-09-04,Vikram_(spacecraft),Vikram,object,flat-baseline,67.0,207.0,,
+2023-09-05,Vikram_(spacecraft),Vikram,object,flat-baseline,43.0,207.0,,
+2023-09-06,Vikram_(spacecraft),Vikram,object,flat-baseline,71.0,207.0,,
+2023-09-07,Vikram_(spacecraft),Vikram,object,flat-baseline,29.0,207.0,,
+2023-09-08,Vikram_(spacecraft),Vikram,object,flat-baseline,18.0,207.0,,
+2023-09-09,Vikram_(spacecraft),Vikram,object,flat-baseline,19.0,207.0,,
+2023-09-10,Vikram_(spacecraft),Vikram,object,flat-baseline,15.0,207.0,,
+2023-09-11,Vikram_(spacecraft),Vikram,object,flat-baseline,18.0,207.0,,
+2023-09-12,Vikram_(spacecraft),Vikram,object,flat-baseline,14.0,207.0,,
+2023-09-13,Vikram_(spacecraft),Vikram,object,flat-baseline,13.0,207.0,,
+2023-09-14,Vikram_(spacecraft),Vikram,object,flat-baseline,10.0,207.0,,
+2023-09-15,Vikram_(spacecraft),Vikram,object,flat-baseline,9.0,207.0,,
+2023-09-16,Vikram_(spacecraft),Vikram,object,flat-baseline,9.0,207.0,,
+2023-09-17,Vikram_(spacecraft),Vikram,object,flat-baseline,6.0,207.0,,
+2023-09-18,Vikram_(spacecraft),Vikram,object,flat-baseline,8.0,207.0,,
+2023-09-19,Vikram_(spacecraft),Vikram,object,flat-baseline,16.0,207.0,,
+2023-09-20,Vikram_(spacecraft),Vikram,object,flat-baseline,9.0,207.0,,
+2023-09-21,Vikram_(spacecraft),Vikram,object,flat-baseline,16.0,207.0,,
+2023-09-22,Vikram_(spacecraft),Vikram,object,flat-baseline,22.0,207.0,,
+2023-09-23,Vikram_(spacecraft),Vikram,object,flat-baseline,16.0,207.0,,
+2023-09-24,Vikram_(spacecraft),Vikram,object,flat-baseline,28.0,207.0,,
+2023-09-25,Vikram_(spacecraft),Vikram,object,flat-baseline,17.0,207.0,,
+2023-09-26,Vikram_(spacecraft),Vikram,object,flat-baseline,22.0,207.0,,
+2023-09-27,Vikram_(spacecraft),Vikram,object,flat-baseline,13.0,207.0,,
+2023-09-28,Vikram_(spacecraft),Vikram,object,flat-baseline,16.0,207.0,,
+2023-09-29,Vikram_(spacecraft),Vikram,object,flat-baseline,7.0,207.0,,

@@ -1,0 +1,142 @@
+{
+  "slug": "paris-2024-opening",
+  "title": "The Paris 2024 opening ceremony",
+  "event_date": "2024-07-26",
+  "primary": "2024_Summer_Olympics_opening_ceremony",
+  "total_excess_views_60d": 10498156,
+  "spillover_share": 0.9736318454402849,
+  "pages": [
+    {
+      "article": "2024_Summer_Olympics_opening_ceremony",
+      "label": "Opening ceremony",
+      "role": "event",
+      "baseline_views": 3442.5,
+      "peak_date": "2024-07-27",
+      "peak_offset_days": 1,
+      "peak_views": 70590,
+      "peak_lift": 20.505446623093682,
+      "half_life_days": 2,
+      "excess_views_60d": 276817,
+      "first_week_share": 0.8346940397446688,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "2024_Summer_Olympics",
+      "label": "Paris 2024",
+      "role": "event",
+      "baseline_views": 60192.5,
+      "peak_date": "2024-07-27",
+      "peak_offset_days": 1,
+      "peak_views": 635872,
+      "peak_lift": 10.56397391701624,
+      "half_life_days": 16,
+      "excess_views_60d": 7636950,
+      "first_week_share": 0.4181125044610411,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Celine_Dion",
+      "label": "Celine Dion",
+      "role": "person",
+      "baseline_views": 38406.5,
+      "peak_date": "2024-07-27",
+      "peak_offset_days": 1,
+      "peak_views": 533150,
+      "peak_lift": 13.88176480543658,
+      "half_life_days": 1,
+      "excess_views_60d": 1039928,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "L\u00e9on_Marchand",
+      "label": "L\u00e9on Marchand",
+      "role": "person",
+      "baseline_views": 212.5,
+      "peak_date": "2024-08-01",
+      "peak_offset_days": 6,
+      "peak_views": 187097,
+      "peak_lift": 880.4564705882353,
+      "half_life_days": 3,
+      "excess_views_60d": 1393300,
+      "first_week_share": 0.4916023110600732,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Paris",
+      "label": "Paris",
+      "role": "place",
+      "baseline_views": 6310.5,
+      "peak_date": "2024-07-26",
+      "peak_offset_days": 0,
+      "peak_views": 28808,
+      "peak_lift": 4.565089929482609,
+      "half_life_days": 3,
+      "excess_views_60d": 151161,
+      "first_week_share": 0.5711426889210841,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "2024_Summer_Olympics_opening_ceremony",
+      "target": "Paris",
+      "lag_days": 0,
+      "correlation": 0.937738293088953
+    },
+    {
+      "source": "2024_Summer_Olympics_opening_ceremony",
+      "target": "Celine_Dion",
+      "lag_days": 0,
+      "correlation": 0.9233181902472797
+    },
+    {
+      "source": "2024_Summer_Olympics",
+      "target": "L\u00e9on_Marchand",
+      "lag_days": 2,
+      "correlation": 0.8977944803463085
+    },
+    {
+      "source": "2024_Summer_Olympics",
+      "target": "Paris",
+      "lag_days": 0,
+      "correlation": 0.8716923417833532
+    },
+    {
+      "source": "2024_Summer_Olympics_opening_ceremony",
+      "target": "L\u00e9on_Marchand",
+      "lag_days": 5,
+      "correlation": 0.8646689075108654
+    },
+    {
+      "source": "Celine_Dion",
+      "target": "Paris",
+      "lag_days": 0,
+      "correlation": 0.8555191262005324
+    },
+    {
+      "source": "Paris",
+      "target": "L\u00e9on_Marchand",
+      "lag_days": 2,
+      "correlation": 0.8535662749643939
+    },
+    {
+      "source": "2024_Summer_Olympics_opening_ceremony",
+      "target": "2024_Summer_Olympics",
+      "lag_days": 0,
+      "correlation": 0.8281956336862241
+    },
+    {
+      "source": "Celine_Dion",
+      "target": "L\u00e9on_Marchand",
+      "lag_days": 5,
+      "correlation": 0.7361571532251445
+    },
+    {
+      "source": "Celine_Dion",
+      "target": "2024_Summer_Olympics",
+      "lag_days": 1,
+      "correlation": 0.6378191797742728
+    }
+  ]
+}

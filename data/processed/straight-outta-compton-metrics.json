@@ -1,0 +1,142 @@
+{
+  "slug": "straight-outta-compton",
+  "title": "Straight Outta Compton opens",
+  "event_date": "2015-08-14",
+  "primary": "Straight_Outta_Compton_(2015_film)",
+  "total_excess_views_60d": 13122556,
+  "spillover_share": 0.7903740704173791,
+  "pages": [
+    {
+      "article": "Straight_Outta_Compton_(2015_film)",
+      "label": "Straight Outta Compton",
+      "role": "event",
+      "baseline_views": 27850.0,
+      "peak_date": "2015-08-17",
+      "peak_offset_days": 3,
+      "peak_views": 290671,
+      "peak_lift": 10.437019748653501,
+      "half_life_days": 3,
+      "excess_views_60d": 2750828,
+      "first_week_share": 0.4717274217072096,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "N.W.A",
+      "label": "N.W.A",
+      "role": "organization",
+      "baseline_views": 43213.5,
+      "peak_date": "2015-08-17",
+      "peak_offset_days": 3,
+      "peak_views": 231608,
+      "peak_lift": 5.3596214146042325,
+      "half_life_days": 3,
+      "excess_views_60d": 1778402,
+      "first_week_share": 0.5626949257521432,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Dr._Dre",
+      "label": "Dr. Dre",
+      "role": "person",
+      "baseline_views": 22458.5,
+      "peak_date": "2015-08-17",
+      "peak_offset_days": 3,
+      "peak_views": 220746,
+      "peak_lift": 9.829062493042724,
+      "half_life_days": 7,
+      "excess_views_60d": 2666883,
+      "first_week_share": 0.3757320812349098,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Ice_Cube",
+      "label": "Ice Cube",
+      "role": "person",
+      "baseline_views": 22699.0,
+      "peak_date": "2015-08-17",
+      "peak_offset_days": 3,
+      "peak_views": 216754,
+      "peak_lift": 9.549055024450416,
+      "half_life_days": 3,
+      "excess_views_60d": 2451522,
+      "first_week_share": 0.3911757675435913,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Eazy-E",
+      "label": "Eazy-E",
+      "role": "person",
+      "baseline_views": 38764.0,
+      "peak_date": "2015-08-17",
+      "peak_offset_days": 3,
+      "peak_views": 338170,
+      "peak_lift": 8.723815911670622,
+      "half_life_days": 3,
+      "excess_views_60d": 3474921,
+      "first_week_share": 0.44333784854389496,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Ice_Cube",
+      "target": "Eazy-E",
+      "lag_days": 0,
+      "correlation": 0.9913101414820127
+    },
+    {
+      "source": "Straight_Outta_Compton_(2015_film)",
+      "target": "N.W.A",
+      "lag_days": 0,
+      "correlation": 0.9880861332822184
+    },
+    {
+      "source": "Straight_Outta_Compton_(2015_film)",
+      "target": "Ice_Cube",
+      "lag_days": 0,
+      "correlation": 0.9680819238777923
+    },
+    {
+      "source": "Straight_Outta_Compton_(2015_film)",
+      "target": "Eazy-E",
+      "lag_days": 0,
+      "correlation": 0.9629521239229608
+    },
+    {
+      "source": "Straight_Outta_Compton_(2015_film)",
+      "target": "Dr._Dre",
+      "lag_days": 0,
+      "correlation": 0.960177995479898
+    },
+    {
+      "source": "N.W.A",
+      "target": "Dr._Dre",
+      "lag_days": 1,
+      "correlation": 0.9540842369998586
+    },
+    {
+      "source": "Dr._Dre",
+      "target": "Ice_Cube",
+      "lag_days": 0,
+      "correlation": 0.9485468262775281
+    },
+    {
+      "source": "Dr._Dre",
+      "target": "Eazy-E",
+      "lag_days": 0,
+      "correlation": 0.9459172738378769
+    },
+    {
+      "source": "N.W.A",
+      "target": "Ice_Cube",
+      "lag_days": 0,
+      "correlation": 0.9298271664397741
+    },
+    {
+      "source": "N.W.A",
+      "target": "Eazy-E",
+      "lag_days": 1,
+      "correlation": 0.928783723259864
+    }
+  ]
+}

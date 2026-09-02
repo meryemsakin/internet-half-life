@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,122703.0,112783.546875,91979.109375,171924.0625
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,131174.0,108517.0625,73054.96875,195103.15625
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,123080.0,106967.640625,59520.73046875,214626.0
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,84530.0,106939.078125,52033.90625,234313.3125
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,84563.0,107012.2890625,46518.9140625,251034.03125
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,73614.0,106494.484375,42181.5859375,264120.875
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,80256.0,105917.8046875,38656.6328125,277618.25
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,100597.0,103774.0546875,36391.45703125,288440.71875
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,117183.0,104526.4921875,36781.515625,303433.4375
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,117673.0,101760.3359375,36181.015625,312427.34375
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,82672.0,99138.265625,34702.203125,321561.65625
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,78331.0,96056.125,32219.75,330157.65625
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,73319.0,94171.515625,33295.2109375,336382.90625
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,71834.0,91216.3671875,29785.74609375,347427.15625
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,83947.0,87845.421875,26290.470703125,358131.375
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,91329.0,86101.2421875,26677.669921875,366264.28125
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,86748.0,84153.21875,28656.02734375,375677.34375
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,70698.0,82955.1953125,28320.220703125,384335.0
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,56131.0,83300.8984375,24887.625,395922.21875
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,49525.0,82062.6796875,24931.083984375,402071.125
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,48171.0,80559.84375,23166.52734375,405363.625
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,55197.0,78384.5,20485.921875,408419.40625
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,58855.0,74769.25,19237.53125,406192.96875
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,44577.0,69972.3125,10858.359375,406240.5625
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,36610.0,67086.8125,9233.72265625,408295.90625
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,34541.0,65443.75390625,10944.5234375,407122.15625
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,30673.0,63805.74609375,7324.421875,410847.46875
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,32293.0,62091.55078125,7410.21875,415264.15625
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,36689.0,62628.78125,5998.7265625,423508.15625
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-multivariate,39412.0,61963.88671875,5080.859375,433501.28125
+2015-08-22,N.W.A,N.W.A,organization,timesfm-multivariate,103133.0,98826.90625,80107.09375,140181.75
+2015-08-23,N.W.A,N.W.A,organization,timesfm-multivariate,106733.0,97456.1640625,66438.6171875,158360.8125
+2015-08-24,N.W.A,N.W.A,organization,timesfm-multivariate,91197.0,99173.859375,57157.62109375,174550.78125
+2015-08-25,N.W.A,N.W.A,organization,timesfm-multivariate,67750.0,99650.28125,50405.40234375,188856.1875
+2015-08-26,N.W.A,N.W.A,organization,timesfm-multivariate,73978.0,100705.765625,46643.60546875,202463.03125
+2015-08-27,N.W.A,N.W.A,organization,timesfm-multivariate,59198.0,101283.09375,42356.3515625,214239.390625
+2015-08-28,N.W.A,N.W.A,organization,timesfm-multivariate,70013.0,100434.390625,39433.484375,222982.78125
+2015-08-29,N.W.A,N.W.A,organization,timesfm-multivariate,94183.0,97091.5859375,35677.5390625,229485.9375
+2015-08-30,N.W.A,N.W.A,organization,timesfm-multivariate,109179.0,95478.9921875,34213.0,238066.828125
+2015-08-31,N.W.A,N.W.A,organization,timesfm-multivariate,100822.0,95788.53125,35169.2578125,246007.015625
+2015-09-01,N.W.A,N.W.A,organization,timesfm-multivariate,72581.0,94750.6875,34016.2734375,253472.828125
+2015-09-02,N.W.A,N.W.A,organization,timesfm-multivariate,71979.0,91873.734375,31557.24609375,258790.609375
+2015-09-03,N.W.A,N.W.A,organization,timesfm-multivariate,70747.0,88952.671875,30399.875,261387.984375
+2015-09-04,N.W.A,N.W.A,organization,timesfm-multivariate,67151.0,88151.8984375,29149.759765625,270763.84375
+2015-09-05,N.W.A,N.W.A,organization,timesfm-multivariate,79101.0,87451.390625,28699.85546875,280693.875
+2015-09-06,N.W.A,N.W.A,organization,timesfm-multivariate,82931.0,86245.203125,27846.708984375,288342.84375
+2015-09-07,N.W.A,N.W.A,organization,timesfm-multivariate,78812.0,85396.40625,27921.61328125,299049.28125
+2015-09-08,N.W.A,N.W.A,organization,timesfm-multivariate,62640.0,84082.5,25409.861328125,307573.375
+2015-09-09,N.W.A,N.W.A,organization,timesfm-multivariate,51896.0,84991.59375,24697.0703125,315078.9375
+2015-09-10,N.W.A,N.W.A,organization,timesfm-multivariate,49970.0,84514.8203125,21842.09765625,323543.75
+2015-09-11,N.W.A,N.W.A,organization,timesfm-multivariate,44916.0,81140.0625,26111.357421875,316198.125
+2015-09-12,N.W.A,N.W.A,organization,timesfm-multivariate,50332.0,77148.7421875,23718.654296875,314456.125
+2015-09-13,N.W.A,N.W.A,organization,timesfm-multivariate,53538.0,72591.703125,18201.19921875,313493.625
+2015-09-14,N.W.A,N.W.A,organization,timesfm-multivariate,40056.0,67311.6640625,15501.11328125,306423.53125
+2015-09-15,N.W.A,N.W.A,organization,timesfm-multivariate,33627.0,63441.41015625,12514.05078125,304930.8125
+2015-09-16,N.W.A,N.W.A,organization,timesfm-multivariate,33555.0,61302.67578125,12721.95703125,301755.5
+2015-09-17,N.W.A,N.W.A,organization,timesfm-multivariate,29403.0,59531.3828125,10174.74609375,303893.875
+2015-09-18,N.W.A,N.W.A,organization,timesfm-multivariate,29560.0,57665.5546875,9038.4375,307468.78125
+2015-09-19,N.W.A,N.W.A,organization,timesfm-multivariate,33672.0,56870.6171875,8365.48046875,312471.25
+2015-09-20,N.W.A,N.W.A,organization,timesfm-multivariate,34679.0,55763.359375,9421.125,318013.5625
+2015-08-22,Dr._Dre,Dr. Dre,person,timesfm-multivariate,129060.0,108921.46875,81509.5234375,154325.875
+2015-08-23,Dr._Dre,Dr. Dre,person,timesfm-multivariate,125083.0,101304.375,61293.41015625,165772.8125
+2015-08-24,Dr._Dre,Dr. Dre,person,timesfm-multivariate,103130.0,95907.875,50288.609375,179814.40625
+2015-08-25,Dr._Dre,Dr. Dre,person,timesfm-multivariate,73319.0,91716.0546875,45053.7578125,195155.21875
+2015-08-26,Dr._Dre,Dr. Dre,person,timesfm-multivariate,71254.0,89843.453125,41495.1796875,211552.25
+2015-08-27,Dr._Dre,Dr. Dre,person,timesfm-multivariate,60987.0,87177.359375,37664.90625,224976.5
+2015-08-28,Dr._Dre,Dr. Dre,person,timesfm-multivariate,66698.0,85011.484375,34139.25390625,234971.0
+2015-08-29,Dr._Dre,Dr. Dre,person,timesfm-multivariate,97752.0,82238.734375,31564.037109375,240470.6875
+2015-08-30,Dr._Dre,Dr. Dre,person,timesfm-multivariate,121445.0,80150.90625,28898.92578125,243724.75
+2015-08-31,Dr._Dre,Dr. Dre,person,timesfm-multivariate,111702.0,76798.1484375,25867.25,240255.46875
+2015-09-01,Dr._Dre,Dr. Dre,person,timesfm-multivariate,79221.0,75055.8046875,23902.607421875,239806.3125
+2015-09-02,Dr._Dre,Dr. Dre,person,timesfm-multivariate,77900.0,73385.234375,22290.673828125,239744.28125
+2015-09-03,Dr._Dre,Dr. Dre,person,timesfm-multivariate,72732.0,71559.21875,23715.466796875,235439.15625
+2015-09-04,Dr._Dre,Dr. Dre,person,timesfm-multivariate,72528.0,69181.8828125,17117.193359375,241142.0625
+2015-09-05,Dr._Dre,Dr. Dre,person,timesfm-multivariate,91651.0,69958.5625,17958.431640625,247340.59375
+2015-09-06,Dr._Dre,Dr. Dre,person,timesfm-multivariate,101402.0,69538.6796875,16903.85546875,252098.03125
+2015-09-07,Dr._Dre,Dr. Dre,person,timesfm-multivariate,100313.0,68445.515625,20243.875,254387.53125
+2015-09-08,Dr._Dre,Dr. Dre,person,timesfm-multivariate,76898.0,67533.03125,21253.296875,257375.25
+2015-09-09,Dr._Dre,Dr. Dre,person,timesfm-multivariate,59687.0,67665.359375,15926.56640625,268594.21875
+2015-09-10,Dr._Dre,Dr. Dre,person,timesfm-multivariate,51243.0,66118.0390625,16013.029296875,271368.4375
+2015-09-11,Dr._Dre,Dr. Dre,person,timesfm-multivariate,49947.0,64778.12890625,14837.482421875,273329.6875
+2015-09-12,Dr._Dre,Dr. Dre,person,timesfm-multivariate,60323.0,61633.9453125,13577.4609375,273151.5625
+2015-09-13,Dr._Dre,Dr. Dre,person,timesfm-multivariate,67617.0,58551.21484375,13088.34765625,271158.75
+2015-09-14,Dr._Dre,Dr. Dre,person,timesfm-multivariate,48657.0,55988.296875,9844.76953125,270078.78125
+2015-09-15,Dr._Dre,Dr. Dre,person,timesfm-multivariate,38643.0,54049.08203125,8888.49609375,270350.15625
+2015-09-16,Dr._Dre,Dr. Dre,person,timesfm-multivariate,37221.0,52527.3515625,9660.65234375,267407.28125
+2015-09-17,Dr._Dre,Dr. Dre,person,timesfm-multivariate,33639.0,50502.01953125,6871.6796875,270150.125
+2015-09-18,Dr._Dre,Dr. Dre,person,timesfm-multivariate,34885.0,49452.38671875,9125.30078125,273201.34375
+2015-09-19,Dr._Dre,Dr. Dre,person,timesfm-multivariate,41720.0,49783.2890625,8439.49609375,283044.375
+2015-09-20,Dr._Dre,Dr. Dre,person,timesfm-multivariate,45491.0,48220.359375,5627.8515625,295909.4375
+2015-08-22,Ice_Cube,Ice Cube,person,timesfm-multivariate,110586.0,93178.078125,73623.6171875,133393.9375
+2015-08-23,Ice_Cube,Ice Cube,person,timesfm-multivariate,127183.0,87232.0859375,57911.94140625,146199.421875
+2015-08-24,Ice_Cube,Ice Cube,person,timesfm-multivariate,101470.0,85049.328125,48564.73046875,157565.171875
+2015-08-25,Ice_Cube,Ice Cube,person,timesfm-multivariate,70640.0,85252.015625,43056.4140625,171644.84375
+2015-08-26,Ice_Cube,Ice Cube,person,timesfm-multivariate,73433.0,85586.1875,39349.12109375,182917.234375
+2015-08-27,Ice_Cube,Ice Cube,person,timesfm-multivariate,57944.0,83862.8046875,34764.55859375,191355.875
+2015-08-28,Ice_Cube,Ice Cube,person,timesfm-multivariate,63637.0,82811.625,31959.119140625,199824.140625
+2015-08-29,Ice_Cube,Ice Cube,person,timesfm-multivariate,89595.0,81509.7265625,30108.4375,205750.84375
+2015-08-30,Ice_Cube,Ice Cube,person,timesfm-multivariate,111275.0,81128.5,29376.875,213161.609375
+2015-08-31,Ice_Cube,Ice Cube,person,timesfm-multivariate,110847.0,79169.84375,28541.09375,216261.375
+2015-09-01,Ice_Cube,Ice Cube,person,timesfm-multivariate,74143.0,77129.8125,27882.177734375,219472.8125
+2015-09-02,Ice_Cube,Ice Cube,person,timesfm-multivariate,71652.0,74545.515625,25931.15625,221613.1875
+2015-09-03,Ice_Cube,Ice Cube,person,timesfm-multivariate,69837.0,72603.3203125,26264.734375,222949.109375
+2015-09-04,Ice_Cube,Ice Cube,person,timesfm-multivariate,67347.0,70360.0,24566.84765625,227674.109375
+2015-09-05,Ice_Cube,Ice Cube,person,timesfm-multivariate,84739.0,69416.09375,24529.17578125,233477.75
+2015-09-06,Ice_Cube,Ice Cube,person,timesfm-multivariate,93506.0,68798.4765625,25229.51953125,237812.1875
+2015-09-07,Ice_Cube,Ice Cube,person,timesfm-multivariate,90243.0,66864.765625,25957.19140625,241870.625
+2015-09-08,Ice_Cube,Ice Cube,person,timesfm-multivariate,69224.0,65339.03125,24673.142578125,245520.453125
+2015-09-09,Ice_Cube,Ice Cube,person,timesfm-multivariate,58976.0,64822.3828125,22677.228515625,251041.078125
+2015-09-10,Ice_Cube,Ice Cube,person,timesfm-multivariate,50956.0,63580.74609375,23552.3046875,251630.328125
+2015-09-11,Ice_Cube,Ice Cube,person,timesfm-multivariate,46122.0,62457.46875,21373.037109375,253569.28125
+2015-09-12,Ice_Cube,Ice Cube,person,timesfm-multivariate,57626.0,59265.546875,18614.029296875,252417.546875
+2015-09-13,Ice_Cube,Ice Cube,person,timesfm-multivariate,60640.0,56569.04296875,17140.8046875,250474.984375
+2015-09-14,Ice_Cube,Ice Cube,person,timesfm-multivariate,44249.0,53992.375,12125.9140625,249055.546875
+2015-09-15,Ice_Cube,Ice Cube,person,timesfm-multivariate,35762.0,52351.62890625,11138.5390625,249093.59375
+2015-09-16,Ice_Cube,Ice Cube,person,timesfm-multivariate,35420.0,50345.88671875,11448.177734375,246014.1875
+2015-09-17,Ice_Cube,Ice Cube,person,timesfm-multivariate,33117.0,48522.65234375,8526.1171875,247517.984375
+2015-09-18,Ice_Cube,Ice Cube,person,timesfm-multivariate,33575.0,46781.34375,8327.671875,248256.375
+2015-09-19,Ice_Cube,Ice Cube,person,timesfm-multivariate,39353.0,46995.12109375,9039.640625,253406.125
+2015-09-20,Ice_Cube,Ice Cube,person,timesfm-multivariate,41130.0,46366.828125,9041.453125,261645.046875
+2015-08-22,Eazy-E,Eazy-E,person,timesfm-multivariate,154545.0,128084.375,104056.2265625,166366.4375
+2015-08-23,Eazy-E,Eazy-E,person,timesfm-multivariate,170086.0,116608.1640625,79456.0546875,178995.484375
+2015-08-24,Eazy-E,Eazy-E,person,timesfm-multivariate,136577.0,111634.390625,62768.8046875,194936.265625
+2015-08-25,Eazy-E,Eazy-E,person,timesfm-multivariate,96459.0,109693.1015625,52815.56640625,215213.015625
+2015-08-26,Eazy-E,Eazy-E,person,timesfm-multivariate,113385.0,108620.671875,45203.796875,233343.546875
+2015-08-27,Eazy-E,Eazy-E,person,timesfm-multivariate,83498.0,104109.140625,36576.92578125,247948.359375
+2015-08-28,Eazy-E,Eazy-E,person,timesfm-multivariate,90925.0,100102.0390625,29870.013671875,261403.90625
+2015-08-29,Eazy-E,Eazy-E,person,timesfm-multivariate,139080.0,96938.9296875,24428.796875,273445.71875
+2015-08-30,Eazy-E,Eazy-E,person,timesfm-multivariate,165332.0,97577.53125,24373.61328125,290818.9375
+2015-08-31,Eazy-E,Eazy-E,person,timesfm-multivariate,148187.0,97067.78125,25511.6796875,302309.28125
+2015-09-01,Eazy-E,Eazy-E,person,timesfm-multivariate,107735.0,94151.4375,23404.359375,313753.59375
+2015-09-02,Eazy-E,Eazy-E,person,timesfm-multivariate,103792.0,92004.4375,21093.2890625,327331.53125
+2015-09-03,Eazy-E,Eazy-E,person,timesfm-multivariate,97940.0,89928.9921875,20619.0234375,336624.40625
+2015-09-04,Eazy-E,Eazy-E,person,timesfm-multivariate,97746.0,87988.8515625,19037.03125,355536.25
+2015-09-05,Eazy-E,Eazy-E,person,timesfm-multivariate,122248.0,86796.1796875,18267.05859375,372904.6875
+2015-09-06,Eazy-E,Eazy-E,person,timesfm-multivariate,136861.0,86635.6875,19183.17578125,386238.21875
+2015-09-07,Eazy-E,Eazy-E,person,timesfm-multivariate,164902.0,85029.3125,22278.5078125,398355.75
+2015-09-08,Eazy-E,Eazy-E,person,timesfm-multivariate,121451.0,83784.0390625,21199.8125,407229.90625
+2015-09-09,Eazy-E,Eazy-E,person,timesfm-multivariate,83020.0,83910.5,17883.10546875,414473.1875
+2015-09-10,Eazy-E,Eazy-E,person,timesfm-multivariate,67326.0,85303.140625,16505.703125,424964.25
+2015-09-11,Eazy-E,Eazy-E,person,timesfm-multivariate,63697.0,84956.15625,20702.23046875,418584.25
+2015-09-12,Eazy-E,Eazy-E,person,timesfm-multivariate,79462.0,82575.6171875,19325.921875,416052.0625
+2015-09-13,Eazy-E,Eazy-E,person,timesfm-multivariate,89406.0,77729.3828125,19432.26953125,406392.46875
+2015-09-14,Eazy-E,Eazy-E,person,timesfm-multivariate,63749.0,73288.0234375,12973.625,399645.28125
+2015-09-15,Eazy-E,Eazy-E,person,timesfm-multivariate,50734.0,69128.4765625,9686.6640625,395863.375
+2015-09-16,Eazy-E,Eazy-E,person,timesfm-multivariate,46705.0,65269.5625,7827.984375,390264.21875
+2015-09-17,Eazy-E,Eazy-E,person,timesfm-multivariate,41781.0,61178.02734375,4266.22265625,387858.4375
+2015-09-18,Eazy-E,Eazy-E,person,timesfm-multivariate,42040.0,56762.02734375,2351.8671875,385516.21875
+2015-09-19,Eazy-E,Eazy-E,person,timesfm-multivariate,52781.0,55265.34375,1501.671875,391050.21875
+2015-09-20,Eazy-E,Eazy-E,person,timesfm-multivariate,57764.0,53980.96875,0.0,401854.71875
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,122703.0,106357.6875,80571.8828125,144099.1875
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,131174.0,101331.578125,63896.44921875,159263.078125
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,123080.0,96145.875,50792.59765625,168690.03125
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,84530.0,94581.21875,43621.6328125,177475.25
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,84563.0,93057.03125,39107.39453125,184680.28125
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,73614.0,92925.25,37285.1953125,193053.375
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,80256.0,91510.765625,34314.55859375,198995.5
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,100597.0,88371.9609375,31277.861328125,200888.90625
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,117183.0,85451.7734375,29153.353515625,203564.4375
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,117673.0,81545.8125,26982.55859375,203568.375
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,82672.0,78301.5625,25371.15234375,204131.34375
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,78331.0,75412.78125,24093.65625,205024.75
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,73319.0,72317.546875,22534.1171875,203216.4375
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,71834.0,70823.171875,21853.01171875,207060.78125
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,83947.0,69683.21875,21506.95703125,207418.90625
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,91329.0,66668.4609375,18760.60546875,205929.875
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,86748.0,64865.4140625,18499.8671875,206485.75
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,70698.0,63633.62109375,19517.4921875,203945.65625
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,56131.0,62646.3828125,16468.3125,205960.375
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,49525.0,62263.1953125,17122.30078125,205140.8125
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,48171.0,59842.9765625,15791.28515625,200881.75
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,55197.0,55587.53125,12126.55078125,195581.3125
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,58855.0,50922.5,10962.15234375,187794.4375
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,44577.0,48170.0703125,7021.98828125,183549.078125
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,36610.0,44695.2734375,5821.35546875,178890.65625
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,34541.0,41540.953125,3778.85546875,172608.84375
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,30673.0,39932.5859375,4378.40234375,168986.78125
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,32293.0,38574.99609375,3920.125,165322.390625
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,36689.0,38802.84765625,4845.984375,166573.84375
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,timesfm-univariate,39412.0,36718.71484375,4739.12890625,166300.25
+2015-08-22,N.W.A,N.W.A,organization,timesfm-univariate,103133.0,94770.375,75857.6875,126075.265625
+2015-08-23,N.W.A,N.W.A,organization,timesfm-univariate,106733.0,89501.78125,60841.3984375,136971.734375
+2015-08-24,N.W.A,N.W.A,organization,timesfm-univariate,91197.0,86640.578125,50294.15625,146086.265625
+2015-08-25,N.W.A,N.W.A,organization,timesfm-univariate,67750.0,86019.671875,43142.0703125,154856.890625
+2015-08-26,N.W.A,N.W.A,organization,timesfm-univariate,73978.0,84798.84375,37616.3046875,161743.734375
+2015-08-27,N.W.A,N.W.A,organization,timesfm-univariate,59198.0,83258.984375,33343.6171875,167393.421875
+2015-08-28,N.W.A,N.W.A,organization,timesfm-univariate,70013.0,80949.3359375,29721.09765625,171317.734375
+2015-08-29,N.W.A,N.W.A,organization,timesfm-univariate,94183.0,76934.4296875,25629.55078125,171933.140625
+2015-08-30,N.W.A,N.W.A,organization,timesfm-univariate,109179.0,73816.71875,22507.82421875,173540.3125
+2015-08-31,N.W.A,N.W.A,organization,timesfm-univariate,100822.0,71411.8125,21156.65234375,174305.75
+2015-09-01,N.W.A,N.W.A,organization,timesfm-univariate,72581.0,69035.625,19351.640625,174474.203125
+2015-09-02,N.W.A,N.W.A,organization,timesfm-univariate,71979.0,66750.765625,17413.74609375,175618.65625
+2015-09-03,N.W.A,N.W.A,organization,timesfm-univariate,70747.0,65778.7109375,18066.515625,174644.984375
+2015-09-04,N.W.A,N.W.A,organization,timesfm-univariate,67151.0,64281.76171875,15930.6328125,177876.390625
+2015-09-05,N.W.A,N.W.A,organization,timesfm-univariate,79101.0,63483.99609375,15826.375,177951.9375
+2015-09-06,N.W.A,N.W.A,organization,timesfm-univariate,82931.0,61860.6484375,13943.97265625,179313.625
+2015-09-07,N.W.A,N.W.A,organization,timesfm-univariate,78812.0,61697.7890625,13403.265625,183002.4375
+2015-09-08,N.W.A,N.W.A,organization,timesfm-univariate,62640.0,61296.68359375,14207.50390625,183429.125
+2015-09-09,N.W.A,N.W.A,organization,timesfm-univariate,51896.0,61872.859375,13531.01953125,188044.03125
+2015-09-10,N.W.A,N.W.A,organization,timesfm-univariate,49970.0,62369.65625,11262.55859375,192988.9375
+2015-09-11,N.W.A,N.W.A,organization,timesfm-univariate,44916.0,60822.2109375,11810.7734375,190046.59375
+2015-09-12,N.W.A,N.W.A,organization,timesfm-univariate,50332.0,58166.68359375,12093.07421875,185129.640625
+2015-09-13,N.W.A,N.W.A,organization,timesfm-univariate,53538.0,54874.34765625,11425.01953125,179740.53125
+2015-09-14,N.W.A,N.W.A,organization,timesfm-univariate,40056.0,51516.08203125,8149.8203125,174751.15625
+2015-09-15,N.W.A,N.W.A,organization,timesfm-univariate,33627.0,49270.77734375,7829.71484375,171853.8125
+2015-09-16,N.W.A,N.W.A,organization,timesfm-univariate,33555.0,48148.41796875,7360.6171875,169214.015625
+2015-09-17,N.W.A,N.W.A,organization,timesfm-univariate,29403.0,47628.58203125,8277.96484375,167903.484375
+2015-09-18,N.W.A,N.W.A,organization,timesfm-univariate,29560.0,46593.65625,7473.8125,166965.84375
+2015-09-19,N.W.A,N.W.A,organization,timesfm-univariate,33672.0,47012.765625,8297.10546875,167676.28125
+2015-09-20,N.W.A,N.W.A,organization,timesfm-univariate,34679.0,45285.1484375,9294.6796875,165251.453125
+2015-08-22,Dr._Dre,Dr. Dre,person,timesfm-univariate,129060.0,103263.9296875,77679.8125,141968.0625
+2015-08-23,Dr._Dre,Dr. Dre,person,timesfm-univariate,125083.0,98582.28125,63527.5703125,155775.8125
+2015-08-24,Dr._Dre,Dr. Dre,person,timesfm-univariate,103130.0,94203.625,52098.8125,165277.65625
+2015-08-25,Dr._Dre,Dr. Dre,person,timesfm-univariate,73319.0,93874.9375,47247.46875,174778.0625
+2015-08-26,Dr._Dre,Dr. Dre,person,timesfm-univariate,71254.0,91683.8671875,42794.3125,180655.9375
+2015-08-27,Dr._Dre,Dr. Dre,person,timesfm-univariate,60987.0,88056.28125,38443.25390625,184397.625
+2015-08-28,Dr._Dre,Dr. Dre,person,timesfm-univariate,66698.0,80116.1875,30568.6328125,182679.96875
+2015-08-29,Dr._Dre,Dr. Dre,person,timesfm-univariate,97752.0,75026.0,26936.01171875,182390.0625
+2015-08-30,Dr._Dre,Dr. Dre,person,timesfm-univariate,121445.0,71388.203125,24303.927734375,184133.6875
+2015-08-31,Dr._Dre,Dr. Dre,person,timesfm-univariate,111702.0,66875.2109375,21696.025390625,182543.84375
+2015-09-01,Dr._Dre,Dr. Dre,person,timesfm-univariate,79221.0,63544.5546875,20185.873046875,181153.09375
+2015-09-02,Dr._Dre,Dr. Dre,person,timesfm-univariate,77900.0,60510.17578125,18773.408203125,180175.4375
+2015-09-03,Dr._Dre,Dr. Dre,person,timesfm-univariate,72732.0,56911.4140625,19824.6953125,172926.0625
+2015-09-04,Dr._Dre,Dr. Dre,person,timesfm-univariate,72528.0,54302.046875,15709.5390625,176686.03125
+2015-09-05,Dr._Dre,Dr. Dre,person,timesfm-univariate,91651.0,52442.31640625,16903.654296875,173479.15625
+2015-09-06,Dr._Dre,Dr. Dre,person,timesfm-univariate,101402.0,51004.5546875,14507.7109375,174684.8125
+2015-09-07,Dr._Dre,Dr. Dre,person,timesfm-univariate,100313.0,49787.4921875,13700.765625,176587.34375
+2015-09-08,Dr._Dre,Dr. Dre,person,timesfm-univariate,76898.0,47244.7890625,14423.171875,172033.15625
+2015-09-09,Dr._Dre,Dr. Dre,person,timesfm-univariate,59687.0,47960.5859375,13954.77734375,175593.515625
+2015-09-10,Dr._Dre,Dr. Dre,person,timesfm-univariate,51243.0,47761.8359375,12294.47265625,177723.109375
+2015-09-11,Dr._Dre,Dr. Dre,person,timesfm-univariate,49947.0,44116.703125,7500.81640625,174666.9375
+2015-09-12,Dr._Dre,Dr. Dre,person,timesfm-univariate,60323.0,39313.2421875,8956.27734375,163461.21875
+2015-09-13,Dr._Dre,Dr. Dre,person,timesfm-univariate,67617.0,36078.50390625,7175.57421875,158171.5
+2015-09-14,Dr._Dre,Dr. Dre,person,timesfm-univariate,48657.0,35843.9296875,6749.171875,154925.75
+2015-09-15,Dr._Dre,Dr. Dre,person,timesfm-univariate,38643.0,34587.68359375,7294.06640625,152860.59375
+2015-09-16,Dr._Dre,Dr. Dre,person,timesfm-univariate,37221.0,33349.73828125,8174.09765625,146899.890625
+2015-09-17,Dr._Dre,Dr. Dre,person,timesfm-univariate,33639.0,33949.5546875,9430.7578125,146117.59375
+2015-09-18,Dr._Dre,Dr. Dre,person,timesfm-univariate,34885.0,33670.0078125,7458.046875,143588.90625
+2015-09-19,Dr._Dre,Dr. Dre,person,timesfm-univariate,41720.0,33966.4140625,9053.7265625,142313.59375
+2015-09-20,Dr._Dre,Dr. Dre,person,timesfm-univariate,45491.0,31755.009765625,8455.09765625,139725.03125
+2015-08-22,Ice_Cube,Ice Cube,person,timesfm-univariate,110586.0,89458.234375,67728.390625,125820.328125
+2015-08-23,Ice_Cube,Ice Cube,person,timesfm-univariate,127183.0,84313.328125,54711.75390625,135579.390625
+2015-08-24,Ice_Cube,Ice Cube,person,timesfm-univariate,101470.0,81749.7890625,47311.43359375,142939.84375
+2015-08-25,Ice_Cube,Ice Cube,person,timesfm-univariate,70640.0,81858.0625,43676.39453125,150568.234375
+2015-08-26,Ice_Cube,Ice Cube,person,timesfm-univariate,73433.0,82223.015625,41760.47265625,156445.859375
+2015-08-27,Ice_Cube,Ice Cube,person,timesfm-univariate,57944.0,82888.421875,40963.40234375,162894.828125
+2015-08-28,Ice_Cube,Ice Cube,person,timesfm-univariate,63637.0,79793.953125,37106.75390625,164422.671875
+2015-08-29,Ice_Cube,Ice Cube,person,timesfm-univariate,89595.0,77803.8984375,35026.2109375,165941.71875
+2015-08-30,Ice_Cube,Ice Cube,person,timesfm-univariate,111275.0,76522.625,34043.890625,169465.390625
+2015-08-31,Ice_Cube,Ice Cube,person,timesfm-univariate,110847.0,73806.5234375,31486.068359375,170412.71875
+2015-09-01,Ice_Cube,Ice Cube,person,timesfm-univariate,74143.0,72286.671875,30333.3984375,171906.375
+2015-09-02,Ice_Cube,Ice Cube,person,timesfm-univariate,71652.0,69428.484375,27703.775390625,172730.40625
+2015-09-03,Ice_Cube,Ice Cube,person,timesfm-univariate,69837.0,67294.890625,25325.65625,172540.4375
+2015-09-04,Ice_Cube,Ice Cube,person,timesfm-univariate,67347.0,66340.953125,24728.61328125,175734.296875
+2015-09-05,Ice_Cube,Ice Cube,person,timesfm-univariate,84739.0,66180.7109375,24539.525390625,177511.953125
+2015-09-06,Ice_Cube,Ice Cube,person,timesfm-univariate,93506.0,64039.89453125,21243.7265625,178438.40625
+2015-09-07,Ice_Cube,Ice Cube,person,timesfm-univariate,90243.0,63574.36328125,20832.7109375,181848.609375
+2015-09-08,Ice_Cube,Ice Cube,person,timesfm-univariate,69224.0,63450.9453125,22566.53515625,180842.625
+2015-09-09,Ice_Cube,Ice Cube,person,timesfm-univariate,58976.0,66455.25,22753.85546875,188243.921875
+2015-09-10,Ice_Cube,Ice Cube,person,timesfm-univariate,50956.0,62972.66796875,18703.580078125,186396.359375
+2015-09-11,Ice_Cube,Ice Cube,person,timesfm-univariate,46122.0,59713.11328125,12047.923828125,186537.125
+2015-09-12,Ice_Cube,Ice Cube,person,timesfm-univariate,57626.0,54353.875,12326.1015625,175538.640625
+2015-09-13,Ice_Cube,Ice Cube,person,timesfm-univariate,60640.0,50014.3125,11022.60546875,168373.1875
+2015-09-14,Ice_Cube,Ice Cube,person,timesfm-univariate,44249.0,48731.15625,8081.00390625,165736.890625
+2015-09-15,Ice_Cube,Ice Cube,person,timesfm-univariate,35762.0,46020.3203125,7587.3984375,162317.640625
+2015-09-16,Ice_Cube,Ice Cube,person,timesfm-univariate,35420.0,44458.3203125,6227.8515625,158751.28125
+2015-09-17,Ice_Cube,Ice Cube,person,timesfm-univariate,33117.0,43552.91015625,7435.89453125,154970.34375
+2015-09-18,Ice_Cube,Ice Cube,person,timesfm-univariate,33575.0,41778.65234375,6246.609375,150540.453125
+2015-09-19,Ice_Cube,Ice Cube,person,timesfm-univariate,39353.0,42529.8125,7593.5859375,150554.4375
+2015-09-20,Ice_Cube,Ice Cube,person,timesfm-univariate,41130.0,41249.3203125,7375.07421875,150418.171875
+2015-08-22,Eazy-E,Eazy-E,person,timesfm-univariate,154545.0,125405.734375,103775.234375,159992.234375
+2015-08-23,Eazy-E,Eazy-E,person,timesfm-univariate,170086.0,112676.4765625,78658.109375,169034.109375
+2015-08-24,Eazy-E,Eazy-E,person,timesfm-univariate,136577.0,102339.4921875,59460.62890625,175806.046875
+2015-08-25,Eazy-E,Eazy-E,person,timesfm-univariate,96459.0,97836.3984375,48256.828125,184711.640625
+2015-08-26,Eazy-E,Eazy-E,person,timesfm-univariate,113385.0,92387.703125,38668.5390625,189803.734375
+2015-08-27,Eazy-E,Eazy-E,person,timesfm-univariate,83498.0,86962.3046875,31585.9140625,194147.109375
+2015-08-28,Eazy-E,Eazy-E,person,timesfm-univariate,90925.0,82054.3046875,26636.1796875,197974.75
+2015-08-29,Eazy-E,Eazy-E,person,timesfm-univariate,139080.0,76956.1640625,22611.359375,198054.03125
+2015-08-30,Eazy-E,Eazy-E,person,timesfm-univariate,165332.0,72208.609375,19318.02734375,199239.09375
+2015-08-31,Eazy-E,Eazy-E,person,timesfm-univariate,148187.0,69790.6640625,19553.72265625,200846.46875
+2015-09-01,Eazy-E,Eazy-E,person,timesfm-univariate,107735.0,66088.7265625,17222.01171875,200132.0
+2015-09-02,Eazy-E,Eazy-E,person,timesfm-univariate,103792.0,63488.66015625,15414.203125,200817.515625
+2015-09-03,Eazy-E,Eazy-E,person,timesfm-univariate,97940.0,60634.98046875,16249.796875,196141.046875
+2015-09-04,Eazy-E,Eazy-E,person,timesfm-univariate,97746.0,57213.9921875,11420.15234375,198919.296875
+2015-09-05,Eazy-E,Eazy-E,person,timesfm-univariate,122248.0,55394.9453125,9279.55078125,198732.625
+2015-09-06,Eazy-E,Eazy-E,person,timesfm-univariate,136861.0,53335.359375,7751.0625,199264.125
+2015-09-07,Eazy-E,Eazy-E,person,timesfm-univariate,164902.0,50563.53125,5803.2265625,200707.375
+2015-09-08,Eazy-E,Eazy-E,person,timesfm-univariate,121451.0,49330.78515625,4427.13671875,202392.265625
+2015-09-09,Eazy-E,Eazy-E,person,timesfm-univariate,83020.0,49369.734375,4060.6953125,206062.0625
+2015-09-10,Eazy-E,Eazy-E,person,timesfm-univariate,67326.0,50545.01953125,7448.31640625,206515.3125
+2015-09-11,Eazy-E,Eazy-E,person,timesfm-univariate,63697.0,50196.0703125,6254.6875,208094.921875
+2015-09-12,Eazy-E,Eazy-E,person,timesfm-univariate,79462.0,49357.71875,6025.640625,207855.828125
+2015-09-13,Eazy-E,Eazy-E,person,timesfm-univariate,89406.0,47111.6796875,8433.75390625,201769.765625
+2015-09-14,Eazy-E,Eazy-E,person,timesfm-univariate,63749.0,45900.6875,5382.96875,200882.09375
+2015-09-15,Eazy-E,Eazy-E,person,timesfm-univariate,50734.0,44229.7109375,5966.125,197587.84375
+2015-09-16,Eazy-E,Eazy-E,person,timesfm-univariate,46705.0,43032.609375,5851.80078125,195119.21875
+2015-09-17,Eazy-E,Eazy-E,person,timesfm-univariate,41781.0,40705.0078125,6737.37109375,189597.171875
+2015-09-18,Eazy-E,Eazy-E,person,timesfm-univariate,42040.0,39770.875,5807.0703125,187443.859375
+2015-09-19,Eazy-E,Eazy-E,person,timesfm-univariate,52781.0,38087.33984375,5713.59765625,184157.328125
+2015-09-20,Eazy-E,Eazy-E,person,timesfm-univariate,57764.0,37138.1640625,7494.72265625,182437.828125
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,122703.0,88558.46057743495,,
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,131174.0,73604.25678304408,,
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,123080.0,62333.69459308713,,
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,84530.0,53839.389324535594,,
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,84563.0,47437.47069978087,,
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,73614.0,42612.5249529263,,
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,80256.0,38976.09924609665,,
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,100597.0,36235.42761680169,,
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,117183.0,34169.86060534999,,
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,117673.0,32613.100928928965,,
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,82672.0,31439.815009520706,,
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,78331.0,30555.54245960055,,
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,73319.0,29889.09114572417,,
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,71834.0,29386.80556215872,,
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,83947.0,29008.247065529387,,
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,91329.0,28722.93818934583,,
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,86748.0,28507.90892556252,,
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,70698.0,28345.847426103785,,
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,56131.0,28223.706238691822,,
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,49525.0,28131.651866047923,,
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,48171.0,28062.273078249826,,
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,55197.0,28009.984240054662,,
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,58855.0,27970.57561550856,,
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,44577.0,27940.87444519723,,
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,36610.0,27918.48950971615,,
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,34541.0,27901.618614352778,,
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,30673.0,27888.90349571407,,
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,32293.0,27879.320468938415,,
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,36689.0,27872.098011579397,,
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,exponential-decay,39412.0,27866.654648900356,,
+2015-08-22,N.W.A,N.W.A,organization,exponential-decay,103133.0,84159.70741017055,,
+2015-08-23,N.W.A,N.W.A,organization,exponential-decay,106733.0,73330.58347974076,,
+2015-08-24,N.W.A,N.W.A,organization,exponential-decay,91197.0,65365.45923372322,,
+2015-08-25,N.W.A,N.W.A,organization,exponential-decay,67750.0,59506.88704800639,,
+2015-08-26,N.W.A,N.W.A,organization,exponential-decay,73978.0,55197.74295996332,,
+2015-08-27,N.W.A,N.W.A,organization,exponential-decay,59198.0,52028.24667607579,,
+2015-08-28,N.W.A,N.W.A,organization,exponential-decay,70013.0,49696.993302244184,,
+2015-08-29,N.W.A,N.W.A,organization,exponential-decay,94183.0,47982.29108895265,,
+2015-08-30,N.W.A,N.W.A,organization,exponential-decay,109179.0,46721.0795392898,,
+2015-08-31,N.W.A,N.W.A,organization,exponential-decay,100822.0,45793.4230863658,,
+2015-09-01,N.W.A,N.W.A,organization,exponential-decay,72581.0,45111.10575833183,,
+2015-09-02,N.W.A,N.W.A,organization,exponential-decay,71979.0,44609.24223475264,,
+2015-09-03,N.W.A,N.W.A,organization,exponential-decay,70747.0,44240.10754338396,,
+2015-09-04,N.W.A,N.W.A,organization,exponential-decay,67151.0,43968.598629167456,,
+2015-09-05,N.W.A,N.W.A,organization,exponential-decay,79101.0,43768.896210991334,,
+2015-09-06,N.W.A,N.W.A,organization,exponential-decay,82931.0,43622.009483752656,,
+2015-09-07,N.W.A,N.W.A,organization,exponential-decay,78812.0,43513.97017788975,,
+2015-09-08,N.W.A,N.W.A,organization,exponential-decay,62640.0,43434.504239538684,,
+2015-09-09,N.W.A,N.W.A,organization,exponential-decay,51896.0,43376.05481404878,,
+2015-09-10,N.W.A,N.W.A,organization,exponential-decay,49970.0,43333.06362296756,,
+2015-09-11,N.W.A,N.W.A,organization,exponential-decay,44916.0,43301.442396666505,,
+2015-09-12,N.W.A,N.W.A,organization,exponential-decay,50332.0,43278.18409821896,,
+2015-09-13,N.W.A,N.W.A,organization,exponential-decay,53538.0,43261.076967662906,,
+2015-09-14,N.W.A,N.W.A,organization,exponential-decay,40056.0,43248.494193539416,,
+2015-09-15,N.W.A,N.W.A,organization,exponential-decay,33627.0,43239.23921041271,,
+2015-09-16,N.W.A,N.W.A,organization,exponential-decay,33555.0,43232.43191085897,,
+2015-09-17,N.W.A,N.W.A,organization,exponential-decay,29403.0,43227.42495119411,,
+2015-09-18,N.W.A,N.W.A,organization,exponential-decay,29560.0,43223.742191990175,,
+2015-09-19,N.W.A,N.W.A,organization,exponential-decay,33672.0,43221.03341934928,,
+2015-09-20,N.W.A,N.W.A,organization,exponential-decay,34679.0,43219.04104113129,,
+2015-08-22,Dr._Dre,Dr. Dre,person,exponential-decay,129060.0,90073.67808421924,,
+2015-08-23,Dr._Dre,Dr. Dre,person,exponential-decay,125083.0,77324.05353022076,,
+2015-08-24,Dr._Dre,Dr. Dre,person,exponential-decay,103130.0,66978.51827796824,,
+2015-08-25,Dr._Dre,Dr. Dre,person,exponential-decay,73319.0,58583.7534594204,,
+2015-08-26,Dr._Dre,Dr. Dre,person,exponential-decay,71254.0,51771.918726811135,,
+2015-08-27,Dr._Dre,Dr. Dre,person,exponential-decay,60987.0,46244.534288135525,,
+2015-08-28,Dr._Dre,Dr. Dre,person,exponential-decay,66698.0,41759.40217143048,,
+2015-08-29,Dr._Dre,Dr. Dre,person,exponential-decay,97752.0,38119.9936360764,,
+2015-08-30,Dr._Dre,Dr. Dre,person,exponential-decay,121445.0,35166.837710551816,,
+2015-08-31,Dr._Dre,Dr. Dre,person,exponential-decay,111702.0,32770.533521082085,,
+2015-09-01,Dr._Dre,Dr. Dre,person,exponential-decay,79221.0,30826.080226611964,,
+2015-09-02,Dr._Dre,Dr. Dre,person,exponential-decay,77900.0,29248.27611017699,,
+2015-09-03,Dr._Dre,Dr. Dre,person,exponential-decay,72732.0,27967.985224857723,,
+2015-09-04,Dr._Dre,Dr. Dre,person,exponential-decay,72528.0,26929.108006857285,,
+2015-09-05,Dr._Dre,Dr. Dre,person,exponential-decay,91651.0,26086.123114551967,,
+2015-09-06,Dr._Dre,Dr. Dre,person,exponential-decay,101402.0,25402.092782244985,,
+2015-09-07,Dr._Dre,Dr. Dre,person,exponential-decay,100313.0,24847.04428756029,,
+2015-09-08,Dr._Dre,Dr. Dre,person,exponential-decay,76898.0,24396.656611895807,,
+2015-09-09,Dr._Dre,Dr. Dre,person,exponential-decay,59687.0,24031.19474625164,,
+2015-09-10,Dr._Dre,Dr. Dre,person,exponential-decay,51243.0,23734.644946031058,,
+2015-09-11,Dr._Dre,Dr. Dre,person,exponential-decay,49947.0,23494.013043559204,,
+2015-09-12,Dr._Dre,Dr. Dre,person,exponential-decay,60323.0,23298.755071899293,,
+2015-09-13,Dr._Dre,Dr. Dre,person,exponential-decay,67617.0,23140.315251139444,,
+2015-09-14,Dr._Dre,Dr. Dre,person,exponential-decay,48657.0,23011.751092713497,,
+2015-09-15,Dr._Dre,Dr. Dre,person,exponential-decay,38643.0,22907.429194642024,,
+2015-09-16,Dr._Dre,Dr. Dre,person,exponential-decay,37221.0,22822.778398102146,,
+2015-09-17,Dr._Dre,Dr. Dre,person,exponential-decay,33639.0,22754.089489183654,,
+2015-09-18,Dr._Dre,Dr. Dre,person,exponential-decay,34885.0,22698.35266919768,,
+2015-09-19,Dr._Dre,Dr. Dre,person,exponential-decay,41720.0,22653.12567184014,,
+2015-09-20,Dr._Dre,Dr. Dre,person,exponential-decay,45491.0,22616.42674839072,,
+2015-08-22,Ice_Cube,Ice Cube,person,exponential-decay,110586.0,79946.79432535308,,
+2015-08-23,Ice_Cube,Ice Cube,person,exponential-decay,127183.0,67946.83937552654,,
+2015-08-24,Ice_Cube,Ice Cube,person,exponential-decay,101470.0,58462.246292385775,,
+2015-08-25,Ice_Cube,Ice Cube,person,exponential-decay,70640.0,50965.7593198192,,
+2015-08-26,Ice_Cube,Ice Cube,person,exponential-decay,73433.0,45040.64303520455,,
+2015-08-27,Ice_Cube,Ice Cube,person,exponential-decay,57944.0,40357.51570974128,,
+2015-08-28,Ice_Cube,Ice Cube,person,exponential-decay,63637.0,36656.038727179955,,
+2015-08-29,Ice_Cube,Ice Cube,person,exponential-decay,89595.0,33730.44416178425,,
+2015-08-30,Ice_Cube,Ice Cube,person,exponential-decay,111275.0,31418.09598255818,,
+2015-08-31,Ice_Cube,Ice Cube,person,exponential-decay,110847.0,29590.44899236532,,
+2015-09-01,Ice_Cube,Ice Cube,person,exponential-decay,74143.0,28145.902902477144,,
+2015-09-02,Ice_Cube,Ice Cube,person,exponential-decay,71652.0,27004.15429511012,,
+2015-09-03,Ice_Cube,Ice Cube,person,exponential-decay,69837.0,26101.732495245345,,
+2015-09-04,Ice_Cube,Ice Cube,person,exponential-decay,67347.0,25388.4711874438,,
+2015-09-05,Ice_Cube,Ice Cube,person,exponential-decay,84739.0,24824.719632147822,,
+2015-09-06,Ice_Cube,Ice Cube,person,exponential-decay,93506.0,24379.138450857856,,
+2015-09-07,Ice_Cube,Ice Cube,person,exponential-decay,90243.0,24026.957446203207,,
+2015-09-08,Ice_Cube,Ice Cube,person,exponential-decay,69224.0,23748.598607796957,,
+2015-09-09,Ice_Cube,Ice Cube,person,exponential-decay,58976.0,23528.58775572145,,
+2015-09-10,Ice_Cube,Ice Cube,person,exponential-decay,50956.0,23354.694319076392,,
+2015-09-11,Ice_Cube,Ice Cube,person,exponential-decay,46122.0,23217.251429223616,,
+2015-09-12,Ice_Cube,Ice Cube,person,exponential-decay,57626.0,23108.618531194,,
+2015-09-13,Ice_Cube,Ice Cube,person,exponential-decay,60640.0,23022.756639415136,,
+2015-09-14,Ice_Cube,Ice Cube,person,exponential-decay,44249.0,22954.89262590207,,
+2015-09-15,Ice_Cube,Ice Cube,person,exponential-decay,35762.0,22901.25387843582,,
+2015-09-16,Ice_Cube,Ice Cube,person,exponential-decay,35420.0,22858.858578175616,,
+2015-09-17,Ice_Cube,Ice Cube,person,exponential-decay,33117.0,22825.34993807765,,
+2015-09-18,Ice_Cube,Ice Cube,person,exponential-decay,33575.0,22798.865187307547,,
+2015-09-19,Ice_Cube,Ice Cube,person,exponential-decay,39353.0,22777.9320183904,,
+2015-09-20,Ice_Cube,Ice Cube,person,exponential-decay,41130.0,22761.386740516453,,
+2015-08-22,Eazy-E,Eazy-E,person,exponential-decay,154545.0,117937.64708518054,,
+2015-08-23,Eazy-E,Eazy-E,person,exponential-decay,170086.0,98715.05800797054,,
+2015-08-24,Eazy-E,Eazy-E,person,exponential-decay,136577.0,84159.52601900772,,
+2015-08-25,Eazy-E,Eazy-E,person,exponential-decay,96459.0,73137.93519007503,,
+2015-08-26,Eazy-E,Eazy-E,person,exponential-decay,113385.0,64792.27908540454,,
+2015-08-27,Eazy-E,Eazy-E,person,exponential-decay,83498.0,58472.86686093824,,
+2015-08-28,Eazy-E,Eazy-E,person,exponential-decay,90925.0,53687.74627103213,,
+2015-08-29,Eazy-E,Eazy-E,person,exponential-decay,139080.0,50064.40627569305,,
+2015-08-30,Eazy-E,Eazy-E,person,exponential-decay,165332.0,47320.777881140646,,
+2015-08-31,Eazy-E,Eazy-E,person,exponential-decay,148187.0,45243.27569335884,,
+2015-09-01,Eazy-E,Eazy-E,person,exponential-decay,107735.0,43670.17076821381,,
+2015-09-02,Eazy-E,Eazy-E,person,exponential-decay,103792.0,42479.00037134515,,
+2015-09-03,Eazy-E,Eazy-E,person,exponential-decay,97940.0,41577.03452552248,,
+2015-09-04,Eazy-E,Eazy-E,person,exponential-decay,97746.0,40894.05718729342,,
+2015-09-05,Eazy-E,Eazy-E,person,exponential-decay,122248.0,40376.90008351308,,
+2015-09-06,Eazy-E,Eazy-E,person,exponential-decay,136861.0,39985.303679035045,,
+2015-09-07,Eazy-E,Eazy-E,person,exponential-decay,164902.0,39688.78306106581,,
+2015-09-08,Eazy-E,Eazy-E,person,exponential-decay,121451.0,39464.254756220806,,
+2015-09-09,Eazy-E,Eazy-E,person,exponential-decay,83020.0,39294.23973324589,,
+2015-09-10,Eazy-E,Eazy-E,person,exponential-decay,67326.0,39165.50269914629,,
+2015-09-11,Eazy-E,Eazy-E,person,exponential-decay,63697.0,39068.02176093996,,
+2015-09-12,Eazy-E,Eazy-E,person,exponential-decay,79462.0,38994.208243485205,,
+2015-09-13,Eazy-E,Eazy-E,person,exponential-decay,89406.0,38938.315927927964,,
+2015-09-14,Eazy-E,Eazy-E,person,exponential-decay,63749.0,38895.993721290615,,
+2015-09-15,Eazy-E,Eazy-E,person,exponential-decay,50734.0,38863.94693352029,,
+2015-09-16,Eazy-E,Eazy-E,person,exponential-decay,46705.0,38839.68079316527,,
+2015-09-17,Eazy-E,Eazy-E,person,exponential-decay,41781.0,38821.306234942786,,
+2015-09-18,Eazy-E,Eazy-E,person,exponential-decay,42040.0,38807.39284019059,,
+2015-09-19,Eazy-E,Eazy-E,person,exponential-decay,52781.0,38796.85748194216,,
+2015-09-20,Eazy-E,Eazy-E,person,exponential-decay,57764.0,38788.880005891246,,
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,122703.0,106575.62190726958,,
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,131174.0,98463.887770168,,
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,123080.0,92115.97797237206,,
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,84530.0,86992.11121542062,,
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,84563.0,82755.8121447405,,
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,73614.0,79185.6258932146,,
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,80256.0,76129.39779360223,,
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,100597.0,73478.87548340869,,
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,117183.0,71154.78305302435,,
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,117673.0,69097.63411919624,,
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,82672.0,67261.85398036876,,
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,78331.0,65611.89310447601,,
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,73319.0,64119.58345386017,,
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,71834.0,62762.295311250855,,
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,83947.0,61521.624072263374,,
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,91329.0,60382.436498226336,,
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,86748.0,59332.16607804525,,
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,70698.0,58360.28437437452,,
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,56131.0,57457.89886243694,,
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,49525.0,56617.44312075668,,
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,48171.0,55832.43541261643,,
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,55197.0,55097.28857514559,,
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,58855.0,54407.15886049479,,
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,44577.0,53757.82467421549,,
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,36610.0,53145.58849381089,,
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,34541.0,52567.196928428486,,
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,30673.0,52019.77509993967,,
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,32293.0,51500.77242175664,,
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,36689.0,51007.917517348105,,
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,power-law-decay,39412.0,50539.18051973336,,
+2015-08-22,N.W.A,N.W.A,organization,power-law-decay,103133.0,98554.1879728321,,
+2015-08-23,N.W.A,N.W.A,organization,power-law-decay,106733.0,92561.7118531825,,
+2015-08-24,N.W.A,N.W.A,organization,power-law-decay,91197.0,87897.90416521791,,
+2015-08-25,N.W.A,N.W.A,organization,power-law-decay,67750.0,84151.38954177506,,
+2015-08-26,N.W.A,N.W.A,organization,power-law-decay,73978.0,81066.99545595475,,
+2015-08-27,N.W.A,N.W.A,organization,power-law-decay,59198.0,78477.50574965283,,
+2015-08-28,N.W.A,N.W.A,organization,power-law-decay,70013.0,76268.47761165815,,
+2015-08-29,N.W.A,N.W.A,organization,power-law-decay,94183.0,74358.77561728818,,
+2015-08-30,N.W.A,N.W.A,organization,power-law-decay,109179.0,72689.1732836986,,
+2015-08-31,N.W.A,N.W.A,organization,power-law-decay,100822.0,71215.36034020234,,
+2015-09-01,N.W.A,N.W.A,organization,power-law-decay,72581.0,69903.48224230012,,
+2015-09-02,N.W.A,N.W.A,organization,power-law-decay,71979.0,68727.19906404274,,
+2015-09-03,N.W.A,N.W.A,organization,power-law-decay,70747.0,67665.69009449655,,
+2015-09-04,N.W.A,N.W.A,organization,power-law-decay,67151.0,66702.26601372135,,
+2015-09-05,N.W.A,N.W.A,organization,power-law-decay,79101.0,65823.38236058524,,
+2015-09-06,N.W.A,N.W.A,organization,power-law-decay,82931.0,65017.92457907072,,
+2015-09-07,N.W.A,N.W.A,organization,power-law-decay,78812.0,64276.680875604594,,
+2015-09-08,N.W.A,N.W.A,organization,power-law-decay,62640.0,63591.94749268985,,
+2015-09-09,N.W.A,N.W.A,organization,power-law-decay,51896.0,62957.228980088126,,
+2015-09-10,N.W.A,N.W.A,organization,power-law-decay,49970.0,62367.00769882892,,
+2015-09-11,N.W.A,N.W.A,organization,power-law-decay,44916.0,61816.56450732578,,
+2015-09-12,N.W.A,N.W.A,organization,power-law-decay,50332.0,61301.83778203856,,
+2015-09-13,N.W.A,N.W.A,organization,power-law-decay,53538.0,60819.31149550437,,
+2015-09-14,N.W.A,N.W.A,organization,power-law-decay,40056.0,60365.9255633714,,
+2015-09-15,N.W.A,N.W.A,organization,power-law-decay,33627.0,59939.0034322046,,
+2015-09-16,N.W.A,N.W.A,organization,power-law-decay,33555.0,59536.193141334195,,
+2015-09-17,N.W.A,N.W.A,organization,power-law-decay,29403.0,59155.41900736565,,
+2015-09-18,N.W.A,N.W.A,organization,power-law-decay,29560.0,58794.84175179106,,
+2015-09-19,N.W.A,N.W.A,organization,power-law-decay,33672.0,58452.82539050719,,
+2015-09-20,N.W.A,N.W.A,organization,power-law-decay,34679.0,58127.90957742984,,
+2015-08-22,Dr._Dre,Dr. Dre,person,power-law-decay,129060.0,104812.1018975621,,
+2015-08-23,Dr._Dre,Dr. Dre,person,power-law-decay,125083.0,98526.93993014036,,
+2015-08-24,Dr._Dre,Dr. Dre,person,power-law-decay,103130.0,93471.56050808376,,
+2015-08-25,Dr._Dre,Dr. Dre,person,power-law-decay,73319.0,89292.01532362116,,
+2015-08-26,Dr._Dre,Dr. Dre,person,power-law-decay,71254.0,85762.16589362294,,
+2015-08-27,Dr._Dre,Dr. Dre,person,power-law-decay,60987.0,82729.9060703952,,
+2015-08-28,Dr._Dre,Dr. Dre,person,power-law-decay,66698.0,80088.67473780636,,
+2015-08-29,Dr._Dre,Dr. Dre,person,power-law-decay,97752.0,77761.30962667576,,
+2015-08-30,Dr._Dre,Dr. Dre,person,power-law-decay,121445.0,75690.38523872069,,
+2015-08-31,Dr._Dre,Dr. Dre,person,power-law-decay,111702.0,73832.16705351217,,
+2015-09-01,Dr._Dre,Dr. Dre,person,power-law-decay,79221.0,72152.68448555346,,
+2015-09-02,Dr._Dre,Dr. Dre,person,power-law-decay,77900.0,70625.09773033099,,
+2015-09-03,Dr._Dre,Dr. Dre,person,power-law-decay,72732.0,69227.88321693687,,
+2015-09-04,Dr._Dre,Dr. Dre,person,power-law-decay,72528.0,67943.55304027977,,
+2015-09-05,Dr._Dre,Dr. Dre,person,power-law-decay,91651.0,66757.73212746812,,
+2015-09-06,Dr._Dre,Dr. Dre,person,power-law-decay,101402.0,65658.48076383582,,
+2015-09-07,Dr._Dre,Dr. Dre,person,power-law-decay,100313.0,64635.788952712865,,
+2015-09-08,Dr._Dre,Dr. Dre,person,power-law-decay,76898.0,63681.19338243776,,
+2015-09-09,Dr._Dre,Dr. Dre,person,power-law-decay,59687.0,62787.4833569309,,
+2015-09-10,Dr._Dre,Dr. Dre,person,power-law-decay,51243.0,61948.472265342105,,
+2015-09-11,Dr._Dre,Dr. Dre,person,power-law-decay,49947.0,61158.81800480734,,
+2015-09-12,Dr._Dre,Dr. Dre,person,power-law-decay,60323.0,60413.880431247315,,
+2015-09-13,Dr._Dre,Dr. Dre,person,power-law-decay,67617.0,59709.60714339183,,
+2015-09-14,Dr._Dre,Dr. Dre,person,power-law-decay,48657.0,59042.44117846762,,
+2015-09-15,Dr._Dre,Dr. Dre,person,power-law-decay,38643.0,58409.24582042575,,
+2015-09-16,Dr._Dre,Dr. Dre,person,power-law-decay,37221.0,57807.24289464876,,
+2015-09-17,Dr._Dre,Dr. Dre,person,power-law-decay,33639.0,57233.96178147201,,
+2015-09-18,Dr._Dre,Dr. Dre,person,power-law-decay,34885.0,56687.19701602419,,
+2015-09-19,Dr._Dre,Dr. Dre,person,power-law-decay,41720.0,56164.97281678612,,
+2015-09-20,Dr._Dre,Dr. Dre,person,power-law-decay,45491.0,55665.51324377357,,
+2015-08-22,Ice_Cube,Ice Cube,person,power-law-decay,110586.0,93982.3823865144,,
+2015-08-23,Ice_Cube,Ice Cube,person,power-law-decay,127183.0,87854.93308463233,,
+2015-08-24,Ice_Cube,Ice Cube,person,power-law-decay,101470.0,82974.51002100247,,
+2015-08-25,Ice_Cube,Ice Cube,person,power-law-decay,70640.0,78974.01872395299,,
+2015-08-26,Ice_Cube,Ice Cube,person,power-law-decay,73433.0,75620.97664385894,,
+2015-08-27,Ice_Cube,Ice Cube,person,power-law-decay,57944.0,72760.22016638727,,
+2015-08-28,Ice_Cube,Ice Cube,person,power-law-decay,63637.0,70283.79945067027,,
+2015-08-29,Ice_Cube,Ice Cube,person,power-law-decay,89595.0,68114.03734890219,,
+2015-08-30,Ice_Cube,Ice Cube,person,power-law-decay,111275.0,66193.45698356858,,
+2015-08-31,Ice_Cube,Ice Cube,person,power-law-decay,110847.0,64478.51616259432,,
+2015-09-01,Ice_Cube,Ice Cube,person,power-law-decay,74143.0,62935.5594913028,,
+2015-09-02,Ice_Cube,Ice Cube,person,power-law-decay,71652.0,61538.11770772834,,
+2015-09-03,Ice_Cube,Ice Cube,person,power-law-decay,69837.0,60265.05523489613,,
+2015-09-04,Ice_Cube,Ice Cube,person,power-law-decay,67347.0,59099.268528778295,,
+2015-09-05,Ice_Cube,Ice Cube,person,power-law-decay,84739.0,58026.751866155886,,
+2015-09-06,Ice_Cube,Ice Cube,person,power-law-decay,93506.0,57035.91414735032,,
+2015-09-07,Ice_Cube,Ice Cube,person,power-law-decay,90243.0,56117.07083391221,,
+2015-09-08,Ice_Cube,Ice Cube,person,power-law-decay,69224.0,55262.06040530428,,
+2015-09-09,Ice_Cube,Ice Cube,person,power-law-decay,58976.0,54463.95086165948,,
+2015-09-10,Ice_Cube,Ice Cube,person,power-law-decay,50956.0,53716.81235014512,,
+2015-09-11,Ice_Cube,Ice Cube,person,power-law-decay,46122.0,53015.5390297339,,
+2015-09-12,Ice_Cube,Ice Cube,person,power-law-decay,57626.0,52355.708070698536,,
+2015-09-13,Ice_Cube,Ice Cube,person,power-law-decay,60640.0,51733.46698918797,,
+2015-09-14,Ice_Cube,Ice Cube,person,power-law-decay,44249.0,51145.44283584808,,
+2015-09-15,Ice_Cube,Ice Cube,person,power-law-decay,35762.0,50588.668407754965,,
+2015-09-16,Ice_Cube,Ice Cube,person,power-law-decay,35420.0,50060.52184302989,,
+2015-09-17,Ice_Cube,Ice Cube,person,power-law-decay,33117.0,49558.676826177456,,
+2015-09-18,Ice_Cube,Ice Cube,person,power-law-decay,33575.0,49081.06127340806,,
+2015-09-19,Ice_Cube,Ice Cube,person,power-law-decay,39353.0,48625.822845500494,,
+2015-09-20,Ice_Cube,Ice Cube,person,power-law-decay,41130.0,48191.29999602323,,
+2015-08-22,Eazy-E,Eazy-E,person,power-law-decay,154545.0,144084.17835791892,,
+2015-08-23,Eazy-E,Eazy-E,person,power-law-decay,170086.0,133924.65480939514,,
+2015-08-24,Eazy-E,Eazy-E,person,power-law-decay,136577.0,125919.73486451058,,
+2015-08-25,Eazy-E,Eazy-E,person,power-law-decay,96459.0,119419.72180870728,,
+2015-08-26,Eazy-E,Eazy-E,person,power-law-decay,113385.0,114017.1324281022,,
+2015-08-27,Eazy-E,Eazy-E,person,power-law-decay,83498.0,109442.32219099483,,
+2015-08-28,Eazy-E,Eazy-E,person,power-law-decay,90925.0,105509.1272383538,,
+2015-08-29,Eazy-E,Eazy-E,person,power-law-decay,139080.0,102084.51668475287,,
+2015-08-30,Eazy-E,Eazy-E,person,power-law-decay,165332.0,99070.67733730227,,
+2015-08-31,Eazy-E,Eazy-E,person,power-law-decay,148187.0,96393.94146979104,,
+2015-09-01,Eazy-E,Eazy-E,person,power-law-decay,107735.0,93997.6760512767,,
+2015-09-02,Eazy-E,Eazy-E,person,power-law-decay,103792.0,91837.5646250732,,
+2015-09-03,Eazy-E,Eazy-E,person,power-law-decay,97940.0,89878.38756140944,,
+2015-09-04,Eazy-E,Eazy-E,person,power-law-decay,97746.0,88091.7704478091,,
+2015-09-05,Eazy-E,Eazy-E,person,power-law-decay,122248.0,86454.5753228883,,
+2015-09-06,Eazy-E,Eazy-E,person,power-law-decay,136861.0,84947.72914252855,,
+2015-09-07,Eazy-E,Eazy-E,person,power-law-decay,164902.0,83555.35604574873,,
+2015-09-08,Eazy-E,Eazy-E,person,power-law-decay,121451.0,82264.12477371172,,
+2015-09-09,Eazy-E,Eazy-E,person,power-law-decay,83020.0,81062.75109900125,,
+2015-09-10,Eazy-E,Eazy-E,person,power-law-decay,67326.0,79941.61368112877,,
+2015-09-11,Eazy-E,Eazy-E,person,power-law-decay,63697.0,78892.45409888498,,
+2015-09-12,Eazy-E,Eazy-E,person,power-law-decay,79462.0,77908.14016243935,,
+2015-09-13,Eazy-E,Eazy-E,person,power-law-decay,89406.0,76982.4773607339,,
+2015-09-14,Eazy-E,Eazy-E,person,power-law-decay,63749.0,76110.05732403396,,
+2015-09-15,Eazy-E,Eazy-E,person,power-law-decay,50734.0,75286.13503729661,,
+2015-09-16,Eazy-E,Eazy-E,person,power-law-decay,46705.0,74506.52859352948,,
+2015-09-17,Eazy-E,Eazy-E,person,power-law-decay,41781.0,73767.53677104543,,
+2015-09-18,Eazy-E,Eazy-E,person,power-law-decay,42040.0,73065.87081893638,,
+2015-09-19,Eazy-E,Eazy-E,person,power-law-decay,52781.0,72398.59765378525,,
+2015-09-20,Eazy-E,Eazy-E,person,power-law-decay,57764.0,71763.09228576598,,
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,122703.0,239100.0,,
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,131174.0,258339.0,,
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,123080.0,290671.0,,
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,84530.0,214884.0,,
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,84563.0,165173.0,,
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,73614.0,122324.0,,
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,80256.0,117774.0,,
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,100597.0,239100.0,,
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,117183.0,258339.0,,
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,117673.0,290671.0,,
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,82672.0,214884.0,,
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,78331.0,165173.0,,
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,73319.0,122324.0,,
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,71834.0,117774.0,,
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,83947.0,239100.0,,
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,91329.0,258339.0,,
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,86748.0,290671.0,,
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,70698.0,214884.0,,
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,56131.0,165173.0,,
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,49525.0,122324.0,,
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,48171.0,117774.0,,
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,55197.0,239100.0,,
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,58855.0,258339.0,,
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,44577.0,290671.0,,
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,36610.0,214884.0,,
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,34541.0,165173.0,,
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,30673.0,122324.0,,
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,32293.0,117774.0,,
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,36689.0,239100.0,,
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,seasonal-naive,39412.0,258339.0,,
+2015-08-22,N.W.A,N.W.A,organization,seasonal-naive,103133.0,211568.0,,
+2015-08-23,N.W.A,N.W.A,organization,seasonal-naive,106733.0,207368.0,,
+2015-08-24,N.W.A,N.W.A,organization,seasonal-naive,91197.0,231608.0,,
+2015-08-25,N.W.A,N.W.A,organization,seasonal-naive,67750.0,184138.0,,
+2015-08-26,N.W.A,N.W.A,organization,seasonal-naive,73978.0,153505.0,,
+2015-08-27,N.W.A,N.W.A,organization,seasonal-naive,59198.0,110179.0,,
+2015-08-28,N.W.A,N.W.A,organization,seasonal-naive,70013.0,102048.0,,
+2015-08-29,N.W.A,N.W.A,organization,seasonal-naive,94183.0,211568.0,,
+2015-08-30,N.W.A,N.W.A,organization,seasonal-naive,109179.0,207368.0,,
+2015-08-31,N.W.A,N.W.A,organization,seasonal-naive,100822.0,231608.0,,
+2015-09-01,N.W.A,N.W.A,organization,seasonal-naive,72581.0,184138.0,,
+2015-09-02,N.W.A,N.W.A,organization,seasonal-naive,71979.0,153505.0,,
+2015-09-03,N.W.A,N.W.A,organization,seasonal-naive,70747.0,110179.0,,
+2015-09-04,N.W.A,N.W.A,organization,seasonal-naive,67151.0,102048.0,,
+2015-09-05,N.W.A,N.W.A,organization,seasonal-naive,79101.0,211568.0,,
+2015-09-06,N.W.A,N.W.A,organization,seasonal-naive,82931.0,207368.0,,
+2015-09-07,N.W.A,N.W.A,organization,seasonal-naive,78812.0,231608.0,,
+2015-09-08,N.W.A,N.W.A,organization,seasonal-naive,62640.0,184138.0,,
+2015-09-09,N.W.A,N.W.A,organization,seasonal-naive,51896.0,153505.0,,
+2015-09-10,N.W.A,N.W.A,organization,seasonal-naive,49970.0,110179.0,,
+2015-09-11,N.W.A,N.W.A,organization,seasonal-naive,44916.0,102048.0,,
+2015-09-12,N.W.A,N.W.A,organization,seasonal-naive,50332.0,211568.0,,
+2015-09-13,N.W.A,N.W.A,organization,seasonal-naive,53538.0,207368.0,,
+2015-09-14,N.W.A,N.W.A,organization,seasonal-naive,40056.0,231608.0,,
+2015-09-15,N.W.A,N.W.A,organization,seasonal-naive,33627.0,184138.0,,
+2015-09-16,N.W.A,N.W.A,organization,seasonal-naive,33555.0,153505.0,,
+2015-09-17,N.W.A,N.W.A,organization,seasonal-naive,29403.0,110179.0,,
+2015-09-18,N.W.A,N.W.A,organization,seasonal-naive,29560.0,102048.0,,
+2015-09-19,N.W.A,N.W.A,organization,seasonal-naive,33672.0,211568.0,,
+2015-09-20,N.W.A,N.W.A,organization,seasonal-naive,34679.0,207368.0,,
+2015-08-22,Dr._Dre,Dr. Dre,person,seasonal-naive,129060.0,170383.0,,
+2015-08-23,Dr._Dre,Dr. Dre,person,seasonal-naive,125083.0,203626.0,,
+2015-08-24,Dr._Dre,Dr. Dre,person,seasonal-naive,103130.0,220746.0,,
+2015-08-25,Dr._Dre,Dr. Dre,person,seasonal-naive,73319.0,170885.0,,
+2015-08-26,Dr._Dre,Dr. Dre,person,seasonal-naive,71254.0,158109.0,,
+2015-08-27,Dr._Dre,Dr. Dre,person,seasonal-naive,60987.0,114009.0,,
+2015-08-28,Dr._Dre,Dr. Dre,person,seasonal-naive,66698.0,111276.0,,
+2015-08-29,Dr._Dre,Dr. Dre,person,seasonal-naive,97752.0,170383.0,,
+2015-08-30,Dr._Dre,Dr. Dre,person,seasonal-naive,121445.0,203626.0,,
+2015-08-31,Dr._Dre,Dr. Dre,person,seasonal-naive,111702.0,220746.0,,
+2015-09-01,Dr._Dre,Dr. Dre,person,seasonal-naive,79221.0,170885.0,,
+2015-09-02,Dr._Dre,Dr. Dre,person,seasonal-naive,77900.0,158109.0,,
+2015-09-03,Dr._Dre,Dr. Dre,person,seasonal-naive,72732.0,114009.0,,
+2015-09-04,Dr._Dre,Dr. Dre,person,seasonal-naive,72528.0,111276.0,,
+2015-09-05,Dr._Dre,Dr. Dre,person,seasonal-naive,91651.0,170383.0,,
+2015-09-06,Dr._Dre,Dr. Dre,person,seasonal-naive,101402.0,203626.0,,
+2015-09-07,Dr._Dre,Dr. Dre,person,seasonal-naive,100313.0,220746.0,,
+2015-09-08,Dr._Dre,Dr. Dre,person,seasonal-naive,76898.0,170885.0,,
+2015-09-09,Dr._Dre,Dr. Dre,person,seasonal-naive,59687.0,158109.0,,
+2015-09-10,Dr._Dre,Dr. Dre,person,seasonal-naive,51243.0,114009.0,,
+2015-09-11,Dr._Dre,Dr. Dre,person,seasonal-naive,49947.0,111276.0,,
+2015-09-12,Dr._Dre,Dr. Dre,person,seasonal-naive,60323.0,170383.0,,
+2015-09-13,Dr._Dre,Dr. Dre,person,seasonal-naive,67617.0,203626.0,,
+2015-09-14,Dr._Dre,Dr. Dre,person,seasonal-naive,48657.0,220746.0,,
+2015-09-15,Dr._Dre,Dr. Dre,person,seasonal-naive,38643.0,170885.0,,
+2015-09-16,Dr._Dre,Dr. Dre,person,seasonal-naive,37221.0,158109.0,,
+2015-09-17,Dr._Dre,Dr. Dre,person,seasonal-naive,33639.0,114009.0,,
+2015-09-18,Dr._Dre,Dr. Dre,person,seasonal-naive,34885.0,111276.0,,
+2015-09-19,Dr._Dre,Dr. Dre,person,seasonal-naive,41720.0,170383.0,,
+2015-09-20,Dr._Dre,Dr. Dre,person,seasonal-naive,45491.0,203626.0,,
+2015-08-22,Ice_Cube,Ice Cube,person,seasonal-naive,110586.0,166932.0,,
+2015-08-23,Ice_Cube,Ice Cube,person,seasonal-naive,127183.0,194606.0,,
+2015-08-24,Ice_Cube,Ice Cube,person,seasonal-naive,101470.0,216754.0,,
+2015-08-25,Ice_Cube,Ice Cube,person,seasonal-naive,70640.0,162500.0,,
+2015-08-26,Ice_Cube,Ice Cube,person,seasonal-naive,73433.0,141570.0,,
+2015-08-27,Ice_Cube,Ice Cube,person,seasonal-naive,57944.0,106963.0,,
+2015-08-28,Ice_Cube,Ice Cube,person,seasonal-naive,63637.0,99799.0,,
+2015-08-29,Ice_Cube,Ice Cube,person,seasonal-naive,89595.0,166932.0,,
+2015-08-30,Ice_Cube,Ice Cube,person,seasonal-naive,111275.0,194606.0,,
+2015-08-31,Ice_Cube,Ice Cube,person,seasonal-naive,110847.0,216754.0,,
+2015-09-01,Ice_Cube,Ice Cube,person,seasonal-naive,74143.0,162500.0,,
+2015-09-02,Ice_Cube,Ice Cube,person,seasonal-naive,71652.0,141570.0,,
+2015-09-03,Ice_Cube,Ice Cube,person,seasonal-naive,69837.0,106963.0,,
+2015-09-04,Ice_Cube,Ice Cube,person,seasonal-naive,67347.0,99799.0,,
+2015-09-05,Ice_Cube,Ice Cube,person,seasonal-naive,84739.0,166932.0,,
+2015-09-06,Ice_Cube,Ice Cube,person,seasonal-naive,93506.0,194606.0,,
+2015-09-07,Ice_Cube,Ice Cube,person,seasonal-naive,90243.0,216754.0,,
+2015-09-08,Ice_Cube,Ice Cube,person,seasonal-naive,69224.0,162500.0,,
+2015-09-09,Ice_Cube,Ice Cube,person,seasonal-naive,58976.0,141570.0,,
+2015-09-10,Ice_Cube,Ice Cube,person,seasonal-naive,50956.0,106963.0,,
+2015-09-11,Ice_Cube,Ice Cube,person,seasonal-naive,46122.0,99799.0,,
+2015-09-12,Ice_Cube,Ice Cube,person,seasonal-naive,57626.0,166932.0,,
+2015-09-13,Ice_Cube,Ice Cube,person,seasonal-naive,60640.0,194606.0,,
+2015-09-14,Ice_Cube,Ice Cube,person,seasonal-naive,44249.0,216754.0,,
+2015-09-15,Ice_Cube,Ice Cube,person,seasonal-naive,35762.0,162500.0,,
+2015-09-16,Ice_Cube,Ice Cube,person,seasonal-naive,35420.0,141570.0,,
+2015-09-17,Ice_Cube,Ice Cube,person,seasonal-naive,33117.0,106963.0,,
+2015-09-18,Ice_Cube,Ice Cube,person,seasonal-naive,33575.0,99799.0,,
+2015-09-19,Ice_Cube,Ice Cube,person,seasonal-naive,39353.0,166932.0,,
+2015-09-20,Ice_Cube,Ice Cube,person,seasonal-naive,41130.0,194606.0,,
+2015-08-22,Eazy-E,Eazy-E,person,seasonal-naive,154545.0,270030.0,,
+2015-08-23,Eazy-E,Eazy-E,person,seasonal-naive,170086.0,316343.0,,
+2015-08-24,Eazy-E,Eazy-E,person,seasonal-naive,136577.0,338170.0,,
+2015-08-25,Eazy-E,Eazy-E,person,seasonal-naive,96459.0,293754.0,,
+2015-08-26,Eazy-E,Eazy-E,person,seasonal-naive,113385.0,233649.0,,
+2015-08-27,Eazy-E,Eazy-E,person,seasonal-naive,83498.0,168479.0,,
+2015-08-28,Eazy-E,Eazy-E,person,seasonal-naive,90925.0,143262.0,,
+2015-08-29,Eazy-E,Eazy-E,person,seasonal-naive,139080.0,270030.0,,
+2015-08-30,Eazy-E,Eazy-E,person,seasonal-naive,165332.0,316343.0,,
+2015-08-31,Eazy-E,Eazy-E,person,seasonal-naive,148187.0,338170.0,,
+2015-09-01,Eazy-E,Eazy-E,person,seasonal-naive,107735.0,293754.0,,
+2015-09-02,Eazy-E,Eazy-E,person,seasonal-naive,103792.0,233649.0,,
+2015-09-03,Eazy-E,Eazy-E,person,seasonal-naive,97940.0,168479.0,,
+2015-09-04,Eazy-E,Eazy-E,person,seasonal-naive,97746.0,143262.0,,
+2015-09-05,Eazy-E,Eazy-E,person,seasonal-naive,122248.0,270030.0,,
+2015-09-06,Eazy-E,Eazy-E,person,seasonal-naive,136861.0,316343.0,,
+2015-09-07,Eazy-E,Eazy-E,person,seasonal-naive,164902.0,338170.0,,
+2015-09-08,Eazy-E,Eazy-E,person,seasonal-naive,121451.0,293754.0,,
+2015-09-09,Eazy-E,Eazy-E,person,seasonal-naive,83020.0,233649.0,,
+2015-09-10,Eazy-E,Eazy-E,person,seasonal-naive,67326.0,168479.0,,
+2015-09-11,Eazy-E,Eazy-E,person,seasonal-naive,63697.0,143262.0,,
+2015-09-12,Eazy-E,Eazy-E,person,seasonal-naive,79462.0,270030.0,,
+2015-09-13,Eazy-E,Eazy-E,person,seasonal-naive,89406.0,316343.0,,
+2015-09-14,Eazy-E,Eazy-E,person,seasonal-naive,63749.0,338170.0,,
+2015-09-15,Eazy-E,Eazy-E,person,seasonal-naive,50734.0,293754.0,,
+2015-09-16,Eazy-E,Eazy-E,person,seasonal-naive,46705.0,233649.0,,
+2015-09-17,Eazy-E,Eazy-E,person,seasonal-naive,41781.0,168479.0,,
+2015-09-18,Eazy-E,Eazy-E,person,seasonal-naive,42040.0,143262.0,,
+2015-09-19,Eazy-E,Eazy-E,person,seasonal-naive,52781.0,270030.0,,
+2015-09-20,Eazy-E,Eazy-E,person,seasonal-naive,57764.0,316343.0,,
+2015-08-22,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,122703.0,27850.0,,
+2015-08-23,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,131174.0,27850.0,,
+2015-08-24,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,123080.0,27850.0,,
+2015-08-25,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,84530.0,27850.0,,
+2015-08-26,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,84563.0,27850.0,,
+2015-08-27,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,73614.0,27850.0,,
+2015-08-28,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,80256.0,27850.0,,
+2015-08-29,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,100597.0,27850.0,,
+2015-08-30,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,117183.0,27850.0,,
+2015-08-31,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,117673.0,27850.0,,
+2015-09-01,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,82672.0,27850.0,,
+2015-09-02,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,78331.0,27850.0,,
+2015-09-03,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,73319.0,27850.0,,
+2015-09-04,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,71834.0,27850.0,,
+2015-09-05,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,83947.0,27850.0,,
+2015-09-06,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,91329.0,27850.0,,
+2015-09-07,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,86748.0,27850.0,,
+2015-09-08,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,70698.0,27850.0,,
+2015-09-09,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,56131.0,27850.0,,
+2015-09-10,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,49525.0,27850.0,,
+2015-09-11,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,48171.0,27850.0,,
+2015-09-12,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,55197.0,27850.0,,
+2015-09-13,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,58855.0,27850.0,,
+2015-09-14,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,44577.0,27850.0,,
+2015-09-15,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,36610.0,27850.0,,
+2015-09-16,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,34541.0,27850.0,,
+2015-09-17,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,30673.0,27850.0,,
+2015-09-18,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,32293.0,27850.0,,
+2015-09-19,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,36689.0,27850.0,,
+2015-09-20,Straight_Outta_Compton_(2015_film),Straight Outta Compton,event,flat-baseline,39412.0,27850.0,,
+2015-08-22,N.W.A,N.W.A,organization,flat-baseline,103133.0,43213.5,,
+2015-08-23,N.W.A,N.W.A,organization,flat-baseline,106733.0,43213.5,,
+2015-08-24,N.W.A,N.W.A,organization,flat-baseline,91197.0,43213.5,,
+2015-08-25,N.W.A,N.W.A,organization,flat-baseline,67750.0,43213.5,,
+2015-08-26,N.W.A,N.W.A,organization,flat-baseline,73978.0,43213.5,,
+2015-08-27,N.W.A,N.W.A,organization,flat-baseline,59198.0,43213.5,,
+2015-08-28,N.W.A,N.W.A,organization,flat-baseline,70013.0,43213.5,,
+2015-08-29,N.W.A,N.W.A,organization,flat-baseline,94183.0,43213.5,,
+2015-08-30,N.W.A,N.W.A,organization,flat-baseline,109179.0,43213.5,,
+2015-08-31,N.W.A,N.W.A,organization,flat-baseline,100822.0,43213.5,,
+2015-09-01,N.W.A,N.W.A,organization,flat-baseline,72581.0,43213.5,,
+2015-09-02,N.W.A,N.W.A,organization,flat-baseline,71979.0,43213.5,,
+2015-09-03,N.W.A,N.W.A,organization,flat-baseline,70747.0,43213.5,,
+2015-09-04,N.W.A,N.W.A,organization,flat-baseline,67151.0,43213.5,,
+2015-09-05,N.W.A,N.W.A,organization,flat-baseline,79101.0,43213.5,,
+2015-09-06,N.W.A,N.W.A,organization,flat-baseline,82931.0,43213.5,,
+2015-09-07,N.W.A,N.W.A,organization,flat-baseline,78812.0,43213.5,,
+2015-09-08,N.W.A,N.W.A,organization,flat-baseline,62640.0,43213.5,,
+2015-09-09,N.W.A,N.W.A,organization,flat-baseline,51896.0,43213.5,,
+2015-09-10,N.W.A,N.W.A,organization,flat-baseline,49970.0,43213.5,,
+2015-09-11,N.W.A,N.W.A,organization,flat-baseline,44916.0,43213.5,,
+2015-09-12,N.W.A,N.W.A,organization,flat-baseline,50332.0,43213.5,,
+2015-09-13,N.W.A,N.W.A,organization,flat-baseline,53538.0,43213.5,,
+2015-09-14,N.W.A,N.W.A,organization,flat-baseline,40056.0,43213.5,,
+2015-09-15,N.W.A,N.W.A,organization,flat-baseline,33627.0,43213.5,,
+2015-09-16,N.W.A,N.W.A,organization,flat-baseline,33555.0,43213.5,,
+2015-09-17,N.W.A,N.W.A,organization,flat-baseline,29403.0,43213.5,,
+2015-09-18,N.W.A,N.W.A,organization,flat-baseline,29560.0,43213.5,,
+2015-09-19,N.W.A,N.W.A,organization,flat-baseline,33672.0,43213.5,,
+2015-09-20,N.W.A,N.W.A,organization,flat-baseline,34679.0,43213.5,,
+2015-08-22,Dr._Dre,Dr. Dre,person,flat-baseline,129060.0,22458.5,,
+2015-08-23,Dr._Dre,Dr. Dre,person,flat-baseline,125083.0,22458.5,,
+2015-08-24,Dr._Dre,Dr. Dre,person,flat-baseline,103130.0,22458.5,,
+2015-08-25,Dr._Dre,Dr. Dre,person,flat-baseline,73319.0,22458.5,,
+2015-08-26,Dr._Dre,Dr. Dre,person,flat-baseline,71254.0,22458.5,,
+2015-08-27,Dr._Dre,Dr. Dre,person,flat-baseline,60987.0,22458.5,,
+2015-08-28,Dr._Dre,Dr. Dre,person,flat-baseline,66698.0,22458.5,,
+2015-08-29,Dr._Dre,Dr. Dre,person,flat-baseline,97752.0,22458.5,,
+2015-08-30,Dr._Dre,Dr. Dre,person,flat-baseline,121445.0,22458.5,,
+2015-08-31,Dr._Dre,Dr. Dre,person,flat-baseline,111702.0,22458.5,,
+2015-09-01,Dr._Dre,Dr. Dre,person,flat-baseline,79221.0,22458.5,,
+2015-09-02,Dr._Dre,Dr. Dre,person,flat-baseline,77900.0,22458.5,,
+2015-09-03,Dr._Dre,Dr. Dre,person,flat-baseline,72732.0,22458.5,,
+2015-09-04,Dr._Dre,Dr. Dre,person,flat-baseline,72528.0,22458.5,,
+2015-09-05,Dr._Dre,Dr. Dre,person,flat-baseline,91651.0,22458.5,,
+2015-09-06,Dr._Dre,Dr. Dre,person,flat-baseline,101402.0,22458.5,,
+2015-09-07,Dr._Dre,Dr. Dre,person,flat-baseline,100313.0,22458.5,,
+2015-09-08,Dr._Dre,Dr. Dre,person,flat-baseline,76898.0,22458.5,,
+2015-09-09,Dr._Dre,Dr. Dre,person,flat-baseline,59687.0,22458.5,,
+2015-09-10,Dr._Dre,Dr. Dre,person,flat-baseline,51243.0,22458.5,,
+2015-09-11,Dr._Dre,Dr. Dre,person,flat-baseline,49947.0,22458.5,,
+2015-09-12,Dr._Dre,Dr. Dre,person,flat-baseline,60323.0,22458.5,,
+2015-09-13,Dr._Dre,Dr. Dre,person,flat-baseline,67617.0,22458.5,,
+2015-09-14,Dr._Dre,Dr. Dre,person,flat-baseline,48657.0,22458.5,,
+2015-09-15,Dr._Dre,Dr. Dre,person,flat-baseline,38643.0,22458.5,,
+2015-09-16,Dr._Dre,Dr. Dre,person,flat-baseline,37221.0,22458.5,,
+2015-09-17,Dr._Dre,Dr. Dre,person,flat-baseline,33639.0,22458.5,,
+2015-09-18,Dr._Dre,Dr. Dre,person,flat-baseline,34885.0,22458.5,,
+2015-09-19,Dr._Dre,Dr. Dre,person,flat-baseline,41720.0,22458.5,,
+2015-09-20,Dr._Dre,Dr. Dre,person,flat-baseline,45491.0,22458.5,,
+2015-08-22,Ice_Cube,Ice Cube,person,flat-baseline,110586.0,22699.0,,
+2015-08-23,Ice_Cube,Ice Cube,person,flat-baseline,127183.0,22699.0,,
+2015-08-24,Ice_Cube,Ice Cube,person,flat-baseline,101470.0,22699.0,,
+2015-08-25,Ice_Cube,Ice Cube,person,flat-baseline,70640.0,22699.0,,
+2015-08-26,Ice_Cube,Ice Cube,person,flat-baseline,73433.0,22699.0,,
+2015-08-27,Ice_Cube,Ice Cube,person,flat-baseline,57944.0,22699.0,,
+2015-08-28,Ice_Cube,Ice Cube,person,flat-baseline,63637.0,22699.0,,
+2015-08-29,Ice_Cube,Ice Cube,person,flat-baseline,89595.0,22699.0,,
+2015-08-30,Ice_Cube,Ice Cube,person,flat-baseline,111275.0,22699.0,,
+2015-08-31,Ice_Cube,Ice Cube,person,flat-baseline,110847.0,22699.0,,
+2015-09-01,Ice_Cube,Ice Cube,person,flat-baseline,74143.0,22699.0,,
+2015-09-02,Ice_Cube,Ice Cube,person,flat-baseline,71652.0,22699.0,,
+2015-09-03,Ice_Cube,Ice Cube,person,flat-baseline,69837.0,22699.0,,
+2015-09-04,Ice_Cube,Ice Cube,person,flat-baseline,67347.0,22699.0,,
+2015-09-05,Ice_Cube,Ice Cube,person,flat-baseline,84739.0,22699.0,,
+2015-09-06,Ice_Cube,Ice Cube,person,flat-baseline,93506.0,22699.0,,
+2015-09-07,Ice_Cube,Ice Cube,person,flat-baseline,90243.0,22699.0,,
+2015-09-08,Ice_Cube,Ice Cube,person,flat-baseline,69224.0,22699.0,,
+2015-09-09,Ice_Cube,Ice Cube,person,flat-baseline,58976.0,22699.0,,
+2015-09-10,Ice_Cube,Ice Cube,person,flat-baseline,50956.0,22699.0,,
+2015-09-11,Ice_Cube,Ice Cube,person,flat-baseline,46122.0,22699.0,,
+2015-09-12,Ice_Cube,Ice Cube,person,flat-baseline,57626.0,22699.0,,
+2015-09-13,Ice_Cube,Ice Cube,person,flat-baseline,60640.0,22699.0,,
+2015-09-14,Ice_Cube,Ice Cube,person,flat-baseline,44249.0,22699.0,,
+2015-09-15,Ice_Cube,Ice Cube,person,flat-baseline,35762.0,22699.0,,
+2015-09-16,Ice_Cube,Ice Cube,person,flat-baseline,35420.0,22699.0,,
+2015-09-17,Ice_Cube,Ice Cube,person,flat-baseline,33117.0,22699.0,,
+2015-09-18,Ice_Cube,Ice Cube,person,flat-baseline,33575.0,22699.0,,
+2015-09-19,Ice_Cube,Ice Cube,person,flat-baseline,39353.0,22699.0,,
+2015-09-20,Ice_Cube,Ice Cube,person,flat-baseline,41130.0,22699.0,,
+2015-08-22,Eazy-E,Eazy-E,person,flat-baseline,154545.0,38764.0,,
+2015-08-23,Eazy-E,Eazy-E,person,flat-baseline,170086.0,38764.0,,
+2015-08-24,Eazy-E,Eazy-E,person,flat-baseline,136577.0,38764.0,,
+2015-08-25,Eazy-E,Eazy-E,person,flat-baseline,96459.0,38764.0,,
+2015-08-26,Eazy-E,Eazy-E,person,flat-baseline,113385.0,38764.0,,
+2015-08-27,Eazy-E,Eazy-E,person,flat-baseline,83498.0,38764.0,,
+2015-08-28,Eazy-E,Eazy-E,person,flat-baseline,90925.0,38764.0,,
+2015-08-29,Eazy-E,Eazy-E,person,flat-baseline,139080.0,38764.0,,
+2015-08-30,Eazy-E,Eazy-E,person,flat-baseline,165332.0,38764.0,,
+2015-08-31,Eazy-E,Eazy-E,person,flat-baseline,148187.0,38764.0,,
+2015-09-01,Eazy-E,Eazy-E,person,flat-baseline,107735.0,38764.0,,
+2015-09-02,Eazy-E,Eazy-E,person,flat-baseline,103792.0,38764.0,,
+2015-09-03,Eazy-E,Eazy-E,person,flat-baseline,97940.0,38764.0,,
+2015-09-04,Eazy-E,Eazy-E,person,flat-baseline,97746.0,38764.0,,
+2015-09-05,Eazy-E,Eazy-E,person,flat-baseline,122248.0,38764.0,,
+2015-09-06,Eazy-E,Eazy-E,person,flat-baseline,136861.0,38764.0,,
+2015-09-07,Eazy-E,Eazy-E,person,flat-baseline,164902.0,38764.0,,
+2015-09-08,Eazy-E,Eazy-E,person,flat-baseline,121451.0,38764.0,,
+2015-09-09,Eazy-E,Eazy-E,person,flat-baseline,83020.0,38764.0,,
+2015-09-10,Eazy-E,Eazy-E,person,flat-baseline,67326.0,38764.0,,
+2015-09-11,Eazy-E,Eazy-E,person,flat-baseline,63697.0,38764.0,,
+2015-09-12,Eazy-E,Eazy-E,person,flat-baseline,79462.0,38764.0,,
+2015-09-13,Eazy-E,Eazy-E,person,flat-baseline,89406.0,38764.0,,
+2015-09-14,Eazy-E,Eazy-E,person,flat-baseline,63749.0,38764.0,,
+2015-09-15,Eazy-E,Eazy-E,person,flat-baseline,50734.0,38764.0,,
+2015-09-16,Eazy-E,Eazy-E,person,flat-baseline,46705.0,38764.0,,
+2015-09-17,Eazy-E,Eazy-E,person,flat-baseline,41781.0,38764.0,,
+2015-09-18,Eazy-E,Eazy-E,person,flat-baseline,42040.0,38764.0,,
+2015-09-19,Eazy-E,Eazy-E,person,flat-baseline,52781.0,38764.0,,
+2015-09-20,Eazy-E,Eazy-E,person,flat-baseline,57764.0,38764.0,,

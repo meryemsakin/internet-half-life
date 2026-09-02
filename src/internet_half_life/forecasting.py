@@ -42,6 +42,17 @@ def seasonal_naive(
     return np.stack([tail[:, step % period] for step in range(horizon)], axis=1)
 
 
+def flat_baseline(
+    context: pd.DataFrame,
+    event: Event,
+    horizon: int,
+    baseline_days: int = 28,
+) -> np.ndarray:
+    """Return each page to its pre-event median for the full horizon."""
+    baselines = _pre_event_baselines(context, event, baseline_days)
+    return np.repeat(baselines[:, np.newaxis], horizon, axis=1)
+
+
 def _pre_event_baselines(
     context: pd.DataFrame,
     event: Event,
@@ -228,6 +239,18 @@ def forecast_event(
             )
         )
 
+    flat = flat_baseline(context, event, horizon)
+    outputs.append(
+        _long_forecast(
+            event,
+            truth,
+            flat,
+            missing_interval,
+            missing_interval,
+            "flat-baseline",
+        )
+    )
+
     naive = seasonal_naive(context[event.articles], horizon)
     outputs.append(
         _long_forecast(
@@ -260,6 +283,21 @@ def forecast_scores(forecast: pd.DataFrame) -> pd.DataFrame:
     for mode, group in forecast.groupby("mode", sort=False):
         absolute_error = (group["forecast"] - group["actual"]).abs()
         denominator = group["actual"].abs().sum()
+        if "article" in group:
+            page_wape_values = []
+            for _, page in group.groupby("article", sort=False):
+                page_denominator = page["actual"].abs().sum()
+                page_wape_values.append(
+                    (page["forecast"] - page["actual"]).abs().sum()
+                    / page_denominator
+                    if page_denominator
+                    else np.nan
+                )
+            median_page_wape = float(np.nanmedian(page_wape_values))
+        else:
+            median_page_wape = (
+                float(absolute_error.sum() / denominator) if denominator else np.nan
+            )
         interval_rows = group[
             group["q10"].notna()
             & group["q90"].notna()
@@ -288,6 +326,7 @@ def forecast_scores(forecast: pd.DataFrame) -> pd.DataFrame:
             {
                 "mode": mode,
                 "wape": float(absolute_error.sum() / denominator) if denominator else np.nan,
+                "median_page_wape": median_page_wape,
                 "median_absolute_error": float(absolute_error.median()),
                 "interval_coverage": coverage,
                 "mean_interval_width": mean_width,

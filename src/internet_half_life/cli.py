@@ -13,8 +13,10 @@ from .forecasting import TimesFMBackend, forecast_event, forecast_scores, save_f
 from .metrics import analyze_event, load_metrics, save_metrics
 from .study import (
     collect_catalog_study,
+    collect_peak_offsets,
     render_catalog_study,
     save_catalog_study,
+    save_peak_offsets,
     summarize_catalog_study,
 )
 from .visualize import render_event_atlas, render_forecast
@@ -104,9 +106,11 @@ def cmd_render(args: argparse.Namespace) -> None:
 
 def cmd_study(_: argparse.Namespace) -> None:
     study = collect_catalog_study()
+    peak_offsets = collect_peak_offsets()
     summary = summarize_catalog_study(study)
     table_path, summary_path = save_catalog_study(study, summary)
-    figures = render_catalog_study(study)
+    peak_path = save_peak_offsets(peak_offsets)
+    figures = render_catalog_study(study, peak_offsets=peak_offsets)
     comparison = summary["multivariate_vs_univariate"]
     print(
         f"multivariate wins: {comparison['multivariate_wins']}/{len(study)}; "
@@ -119,6 +123,7 @@ def cmd_study(_: argparse.Namespace) -> None:
     )
     print(f"table -> {table_path.relative_to(PROJECT_ROOT)}")
     print(f"summary -> {summary_path.relative_to(PROJECT_ROOT)}")
+    print(f"peak offsets -> {peak_path.relative_to(PROJECT_ROOT)}")
     for path in figures:
         print(f"figure -> {path.relative_to(PROJECT_ROOT)}")
 

@@ -16,7 +16,8 @@ import pandas as pd
 
 from .catalog import Event, PROJECT_ROOT, load_catalog
 from .forecasting import forecast_scores
-from .metrics import load_metrics
+from .metrics import analyze_event, load_metrics
+from .wikimedia import load_event_frame
 
 
 DEFAULT_PROCESSED = PROJECT_ROOT / "data" / "processed"
@@ -28,8 +29,55 @@ MODE_COLUMNS = {
     "timesfm-univariate": "timesfm_univariate_wape",
     "exponential-decay": "exponential_decay_wape",
     "power-law-decay": "power_law_decay_wape",
+    "flat-baseline": "flat_baseline_wape",
     "seasonal-naive": "seasonal_naive_wape",
 }
+
+PEAK_WINDOW_DAYS = 14
+BASELINE_FLOORS = (1, 5, 10)
+BASELINE_WINDOWS = (14, 28, 56)
+
+
+def peak_offset_table(
+    frame: pd.DataFrame,
+    event: Event,
+    post_days: int = PEAK_WINDOW_DAYS,
+) -> pd.DataFrame:
+    """Measure whether related pages peak before, with, or after the primary."""
+    event_day = pd.Timestamp(event.date)
+    post = frame.loc[
+        event_day : event_day + pd.Timedelta(days=post_days - 1),
+        event.articles,
+    ]
+    primary_peak = int((post[event.primary].idxmax() - event_day).days)
+    rows = []
+    for page in event.pages:
+        if page.article == event.primary:
+            continue
+        peak = int((post[page.article].idxmax() - event_day).days)
+        rows.append(
+            {
+                "event_slug": event.slug,
+                "event_title": event.title,
+                "article": page.article,
+                "page_label": page.label,
+                "primary_peak_offset_days": primary_peak,
+                "related_peak_offset_days": peak,
+                "relative_peak_offset_days": peak - primary_peak,
+            }
+        )
+    return pd.DataFrame(rows)
+
+
+def collect_peak_offsets(
+    events: list[Event] | None = None,
+    post_days: int = PEAK_WINDOW_DAYS,
+) -> pd.DataFrame:
+    events = events or list(load_catalog().values())
+    return pd.concat(
+        [peak_offset_table(load_event_frame(event), event, post_days) for event in events],
+        ignore_index=True,
+    )
 
 
 def exact_sign_test(wins: int, losses: int) -> float:
@@ -67,6 +115,8 @@ def collect_catalog_study(
 
     for event in events:
         metrics = load_metrics(event.slug, input_dir=processed_dir)
+        frame = load_event_frame(event)
+        peak_offsets = peak_offset_table(frame, event)
         forecast_path = processed_dir / f"{event.slug}-forecast.csv"
         if not forecast_path.exists():
             raise FileNotFoundError(
@@ -90,6 +140,9 @@ def collect_catalog_study(
         }
         for mode, column in MODE_COLUMNS.items():
             row[column] = float(scores.loc[mode, "wape"])
+            row[column.replace("_wape", "_median_page_wape")] = float(
+                scores.loc[mode, "median_page_wape"]
+            )
         for prefix, mode in (
             ("multivariate", "timesfm-multivariate"),
             ("univariate", "timesfm-univariate"),
@@ -110,6 +163,20 @@ def collect_catalog_study(
         row["decay_beats_both_timesfm"] = row["best_decay_wape"] < min(
             row["timesfm_multivariate_wape"], row["timesfm_univariate_wape"]
         )
+        relative_offsets = peak_offsets["relative_peak_offset_days"]
+        row["related_peaks_after_primary_14d"] = int((relative_offsets > 0).sum())
+        row["related_peaks_with_primary_14d"] = int((relative_offsets == 0).sum())
+        row["related_peaks_before_primary_14d"] = int((relative_offsets < 0).sum())
+        row["median_related_peak_offset_14d"] = float(relative_offsets.median())
+
+        for floor in BASELINE_FLOORS:
+            sensitivity = analyze_event(frame, event, baseline_floor=float(floor))
+            row[f"spillover_floor_{floor}"] = sensitivity.spillover_share
+            row[f"total_excess_floor_{floor}"] = sensitivity.total_excess_views_60d
+        for days in BASELINE_WINDOWS:
+            sensitivity = analyze_event(frame, event, baseline_days=days)
+            row[f"spillover_baseline_{days}d"] = sensitivity.spillover_share
+            row[f"total_excess_baseline_{days}d"] = sensitivity.total_excess_views_60d
         rows.append(row)
 
     return pd.DataFrame(rows)
@@ -199,6 +266,14 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
     model_medians = {
         mode: float(study[column].median()) for mode, column in MODE_COLUMNS.items()
     }
+    page_model_medians = {
+        mode: float(study[column.replace("_wape", "_median_page_wape")].median())
+        for mode, column in MODE_COLUMNS.items()
+    }
+    page_deltas = (
+        study["timesfm_multivariate_median_page_wape"]
+        - study["timesfm_univariate_median_page_wape"]
+    )
     interval_diagnostics = {}
     for prefix in ("multivariate", "univariate"):
         coverage = study[f"{prefix}_interval_coverage"]
@@ -212,6 +287,33 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
         }
 
     highest_spillover = study.loc[study["spillover_share"].idxmax()]
+    flat_wins = study.loc[
+        study["flat_baseline_wape"]
+        < study[["timesfm_multivariate_wape", "timesfm_univariate_wape"]].min(axis=1),
+        "event_slug",
+    ].tolist()
+    peak_counts = {
+        "after": int(study["related_peaks_after_primary_14d"].sum()),
+        "same_day": int(study["related_peaks_with_primary_14d"].sum()),
+        "before": int(study["related_peaks_before_primary_14d"].sum()),
+    }
+    floor_sensitivity = {}
+    for floor in BASELINE_FLOORS:
+        excess = study[f"total_excess_floor_{floor}"]
+        share = study[f"spillover_floor_{floor}"]
+        floor_sensitivity[str(floor)] = {
+            "median_event_spillover_share": float(share.median()),
+            "traffic_weighted_spillover_share": float((excess * share).sum() / excess.sum()),
+        }
+    window_sensitivity = {}
+    for days in BASELINE_WINDOWS:
+        excess = study[f"total_excess_baseline_{days}d"]
+        share = study[f"spillover_baseline_{days}d"]
+        window_sensitivity[str(days)] = {
+            "total_excess_views_60d": int(excess.sum()),
+            "median_event_spillover_share": float(share.median()),
+            "traffic_weighted_spillover_share": float((excess * share).sum() / excess.sum()),
+        }
     return {
         "catalog_events": len(study),
         "total_excess_views_60d": total_excess,
@@ -233,7 +335,17 @@ def summarize_catalog_study(study: pd.DataFrame) -> dict:
         "decay_beats_both_timesfm_events": study.loc[
             study["decay_beats_both_timesfm"], "event_slug"
         ].tolist(),
+        "flat_baseline_beats_both_timesfm_events": flat_wins,
+        "peak_timing_14d": peak_counts,
+        "baseline_floor_sensitivity": floor_sensitivity,
+        "baseline_window_sensitivity": window_sensitivity,
         "median_event_wape": model_medians,
+        "median_event_median_page_wape": page_model_medians,
+        "page_level_multivariate_vs_univariate": {
+            "multivariate_wins": int((page_deltas < 0).sum()),
+            "univariate_wins": int((page_deltas > 0).sum()),
+            "median_wape_difference": float(page_deltas.median()),
+        },
         "interval_diagnostics": interval_diagnostics,
         "training_cutoff_split": training_cutoff_split(study),
     }
@@ -253,6 +365,17 @@ def save_catalog_study(
     return table_path, summary_path
 
 
+def save_peak_offsets(
+    peak_offsets: pd.DataFrame,
+    output_dir: str | Path = DEFAULT_RESULTS,
+) -> Path:
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    path = output_dir / "peak-offsets.csv"
+    peak_offsets.to_csv(path, index=False)
+    return path
+
+
 def _figure_setup(figsize: tuple[float, float]):
     fig, ax = plt.subplots(figsize=figsize, facecolor="#fbfaf7")
     ax.set_facecolor("#fbfaf7")
@@ -263,11 +386,56 @@ def _figure_setup(figsize: tuple[float, float]):
 
 def render_catalog_study(
     study: pd.DataFrame,
+    peak_offsets: pd.DataFrame | None = None,
     output_dir: str | Path = DEFAULT_FIGURES,
 ) -> list[Path]:
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     paths = []
+
+    if peak_offsets is not None:
+        order = study.sort_values("median_related_peak_offset_14d")["event_slug"]
+        labels = study.set_index("event_slug")["event_title"]
+        y_by_slug = {slug: index for index, slug in enumerate(order)}
+        fig, ax = _figure_setup((10.5, 6.2))
+        for slug, group in peak_offsets.groupby("event_slug", sort=False):
+            y = y_by_slug[slug]
+            values = group["relative_peak_offset_days"].to_numpy(dtype=float)
+            jitter = np.linspace(-0.12, 0.12, len(values))
+            ax.scatter(
+                values,
+                y + jitter,
+                s=42,
+                color="#ef5b5b" if slug == "barbenheimer" else "#7c5cff",
+                alpha=0.88,
+                edgecolor="#fbfaf7",
+                linewidth=0.5,
+                zorder=3,
+            )
+        ax.axvline(0, color="#222222", linewidth=1.2)
+        ax.set_yticks(range(len(order)), labels=[labels[slug] for slug in order])
+        ax.set_xlabel("related-page peak day − primary-page peak day  (first 14 days)")
+        ax.set_title(
+            "Related pages usually peak with the event, not after it",
+            loc="left",
+            fontsize=17,
+            weight="bold",
+        )
+        ax.text(
+            0.99,
+            0.02,
+            "35 same day  ·  19 before  ·  11 after",
+            transform=ax.transAxes,
+            ha="right",
+            va="bottom",
+            fontsize=10,
+            color="#4b4a46",
+        )
+        fig.tight_layout()
+        path = output_dir / "peak-offsets.png"
+        fig.savefig(path, dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+        plt.close(fig)
+        paths.append(path)
 
     spillover = study.sort_values("spillover_share")
     fig, ax = _figure_setup((10.5, 6.2))
@@ -324,9 +492,15 @@ def render_catalog_study(
         "TimesFM-3\nunivariate",
         "exponential\ndecay",
         "power-law\ndecay",
-        "weekly\nnaive",
+        "flat pre-event\nmedian",
     ]
-    columns = list(MODE_COLUMNS.values())
+    columns = [
+        MODE_COLUMNS["timesfm-multivariate"],
+        MODE_COLUMNS["timesfm-univariate"],
+        MODE_COLUMNS["exponential-decay"],
+        MODE_COLUMNS["power-law-decay"],
+        MODE_COLUMNS["flat-baseline"],
+    ]
     palette = ["#ef5b5b", "#3a86ff", "#2db7a3", "#7c5cff", "#8d8a82"]
     fig, ax = _figure_setup((10.5, 6.2))
     arrays = [study[column].to_numpy(dtype=float) for column in columns]

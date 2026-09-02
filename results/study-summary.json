@@ -24,12 +24,65 @@
     "inside-out-2",
     "notre-dame-reopening"
   ],
+  "flat_baseline_beats_both_timesfm_events": [
+    "notre-dame-reopening"
+  ],
+  "peak_timing_14d": {
+    "after": 11,
+    "same_day": 35,
+    "before": 19
+  },
+  "baseline_floor_sensitivity": {
+    "1": {
+      "median_event_spillover_share": 0.5316698086418254,
+      "traffic_weighted_spillover_share": 0.6942108436456752
+    },
+    "5": {
+      "median_event_spillover_share": 0.5316698086418254,
+      "traffic_weighted_spillover_share": 0.694211065841608
+    },
+    "10": {
+      "median_event_spillover_share": 0.5316698086418254,
+      "traffic_weighted_spillover_share": 0.6942123658997266
+    }
+  },
+  "baseline_window_sensitivity": {
+    "14": {
+      "total_excess_views_60d": 149092680,
+      "median_event_spillover_share": 0.5329852475889736,
+      "traffic_weighted_spillover_share": 0.6727926615847271
+    },
+    "28": {
+      "total_excess_views_60d": 176353088,
+      "median_event_spillover_share": 0.5316698086418254,
+      "traffic_weighted_spillover_share": 0.6942108436456752
+    },
+    "56": {
+      "total_excess_views_60d": 191813182,
+      "median_event_spillover_share": 0.5228430824640551,
+      "traffic_weighted_spillover_share": 0.7004201984407933
+    }
+  },
   "median_event_wape": {
     "timesfm-multivariate": 0.2940831058395261,
     "timesfm-univariate": 0.331760503132455,
     "exponential-decay": 0.5018428771036414,
     "power-law-decay": 0.467050663355588,
+    "flat-baseline": 0.724782904827971,
     "seasonal-naive": 2.9022410629808624
+  },
+  "median_event_median_page_wape": {
+    "timesfm-multivariate": 0.2531190519911218,
+    "timesfm-univariate": 0.3219520695411191,
+    "exponential-decay": 0.4680178548410331,
+    "power-law-decay": 0.5606180434735182,
+    "flat-baseline": 0.6744223333221055,
+    "seasonal-naive": 4.232966769089757
+  },
+  "page_level_multivariate_vs_univariate": {
+    "multivariate_wins": 9,
+    "univariate_wins": 7,
+    "median_wape_difference": -0.0059934063931025225
   },
   "interval_diagnostics": {
     "multivariate": {

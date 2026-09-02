@@ -54,11 +54,16 @@ class EventMetrics:
         return next(page for page in self.pages if page.article == article)
 
 
-def _baseline(series: pd.Series, event_day: pd.Timestamp, days: int) -> float:
+def _baseline(
+    series: pd.Series,
+    event_day: pd.Timestamp,
+    days: int,
+    floor: float = 1.0,
+) -> float:
     pre = series.loc[event_day - pd.Timedelta(days=days) : event_day - pd.Timedelta(days=1)]
     if pre.empty:
         raise ValueError("not enough pre-event data to calculate a baseline")
-    return max(float(pre.median()), 1.0)
+    return max(float(pre.median()), floor)
 
 
 def _sustained_half_life(
@@ -87,10 +92,11 @@ def calculate_page_metrics(
     baseline_days: int = 28,
     post_days: int = 60,
     sustained_days: int = 3,
+    baseline_floor: float = 1.0,
 ) -> PageMetrics:
     event_day = pd.Timestamp(event.date)
     series = frame[article].astype(float)
-    baseline = _baseline(series, event_day, baseline_days)
+    baseline = _baseline(series, event_day, baseline_days, floor=baseline_floor)
     post = series.loc[event_day : event_day + pd.Timedelta(days=post_days - 1)]
     if len(post) < post_days:
         raise ValueError(f"{article} has only {len(post)} post-event days")
@@ -186,6 +192,7 @@ def analyze_event(
     event: Event,
     baseline_days: int = 28,
     post_days: int = 60,
+    baseline_floor: float = 1.0,
 ) -> EventMetrics:
     pages = [
         calculate_page_metrics(
@@ -194,6 +201,7 @@ def analyze_event(
             article,
             baseline_days=baseline_days,
             post_days=post_days,
+            baseline_floor=baseline_floor,
         )
         for article in event.articles
     ]
@@ -235,4 +243,3 @@ def load_metrics(
     payload["pages"] = tuple(PageMetrics(**page) for page in payload["pages"])
     payload["edges"] = tuple(AttentionEdge(**edge) for edge in payload["edges"])
     return EventMetrics(**payload)
-

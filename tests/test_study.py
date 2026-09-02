@@ -1,9 +1,15 @@
+from datetime import date
+
 import numpy as np
+import pandas as pd
+
+from internet_half_life.catalog import Event, Page
 
 from internet_half_life.study import (
     _two_sample_permutation,
     exact_sign_flip_test,
     exact_sign_test,
+    peak_offset_table,
 )
 
 
@@ -24,3 +30,26 @@ def test_two_sample_permutation_enumerates_every_partition():
         np.array([10.0, 11.0]),
     )
     assert np.isclose(result, 1 / 3)
+
+
+def test_peak_offset_table_is_relative_to_the_primary_peak():
+    event = Event(
+        slug="sample",
+        title="Sample",
+        date=date(2024, 1, 1),
+        description="",
+        primary="main",
+        pages=(
+            Page(article="main", label="Main", role="event"),
+            Page(article="later", label="Later", role="idea"),
+        ),
+    )
+    index = pd.date_range("2024-01-01", periods=5, freq="D")
+    frame = pd.DataFrame(
+        {"main": [1, 8, 2, 1, 1], "later": [1, 2, 9, 1, 1]},
+        index=index,
+    )
+    result = peak_offset_table(frame, event, post_days=5).iloc[0]
+    assert result["primary_peak_offset_days"] == 1
+    assert result["related_peak_offset_days"] == 2
+    assert result["relative_peak_offset_days"] == 1

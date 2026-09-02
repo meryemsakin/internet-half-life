@@ -1,0 +1,66 @@
+event_slug,event_title,article,page_label,primary_peak_offset_days,related_peak_offset_days,relative_peak_offset_days
+straight-outta-compton,Straight Outta Compton opens,N.W.A,N.W.A,3,3,0
+straight-outta-compton,Straight Outta Compton opens,Dr._Dre,Dr. Dre,3,3,0
+straight-outta-compton,Straight Outta Compton opens,Ice_Cube,Ice Cube,3,3,0
+straight-outta-compton,Straight Outta Compton opens,Eazy-E,Eazy-E,3,3,0
+ever-given,Ever Given blocks the Suez Canal,Ever_Given,Ever Given,6,6,0
+ever-given,Ever Given blocks the Suez Canal,Suez_Canal,Suez Canal,6,6,0
+ever-given,Ever Given blocks the Suez Canal,Container_ship,Container ship,6,6,0
+ever-given,Ever Given blocks the Suez Canal,Supply_chain,Supply chain,6,2,-4
+jwst-first-images,James Webb's first images,NASA,NASA,1,0,-1
+jwst-first-images,James Webb's first images,Hubble_Space_Telescope,Hubble,1,0,-1
+jwst-first-images,James Webb's first images,Webb's_First_Deep_Field,Webb's First Deep Field,1,0,-1
+jwst-first-images,James Webb's first images,Carina_Nebula,Carina Nebula,1,0,-1
+chatgpt-launch,ChatGPT launches,OpenAI,OpenAI,13,7,-6
+chatgpt-launch,ChatGPT launches,GPT-3,GPT-3,13,7,-6
+chatgpt-launch,ChatGPT launches,Artificial_intelligence,Artificial intelligence,13,12,-1
+chatgpt-launch,ChatGPT launches,Sam_Altman,Sam Altman,13,7,-6
+world-cup-final-2022,2022 World Cup final,Lionel_Messi,Lionel Messi,2,0,-2
+world-cup-final-2022,2022 World Cup final,Kylian_Mbappé,Kylian Mbappe,2,0,-2
+world-cup-final-2022,2022 World Cup final,Argentina_national_football_team,Argentina,2,0,-2
+world-cup-final-2022,2022 World Cup final,France_national_football_team,France,2,0,-2
+barbenheimer,Barbenheimer,Barbie_(film),Barbie,1,2,1
+barbenheimer,Barbenheimer,Oppenheimer_(film),Oppenheimer,1,2,1
+barbenheimer,Barbenheimer,Margot_Robbie,Margot Robbie,1,2,1
+barbenheimer,Barbenheimer,Cillian_Murphy,Cillian Murphy,1,2,1
+barbenheimer,Barbenheimer,J._Robert_Oppenheimer,J. R. Oppenheimer,1,1,0
+barbenheimer,Barbenheimer,Manhattan_Project,Manhattan Project,1,1,0
+chandrayaan-3,Chandrayaan-3 lands on the Moon,Indian_Space_Research_Organisation,ISRO,1,0,-1
+chandrayaan-3,Chandrayaan-3 lands on the Moon,Moon_landing,Moon landing,1,0,-1
+chandrayaan-3,Chandrayaan-3 lands on the Moon,Lunar_south_pole,Lunar south pole,1,0,-1
+chandrayaan-3,Chandrayaan-3 lands on the Moon,Vikram_(spacecraft),Vikram,1,0,-1
+gta-vi-trailer,The first Grand Theft Auto VI trailer,Rockstar_Games,Rockstar Games,0,0,0
+gta-vi-trailer,The first Grand Theft Auto VI trailer,Grand_Theft_Auto_V,GTA V,0,0,0
+gta-vi-trailer,The first Grand Theft Auto VI trailer,Grand_Theft_Auto,Grand Theft Auto,0,0,0
+gta-vi-trailer,The first Grand Theft Auto VI trailer,Take-Two_Interactive,Take-Two,0,0,0
+total-solar-eclipse-2024,The 2024 total solar eclipse,Solar_eclipse,Solar eclipse,0,0,0
+total-solar-eclipse-2024,The 2024 total solar eclipse,Eclipse_glasses,Eclipse glasses,0,0,0
+total-solar-eclipse-2024,The 2024 total solar eclipse,Total_solar_eclipse,Total eclipse,0,1,1
+total-solar-eclipse-2024,The 2024 total solar eclipse,Saros,Saros,0,0,0
+inside-out-2,Inside Out 2 opens,Inside_Out_(2015_film),Inside Out,1,2,1
+inside-out-2,Inside Out 2 opens,Pixar,Pixar,1,3,2
+inside-out-2,Inside Out 2 opens,Anxiety,Anxiety,1,10,9
+inside-out-2,Inside Out 2 opens,Amy_Poehler,Amy Poehler,1,2,1
+paris-2024-opening,The Paris 2024 opening ceremony,2024_Summer_Olympics,Paris 2024,1,1,0
+paris-2024-opening,The Paris 2024 opening ceremony,Celine_Dion,Celine Dion,1,1,0
+paris-2024-opening,The Paris 2024 opening ceremony,Léon_Marchand,Léon Marchand,1,6,5
+paris-2024-opening,The Paris 2024 opening ceremony,Paris,Paris,1,0,-1
+deadpool-wolverine,Deadpool & Wolverine opens,Ryan_Reynolds,Ryan Reynolds,2,2,0
+deadpool-wolverine,Deadpool & Wolverine opens,Hugh_Jackman,Hugh Jackman,2,1,-1
+deadpool-wolverine,Deadpool & Wolverine opens,Wolverine_(character),Wolverine,2,2,0
+deadpool-wolverine,Deadpool & Wolverine opens,Marvel_Cinematic_Universe,MCU,2,2,0
+us-election-2024,The 2024 United States presidential election,Donald_Trump,Donald Trump,1,1,0
+us-election-2024,The 2024 United States presidential election,Kamala_Harris,Kamala Harris,1,1,0
+us-election-2024,The 2024 United States presidential election,JD_Vance,JD Vance,1,1,0
+us-election-2024,The 2024 United States presidential election,Tim_Walz,Tim Walz,1,1,0
+notre-dame-reopening,Notre-Dame reopens,Notre-Dame_fire,2019 fire,1,1,0
+notre-dame-reopening,Notre-Dame reopens,Emmanuel_Macron,Emmanuel Macron,1,1,0
+notre-dame-reopening,Notre-Dame reopens,Gothic_architecture,Gothic architecture,1,1,0
+notre-dame-reopening,Notre-Dame reopens,Paris,Paris,1,2,1
+super-bowl-lix,Super Bowl LIX,Kendrick_Lamar,Kendrick Lamar,1,1,0
+super-bowl-lix,Super Bowl LIX,Philadelphia_Eagles,Eagles,1,1,0
+super-bowl-lix,Super Bowl LIX,Kansas_City_Chiefs,Chiefs,1,1,0
+pope-francis-death,The death of Pope Francis,2025_papal_conclave,2025 conclave,0,0,0
+pope-francis-death,The death of Pope Francis,Pope_Leo_XIV,Pope Leo XIV,0,0,0
+pope-francis-death,The death of Pope Francis,College_of_Cardinals,College of Cardinals,0,0,0
+pope-francis-death,The death of Pope Francis,Vatican_City,Vatican City,0,0,0

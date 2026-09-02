@@ -5,10 +5,30 @@ import pandas as pd
 
 from internet_half_life.catalog import Event, Page
 from internet_half_life.forecasting import (
+    flat_baseline,
     forecast_scores,
     parametric_decay,
     seasonal_naive,
 )
+
+
+def test_flat_baseline_returns_each_pre_event_median():
+    event = sample_forecast_event()
+    index = pd.date_range("2024-01-01", "2024-02-08", freq="D")
+    frame = pd.DataFrame({"Test": np.arange(1, len(index) + 1)}, index=index)
+    result = flat_baseline(frame, event, horizon=3, baseline_days=28)
+    np.testing.assert_array_equal(result, [[17.5, 17.5, 17.5]])
+
+
+def sample_forecast_event() -> Event:
+    return Event(
+        slug="test",
+        title="Test",
+        date=date(2024, 2, 1),
+        description="",
+        primary="Test",
+        pages=(Page(article="Test", label="Test", role="event"),),
+    )
 
 
 def test_seasonal_naive_repeats_the_last_week_for_every_variate():
@@ -39,6 +59,7 @@ def test_forecast_scores_are_aggregated_by_mode():
     assert scores.loc["good", "interval_coverage"] == 1
     assert scores.loc["bad", "interval_coverage"] == 0
     assert np.isclose(scores.loc["good", "mean_interval_width"], 3.5)
+    assert np.isclose(scores.loc["good", "median_page_wape"], 2 / 30)
 
 
 def test_forecast_scores_leave_missing_intervals_unscored():
@@ -58,14 +79,7 @@ def test_forecast_scores_leave_missing_intervals_unscored():
 
 
 def test_parametric_decay_follows_a_revealed_exponential_spike():
-    event = Event(
-        slug="test",
-        title="Test",
-        date=date(2024, 2, 1),
-        description="",
-        primary="Test",
-        pages=(Page(article="Test", label="Test", role="event"),),
-    )
+    event = sample_forecast_event()
     index = pd.date_range("2024-01-04", periods=36, freq="D")
     values = np.full(len(index), 100.0)
     values[-8:] = 100 + 900 * np.exp(-0.25 * np.arange(8))

@@ -40,6 +40,18 @@ def test_page_metrics_find_peak_and_sustained_half_life():
     assert metrics.excess_views_60d == 2180
 
 
+def test_page_metrics_accept_a_higher_baseline_floor():
+    frame = sample_frame()
+    frame.loc[:"2024-01-31", "related"] = 0
+    metrics = calculate_page_metrics(
+        frame,
+        sample_event(),
+        "related",
+        baseline_floor=10,
+    )
+    assert metrics.baseline_views == 10
+
+
 def test_event_metrics_measure_spillover_and_lagged_edges():
     metrics = analyze_event(sample_frame(), sample_event())
     assert metrics.total_excess_views_60d > metrics.page("main").excess_views_60d

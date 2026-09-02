@@ -1,0 +1,118 @@
+{
+  "slug": "ever-given",
+  "title": "Ever Given blocks the Suez Canal",
+  "event_date": "2021-03-23",
+  "primary": "2021_Suez_Canal_obstruction",
+  "total_excess_views_60d": 6623879,
+  "spillover_share": 0.861036259871293,
+  "pages": [
+    {
+      "article": "2021_Suez_Canal_obstruction",
+      "label": "Suez obstruction",
+      "role": "event",
+      "baseline_views": 1.0,
+      "peak_date": "2021-03-29",
+      "peak_offset_days": 6,
+      "peak_views": 150343,
+      "peak_lift": 150343.0,
+      "half_life_days": 1,
+      "excess_views_60d": 920479,
+      "first_week_share": 0.6393616801686948,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Ever_Given",
+      "label": "Ever Given",
+      "role": "object",
+      "baseline_views": 1.0,
+      "peak_date": "2021-03-29",
+      "peak_offset_days": 6,
+      "peak_views": 395217,
+      "peak_lift": 395217.0,
+      "half_life_days": 1,
+      "excess_views_60d": 2099457,
+      "first_week_share": 0.7020272384716619,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Suez_Canal",
+      "label": "Suez Canal",
+      "role": "place",
+      "baseline_views": 3547.0,
+      "peak_date": "2021-03-29",
+      "peak_offset_days": 6,
+      "peak_views": 630004,
+      "peak_lift": 177.61601353256273,
+      "half_life_days": 1,
+      "excess_views_60d": 3465595,
+      "first_week_share": 0.7324909575412014,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Container_ship",
+      "label": "Container ship",
+      "role": "idea",
+      "baseline_views": 915.5,
+      "peak_date": "2021-03-29",
+      "peak_offset_days": 6,
+      "peak_views": 24424,
+      "peak_lift": 26.67831785909339,
+      "half_life_days": 1,
+      "excess_views_60d": 138348,
+      "first_week_share": 0.6786497768300837,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Supply_chain",
+      "label": "Supply chain",
+      "role": "idea",
+      "baseline_views": 875.0,
+      "peak_date": "2021-03-25",
+      "peak_offset_days": 2,
+      "peak_views": 815,
+      "peak_lift": 0.9314285714285714,
+      "half_life_days": null,
+      "excess_views_60d": 0,
+      "first_week_share": 0.0,
+      "half_life_status": "no_excess"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Ever_Given",
+      "target": "2021_Suez_Canal_obstruction",
+      "lag_days": 1,
+      "correlation": 0.994537395426148
+    },
+    {
+      "source": "Suez_Canal",
+      "target": "Container_ship",
+      "lag_days": 0,
+      "correlation": 0.9868238546795236
+    },
+    {
+      "source": "Ever_Given",
+      "target": "Suez_Canal",
+      "lag_days": 0,
+      "correlation": 0.6774914542414777
+    },
+    {
+      "source": "Suez_Canal",
+      "target": "2021_Suez_Canal_obstruction",
+      "lag_days": 1,
+      "correlation": 0.6407306828162594
+    },
+    {
+      "source": "Ever_Given",
+      "target": "Container_ship",
+      "lag_days": 0,
+      "correlation": 0.635436710036496
+    },
+    {
+      "source": "Container_ship",
+      "target": "2021_Suez_Canal_obstruction",
+      "lag_days": 1,
+      "correlation": 0.5968380645210232
+    }
+  ]
+}

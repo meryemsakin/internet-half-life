@@ -1,0 +1,1261 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2023-07-29,Barbenheimer,Barbenheimer,event,timesfm-multivariate,38617.0,36674.0234375,29715.2578125,43276.109375
+2023-07-30,Barbenheimer,Barbenheimer,event,timesfm-multivariate,41902.0,30383.96484375,18604.40234375,41838.96875
+2023-07-31,Barbenheimer,Barbenheimer,event,timesfm-multivariate,38796.0,26056.216796875,11571.4482421875,42977.421875
+2023-08-01,Barbenheimer,Barbenheimer,event,timesfm-multivariate,32127.0,22762.88671875,6798.650390625,43383.1328125
+2023-08-02,Barbenheimer,Barbenheimer,event,timesfm-multivariate,29297.0,19893.3203125,4408.8408203125,44957.7265625
+2023-08-03,Barbenheimer,Barbenheimer,event,timesfm-multivariate,23203.0,17404.04296875,2480.5185546875,45014.796875
+2023-08-04,Barbenheimer,Barbenheimer,event,timesfm-multivariate,20946.0,15316.337890625,1265.4052734375,44470.2734375
+2023-08-05,Barbenheimer,Barbenheimer,event,timesfm-multivariate,20971.0,13382.40625,1212.7366943359375,42745.109375
+2023-08-06,Barbenheimer,Barbenheimer,event,timesfm-multivariate,25401.0,11536.701171875,485.8016357421875,39709.59375
+2023-08-07,Barbenheimer,Barbenheimer,event,timesfm-multivariate,23278.0,9133.59375,0.0,35771.15625
+2023-08-08,Barbenheimer,Barbenheimer,event,timesfm-multivariate,15813.0,6932.21875,0.0,32854.40625
+2023-08-09,Barbenheimer,Barbenheimer,event,timesfm-multivariate,13453.0,5175.4892578125,0.0,30361.505859375
+2023-08-10,Barbenheimer,Barbenheimer,event,timesfm-multivariate,11758.0,3878.658203125,0.0,28943.953125
+2023-08-11,Barbenheimer,Barbenheimer,event,timesfm-multivariate,10692.0,2728.82763671875,0.0,26989.822265625
+2023-08-12,Barbenheimer,Barbenheimer,event,timesfm-multivariate,10310.0,2373.6689453125,0.0,26338.794921875
+2023-08-13,Barbenheimer,Barbenheimer,event,timesfm-multivariate,10704.0,1908.947998046875,0.0,25358.859375
+2023-08-14,Barbenheimer,Barbenheimer,event,timesfm-multivariate,10407.0,1320.1566162109375,0.0,25138.6484375
+2023-08-15,Barbenheimer,Barbenheimer,event,timesfm-multivariate,9112.0,315.1378173828125,0.0,24070.96484375
+2023-08-16,Barbenheimer,Barbenheimer,event,timesfm-multivariate,8931.0,508.2208251953125,0.0,24114.875
+2023-08-17,Barbenheimer,Barbenheimer,event,timesfm-multivariate,8438.0,471.9119873046875,0.0,23757.173828125
+2023-08-18,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7969.0,274.3443603515625,0.0,23267.05078125
+2023-08-19,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7517.0,0.0,0.0,22058.173828125
+2023-08-20,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7863.0,0.0,0.0,21770.44140625
+2023-08-21,Barbenheimer,Barbenheimer,event,timesfm-multivariate,8160.0,0.0,0.0,20492.552734375
+2023-08-22,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7503.0,0.0,0.0,19686.30078125
+2023-08-23,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7370.0,0.0,0.0,19961.880859375
+2023-08-24,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7214.0,0.0,0.0,18531.525390625
+2023-08-25,Barbenheimer,Barbenheimer,event,timesfm-multivariate,8370.0,0.0,0.0,17719.67578125
+2023-08-26,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7348.0,0.0,0.0,17278.21484375
+2023-08-27,Barbenheimer,Barbenheimer,event,timesfm-multivariate,7951.0,0.0,0.0,16575.830078125
+2023-07-29,Barbie_(film),Barbie,work,timesfm-multivariate,392520.0,366819.1875,339178.125,401282.25
+2023-07-30,Barbie_(film),Barbie,work,timesfm-multivariate,432463.0,333985.78125,290402.96875,392278.46875
+2023-07-31,Barbie_(film),Barbie,work,timesfm-multivariate,366327.0,304621.53125,252457.328125,383363.71875
+2023-08-01,Barbie_(film),Barbie,work,timesfm-multivariate,291089.0,278772.65625,221444.484375,373894.8125
+2023-08-02,Barbie_(film),Barbie,work,timesfm-multivariate,286286.0,255203.078125,198976.890625,364125.53125
+2023-08-03,Barbie_(film),Barbie,work,timesfm-multivariate,263439.0,234986.578125,177962.9375,354321.75
+2023-08-04,Barbie_(film),Barbie,work,timesfm-multivariate,265905.0,218161.625,160752.65625,344385.0625
+2023-08-05,Barbie_(film),Barbie,work,timesfm-multivariate,303330.0,199270.765625,143141.140625,329400.0625
+2023-08-06,Barbie_(film),Barbie,work,timesfm-multivariate,392610.0,191220.3125,134806.828125,322875.3125
+2023-08-07,Barbie_(film),Barbie,work,timesfm-multivariate,356684.0,179400.421875,123567.109375,308449.40625
+2023-08-08,Barbie_(film),Barbie,work,timesfm-multivariate,227637.0,166705.984375,110720.0625,292631.03125
+2023-08-09,Barbie_(film),Barbie,work,timesfm-multivariate,184556.0,157141.390625,102927.90625,280232.09375
+2023-08-10,Barbie_(film),Barbie,work,timesfm-multivariate,168838.0,148414.609375,93955.5,269646.3125
+2023-08-11,Barbie_(film),Barbie,work,timesfm-multivariate,169479.0,137971.125,88758.015625,256678.734375
+2023-08-12,Barbie_(film),Barbie,work,timesfm-multivariate,166205.0,129494.453125,81964.265625,247652.703125
+2023-08-13,Barbie_(film),Barbie,work,timesfm-multivariate,164447.0,129576.125,84637.5,241991.0
+2023-08-14,Barbie_(film),Barbie,work,timesfm-multivariate,144373.0,117928.28125,76150.65625,230546.765625
+2023-08-15,Barbie_(film),Barbie,work,timesfm-multivariate,127961.0,103930.46875,64973.83203125,214297.9375
+2023-08-16,Barbie_(film),Barbie,work,timesfm-multivariate,128780.0,97228.40625,59546.62109375,207689.671875
+2023-08-17,Barbie_(film),Barbie,work,timesfm-multivariate,118045.0,94822.671875,62284.203125,197971.046875
+2023-08-18,Barbie_(film),Barbie,work,timesfm-multivariate,106161.0,91571.015625,58060.2890625,193795.421875
+2023-08-19,Barbie_(film),Barbie,work,timesfm-multivariate,105031.0,83983.6796875,53040.484375,184566.6875
+2023-08-20,Barbie_(film),Barbie,work,timesfm-multivariate,115547.0,78187.0625,50297.96875,173872.890625
+2023-08-21,Barbie_(film),Barbie,work,timesfm-multivariate,104067.0,74829.53125,45226.328125,164856.359375
+2023-08-22,Barbie_(film),Barbie,work,timesfm-multivariate,85914.0,66825.8203125,40184.2421875,153289.84375
+2023-08-23,Barbie_(film),Barbie,work,timesfm-multivariate,82858.0,63242.2265625,36317.33203125,149199.21875
+2023-08-24,Barbie_(film),Barbie,work,timesfm-multivariate,79979.0,56724.4765625,33616.9296875,137326.421875
+2023-08-25,Barbie_(film),Barbie,work,timesfm-multivariate,74200.0,53831.0625,35140.37109375,128631.953125
+2023-08-26,Barbie_(film),Barbie,work,timesfm-multivariate,78458.0,51197.0859375,35526.86328125,122954.59375
+2023-08-27,Barbie_(film),Barbie,work,timesfm-multivariate,96334.0,53994.64453125,36015.8828125,125605.21875
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,587938.0,484452.78125,417240.3125,569533.9375
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,648529.0,439940.71875,342137.84375,570035.875
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,507048.0,403154.6875,289988.875,569855.125
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,383683.0,368478.1875,249060.140625,558053.3125
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,376831.0,324840.03125,213417.359375,537022.9375
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,337278.0,288728.15625,183426.0,512464.9375
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,333996.0,270969.625,171709.96875,502535.15625
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,386813.0,252103.34375,164990.359375,483317.59375
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,448209.0,236779.96875,157244.078125,457248.25
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,360020.0,211325.90625,139234.65625,415654.875
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,272530.0,177949.640625,109830.53125,369089.625
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,243223.0,150291.4375,89178.78125,330441.0625
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,219433.0,136548.546875,79676.1796875,306043.59375
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,216546.0,138087.921875,79569.71875,303596.375
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,256546.0,144147.515625,81766.0,306171.53125
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,282754.0,136964.359375,66461.6796875,299660.71875
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,222888.0,114705.3125,62959.1875,258877.84375
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,189253.0,94157.3203125,43070.65234375,237117.78125
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,176700.0,88922.953125,46785.296875,222303.6875
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,166219.0,85646.4609375,47876.5234375,209254.703125
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,165755.0,82336.484375,43029.390625,203291.34375
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,172595.0,76463.8984375,40522.28515625,191236.75
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,191926.0,66415.8828125,33932.0703125,178386.109375
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,166727.0,65306.2734375,36718.41015625,162424.90625
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,135075.0,64222.578125,38972.26953125,157062.046875
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,127668.0,55850.8671875,29370.251953125,147824.015625
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,122413.0,47984.83203125,27444.73828125,133781.234375
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,125198.0,50312.3515625,30016.921875,134319.203125
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,151185.0,50328.43359375,35002.65625,131334.4375
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,timesfm-multivariate,178100.0,54637.21484375,40479.08984375,133126.828125
+2023-07-29,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,155298.0,137849.859375,123278.8125,161190.265625
+2023-07-30,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,147647.0,131934.671875,111001.03125,167677.5
+2023-07-31,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,128459.0,116876.328125,92879.578125,159076.703125
+2023-08-01,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,100959.0,106480.0,80527.640625,152655.375
+2023-08-02,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,94223.0,99360.875,72966.875,148789.03125
+2023-08-03,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,78130.0,93945.25,66308.578125,147330.015625
+2023-08-04,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,75694.0,90380.90625,61117.22265625,147633.46875
+2023-08-05,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,90145.0,88907.4375,58288.33203125,149906.59375
+2023-08-06,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,100420.0,93560.59375,60919.53515625,159670.09375
+2023-08-07,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,99693.0,82584.6171875,52776.7421875,147448.40625
+2023-08-08,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,71858.0,75721.59375,47191.4375,139776.390625
+2023-08-09,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,67610.0,71622.53125,45139.125,134815.484375
+2023-08-10,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,62659.0,68026.96875,42871.0078125,130460.953125
+2023-08-11,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,55278.0,65592.0,40272.3046875,130174.40625
+2023-08-12,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,68136.0,66063.484375,40805.8671875,131522.40625
+2023-08-13,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,61820.0,67759.59375,42897.15234375,132066.921875
+2023-08-14,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,51014.0,60005.640625,36881.609375,123567.421875
+2023-08-15,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,55829.0,53523.4921875,31563.37890625,115277.625
+2023-08-16,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,52743.0,51270.1796875,30466.68359375,112692.578125
+2023-08-17,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,47939.0,50964.0546875,30953.76171875,111029.265625
+2023-08-18,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,41408.0,50192.8046875,29297.150390625,111239.65625
+2023-08-19,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,42279.0,49550.8515625,28659.955078125,111226.1875
+2023-08-20,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,43681.0,49992.3046875,29889.53125,110670.046875
+2023-08-21,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,35744.0,45916.359375,25479.111328125,104343.5
+2023-08-22,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,33185.0,42321.5703125,23858.5,99368.78125
+2023-08-23,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,29312.0,41064.75,23766.98828125,97041.28125
+2023-08-24,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,27636.0,40600.53125,23587.11328125,95857.765625
+2023-08-25,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,28346.0,40762.0625,23440.78515625,96231.390625
+2023-08-26,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,32320.0,42262.4609375,25244.25,98292.453125
+2023-08-27,Margot_Robbie,Margot Robbie,person,timesfm-multivariate,34276.0,43581.15234375,25816.763671875,99594.21875
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,143728.0,129932.1015625,116778.5234375,147582.859375
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,145978.0,121619.40625,104410.34375,147700.859375
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,115889.0,108567.265625,90514.96875,137793.5625
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,95617.0,94355.4609375,76708.0546875,125192.3515625
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,83105.0,84649.9765625,68188.1953125,116580.9609375
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,74324.0,77742.9453125,60575.3828125,111506.4609375
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,73530.0,76380.171875,57827.3359375,112866.609375
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,83638.0,77710.3671875,57586.6328125,116680.453125
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,88346.0,90557.0546875,58332.6640625,142050.328125
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,73734.0,75777.578125,51733.2421875,118823.8203125
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,61260.0,65781.9921875,45047.390625,104454.703125
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,58091.0,58478.53125,39364.1953125,95584.921875
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,48690.0,54071.6875,36526.0859375,90258.4296875
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,47462.0,53840.9140625,33980.078125,92660.7578125
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,52301.0,55237.1171875,32949.03125,96834.765625
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,56085.0,58140.2578125,33668.03515625,100438.5859375
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,45023.0,52356.1875,31156.88671875,92052.125
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,39236.0,44921.203125,26504.734375,81166.8046875
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,43668.0,40416.984375,23351.17578125,76514.4609375
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,40707.0,39563.5078125,23876.419921875,73628.4453125
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,45023.0,40680.83984375,23074.7109375,76655.5390625
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,47395.0,41329.4765625,22531.203125,78602.328125
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,44445.0,42467.8828125,22505.99609375,81174.9296875
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,38158.0,39226.625,21768.80859375,73394.796875
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,33771.0,33900.59375,18367.060546875,66566.703125
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,30276.0,29567.205078125,14584.2861328125,62379.0859375
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,29861.0,27675.05859375,15063.15234375,57842.390625
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,30348.0,28922.41796875,16020.9404296875,60945.4765625
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,34867.0,31005.04296875,15616.0048828125,66312.265625
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,timesfm-multivariate,52244.0,33922.1171875,13411.3056640625,74056.59375
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,648899.0,503282.09375,445348.625,584188.5625
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,695309.0,459952.46875,368212.34375,593511.625
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,507067.0,423720.1875,312862.3125,615988.6875
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,368474.0,390916.9375,270519.28125,627622.4375
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,348483.0,347212.28125,230371.59375,628294.6875
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,287938.0,314185.84375,197353.3125,621069.3125
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,276631.0,299878.40625,185656.78125,620667.875
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,352201.0,279250.84375,172349.53125,594495.375
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,403181.0,264459.4375,159599.703125,559863.125
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,285991.0,243944.0625,142306.484375,504418.9375
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,211760.0,218925.4375,121878.3203125,460996.9375
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,194628.0,199147.0625,108832.609375,426335.9375
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,160565.0,186996.46875,98377.34375,403284.3125
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,158485.0,178693.0,94515.1875,387534.40625
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,200472.0,171805.375,93695.15625,368972.4375
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,230460.0,164017.46875,86241.0625,354324.65625
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,164852.0,151549.1875,71758.796875,347509.8125
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,131648.0,131978.09375,69707.171875,309720.09375
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,126252.0,121139.6328125,59804.796875,299932.15625
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,107034.0,117539.3203125,63579.0546875,283885.3125
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,105179.0,107965.4921875,52979.2890625,269079.59375
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,132233.0,93637.0,43578.953125,246172.84375
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,143634.0,82043.09375,34831.375,229492.375
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,106523.0,80672.5078125,37291.359375,212900.53125
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,82632.0,75093.6796875,37102.10546875,201155.0625
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,83803.0,68780.8671875,27096.66015625,197037.59375
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,75236.0,61239.9375,21109.29296875,189238.90625
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,78484.0,62770.85546875,38292.5625,172434.875
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,101399.0,58217.96875,39380.9296875,164828.203125
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-multivariate,129008.0,60344.5078125,41795.75,163833.890625
+2023-07-29,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,67354.0,52835.91015625,47533.046875,60768.22265625
+2023-07-30,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,71653.0,49298.4140625,41539.33984375,61762.984375
+2023-07-31,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,53955.0,45646.421875,36469.21875,62406.66015625
+2023-08-01,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,40020.0,42235.16015625,32128.923828125,62414.4375
+2023-08-02,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,37323.0,39159.4375,29067.525390625,62550.984375
+2023-08-03,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,31494.0,35937.15625,25764.732421875,61231.65234375
+2023-08-04,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,29815.0,33732.0234375,23654.232421875,60393.625
+2023-08-05,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,34072.0,32153.12109375,22435.458984375,59082.5234375
+2023-08-06,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,44251.0,32170.908203125,22554.18359375,58596.4140625
+2023-08-07,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,31306.0,30990.599609375,21416.798828125,55533.79296875
+2023-08-08,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,24302.0,28019.607421875,18714.78125,51836.53125
+2023-08-09,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,22682.0,25611.404296875,16759.822265625,48728.31640625
+2023-08-10,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,19102.0,24027.400390625,15011.513671875,46794.578125
+2023-08-11,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,18090.0,22788.7421875,14092.69921875,45272.4296875
+2023-08-12,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,20260.0,21888.005859375,13589.701171875,43703.98828125
+2023-08-13,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,23489.0,22433.6953125,11587.5732421875,46113.125
+2023-08-14,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,17970.0,21122.5546875,10762.642578125,44703.9921875
+2023-08-15,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,14727.0,18560.99609375,10883.013671875,39501.0078125
+2023-08-16,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,14297.0,17125.857421875,9476.296875,38165.828125
+2023-08-17,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,12890.0,16094.1748046875,9317.6162109375,36094.546875
+2023-08-18,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,11635.0,15216.3515625,8237.05859375,35020.234375
+2023-08-19,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,13222.0,13884.8447265625,7343.259765625,32904.453125
+2023-08-20,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,14298.0,13305.8671875,7143.677734375,32007.73828125
+2023-08-21,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,14760.0,14035.96484375,7830.5087890625,31381.044921875
+2023-08-22,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,10167.0,13310.580078125,7762.482421875,30455.521484375
+2023-08-23,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,9870.0,11995.7646484375,6342.2021484375,28954.900390625
+2023-08-24,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,8789.0,11109.26171875,6204.85595703125,27038.421875
+2023-08-25,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,8719.0,10629.4931640625,5875.84326171875,25970.921875
+2023-08-26,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,10251.0,10187.703125,6132.82177734375,24668.376953125
+2023-08-27,Manhattan_Project,Manhattan Project,history,timesfm-multivariate,12681.0,10831.37109375,6657.10302734375,25134.62890625
+2023-07-29,Barbenheimer,Barbenheimer,event,timesfm-univariate,38617.0,41389.5703125,31590.48046875,60504.453125
+2023-07-30,Barbenheimer,Barbenheimer,event,timesfm-univariate,41902.0,45025.640625,29741.013671875,74472.2578125
+2023-07-31,Barbenheimer,Barbenheimer,event,timesfm-univariate,38796.0,49960.8671875,28747.962890625,92075.0078125
+2023-08-01,Barbenheimer,Barbenheimer,event,timesfm-univariate,32127.0,55377.984375,27955.962890625,109708.7265625
+2023-08-02,Barbenheimer,Barbenheimer,event,timesfm-univariate,29297.0,58928.625,25829.224609375,126925.8046875
+2023-08-03,Barbenheimer,Barbenheimer,event,timesfm-univariate,23203.0,61574.015625,25562.943359375,140512.859375
+2023-08-04,Barbenheimer,Barbenheimer,event,timesfm-univariate,20946.0,63073.4140625,22133.31640625,152854.484375
+2023-08-05,Barbenheimer,Barbenheimer,event,timesfm-univariate,20971.0,63979.1484375,19465.416015625,160998.828125
+2023-08-06,Barbenheimer,Barbenheimer,event,timesfm-univariate,25401.0,65766.65625,18471.1484375,171315.3125
+2023-08-07,Barbenheimer,Barbenheimer,event,timesfm-univariate,23278.0,67041.9296875,16410.171875,176966.4375
+2023-08-08,Barbenheimer,Barbenheimer,event,timesfm-univariate,15813.0,67896.0,13312.236328125,185050.109375
+2023-08-09,Barbenheimer,Barbenheimer,event,timesfm-univariate,13453.0,70761.1875,11784.6103515625,195709.640625
+2023-08-10,Barbenheimer,Barbenheimer,event,timesfm-univariate,11758.0,73719.078125,11614.9619140625,207009.703125
+2023-08-11,Barbenheimer,Barbenheimer,event,timesfm-univariate,10692.0,75463.8515625,10395.490234375,215556.265625
+2023-08-12,Barbenheimer,Barbenheimer,event,timesfm-univariate,10310.0,78568.2421875,11295.7255859375,227105.546875
+2023-08-13,Barbenheimer,Barbenheimer,event,timesfm-univariate,10704.0,80981.0234375,10864.3876953125,238500.46875
+2023-08-14,Barbenheimer,Barbenheimer,event,timesfm-univariate,10407.0,83848.2109375,10729.9091796875,251165.640625
+2023-08-15,Barbenheimer,Barbenheimer,event,timesfm-univariate,9112.0,85579.328125,12114.16796875,259630.484375
+2023-08-16,Barbenheimer,Barbenheimer,event,timesfm-univariate,8931.0,86360.2578125,10575.1689453125,268950.90625
+2023-08-17,Barbenheimer,Barbenheimer,event,timesfm-univariate,8438.0,88089.1875,11792.935546875,278293.53125
+2023-08-18,Barbenheimer,Barbenheimer,event,timesfm-univariate,7969.0,90385.8359375,11934.9521484375,290736.34375
+2023-08-19,Barbenheimer,Barbenheimer,event,timesfm-univariate,7517.0,91648.03125,12203.673828125,299848.53125
+2023-08-20,Barbenheimer,Barbenheimer,event,timesfm-univariate,7863.0,93803.6171875,13348.046875,309152.625
+2023-08-21,Barbenheimer,Barbenheimer,event,timesfm-univariate,8160.0,97465.2890625,13847.4765625,320312.71875
+2023-08-22,Barbenheimer,Barbenheimer,event,timesfm-univariate,7503.0,99413.71875,12690.509765625,328543.8125
+2023-08-23,Barbenheimer,Barbenheimer,event,timesfm-univariate,7370.0,102304.8046875,13146.1435546875,338341.46875
+2023-08-24,Barbenheimer,Barbenheimer,event,timesfm-univariate,7214.0,105365.34375,12744.2998046875,350140.0
+2023-08-25,Barbenheimer,Barbenheimer,event,timesfm-univariate,8370.0,109936.203125,12583.4140625,368182.78125
+2023-08-26,Barbenheimer,Barbenheimer,event,timesfm-univariate,7348.0,114553.8828125,15586.5224609375,381464.375
+2023-08-27,Barbenheimer,Barbenheimer,event,timesfm-univariate,7951.0,116446.9140625,17073.0625,393874.9375
+2023-07-29,Barbie_(film),Barbie,work,timesfm-univariate,392520.0,360154.5,330697.53125,400373.46875
+2023-07-30,Barbie_(film),Barbie,work,timesfm-univariate,432463.0,331898.75,286873.03125,397528.1875
+2023-07-31,Barbie_(film),Barbie,work,timesfm-univariate,366327.0,304324.90625,250279.515625,395143.65625
+2023-08-01,Barbie_(film),Barbie,work,timesfm-univariate,291089.0,277458.875,218495.0625,388589.03125
+2023-08-02,Barbie_(film),Barbie,work,timesfm-univariate,286286.0,254615.40625,189049.25,392022.75
+2023-08-03,Barbie_(film),Barbie,work,timesfm-univariate,263439.0,232529.875,171791.65625,375925.15625
+2023-08-04,Barbie_(film),Barbie,work,timesfm-univariate,265905.0,217114.34375,155215.578125,369678.53125
+2023-08-05,Barbie_(film),Barbie,work,timesfm-univariate,303330.0,195504.765625,134931.203125,349393.8125
+2023-08-06,Barbie_(film),Barbie,work,timesfm-univariate,392610.0,191524.515625,130527.9375,343080.40625
+2023-08-07,Barbie_(film),Barbie,work,timesfm-univariate,356684.0,178086.546875,117456.046875,319669.125
+2023-08-08,Barbie_(film),Barbie,work,timesfm-univariate,227637.0,160859.625,100747.4375,297600.53125
+2023-08-09,Barbie_(film),Barbie,work,timesfm-univariate,184556.0,147108.203125,90405.65625,278297.3125
+2023-08-10,Barbie_(film),Barbie,work,timesfm-univariate,168838.0,138656.703125,82555.59375,266873.9375
+2023-08-11,Barbie_(film),Barbie,work,timesfm-univariate,169479.0,129517.484375,76697.65625,256507.28125
+2023-08-12,Barbie_(film),Barbie,work,timesfm-univariate,166205.0,122191.84375,71590.21875,247246.921875
+2023-08-13,Barbie_(film),Barbie,work,timesfm-univariate,164447.0,122805.515625,73983.65625,242627.96875
+2023-08-14,Barbie_(film),Barbie,work,timesfm-univariate,144373.0,108699.203125,65338.44921875,226637.359375
+2023-08-15,Barbie_(film),Barbie,work,timesfm-univariate,127961.0,93218.296875,51991.22265625,208804.609375
+2023-08-16,Barbie_(film),Barbie,work,timesfm-univariate,128780.0,87123.9375,47803.6953125,203232.796875
+2023-08-17,Barbie_(film),Barbie,work,timesfm-univariate,118045.0,84528.3671875,49420.625,195472.234375
+2023-08-18,Barbie_(film),Barbie,work,timesfm-univariate,106161.0,81558.984375,45727.4921875,191177.1875
+2023-08-19,Barbie_(film),Barbie,work,timesfm-univariate,105031.0,74683.546875,41227.67578125,180768.765625
+2023-08-20,Barbie_(film),Barbie,work,timesfm-univariate,115547.0,74842.59375,44989.83984375,177187.21875
+2023-08-21,Barbie_(film),Barbie,work,timesfm-univariate,104067.0,72684.53125,41940.5390625,168112.953125
+2023-08-22,Barbie_(film),Barbie,work,timesfm-univariate,85914.0,62934.9609375,35158.41015625,155105.109375
+2023-08-23,Barbie_(film),Barbie,work,timesfm-univariate,82858.0,56503.50390625,30898.515625,145453.28125
+2023-08-24,Barbie_(film),Barbie,work,timesfm-univariate,79979.0,50992.5703125,27554.98828125,136258.875
+2023-08-25,Barbie_(film),Barbie,work,timesfm-univariate,74200.0,50937.5234375,30128.68359375,131915.453125
+2023-08-26,Barbie_(film),Barbie,work,timesfm-univariate,78458.0,48687.98828125,31108.93359375,127336.46875
+2023-08-27,Barbie_(film),Barbie,work,timesfm-univariate,96334.0,51889.84765625,34325.4765625,128626.9375
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,587938.0,506209.03125,445267.875,591804.875
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,648529.0,469976.28125,378794.5625,614147.9375
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,507048.0,443346.4375,334242.28125,650847.3125
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,383683.0,398288.375,281008.75,655817.375
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,376831.0,351797.9375,235546.671875,662371.8125
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,337278.0,323393.125,209314.359375,657582.6875
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,333996.0,312519.34375,200070.265625,661896.6875
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,386813.0,291563.125,185175.21875,631161.8125
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,448209.0,282060.21875,175946.546875,597874.125
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,360020.0,259853.25,155466.046875,531950.5625
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,272530.0,226587.40625,126157.109375,475136.34375
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,243223.0,205192.5625,111669.453125,436048.6875
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,219433.0,195372.859375,103647.015625,416134.78125
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,216546.0,194269.125,106008.71875,411117.6875
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,256546.0,192084.5,106100.890625,401672.0625
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,282754.0,191798.8125,99331.546875,400900.875
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,222888.0,169176.109375,84130.796875,375772.0
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,189253.0,138888.09375,74962.1875,323551.1875
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,176700.0,123996.46875,62468.98828125,309480.09375
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,166219.0,121013.234375,68761.40625,294098.0625
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,165755.0,120892.609375,65971.046875,292478.25
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,172595.0,114646.84375,61859.3359375,278496.15625
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,191926.0,108182.828125,63295.703125,262987.8125
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,166727.0,102837.09375,58538.81640625,243123.59375
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,135075.0,88826.796875,51743.546875,221913.890625
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,127668.0,75596.5703125,38400.90234375,204910.0
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,122413.0,68117.109375,38554.84765625,187951.09375
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,125198.0,71196.828125,44685.8515625,187772.015625
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,151185.0,70823.1640625,53632.21484375,179880.828125
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,timesfm-univariate,178100.0,75648.328125,56253.60546875,182218.65625
+2023-07-29,Margot_Robbie,Margot Robbie,person,timesfm-univariate,155298.0,140644.96875,124611.3125,165012.078125
+2023-07-30,Margot_Robbie,Margot Robbie,person,timesfm-univariate,147647.0,138199.953125,112483.9375,182177.515625
+2023-07-31,Margot_Robbie,Margot Robbie,person,timesfm-univariate,128459.0,126504.8125,98780.765625,181906.703125
+2023-08-01,Margot_Robbie,Margot Robbie,person,timesfm-univariate,100959.0,113096.734375,82924.15625,179054.703125
+2023-08-02,Margot_Robbie,Margot Robbie,person,timesfm-univariate,94223.0,105591.640625,73707.328125,183603.84375
+2023-08-03,Margot_Robbie,Margot Robbie,person,timesfm-univariate,78130.0,100353.15625,65905.03125,186639.921875
+2023-08-04,Margot_Robbie,Margot Robbie,person,timesfm-univariate,75694.0,96136.875,61472.20703125,186581.703125
+2023-08-05,Margot_Robbie,Margot Robbie,person,timesfm-univariate,90145.0,93380.59375,57354.859375,185691.109375
+2023-08-06,Margot_Robbie,Margot Robbie,person,timesfm-univariate,100420.0,94229.140625,54142.7890625,190185.5625
+2023-08-07,Margot_Robbie,Margot Robbie,person,timesfm-univariate,99693.0,82905.9375,48753.125,169067.828125
+2023-08-08,Margot_Robbie,Margot Robbie,person,timesfm-univariate,71858.0,75015.4375,42341.671875,158561.265625
+2023-08-09,Margot_Robbie,Margot Robbie,person,timesfm-univariate,67610.0,69299.5,39160.13671875,150739.984375
+2023-08-10,Margot_Robbie,Margot Robbie,person,timesfm-univariate,62659.0,65181.98828125,36401.41015625,146045.203125
+2023-08-11,Margot_Robbie,Margot Robbie,person,timesfm-univariate,55278.0,62966.73046875,34963.61328125,145084.421875
+2023-08-12,Margot_Robbie,Margot Robbie,person,timesfm-univariate,68136.0,64544.125,35356.76171875,147717.140625
+2023-08-13,Margot_Robbie,Margot Robbie,person,timesfm-univariate,61820.0,65510.67578125,37867.60546875,145484.0625
+2023-08-14,Margot_Robbie,Margot Robbie,person,timesfm-univariate,51014.0,58290.203125,33921.796875,135430.578125
+2023-08-15,Margot_Robbie,Margot Robbie,person,timesfm-univariate,55829.0,50393.578125,27843.67578125,124487.171875
+2023-08-16,Margot_Robbie,Margot Robbie,person,timesfm-univariate,52743.0,47807.7421875,25773.921875,121888.921875
+2023-08-17,Margot_Robbie,Margot Robbie,person,timesfm-univariate,47939.0,46992.625,26222.23046875,118700.203125
+2023-08-18,Margot_Robbie,Margot Robbie,person,timesfm-univariate,41408.0,46052.0234375,24984.341796875,117557.953125
+2023-08-19,Margot_Robbie,Margot Robbie,person,timesfm-univariate,42279.0,46659.46875,26078.4765625,117386.34375
+2023-08-20,Margot_Robbie,Margot Robbie,person,timesfm-univariate,43681.0,46917.1484375,25585.08203125,117725.28125
+2023-08-21,Margot_Robbie,Margot Robbie,person,timesfm-univariate,35744.0,43528.36328125,23766.787109375,109653.546875
+2023-08-22,Margot_Robbie,Margot Robbie,person,timesfm-univariate,33185.0,38712.109375,21162.712890625,102517.03125
+2023-08-23,Margot_Robbie,Margot Robbie,person,timesfm-univariate,29312.0,36672.5,20513.75390625,98521.15625
+2023-08-24,Margot_Robbie,Margot Robbie,person,timesfm-univariate,27636.0,35501.4765625,20080.037109375,95871.734375
+2023-08-25,Margot_Robbie,Margot Robbie,person,timesfm-univariate,28346.0,35255.25390625,19564.013671875,94779.15625
+2023-08-26,Margot_Robbie,Margot Robbie,person,timesfm-univariate,32320.0,37126.46875,21718.908203125,96724.5
+2023-08-27,Margot_Robbie,Margot Robbie,person,timesfm-univariate,34276.0,38039.2109375,21796.97265625,97498.59375
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,143728.0,132344.25,118588.2734375,150135.421875
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,145978.0,123455.15625,105096.2734375,150378.859375
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,115889.0,111128.59375,91492.3203125,141416.0
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,95617.0,96675.25,77458.125,128440.0859375
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,83105.0,86814.6796875,69116.40625,118790.8125
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,74324.0,79404.9609375,61471.3359375,112037.2890625
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,73530.0,78834.6953125,60639.2578125,112758.140625
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,83638.0,79901.625,61000.640625,115170.875
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,88346.0,86841.3984375,62025.4140625,128129.875
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,73734.0,73253.453125,53846.3671875,108594.0625
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,61260.0,63245.421875,44539.8828125,97344.1875
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,58091.0,56853.21875,39752.390625,89582.9609375
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,48690.0,52677.5859375,35729.8984375,85535.0234375
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,47462.0,50410.03125,33393.8515625,84840.109375
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,52301.0,51960.3203125,34414.94140625,87165.2734375
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,56085.0,55457.125,36729.5859375,90436.984375
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,45023.0,48529.34375,32536.091796875,81710.6328125
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,39236.0,40636.9296875,25021.80859375,73039.609375
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,43668.0,36094.96875,21814.7890625,68371.7734375
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,40707.0,34525.92578125,21382.6640625,65156.28125
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,45023.0,36006.5078125,21752.529296875,67964.2578125
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,47395.0,36935.5234375,21611.126953125,69718.234375
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,44445.0,38522.68359375,23187.1484375,71792.1328125
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,38158.0,35152.921875,20976.69921875,64868.8125
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,33771.0,29285.185546875,16908.654296875,57750.640625
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,30276.0,24929.31640625,13618.0712890625,52362.515625
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,29861.0,22395.23046875,12569.0458984375,48265.8046875
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,30348.0,23788.109375,14374.8369140625,49980.27734375
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,34867.0,26575.580078125,17908.65625,52563.390625
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,timesfm-univariate,52244.0,29301.95703125,19423.23046875,56394.3671875
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,648899.0,512797.34375,456128.3125,595417.0
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,695309.0,479627.6875,391183.40625,621843.3125
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,507067.0,458869.46875,347661.25,665811.5
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,368474.0,414426.71875,298203.90625,665030.0625
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,348483.0,369461.0625,257515.875,665967.6875
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,287938.0,337001.03125,224157.90625,657779.0
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,276631.0,318482.5,207967.4375,652161.5
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,352201.0,293658.09375,190843.0625,616625.8125
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,403181.0,287207.5625,184410.21875,587908.9375
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,285991.0,266191.5625,166363.109375,526697.875
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,211760.0,236840.21875,140613.125,477763.125
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,194628.0,214481.125,125671.7109375,439135.59375
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,160565.0,205131.3125,114629.7890625,424302.5625
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,158485.0,192337.09375,111319.515625,402451.78125
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,200472.0,184407.96875,109842.1640625,382543.6875
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,230460.0,187806.875,112118.0703125,380246.0
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,164852.0,170095.96875,96542.203125,364757.5
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,131648.0,143271.15625,85955.59375,319861.5
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,126252.0,128420.703125,72622.375,306822.96875
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,107034.0,123819.796875,75344.390625,291119.3125
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,105179.0,118270.3828125,69197.4375,280897.375
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,132233.0,108088.1328125,61657.70703125,263247.8125
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,143634.0,104520.6328125,64219.0,252288.9375
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,106523.0,105138.734375,63324.515625,239104.90625
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,82632.0,91751.109375,55856.546875,219351.46875
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,83803.0,78569.71875,44024.515625,200599.125
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,75236.0,68289.234375,39172.44140625,185450.0625
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,78484.0,68037.7421875,45154.8828125,177397.9375
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,101399.0,62521.02734375,47084.984375,166091.5
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,timesfm-univariate,129008.0,68714.515625,49897.9453125,170136.875
+2023-07-29,Manhattan_Project,Manhattan Project,history,timesfm-univariate,67354.0,53909.33203125,48723.45703125,61596.7578125
+2023-07-30,Manhattan_Project,Manhattan Project,history,timesfm-univariate,71653.0,50349.5703125,42502.23046875,62787.796875
+2023-07-31,Manhattan_Project,Manhattan Project,history,timesfm-univariate,53955.0,48337.83203125,38951.609375,65631.15625
+2023-08-01,Manhattan_Project,Manhattan Project,history,timesfm-univariate,40020.0,44418.38671875,34417.95703125,65488.09375
+2023-08-02,Manhattan_Project,Manhattan Project,history,timesfm-univariate,37323.0,39758.97265625,28727.0,65954.078125
+2023-08-03,Manhattan_Project,Manhattan Project,history,timesfm-univariate,31494.0,35650.8671875,26419.78515625,61729.9609375
+2023-08-04,Manhattan_Project,Manhattan Project,history,timesfm-univariate,29815.0,33570.6171875,24758.333984375,60603.91796875
+2023-08-05,Manhattan_Project,Manhattan Project,history,timesfm-univariate,34072.0,30765.908203125,22577.171875,57278.953125
+2023-08-06,Manhattan_Project,Manhattan Project,history,timesfm-univariate,44251.0,30667.255859375,22453.828125,56122.5703125
+2023-08-07,Manhattan_Project,Manhattan Project,history,timesfm-univariate,31306.0,29576.2734375,21238.208984375,52608.19921875
+2023-08-08,Manhattan_Project,Manhattan Project,history,timesfm-univariate,24302.0,26645.798828125,18387.16796875,48650.8203125
+2023-08-09,Manhattan_Project,Manhattan Project,history,timesfm-univariate,22682.0,24748.83984375,16861.53515625,45609.8515625
+2023-08-10,Manhattan_Project,Manhattan Project,history,timesfm-univariate,19102.0,23133.546875,15219.04296875,43464.14453125
+2023-08-11,Manhattan_Project,Manhattan Project,history,timesfm-univariate,18090.0,21355.646484375,13946.7666015625,41212.6875
+2023-08-12,Manhattan_Project,Manhattan Project,history,timesfm-univariate,20260.0,20297.8046875,13427.412109375,39178.390625
+2023-08-13,Manhattan_Project,Manhattan Project,history,timesfm-univariate,23489.0,21571.3359375,14045.16796875,40477.09375
+2023-08-14,Manhattan_Project,Manhattan Project,history,timesfm-univariate,17970.0,20803.1796875,12795.5048828125,40560.63671875
+2023-08-15,Manhattan_Project,Manhattan Project,history,timesfm-univariate,14727.0,18201.55078125,11662.787109375,36564.578125
+2023-08-16,Manhattan_Project,Manhattan Project,history,timesfm-univariate,14297.0,16596.82421875,10194.212890625,35008.046875
+2023-08-17,Manhattan_Project,Manhattan Project,history,timesfm-univariate,12890.0,15507.373046875,10041.177734375,32715.615234375
+2023-08-18,Manhattan_Project,Manhattan Project,history,timesfm-univariate,11635.0,14711.89453125,9056.126953125,31750.4921875
+2023-08-19,Manhattan_Project,Manhattan Project,history,timesfm-univariate,13222.0,13435.390625,8164.6923828125,29843.611328125
+2023-08-20,Manhattan_Project,Manhattan Project,history,timesfm-univariate,14298.0,12997.900390625,8251.6728515625,28965.982421875
+2023-08-21,Manhattan_Project,Manhattan Project,history,timesfm-univariate,14760.0,13785.5126953125,8682.421875,28914.966796875
+2023-08-22,Manhattan_Project,Manhattan Project,history,timesfm-univariate,10167.0,12782.240234375,8094.7314453125,27488.763671875
+2023-08-23,Manhattan_Project,Manhattan Project,history,timesfm-univariate,9870.0,11663.46484375,6708.53662109375,26258.701171875
+2023-08-24,Manhattan_Project,Manhattan Project,history,timesfm-univariate,8789.0,10288.484375,6467.8876953125,23611.544921875
+2023-08-25,Manhattan_Project,Manhattan Project,history,timesfm-univariate,8719.0,9910.482421875,6570.4619140625,22517.482421875
+2023-08-26,Manhattan_Project,Manhattan Project,history,timesfm-univariate,10251.0,8793.8564453125,6124.0107421875,21021.40234375
+2023-08-27,Manhattan_Project,Manhattan Project,history,timesfm-univariate,12681.0,9701.4306640625,6918.84228515625,21996.703125
+2023-07-29,Barbenheimer,Barbenheimer,event,exponential-decay,38617.0,31626.664542241426,,
+2023-07-30,Barbenheimer,Barbenheimer,event,exponential-decay,41902.0,26123.34868467297,,
+2023-07-31,Barbenheimer,Barbenheimer,event,exponential-decay,38796.0,21852.30961142273,,
+2023-08-01,Barbenheimer,Barbenheimer,event,exponential-decay,32127.0,18537.621660131783,,
+2023-08-02,Barbenheimer,Barbenheimer,event,exponential-decay,29297.0,15965.143154082438,,
+2023-08-03,Barbenheimer,Barbenheimer,event,exponential-decay,23203.0,13968.682020687158,,
+2023-08-04,Barbenheimer,Barbenheimer,event,exponential-decay,20946.0,12419.259140074197,,
+2023-08-05,Barbenheimer,Barbenheimer,event,exponential-decay,20971.0,11216.775794513536,,
+2023-08-06,Barbenheimer,Barbenheimer,event,exponential-decay,25401.0,10283.546903651451,,
+2023-08-07,Barbenheimer,Barbenheimer,event,exponential-decay,23278.0,9559.282267509156,,
+2023-08-08,Barbenheimer,Barbenheimer,event,exponential-decay,15813.0,8997.19158610969,,
+2023-08-09,Barbenheimer,Barbenheimer,event,exponential-decay,13453.0,8560.961624919037,,
+2023-08-10,Barbenheimer,Barbenheimer,event,exponential-decay,11758.0,8222.41023928388,,
+2023-08-11,Barbenheimer,Barbenheimer,event,exponential-decay,10692.0,7959.6656987606975,,
+2023-08-12,Barbenheimer,Barbenheimer,event,exponential-decay,10310.0,7755.753688637854,,
+2023-08-13,Barbenheimer,Barbenheimer,event,exponential-decay,10704.0,7597.5007034776545,,
+2023-08-14,Barbenheimer,Barbenheimer,event,exponential-decay,10407.0,7474.682987654899,,
+2023-08-15,Barbenheimer,Barbenheimer,event,exponential-decay,9112.0,7379.366041155284,,
+2023-08-16,Barbenheimer,Barbenheimer,event,exponential-decay,8931.0,7305.392020150676,,
+2023-08-17,Barbenheimer,Barbenheimer,event,exponential-decay,8438.0,7247.981916443542,,
+2023-08-18,Barbenheimer,Barbenheimer,event,exponential-decay,7969.0,7203.426815032217,,
+2023-08-19,Barbenheimer,Barbenheimer,event,exponential-decay,7517.0,7168.84828384021,,
+2023-08-20,Barbenheimer,Barbenheimer,event,exponential-decay,7863.0,7142.012415858262,,
+2023-08-21,Barbenheimer,Barbenheimer,event,exponential-decay,8160.0,7121.185510101461,,
+2023-08-22,Barbenheimer,Barbenheimer,event,exponential-decay,7503.0,7105.022067812416,,
+2023-08-23,Barbenheimer,Barbenheimer,event,exponential-decay,7370.0,7092.477868031515,,
+2023-08-24,Barbenheimer,Barbenheimer,event,exponential-decay,7214.0,7082.742506879528,,
+2023-08-25,Barbenheimer,Barbenheimer,event,exponential-decay,8370.0,7075.187042328977,,
+2023-08-26,Barbenheimer,Barbenheimer,event,exponential-decay,7348.0,7069.32336211379,,
+2023-08-27,Barbenheimer,Barbenheimer,event,exponential-decay,7951.0,7064.772649786843,,
+2023-07-29,Barbie_(film),Barbie,work,exponential-decay,392520.0,327712.8464050934,,
+2023-07-30,Barbie_(film),Barbie,work,exponential-decay,432463.0,283875.19057126803,,
+2023-07-31,Barbie_(film),Barbie,work,exponential-decay,366327.0,247062.6235609396,,
+2023-08-01,Barbie_(film),Barbie,work,exponential-decay,291089.0,216149.35814759383,,
+2023-08-02,Barbie_(film),Barbie,work,exponential-decay,286286.0,190190.0171907999,,
+2023-08-03,Barbie_(film),Barbie,work,exponential-decay,263439.0,168390.7224899509,,
+2023-08-04,Barbie_(film),Barbie,work,exponential-decay,265905.0,150084.81671809818,,
+2023-08-05,Barbie_(film),Barbie,work,exponential-decay,303330.0,134712.4759737486,,
+2023-08-06,Barbie_(film),Barbie,work,exponential-decay,392610.0,121803.58946982362,,
+2023-08-07,Barbie_(film),Barbie,work,exponential-decay,356684.0,110963.38279326592,,
+2023-08-08,Barbie_(film),Barbie,work,exponential-decay,227637.0,101860.34507155736,,
+2023-08-09,Barbie_(film),Barbie,work,exponential-decay,184556.0,94216.09083957394,,
+2023-08-10,Barbie_(film),Barbie,work,exponential-decay,168838.0,87796.84656644057,,
+2023-08-11,Barbie_(film),Barbie,work,exponential-decay,169479.0,82406.30148674546,,
+2023-08-12,Barbie_(film),Barbie,work,exponential-decay,166205.0,77879.60410309213,,
+2023-08-13,Barbie_(film),Barbie,work,exponential-decay,164447.0,74078.32076342418,,
+2023-08-14,Barbie_(film),Barbie,work,exponential-decay,144373.0,70886.20213834934,,
+2023-08-15,Barbie_(film),Barbie,work,exponential-decay,127961.0,68205.62813056188,,
+2023-08-16,Barbie_(film),Barbie,work,exponential-decay,128780.0,65954.62249600235,,
+2023-08-17,Barbie_(film),Barbie,work,exponential-decay,118045.0,64064.34587909184,,
+2023-08-18,Barbie_(film),Barbie,work,exponential-decay,106161.0,62476.99059504441,,
+2023-08-19,Barbie_(film),Barbie,work,exponential-decay,105031.0,61144.01277833124,,
+2023-08-20,Barbie_(film),Barbie,work,exponential-decay,115547.0,60024.64783356673,,
+2023-08-21,Barbie_(film),Barbie,work,exponential-decay,104067.0,59084.66378892808,,
+2023-08-22,Barbie_(film),Barbie,work,exponential-decay,85914.0,58295.31442766045,,
+2023-08-23,Barbie_(film),Barbie,work,exponential-decay,82858.0,57632.46018275341,,
+2023-08-24,Barbie_(film),Barbie,work,exponential-decay,79979.0,57075.8299103406,,
+2023-08-25,Barbie_(film),Barbie,work,exponential-decay,74200.0,56608.400965671455,,
+2023-08-26,Barbie_(film),Barbie,work,exponential-decay,78458.0,56215.87862338592,,
+2023-08-27,Barbie_(film),Barbie,work,exponential-decay,96334.0,55886.258921930814,,
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,exponential-decay,587938.0,408973.1546377791,,
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,exponential-decay,648529.0,342448.85414781794,,
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,exponential-decay,507048.0,289366.526260598,,
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,exponential-decay,383683.0,247010.0713535455,,
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,exponential-decay,376831.0,213212.2078516863,,
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,exponential-decay,337278.0,186243.57745528116,,
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,exponential-decay,333996.0,164724.25788592722,,
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,exponential-decay,386813.0,147553.15546354742,,
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,exponential-decay,448209.0,133851.66469616487,,
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,exponential-decay,360020.0,122918.71207432318,,
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,exponential-decay,272530.0,114194.883765364,,
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,exponential-decay,243223.0,107233.80170486406,,
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,exponential-decay,219433.0,101679.28346620844,,
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,exponential-decay,216546.0,97247.11723179083,,
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,exponential-decay,256546.0,93710.51933338052,,
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,exponential-decay,282754.0,90888.53025771938,,
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,exponential-decay,222888.0,88636.75536786544,,
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,exponential-decay,189253.0,86839.97656446454,,
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,exponential-decay,176700.0,85406.25684279195,,
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,exponential-decay,166219.0,84262.23608941805,,
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,exponential-decay,165755.0,83349.37741532284,,
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,exponential-decay,172595.0,82620.97195902908,,
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,exponential-decay,191926.0,82039.74890247609,,
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,exponential-decay,166727.0,81575.9684096889,,
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,exponential-decay,135075.0,81205.89990833665,,
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,exponential-decay,127668.0,80910.60785137657,,
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,exponential-decay,122413.0,80674.98282902235,,
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,exponential-decay,125198.0,80486.96845528342,,
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,exponential-decay,151185.0,80336.94447065203,,
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,exponential-decay,178100.0,80217.23449573312,,
+2023-07-29,Margot_Robbie,Margot Robbie,person,exponential-decay,155298.0,127872.59538625224,,
+2023-07-30,Margot_Robbie,Margot Robbie,person,exponential-decay,147647.0,116092.84056937625,,
+2023-07-31,Margot_Robbie,Margot Robbie,person,exponential-decay,128459.0,105969.79275981468,,
+2023-08-01,Margot_Robbie,Margot Robbie,person,exponential-decay,100959.0,97270.4523620112,,
+2023-08-02,Margot_Robbie,Margot Robbie,person,exponential-decay,94223.0,89794.5888888213,,
+2023-08-03,Margot_Robbie,Margot Robbie,person,exponential-decay,78130.0,83370.13230773553,,
+2023-08-04,Margot_Robbie,Margot Robbie,person,exponential-decay,75694.0,77849.21254906514,,
+2023-08-05,Margot_Robbie,Margot Robbie,person,exponential-decay,90145.0,73104.75601846687,,
+2023-08-06,Margot_Robbie,Margot Robbie,person,exponential-decay,100420.0,69027.56077660779,,
+2023-08-07,Margot_Robbie,Margot Robbie,person,exponential-decay,99693.0,65523.78306613064,,
+2023-08-08,Margot_Robbie,Margot Robbie,person,exponential-decay,71858.0,62512.77733395506,,
+2023-08-09,Margot_Robbie,Margot Robbie,person,exponential-decay,67610.0,59925.24003326266,,
+2023-08-10,Margot_Robbie,Margot Robbie,person,exponential-decay,62659.0,57701.61448153158,,
+2023-08-11,Margot_Robbie,Margot Robbie,person,exponential-decay,55278.0,55790.720059646985,,
+2023-08-12,Margot_Robbie,Margot Robbie,person,exponential-decay,68136.0,54148.57420071541,,
+2023-08-13,Margot_Robbie,Margot Robbie,person,exponential-decay,61820.0,52737.38005460103,,
+2023-08-14,Margot_Robbie,Margot Robbie,person,exponential-decay,51014.0,51524.65652751849,,
+2023-08-15,Margot_Robbie,Margot Robbie,person,exponential-decay,55829.0,50482.490673026434,,
+2023-08-16,Margot_Robbie,Margot Robbie,person,exponential-decay,52743.0,49586.89522689697,,
+2023-08-17,Margot_Robbie,Margot Robbie,person,exponential-decay,47939.0,48817.25649840613,,
+2023-08-18,Margot_Robbie,Margot Robbie,person,exponential-decay,41408.0,48155.85991030049,,
+2023-08-19,Margot_Robbie,Margot Robbie,person,exponential-decay,42279.0,47587.48226691504,,
+2023-08-20,Margot_Robbie,Margot Robbie,person,exponential-decay,43681.0,47099.04136578236,,
+2023-08-21,Margot_Robbie,Margot Robbie,person,exponential-decay,35744.0,46679.29488793312,,
+2023-08-22,Margot_Robbie,Margot Robbie,person,exponential-decay,33185.0,46318.58163632319,,
+2023-08-23,Margot_Robbie,Margot Robbie,person,exponential-decay,29312.0,46008.599166538814,,
+2023-08-24,Margot_Robbie,Margot Robbie,person,exponential-decay,27636.0,45742.21269156247,,
+2023-08-25,Margot_Robbie,Margot Robbie,person,exponential-decay,28346.0,45513.29086220972,,
+2023-08-26,Margot_Robbie,Margot Robbie,person,exponential-decay,32320.0,45316.5646434373,,
+2023-08-27,Margot_Robbie,Margot Robbie,person,exponential-decay,34276.0,45147.50603831468,,
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,exponential-decay,143728.0,112640.19171259971,,
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,exponential-decay,145978.0,97369.71975563688,,
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,exponential-decay,115889.0,84801.96974727708,,
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,exponential-decay,95617.0,74458.58673214953,,
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,exponential-decay,83105.0,65945.87983342358,,
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,exponential-decay,74324.0,58939.83755135475,,
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,exponential-decay,73530.0,53173.795205237664,,
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,exponential-decay,83638.0,48428.28511570998,,
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,exponential-decay,88346.0,44522.68320403238,,
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,exponential-decay,73734.0,41308.33406037307,,
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,exponential-decay,61260.0,38662.89280675967,,
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,exponential-decay,58091.0,36485.668394120905,,
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,exponential-decay,48690.0,34693.79108952548,,
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,exponential-decay,47462.0,33219.05828013508,,
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,exponential-decay,52301.0,32005.33853854624,,
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,exponential-decay,56085.0,31006.435142797243,,
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,exponential-decay,45023.0,30184.32773212544,,
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,exponential-decay,39236.0,29507.725172200484,,
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,exponential-decay,43668.0,28950.874548845914,,
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,exponential-decay,40707.0,28492.580958049028,,
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,exponential-decay,45023.0,28115.40078340861,,
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,exponential-decay,47395.0,27804.977755466185,,
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,exponential-decay,44445.0,27549.49652194481,,
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,exponential-decay,38158.0,27339.232930631235,,
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,exponential-decay,33771.0,27166.18390772373,,
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,exponential-decay,30276.0,27023.762844038083,,
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,exponential-decay,29861.0,26906.548894831372,,
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,exponential-decay,30348.0,26810.08065106823,,
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,exponential-decay,34867.0,26730.68632882478,,
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,exponential-decay,52244.0,26665.3440134824,,
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,648899.0,439835.77546392544,,
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,695309.0,372444.1351351093,,
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,507067.0,317507.03697249957,,
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,368474.0,272722.77679123124,,
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,348483.0,236215.02470634613,,
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,287938.0,206454.21238307137,,
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,276631.0,182193.4485846921,,
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,352201.0,162416.27806638475,,
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,403181.0,146294.0950650262,,
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,285991.0,133151.4271344094,,
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,211760.0,122437.6348198138,,
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,194628.0,113703.8414708326,,
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,160565.0,106584.12661890368,,
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,158485.0,100780.19497691098,,
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,200472.0,96048.87873665492,,
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,230460.0,92191.94954690564,,
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,164852.0,89047.81332363455,,
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,131648.0,86484.73992919453,,
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,126252.0,84395.34406375342,,
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,107034.0,82692.08613442822,,
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,105179.0,81303.60460165908,,
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,132233.0,80171.726138833,,
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,143634.0,79249.02833956559,,
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,106523.0,78496.85285718455,,
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,82632.0,77883.68573275403,,
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,83803.0,77383.83705210811,,
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,75236.0,76976.36461337369,,
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,78484.0,76644.19650979157,,
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,101399.0,76373.41586661474,,
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,exponential-decay,129008.0,76152.67776464604,,
+2023-07-29,Manhattan_Project,Manhattan Project,history,exponential-decay,67354.0,48386.13654288581,,
+2023-07-30,Manhattan_Project,Manhattan Project,history,exponential-decay,71653.0,41538.09777035189,,
+2023-07-31,Manhattan_Project,Manhattan Project,history,exponential-decay,53955.0,35942.742617464595,,
+2023-08-01,Manhattan_Project,Manhattan Project,history,exponential-decay,40020.0,31370.92281228,,
+2023-08-02,Manhattan_Project,Manhattan Project,history,exponential-decay,37323.0,27635.40723552663,,
+2023-08-03,Manhattan_Project,Manhattan Project,history,exponential-decay,31494.0,24583.214187947888,,
+2023-08-04,Manhattan_Project,Manhattan Project,history,exponential-decay,29815.0,22089.346284501837,,
+2023-08-05,Manhattan_Project,Manhattan Project,history,exponential-decay,34072.0,20051.67139864486,,
+2023-08-06,Manhattan_Project,Manhattan Project,history,exponential-decay,44251.0,18386.740014462597,,
+2023-08-07,Manhattan_Project,Manhattan Project,history,exponential-decay,31306.0,17026.367693404474,,
+2023-08-08,Manhattan_Project,Manhattan Project,history,exponential-decay,24302.0,15914.842696348804,,
+2023-08-09,Manhattan_Project,Manhattan Project,history,exponential-decay,22682.0,15006.64440390002,,
+2023-08-10,Manhattan_Project,Manhattan Project,history,exponential-decay,19102.0,14264.579096694346,,
+2023-08-11,Manhattan_Project,Manhattan Project,history,exponential-decay,18090.0,13658.256749761167,,
+2023-08-12,Manhattan_Project,Manhattan Project,history,exponential-decay,20260.0,13162.846460638648,,
+2023-08-13,Manhattan_Project,Manhattan Project,history,exponential-decay,23489.0,12758.059541914852,,
+2023-08-14,Manhattan_Project,Manhattan Project,history,exponential-decay,17970.0,12427.318632475686,,
+2023-08-15,Manhattan_Project,Manhattan Project,history,exponential-decay,14727.0,12157.07879982119,,
+2023-08-16,Manhattan_Project,Manhattan Project,history,exponential-decay,14297.0,11936.27283034809,,
+2023-08-17,Manhattan_Project,Manhattan Project,history,exponential-decay,12890.0,11755.857990403716,,
+2023-08-18,Manhattan_Project,Manhattan Project,history,exponential-decay,11635.0,11608.44569647966,,
+2023-08-19,Manhattan_Project,Manhattan Project,history,exponential-decay,13222.0,11487.99892831662,,
+2023-08-20,Manhattan_Project,Manhattan Project,history,exponential-decay,14298.0,11389.584992987762,,
+2023-08-21,Manhattan_Project,Manhattan Project,history,exponential-decay,14760.0,11309.17351483334,,
+2023-08-22,Manhattan_Project,Manhattan Project,history,exponential-decay,10167.0,11243.471378267288,,
+2023-08-23,Manhattan_Project,Manhattan Project,history,exponential-decay,9870.0,11189.787863818592,,
+2023-08-24,Manhattan_Project,Manhattan Project,history,exponential-decay,8789.0,11145.924454282953,,
+2023-08-25,Manhattan_Project,Manhattan Project,history,exponential-decay,8719.0,11110.08479818275,,
+2023-08-26,Manhattan_Project,Manhattan Project,history,exponential-decay,10251.0,11080.801143241675,,
+2023-08-27,Manhattan_Project,Manhattan Project,history,exponential-decay,12681.0,11056.874227081817,,
+2023-07-29,Barbenheimer,Barbenheimer,event,power-law-decay,38617.0,42243.425778722805,,
+2023-07-30,Barbenheimer,Barbenheimer,event,power-law-decay,41902.0,39229.2750544184,,
+2023-07-31,Barbenheimer,Barbenheimer,event,power-law-decay,38796.0,36752.43740049274,,
+2023-08-01,Barbenheimer,Barbenheimer,event,power-law-decay,32127.0,34676.502207935984,,
+2023-08-02,Barbenheimer,Barbenheimer,event,power-law-decay,29297.0,32908.26920277863,,
+2023-08-03,Barbenheimer,Barbenheimer,event,power-law-decay,23203.0,31381.76511587514,,
+2023-08-04,Barbenheimer,Barbenheimer,event,power-law-decay,20946.0,30048.899365588924,,
+2023-08-05,Barbenheimer,Barbenheimer,event,power-law-decay,20971.0,28873.73977034157,,
+2023-08-06,Barbenheimer,Barbenheimer,event,power-law-decay,25401.0,27828.866007079476,,
+2023-08-07,Barbenheimer,Barbenheimer,event,power-law-decay,23278.0,26892.968138106105,,
+2023-08-08,Barbenheimer,Barbenheimer,event,power-law-decay,15813.0,26049.21917976704,,
+2023-08-09,Barbenheimer,Barbenheimer,event,power-law-decay,13453.0,25284.14441194858,,
+2023-08-10,Barbenheimer,Barbenheimer,event,power-law-decay,11758.0,24586.818432175383,,
+2023-08-11,Barbenheimer,Barbenheimer,event,power-law-decay,10692.0,23948.283797695934,,
+2023-08-12,Barbenheimer,Barbenheimer,event,power-law-decay,10310.0,23361.12276627847,,
+2023-08-13,Barbenheimer,Barbenheimer,event,power-law-decay,10704.0,22819.136885205557,,
+2023-08-14,Barbenheimer,Barbenheimer,event,power-law-decay,10407.0,22317.103888190137,,
+2023-08-15,Barbenheimer,Barbenheimer,event,power-law-decay,9112.0,21850.590888755636,,
+2023-08-16,Barbenheimer,Barbenheimer,event,power-law-decay,8931.0,21415.80916087878,,
+2023-08-17,Barbenheimer,Barbenheimer,event,power-law-decay,8438.0,21009.500045391705,,
+2023-08-18,Barbenheimer,Barbenheimer,event,power-law-decay,7969.0,20628.84443326795,,
+2023-08-19,Barbenheimer,Barbenheimer,event,power-law-decay,7517.0,20271.390305819587,,
+2023-08-20,Barbenheimer,Barbenheimer,event,power-law-decay,7863.0,19934.994245749396,,
+2023-08-21,Barbenheimer,Barbenheimer,event,power-law-decay,8160.0,19617.773860045636,,
+2023-08-22,Barbenheimer,Barbenheimer,event,power-law-decay,7503.0,19318.068800469773,,
+2023-08-23,Barbenheimer,Barbenheimer,event,power-law-decay,7370.0,19034.408613684092,,
+2023-08-24,Barbenheimer,Barbenheimer,event,power-law-decay,7214.0,18765.48605808177,,
+2023-08-25,Barbenheimer,Barbenheimer,event,power-law-decay,8370.0,18510.1348276597,,
+2023-08-26,Barbenheimer,Barbenheimer,event,power-law-decay,7348.0,18267.31085249286,,
+2023-08-27,Barbenheimer,Barbenheimer,event,power-law-decay,7951.0,18036.076520132498,,
+2023-07-29,Barbie_(film),Barbie,work,power-law-decay,392520.0,388210.1819352203,,
+2023-07-30,Barbie_(film),Barbie,work,power-law-decay,432463.0,367283.96434172493,,
+2023-07-31,Barbie_(film),Barbie,work,power-law-decay,366327.0,349916.56782033737,,
+2023-08-01,Barbie_(film),Barbie,work,power-law-decay,291089.0,335198.7600117344,,
+2023-08-02,Barbie_(film),Barbie,work,power-law-decay,286286.0,322516.83531116374,,
+2023-08-03,Barbie_(film),Barbie,work,power-law-decay,263439.0,311439.5063056851,,
+2023-08-04,Barbie_(film),Barbie,work,power-law-decay,265905.0,301653.5887110386,,
+2023-08-05,Barbie_(film),Barbie,work,power-law-decay,303330.0,292925.4026765261,,
+2023-08-06,Barbie_(film),Barbie,work,power-law-decay,392610.0,285076.55682864354,,
+2023-08-07,Barbie_(film),Barbie,work,power-law-decay,356684.0,277968.18065001065,,
+2023-08-08,Barbie_(film),Barbie,work,power-law-decay,227637.0,271490.32829370885,,
+2023-08-09,Barbie_(film),Barbie,work,power-law-decay,184556.0,265554.6613586086,,
+2023-08-10,Barbie_(film),Barbie,work,power-law-decay,168838.0,260089.2748888235,,
+2023-08-11,Barbie_(film),Barbie,work,power-law-decay,169479.0,255034.9619359428,,
+2023-08-12,Barbie_(film),Barbie,work,power-law-decay,166205.0,250342.46655478716,,
+2023-08-13,Barbie_(film),Barbie,work,power-law-decay,164447.0,245970.43020093156,,
+2023-08-14,Barbie_(film),Barbie,work,power-law-decay,144373.0,241883.8336762393,,
+2023-08-15,Barbie_(film),Barbie,work,power-law-decay,127961.0,238052.79918828217,,
+2023-08-16,Barbie_(film),Barbie,work,power-law-decay,128780.0,234451.6580871181,,
+2023-08-17,Barbie_(film),Barbie,work,power-law-decay,118045.0,231058.21731784393,,
+2023-08-18,Barbie_(film),Barbie,work,power-law-decay,106161.0,227853.17637940976,,
+2023-08-19,Barbie_(film),Barbie,work,power-law-decay,105031.0,224819.65959360788,,
+2023-08-20,Barbie_(film),Barbie,work,power-law-decay,115547.0,221942.8376578953,,
+2023-08-21,Barbie_(film),Barbie,work,power-law-decay,104067.0,219209.61900819567,,
+2023-08-22,Barbie_(film),Barbie,work,power-law-decay,85914.0,216608.396261017,,
+2023-08-23,Barbie_(film),Barbie,work,power-law-decay,82858.0,214128.8364789699,,
+2023-08-24,Barbie_(film),Barbie,work,power-law-decay,79979.0,211761.70657773703,,
+2023-08-25,Barbie_(film),Barbie,work,power-law-decay,74200.0,209498.7271190103,,
+2023-08-26,Barbie_(film),Barbie,work,power-law-decay,78458.0,207332.4491897256,,
+2023-08-27,Barbie_(film),Barbie,work,power-law-decay,96334.0,205256.15017804696,,
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,power-law-decay,587938.0,505598.76365371386,,
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,power-law-decay,648529.0,471388.05655875447,,
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,power-law-decay,507048.0,443500.66277306224,,
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,power-law-decay,383683.0,420241.4782801661,,
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,power-law-decay,376831.0,400484.8357866691,,
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,power-law-decay,337278.0,383451.111341257,,
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,power-law-decay,333996.0,368581.59787704394,,
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,power-law-decay,386813.0,355464.4215772555,,
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,power-law-decay,448209.0,343788.6332778395,,
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,power-law-decay,360020.0,333314.6527892299,,
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,power-law-decay,272530.0,323854.61367511784,,
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,power-law-decay,243223.0,315258.92179427715,,
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,power-law-decay,219433.0,307406.8369750911,,
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,power-law-decay,216546.0,300199.7311939289,,
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,power-law-decay,256546.0,293556.170482425,,
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,power-law-decay,282754.0,287408.26616971963,,
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,power-law-decay,222888.0,281698.92652988806,,
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,power-law-decay,189253.0,276379.75813515735,,
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,power-law-decay,176700.0,271409.4433151776,,
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,power-law-decay,166219.0,266752.47144071537,,
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,power-law-decay,165755.0,262378.13654855604,,
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,power-law-decay,172595.0,258259.7378241427,,
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,power-law-decay,191926.0,254373.9362692968,,
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,power-law-decay,166727.0,250700.2328267116,,
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,power-law-decay,135075.0,247220.54183185232,,
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,power-law-decay,127668.0,243918.83992918863,,
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,power-law-decay,122413.0,240780.87520794244,,
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,power-law-decay,125198.0,237793.9247521465,,
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,power-law-decay,151185.0,234946.5913868067,,
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,power-law-decay,178100.0,232228.63236560643,,
+2023-07-29,Margot_Robbie,Margot Robbie,person,power-law-decay,155298.0,144567.15329393826,,
+2023-07-30,Margot_Robbie,Margot Robbie,person,power-law-decay,147647.0,139208.06563889276,,
+2023-07-31,Margot_Robbie,Margot Robbie,person,power-law-decay,128459.0,134718.83482836076,,
+2023-08-01,Margot_Robbie,Margot Robbie,person,power-law-decay,100959.0,130882.96367025776,,
+2023-08-02,Margot_Robbie,Margot Robbie,person,power-law-decay,94223.0,127553.08629148045,,
+2023-08-03,Margot_Robbie,Margot Robbie,person,power-law-decay,78130.0,124624.85554261706,,
+2023-08-04,Margot_Robbie,Margot Robbie,person,power-law-decay,75694.0,122021.9789230042,,
+2023-08-05,Margot_Robbie,Margot Robbie,person,power-law-decay,90145.0,119687.1746783712,,
+2023-08-06,Margot_Robbie,Margot Robbie,person,power-law-decay,100420.0,117576.46152226283,,
+2023-08-07,Margot_Robbie,Margot Robbie,person,power-law-decay,99693.0,115655.4186754457,,
+2023-08-08,Margot_Robbie,Margot Robbie,person,power-law-decay,71858.0,113896.65887530983,,
+2023-08-09,Margot_Robbie,Margot Robbie,person,power-law-decay,67610.0,112278.07453892288,,
+2023-08-10,Margot_Robbie,Margot Robbie,person,power-law-decay,62659.0,110781.5917703484,,
+2023-08-11,Margot_Robbie,Margot Robbie,person,power-law-decay,55278.0,109392.26681126418,,
+2023-08-12,Margot_Robbie,Margot Robbie,person,power-law-decay,68136.0,108097.61880287426,,
+2023-08-13,Margot_Robbie,Margot Robbie,person,power-law-decay,61820.0,106887.12900142591,,
+2023-08-14,Margot_Robbie,Margot Robbie,person,power-law-decay,51014.0,105751.85941201563,,
+2023-08-15,Margot_Robbie,Margot Robbie,person,power-law-decay,55829.0,104684.1585221941,,
+2023-08-16,Margot_Robbie,Margot Robbie,person,power-law-decay,52743.0,103677.43151891412,,
+2023-08-17,Margot_Robbie,Margot Robbie,person,power-law-decay,47939.0,102725.95889727888,,
+2023-08-18,Margot_Robbie,Margot Robbie,person,power-law-decay,41408.0,101824.75183789982,,
+2023-08-19,Margot_Robbie,Margot Robbie,person,power-law-decay,42279.0,100969.43584058038,,
+2023-08-20,Margot_Robbie,Margot Robbie,person,power-law-decay,43681.0,100156.15630085168,,
+2023-08-21,Margot_Robbie,Margot Robbie,person,power-law-decay,35744.0,99381.50129176187,,
+2023-08-22,Margot_Robbie,Margot Robbie,person,power-law-decay,33185.0,98642.43795728764,,
+2023-08-23,Margot_Robbie,Margot Robbie,person,power-law-decay,29312.0,97936.259764085,,
+2023-08-24,Margot_Robbie,Margot Robbie,person,power-law-decay,27636.0,97260.54248242216,,
+2023-08-25,Margot_Robbie,Margot Robbie,person,power-law-decay,28346.0,96613.10723545912,,
+2023-08-26,Margot_Robbie,Margot Robbie,person,power-law-decay,32320.0,95991.98931080764,,
+2023-08-27,Margot_Robbie,Margot Robbie,person,power-law-decay,34276.0,95395.41169947996,,
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,power-law-decay,143728.0,136069.73699967843,,
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,power-law-decay,145978.0,128713.01180484518,,
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,power-law-decay,115889.0,122634.50110824066,,
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,power-law-decay,95617.0,117503.62853570368,,
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,power-law-decay,83105.0,113098.16239587456,,
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,power-law-decay,74324.0,109262.49008220712,,
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,power-law-decay,73530.0,105883.98060269625,,
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,power-law-decay,83638.0,102878.8460804215,,
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,power-law-decay,88346.0,100183.2986287911,,
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,power-law-decay,73734.0,97747.80849248484,,
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,power-law-decay,61260.0,95533.25538313753,,
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,power-law-decay,58091.0,93508.27717427583,,
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,power-law-decay,48690.0,91647.3993878088,,
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,power-law-decay,47462.0,89929.68760740034,,
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,power-law-decay,52301.0,88337.7584516074,,
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,power-law-decay,56085.0,86857.04159206164,,
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,power-law-decay,45023.0,85475.22085295319,,
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,power-law-decay,39236.0,84181.8052205499,,
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,power-law-decay,43668.0,82967.79553515925,,
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,power-law-decay,40707.0,81825.42263570818,,
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,power-law-decay,45023.0,80747.93953975578,,
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,power-law-decay,47395.0,79729.45496228916,,
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,power-law-decay,44445.0,78764.7987980159,,
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,power-law-decay,38158.0,77849.41256188859,,
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,power-law-decay,33771.0,76979.25949586922,,
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,power-law-decay,30276.0,76150.75030341337,,
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,power-law-decay,29861.0,75360.68140050219,,
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,power-law-decay,30348.0,74606.18326528021,,
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,power-law-decay,34867.0,73884.67699161085,,
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,power-law-decay,52244.0,73193.83755040719,,
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,648899.0,563613.2022642225,,
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,695309.0,529780.7058640493,,
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,507067.0,501507.206842543,,
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,368474.0,477448.59966037446,,
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,348483.0,456672.2865845324,,
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,287938.0,438508.83784730866,,
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,276631.0,422464.01615686406,,
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,352201.0,408164.1759727298,,
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,403181.0,395321.0624510195,,
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,285991.0,383708.3714802429,,
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,211760.0,373145.70060041914,,
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,194628.0,363487.2908271896,,
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,160565.0,354613.9592778589,,
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,158485.0,346427.20821530966,,
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,200472.0,338844.8503839817,,
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,230460.0,331797.71092648775,,
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,164852.0,325227.1068119826,,
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,131648.0,319082.89650396287,,
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,126252.0,313321.9537473486,,
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,107034.0,307906.96085502487,,
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,105179.0,302805.4455179366,,
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,132233.0,297989.00524154934,,
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,143634.0,293432.6777878172,,
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,106523.0,289114.4262865534,,
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,82632.0,285014.7151798083,,
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,83803.0,281116.15869364433,,
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,75236.0,277403.22765342984,,
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,78484.0,273862.00356064574,,
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,101399.0,270479.9712050028,,
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,power-law-decay,129008.0,267245.8428902398,,
+2023-07-29,Manhattan_Project,Manhattan Project,history,power-law-decay,67354.0,61431.31229907359,,
+2023-07-30,Manhattan_Project,Manhattan Project,history,power-law-decay,71653.0,58037.140799446286,,
+2023-07-31,Manhattan_Project,Manhattan Project,history,power-law-decay,53955.0,55194.7932668668,,
+2023-08-01,Manhattan_Project,Manhattan Project,history,power-law-decay,40020.0,52771.67079837782,,
+2023-08-02,Manhattan_Project,Manhattan Project,history,power-law-decay,37323.0,50675.59644301848,,
+2023-08-03,Manhattan_Project,Manhattan Project,history,power-law-decay,31494.0,48840.29105615552,,
+2023-08-04,Manhattan_Project,Manhattan Project,history,power-law-decay,29815.0,47216.74434314897,,
+2023-08-05,Manhattan_Project,Manhattan Project,history,power-law-decay,34072.0,45767.8508437188,,
+2023-08-06,Manhattan_Project,Manhattan Project,history,power-law-decay,44251.0,44464.94667036822,,
+2023-08-07,Manhattan_Project,Manhattan Project,history,power-law-decay,31306.0,43285.50022960733,,
+2023-08-08,Manhattan_Project,Manhattan Project,history,power-law-decay,24302.0,42211.529086329305,,
+2023-08-09,Manhattan_Project,Manhattan Project,history,power-law-decay,22682.0,41228.48810727081,,
+2023-08-10,Manhattan_Project,Manhattan Project,history,power-law-decay,19102.0,40324.47184406344,,
+2023-08-11,Manhattan_Project,Manhattan Project,history,power-law-decay,18090.0,39489.63148863106,,
+2023-08-12,Manhattan_Project,Manhattan Project,history,power-law-decay,20260.0,38715.741472197245,,
+2023-08-13,Manhattan_Project,Manhattan Project,history,power-law-decay,23489.0,37995.872415407895,,
+2023-08-14,Manhattan_Project,Manhattan Project,history,power-law-decay,17970.0,37324.14095633102,,
+2023-08-15,Manhattan_Project,Manhattan Project,history,power-law-decay,14727.0,36695.51601123565,,
+2023-08-16,Manhattan_Project,Manhattan Project,history,power-law-decay,14297.0,36105.66704265509,,
+2023-08-17,Manhattan_Project,Manhattan Project,history,power-law-decay,12890.0,35550.843997829084,,
+2023-08-18,Manhattan_Project,Manhattan Project,history,power-law-decay,11635.0,35027.78140487886,,
+2023-08-19,Manhattan_Project,Manhattan Project,history,power-law-decay,13222.0,34533.621095333336,,
+2023-08-20,Manhattan_Project,Manhattan Project,history,power-law-decay,14298.0,34065.849431384246,,
+2023-08-21,Manhattan_Project,Manhattan Project,history,power-law-decay,14760.0,33622.24593256794,,
+2023-08-22,Manhattan_Project,Manhattan Project,history,power-law-decay,10167.0,33200.84093818697,,
+2023-08-23,Manhattan_Project,Manhattan Project,history,power-law-decay,9870.0,32799.880489060335,,
+2023-08-24,Manhattan_Project,Manhattan Project,history,power-law-decay,8789.0,32417.797020301652,,
+2023-08-25,Manhattan_Project,Manhattan Project,history,power-law-decay,8719.0,32053.184764141453,,
+2023-08-26,Manhattan_Project,Manhattan Project,history,power-law-decay,10251.0,31704.778995349516,,
+2023-08-27,Manhattan_Project,Manhattan Project,history,power-law-decay,12681.0,31371.43843081177,,
+2023-07-29,Barbenheimer,Barbenheimer,event,seasonal-naive,38617.0,139861.0,,
+2023-07-30,Barbenheimer,Barbenheimer,event,seasonal-naive,41902.0,131847.0,,
+2023-07-31,Barbenheimer,Barbenheimer,event,seasonal-naive,38796.0,100953.0,,
+2023-08-01,Barbenheimer,Barbenheimer,event,seasonal-naive,32127.0,72075.0,,
+2023-08-02,Barbenheimer,Barbenheimer,event,seasonal-naive,29297.0,57692.0,,
+2023-08-03,Barbenheimer,Barbenheimer,event,seasonal-naive,23203.0,44377.0,,
+2023-08-04,Barbenheimer,Barbenheimer,event,seasonal-naive,20946.0,41291.0,,
+2023-08-05,Barbenheimer,Barbenheimer,event,seasonal-naive,20971.0,139861.0,,
+2023-08-06,Barbenheimer,Barbenheimer,event,seasonal-naive,25401.0,131847.0,,
+2023-08-07,Barbenheimer,Barbenheimer,event,seasonal-naive,23278.0,100953.0,,
+2023-08-08,Barbenheimer,Barbenheimer,event,seasonal-naive,15813.0,72075.0,,
+2023-08-09,Barbenheimer,Barbenheimer,event,seasonal-naive,13453.0,57692.0,,
+2023-08-10,Barbenheimer,Barbenheimer,event,seasonal-naive,11758.0,44377.0,,
+2023-08-11,Barbenheimer,Barbenheimer,event,seasonal-naive,10692.0,41291.0,,
+2023-08-12,Barbenheimer,Barbenheimer,event,seasonal-naive,10310.0,139861.0,,
+2023-08-13,Barbenheimer,Barbenheimer,event,seasonal-naive,10704.0,131847.0,,
+2023-08-14,Barbenheimer,Barbenheimer,event,seasonal-naive,10407.0,100953.0,,
+2023-08-15,Barbenheimer,Barbenheimer,event,seasonal-naive,9112.0,72075.0,,
+2023-08-16,Barbenheimer,Barbenheimer,event,seasonal-naive,8931.0,57692.0,,
+2023-08-17,Barbenheimer,Barbenheimer,event,seasonal-naive,8438.0,44377.0,,
+2023-08-18,Barbenheimer,Barbenheimer,event,seasonal-naive,7969.0,41291.0,,
+2023-08-19,Barbenheimer,Barbenheimer,event,seasonal-naive,7517.0,139861.0,,
+2023-08-20,Barbenheimer,Barbenheimer,event,seasonal-naive,7863.0,131847.0,,
+2023-08-21,Barbenheimer,Barbenheimer,event,seasonal-naive,8160.0,100953.0,,
+2023-08-22,Barbenheimer,Barbenheimer,event,seasonal-naive,7503.0,72075.0,,
+2023-08-23,Barbenheimer,Barbenheimer,event,seasonal-naive,7370.0,57692.0,,
+2023-08-24,Barbenheimer,Barbenheimer,event,seasonal-naive,7214.0,44377.0,,
+2023-08-25,Barbenheimer,Barbenheimer,event,seasonal-naive,8370.0,41291.0,,
+2023-08-26,Barbenheimer,Barbenheimer,event,seasonal-naive,7348.0,139861.0,,
+2023-08-27,Barbenheimer,Barbenheimer,event,seasonal-naive,7951.0,131847.0,,
+2023-07-29,Barbie_(film),Barbie,work,seasonal-naive,392520.0,830551.0,,
+2023-07-30,Barbie_(film),Barbie,work,seasonal-naive,432463.0,833627.0,,
+2023-07-31,Barbie_(film),Barbie,work,seasonal-naive,366327.0,757091.0,,
+2023-08-01,Barbie_(film),Barbie,work,seasonal-naive,291089.0,578738.0,,
+2023-08-02,Barbie_(film),Barbie,work,seasonal-naive,286286.0,491349.0,,
+2023-08-03,Barbie_(film),Barbie,work,seasonal-naive,263439.0,432436.0,,
+2023-08-04,Barbie_(film),Barbie,work,seasonal-naive,265905.0,399406.0,,
+2023-08-05,Barbie_(film),Barbie,work,seasonal-naive,303330.0,830551.0,,
+2023-08-06,Barbie_(film),Barbie,work,seasonal-naive,392610.0,833627.0,,
+2023-08-07,Barbie_(film),Barbie,work,seasonal-naive,356684.0,757091.0,,
+2023-08-08,Barbie_(film),Barbie,work,seasonal-naive,227637.0,578738.0,,
+2023-08-09,Barbie_(film),Barbie,work,seasonal-naive,184556.0,491349.0,,
+2023-08-10,Barbie_(film),Barbie,work,seasonal-naive,168838.0,432436.0,,
+2023-08-11,Barbie_(film),Barbie,work,seasonal-naive,169479.0,399406.0,,
+2023-08-12,Barbie_(film),Barbie,work,seasonal-naive,166205.0,830551.0,,
+2023-08-13,Barbie_(film),Barbie,work,seasonal-naive,164447.0,833627.0,,
+2023-08-14,Barbie_(film),Barbie,work,seasonal-naive,144373.0,757091.0,,
+2023-08-15,Barbie_(film),Barbie,work,seasonal-naive,127961.0,578738.0,,
+2023-08-16,Barbie_(film),Barbie,work,seasonal-naive,128780.0,491349.0,,
+2023-08-17,Barbie_(film),Barbie,work,seasonal-naive,118045.0,432436.0,,
+2023-08-18,Barbie_(film),Barbie,work,seasonal-naive,106161.0,399406.0,,
+2023-08-19,Barbie_(film),Barbie,work,seasonal-naive,105031.0,830551.0,,
+2023-08-20,Barbie_(film),Barbie,work,seasonal-naive,115547.0,833627.0,,
+2023-08-21,Barbie_(film),Barbie,work,seasonal-naive,104067.0,757091.0,,
+2023-08-22,Barbie_(film),Barbie,work,seasonal-naive,85914.0,578738.0,,
+2023-08-23,Barbie_(film),Barbie,work,seasonal-naive,82858.0,491349.0,,
+2023-08-24,Barbie_(film),Barbie,work,seasonal-naive,79979.0,432436.0,,
+2023-08-25,Barbie_(film),Barbie,work,seasonal-naive,74200.0,399406.0,,
+2023-08-26,Barbie_(film),Barbie,work,seasonal-naive,78458.0,830551.0,,
+2023-08-27,Barbie_(film),Barbie,work,seasonal-naive,96334.0,833627.0,,
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,587938.0,1353052.0,,
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,648529.0,1362922.0,,
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,507048.0,1173115.0,,
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,383683.0,859003.0,,
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,376831.0,687586.0,,
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,337278.0,564431.0,,
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,333996.0,532263.0,,
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,386813.0,1353052.0,,
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,448209.0,1362922.0,,
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,360020.0,1173115.0,,
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,272530.0,859003.0,,
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,243223.0,687586.0,,
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,219433.0,564431.0,,
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,216546.0,532263.0,,
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,256546.0,1353052.0,,
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,282754.0,1362922.0,,
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,222888.0,1173115.0,,
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,189253.0,859003.0,,
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,176700.0,687586.0,,
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,166219.0,564431.0,,
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,165755.0,532263.0,,
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,172595.0,1353052.0,,
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,191926.0,1362922.0,,
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,166727.0,1173115.0,,
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,135075.0,859003.0,,
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,127668.0,687586.0,,
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,122413.0,564431.0,,
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,125198.0,532263.0,,
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,151185.0,1353052.0,,
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,seasonal-naive,178100.0,1362922.0,,
+2023-07-29,Margot_Robbie,Margot Robbie,person,seasonal-naive,155298.0,219470.0,,
+2023-07-30,Margot_Robbie,Margot Robbie,person,seasonal-naive,147647.0,247289.0,,
+2023-07-31,Margot_Robbie,Margot Robbie,person,seasonal-naive,128459.0,228701.0,,
+2023-08-01,Margot_Robbie,Margot Robbie,person,seasonal-naive,100959.0,198593.0,,
+2023-08-02,Margot_Robbie,Margot Robbie,person,seasonal-naive,94223.0,176246.0,,
+2023-08-03,Margot_Robbie,Margot Robbie,person,seasonal-naive,78130.0,153860.0,,
+2023-08-04,Margot_Robbie,Margot Robbie,person,seasonal-naive,75694.0,143233.0,,
+2023-08-05,Margot_Robbie,Margot Robbie,person,seasonal-naive,90145.0,219470.0,,
+2023-08-06,Margot_Robbie,Margot Robbie,person,seasonal-naive,100420.0,247289.0,,
+2023-08-07,Margot_Robbie,Margot Robbie,person,seasonal-naive,99693.0,228701.0,,
+2023-08-08,Margot_Robbie,Margot Robbie,person,seasonal-naive,71858.0,198593.0,,
+2023-08-09,Margot_Robbie,Margot Robbie,person,seasonal-naive,67610.0,176246.0,,
+2023-08-10,Margot_Robbie,Margot Robbie,person,seasonal-naive,62659.0,153860.0,,
+2023-08-11,Margot_Robbie,Margot Robbie,person,seasonal-naive,55278.0,143233.0,,
+2023-08-12,Margot_Robbie,Margot Robbie,person,seasonal-naive,68136.0,219470.0,,
+2023-08-13,Margot_Robbie,Margot Robbie,person,seasonal-naive,61820.0,247289.0,,
+2023-08-14,Margot_Robbie,Margot Robbie,person,seasonal-naive,51014.0,228701.0,,
+2023-08-15,Margot_Robbie,Margot Robbie,person,seasonal-naive,55829.0,198593.0,,
+2023-08-16,Margot_Robbie,Margot Robbie,person,seasonal-naive,52743.0,176246.0,,
+2023-08-17,Margot_Robbie,Margot Robbie,person,seasonal-naive,47939.0,153860.0,,
+2023-08-18,Margot_Robbie,Margot Robbie,person,seasonal-naive,41408.0,143233.0,,
+2023-08-19,Margot_Robbie,Margot Robbie,person,seasonal-naive,42279.0,219470.0,,
+2023-08-20,Margot_Robbie,Margot Robbie,person,seasonal-naive,43681.0,247289.0,,
+2023-08-21,Margot_Robbie,Margot Robbie,person,seasonal-naive,35744.0,228701.0,,
+2023-08-22,Margot_Robbie,Margot Robbie,person,seasonal-naive,33185.0,198593.0,,
+2023-08-23,Margot_Robbie,Margot Robbie,person,seasonal-naive,29312.0,176246.0,,
+2023-08-24,Margot_Robbie,Margot Robbie,person,seasonal-naive,27636.0,153860.0,,
+2023-08-25,Margot_Robbie,Margot Robbie,person,seasonal-naive,28346.0,143233.0,,
+2023-08-26,Margot_Robbie,Margot Robbie,person,seasonal-naive,32320.0,219470.0,,
+2023-08-27,Margot_Robbie,Margot Robbie,person,seasonal-naive,34276.0,247289.0,,
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,143728.0,268153.0,,
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,145978.0,284411.0,,
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,115889.0,276374.0,,
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,95617.0,220085.0,,
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,83105.0,180294.0,,
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,74324.0,144837.0,,
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,73530.0,134532.0,,
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,83638.0,268153.0,,
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,88346.0,284411.0,,
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,73734.0,276374.0,,
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,61260.0,220085.0,,
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,58091.0,180294.0,,
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,48690.0,144837.0,,
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,47462.0,134532.0,,
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,52301.0,268153.0,,
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,56085.0,284411.0,,
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,45023.0,276374.0,,
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,39236.0,220085.0,,
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,43668.0,180294.0,,
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,40707.0,144837.0,,
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,45023.0,134532.0,,
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,47395.0,268153.0,,
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,44445.0,284411.0,,
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,38158.0,276374.0,,
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,33771.0,220085.0,,
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,30276.0,180294.0,,
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,29861.0,144837.0,,
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,30348.0,134532.0,,
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,34867.0,268153.0,,
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,seasonal-naive,52244.0,284411.0,,
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,648899.0,1464456.0,,
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,695309.0,1451358.0,,
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,507067.0,1179872.0,,
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,368474.0,864736.0,,
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,348483.0,714518.0,,
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,287938.0,590168.0,,
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,276631.0,551940.0,,
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,352201.0,1464456.0,,
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,403181.0,1451358.0,,
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,285991.0,1179872.0,,
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,211760.0,864736.0,,
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,194628.0,714518.0,,
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,160565.0,590168.0,,
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,158485.0,551940.0,,
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,200472.0,1464456.0,,
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,230460.0,1451358.0,,
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,164852.0,1179872.0,,
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,131648.0,864736.0,,
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,126252.0,714518.0,,
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,107034.0,590168.0,,
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,105179.0,551940.0,,
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,132233.0,1464456.0,,
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,143634.0,1451358.0,,
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,106523.0,1179872.0,,
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,82632.0,864736.0,,
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,83803.0,714518.0,,
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,75236.0,590168.0,,
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,78484.0,551940.0,,
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,101399.0,1464456.0,,
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,seasonal-naive,129008.0,1451358.0,,
+2023-07-29,Manhattan_Project,Manhattan Project,history,seasonal-naive,67354.0,146550.0,,
+2023-07-30,Manhattan_Project,Manhattan Project,history,seasonal-naive,71653.0,146098.0,,
+2023-07-31,Manhattan_Project,Manhattan Project,history,seasonal-naive,53955.0,128394.0,,
+2023-08-01,Manhattan_Project,Manhattan Project,history,seasonal-naive,40020.0,97172.0,,
+2023-08-02,Manhattan_Project,Manhattan Project,history,seasonal-naive,37323.0,75705.0,,
+2023-08-03,Manhattan_Project,Manhattan Project,history,seasonal-naive,31494.0,62177.0,,
+2023-08-04,Manhattan_Project,Manhattan Project,history,seasonal-naive,29815.0,58860.0,,
+2023-08-05,Manhattan_Project,Manhattan Project,history,seasonal-naive,34072.0,146550.0,,
+2023-08-06,Manhattan_Project,Manhattan Project,history,seasonal-naive,44251.0,146098.0,,
+2023-08-07,Manhattan_Project,Manhattan Project,history,seasonal-naive,31306.0,128394.0,,
+2023-08-08,Manhattan_Project,Manhattan Project,history,seasonal-naive,24302.0,97172.0,,
+2023-08-09,Manhattan_Project,Manhattan Project,history,seasonal-naive,22682.0,75705.0,,
+2023-08-10,Manhattan_Project,Manhattan Project,history,seasonal-naive,19102.0,62177.0,,
+2023-08-11,Manhattan_Project,Manhattan Project,history,seasonal-naive,18090.0,58860.0,,
+2023-08-12,Manhattan_Project,Manhattan Project,history,seasonal-naive,20260.0,146550.0,,
+2023-08-13,Manhattan_Project,Manhattan Project,history,seasonal-naive,23489.0,146098.0,,
+2023-08-14,Manhattan_Project,Manhattan Project,history,seasonal-naive,17970.0,128394.0,,
+2023-08-15,Manhattan_Project,Manhattan Project,history,seasonal-naive,14727.0,97172.0,,
+2023-08-16,Manhattan_Project,Manhattan Project,history,seasonal-naive,14297.0,75705.0,,
+2023-08-17,Manhattan_Project,Manhattan Project,history,seasonal-naive,12890.0,62177.0,,
+2023-08-18,Manhattan_Project,Manhattan Project,history,seasonal-naive,11635.0,58860.0,,
+2023-08-19,Manhattan_Project,Manhattan Project,history,seasonal-naive,13222.0,146550.0,,
+2023-08-20,Manhattan_Project,Manhattan Project,history,seasonal-naive,14298.0,146098.0,,
+2023-08-21,Manhattan_Project,Manhattan Project,history,seasonal-naive,14760.0,128394.0,,
+2023-08-22,Manhattan_Project,Manhattan Project,history,seasonal-naive,10167.0,97172.0,,
+2023-08-23,Manhattan_Project,Manhattan Project,history,seasonal-naive,9870.0,75705.0,,
+2023-08-24,Manhattan_Project,Manhattan Project,history,seasonal-naive,8789.0,62177.0,,
+2023-08-25,Manhattan_Project,Manhattan Project,history,seasonal-naive,8719.0,58860.0,,
+2023-08-26,Manhattan_Project,Manhattan Project,history,seasonal-naive,10251.0,146550.0,,
+2023-08-27,Manhattan_Project,Manhattan Project,history,seasonal-naive,12681.0,146098.0,,
+2023-07-29,Barbenheimer,Barbenheimer,event,flat-baseline,38617.0,7049.0,,
+2023-07-30,Barbenheimer,Barbenheimer,event,flat-baseline,41902.0,7049.0,,
+2023-07-31,Barbenheimer,Barbenheimer,event,flat-baseline,38796.0,7049.0,,
+2023-08-01,Barbenheimer,Barbenheimer,event,flat-baseline,32127.0,7049.0,,
+2023-08-02,Barbenheimer,Barbenheimer,event,flat-baseline,29297.0,7049.0,,
+2023-08-03,Barbenheimer,Barbenheimer,event,flat-baseline,23203.0,7049.0,,
+2023-08-04,Barbenheimer,Barbenheimer,event,flat-baseline,20946.0,7049.0,,
+2023-08-05,Barbenheimer,Barbenheimer,event,flat-baseline,20971.0,7049.0,,
+2023-08-06,Barbenheimer,Barbenheimer,event,flat-baseline,25401.0,7049.0,,
+2023-08-07,Barbenheimer,Barbenheimer,event,flat-baseline,23278.0,7049.0,,
+2023-08-08,Barbenheimer,Barbenheimer,event,flat-baseline,15813.0,7049.0,,
+2023-08-09,Barbenheimer,Barbenheimer,event,flat-baseline,13453.0,7049.0,,
+2023-08-10,Barbenheimer,Barbenheimer,event,flat-baseline,11758.0,7049.0,,
+2023-08-11,Barbenheimer,Barbenheimer,event,flat-baseline,10692.0,7049.0,,
+2023-08-12,Barbenheimer,Barbenheimer,event,flat-baseline,10310.0,7049.0,,
+2023-08-13,Barbenheimer,Barbenheimer,event,flat-baseline,10704.0,7049.0,,
+2023-08-14,Barbenheimer,Barbenheimer,event,flat-baseline,10407.0,7049.0,,
+2023-08-15,Barbenheimer,Barbenheimer,event,flat-baseline,9112.0,7049.0,,
+2023-08-16,Barbenheimer,Barbenheimer,event,flat-baseline,8931.0,7049.0,,
+2023-08-17,Barbenheimer,Barbenheimer,event,flat-baseline,8438.0,7049.0,,
+2023-08-18,Barbenheimer,Barbenheimer,event,flat-baseline,7969.0,7049.0,,
+2023-08-19,Barbenheimer,Barbenheimer,event,flat-baseline,7517.0,7049.0,,
+2023-08-20,Barbenheimer,Barbenheimer,event,flat-baseline,7863.0,7049.0,,
+2023-08-21,Barbenheimer,Barbenheimer,event,flat-baseline,8160.0,7049.0,,
+2023-08-22,Barbenheimer,Barbenheimer,event,flat-baseline,7503.0,7049.0,,
+2023-08-23,Barbenheimer,Barbenheimer,event,flat-baseline,7370.0,7049.0,,
+2023-08-24,Barbenheimer,Barbenheimer,event,flat-baseline,7214.0,7049.0,,
+2023-08-25,Barbenheimer,Barbenheimer,event,flat-baseline,8370.0,7049.0,,
+2023-08-26,Barbenheimer,Barbenheimer,event,flat-baseline,7348.0,7049.0,,
+2023-08-27,Barbenheimer,Barbenheimer,event,flat-baseline,7951.0,7049.0,,
+2023-07-29,Barbie_(film),Barbie,work,flat-baseline,392520.0,54159.0,,
+2023-07-30,Barbie_(film),Barbie,work,flat-baseline,432463.0,54159.0,,
+2023-07-31,Barbie_(film),Barbie,work,flat-baseline,366327.0,54159.0,,
+2023-08-01,Barbie_(film),Barbie,work,flat-baseline,291089.0,54159.0,,
+2023-08-02,Barbie_(film),Barbie,work,flat-baseline,286286.0,54159.0,,
+2023-08-03,Barbie_(film),Barbie,work,flat-baseline,263439.0,54159.0,,
+2023-08-04,Barbie_(film),Barbie,work,flat-baseline,265905.0,54159.0,,
+2023-08-05,Barbie_(film),Barbie,work,flat-baseline,303330.0,54159.0,,
+2023-08-06,Barbie_(film),Barbie,work,flat-baseline,392610.0,54159.0,,
+2023-08-07,Barbie_(film),Barbie,work,flat-baseline,356684.0,54159.0,,
+2023-08-08,Barbie_(film),Barbie,work,flat-baseline,227637.0,54159.0,,
+2023-08-09,Barbie_(film),Barbie,work,flat-baseline,184556.0,54159.0,,
+2023-08-10,Barbie_(film),Barbie,work,flat-baseline,168838.0,54159.0,,
+2023-08-11,Barbie_(film),Barbie,work,flat-baseline,169479.0,54159.0,,
+2023-08-12,Barbie_(film),Barbie,work,flat-baseline,166205.0,54159.0,,
+2023-08-13,Barbie_(film),Barbie,work,flat-baseline,164447.0,54159.0,,
+2023-08-14,Barbie_(film),Barbie,work,flat-baseline,144373.0,54159.0,,
+2023-08-15,Barbie_(film),Barbie,work,flat-baseline,127961.0,54159.0,,
+2023-08-16,Barbie_(film),Barbie,work,flat-baseline,128780.0,54159.0,,
+2023-08-17,Barbie_(film),Barbie,work,flat-baseline,118045.0,54159.0,,
+2023-08-18,Barbie_(film),Barbie,work,flat-baseline,106161.0,54159.0,,
+2023-08-19,Barbie_(film),Barbie,work,flat-baseline,105031.0,54159.0,,
+2023-08-20,Barbie_(film),Barbie,work,flat-baseline,115547.0,54159.0,,
+2023-08-21,Barbie_(film),Barbie,work,flat-baseline,104067.0,54159.0,,
+2023-08-22,Barbie_(film),Barbie,work,flat-baseline,85914.0,54159.0,,
+2023-08-23,Barbie_(film),Barbie,work,flat-baseline,82858.0,54159.0,,
+2023-08-24,Barbie_(film),Barbie,work,flat-baseline,79979.0,54159.0,,
+2023-08-25,Barbie_(film),Barbie,work,flat-baseline,74200.0,54159.0,,
+2023-08-26,Barbie_(film),Barbie,work,flat-baseline,78458.0,54159.0,,
+2023-08-27,Barbie_(film),Barbie,work,flat-baseline,96334.0,54159.0,,
+2023-07-29,Oppenheimer_(film),Oppenheimer,work,flat-baseline,587938.0,79744.5,,
+2023-07-30,Oppenheimer_(film),Oppenheimer,work,flat-baseline,648529.0,79744.5,,
+2023-07-31,Oppenheimer_(film),Oppenheimer,work,flat-baseline,507048.0,79744.5,,
+2023-08-01,Oppenheimer_(film),Oppenheimer,work,flat-baseline,383683.0,79744.5,,
+2023-08-02,Oppenheimer_(film),Oppenheimer,work,flat-baseline,376831.0,79744.5,,
+2023-08-03,Oppenheimer_(film),Oppenheimer,work,flat-baseline,337278.0,79744.5,,
+2023-08-04,Oppenheimer_(film),Oppenheimer,work,flat-baseline,333996.0,79744.5,,
+2023-08-05,Oppenheimer_(film),Oppenheimer,work,flat-baseline,386813.0,79744.5,,
+2023-08-06,Oppenheimer_(film),Oppenheimer,work,flat-baseline,448209.0,79744.5,,
+2023-08-07,Oppenheimer_(film),Oppenheimer,work,flat-baseline,360020.0,79744.5,,
+2023-08-08,Oppenheimer_(film),Oppenheimer,work,flat-baseline,272530.0,79744.5,,
+2023-08-09,Oppenheimer_(film),Oppenheimer,work,flat-baseline,243223.0,79744.5,,
+2023-08-10,Oppenheimer_(film),Oppenheimer,work,flat-baseline,219433.0,79744.5,,
+2023-08-11,Oppenheimer_(film),Oppenheimer,work,flat-baseline,216546.0,79744.5,,
+2023-08-12,Oppenheimer_(film),Oppenheimer,work,flat-baseline,256546.0,79744.5,,
+2023-08-13,Oppenheimer_(film),Oppenheimer,work,flat-baseline,282754.0,79744.5,,
+2023-08-14,Oppenheimer_(film),Oppenheimer,work,flat-baseline,222888.0,79744.5,,
+2023-08-15,Oppenheimer_(film),Oppenheimer,work,flat-baseline,189253.0,79744.5,,
+2023-08-16,Oppenheimer_(film),Oppenheimer,work,flat-baseline,176700.0,79744.5,,
+2023-08-17,Oppenheimer_(film),Oppenheimer,work,flat-baseline,166219.0,79744.5,,
+2023-08-18,Oppenheimer_(film),Oppenheimer,work,flat-baseline,165755.0,79744.5,,
+2023-08-19,Oppenheimer_(film),Oppenheimer,work,flat-baseline,172595.0,79744.5,,
+2023-08-20,Oppenheimer_(film),Oppenheimer,work,flat-baseline,191926.0,79744.5,,
+2023-08-21,Oppenheimer_(film),Oppenheimer,work,flat-baseline,166727.0,79744.5,,
+2023-08-22,Oppenheimer_(film),Oppenheimer,work,flat-baseline,135075.0,79744.5,,
+2023-08-23,Oppenheimer_(film),Oppenheimer,work,flat-baseline,127668.0,79744.5,,
+2023-08-24,Oppenheimer_(film),Oppenheimer,work,flat-baseline,122413.0,79744.5,,
+2023-08-25,Oppenheimer_(film),Oppenheimer,work,flat-baseline,125198.0,79744.5,,
+2023-08-26,Oppenheimer_(film),Oppenheimer,work,flat-baseline,151185.0,79744.5,,
+2023-08-27,Oppenheimer_(film),Oppenheimer,work,flat-baseline,178100.0,79744.5,,
+2023-07-29,Margot_Robbie,Margot Robbie,person,flat-baseline,155298.0,44114.5,,
+2023-07-30,Margot_Robbie,Margot Robbie,person,flat-baseline,147647.0,44114.5,,
+2023-07-31,Margot_Robbie,Margot Robbie,person,flat-baseline,128459.0,44114.5,,
+2023-08-01,Margot_Robbie,Margot Robbie,person,flat-baseline,100959.0,44114.5,,
+2023-08-02,Margot_Robbie,Margot Robbie,person,flat-baseline,94223.0,44114.5,,
+2023-08-03,Margot_Robbie,Margot Robbie,person,flat-baseline,78130.0,44114.5,,
+2023-08-04,Margot_Robbie,Margot Robbie,person,flat-baseline,75694.0,44114.5,,
+2023-08-05,Margot_Robbie,Margot Robbie,person,flat-baseline,90145.0,44114.5,,
+2023-08-06,Margot_Robbie,Margot Robbie,person,flat-baseline,100420.0,44114.5,,
+2023-08-07,Margot_Robbie,Margot Robbie,person,flat-baseline,99693.0,44114.5,,
+2023-08-08,Margot_Robbie,Margot Robbie,person,flat-baseline,71858.0,44114.5,,
+2023-08-09,Margot_Robbie,Margot Robbie,person,flat-baseline,67610.0,44114.5,,
+2023-08-10,Margot_Robbie,Margot Robbie,person,flat-baseline,62659.0,44114.5,,
+2023-08-11,Margot_Robbie,Margot Robbie,person,flat-baseline,55278.0,44114.5,,
+2023-08-12,Margot_Robbie,Margot Robbie,person,flat-baseline,68136.0,44114.5,,
+2023-08-13,Margot_Robbie,Margot Robbie,person,flat-baseline,61820.0,44114.5,,
+2023-08-14,Margot_Robbie,Margot Robbie,person,flat-baseline,51014.0,44114.5,,
+2023-08-15,Margot_Robbie,Margot Robbie,person,flat-baseline,55829.0,44114.5,,
+2023-08-16,Margot_Robbie,Margot Robbie,person,flat-baseline,52743.0,44114.5,,
+2023-08-17,Margot_Robbie,Margot Robbie,person,flat-baseline,47939.0,44114.5,,
+2023-08-18,Margot_Robbie,Margot Robbie,person,flat-baseline,41408.0,44114.5,,
+2023-08-19,Margot_Robbie,Margot Robbie,person,flat-baseline,42279.0,44114.5,,
+2023-08-20,Margot_Robbie,Margot Robbie,person,flat-baseline,43681.0,44114.5,,
+2023-08-21,Margot_Robbie,Margot Robbie,person,flat-baseline,35744.0,44114.5,,
+2023-08-22,Margot_Robbie,Margot Robbie,person,flat-baseline,33185.0,44114.5,,
+2023-08-23,Margot_Robbie,Margot Robbie,person,flat-baseline,29312.0,44114.5,,
+2023-08-24,Margot_Robbie,Margot Robbie,person,flat-baseline,27636.0,44114.5,,
+2023-08-25,Margot_Robbie,Margot Robbie,person,flat-baseline,28346.0,44114.5,,
+2023-08-26,Margot_Robbie,Margot Robbie,person,flat-baseline,32320.0,44114.5,,
+2023-08-27,Margot_Robbie,Margot Robbie,person,flat-baseline,34276.0,44114.5,,
+2023-07-29,Cillian_Murphy,Cillian Murphy,person,flat-baseline,143728.0,26361.5,,
+2023-07-30,Cillian_Murphy,Cillian Murphy,person,flat-baseline,145978.0,26361.5,,
+2023-07-31,Cillian_Murphy,Cillian Murphy,person,flat-baseline,115889.0,26361.5,,
+2023-08-01,Cillian_Murphy,Cillian Murphy,person,flat-baseline,95617.0,26361.5,,
+2023-08-02,Cillian_Murphy,Cillian Murphy,person,flat-baseline,83105.0,26361.5,,
+2023-08-03,Cillian_Murphy,Cillian Murphy,person,flat-baseline,74324.0,26361.5,,
+2023-08-04,Cillian_Murphy,Cillian Murphy,person,flat-baseline,73530.0,26361.5,,
+2023-08-05,Cillian_Murphy,Cillian Murphy,person,flat-baseline,83638.0,26361.5,,
+2023-08-06,Cillian_Murphy,Cillian Murphy,person,flat-baseline,88346.0,26361.5,,
+2023-08-07,Cillian_Murphy,Cillian Murphy,person,flat-baseline,73734.0,26361.5,,
+2023-08-08,Cillian_Murphy,Cillian Murphy,person,flat-baseline,61260.0,26361.5,,
+2023-08-09,Cillian_Murphy,Cillian Murphy,person,flat-baseline,58091.0,26361.5,,
+2023-08-10,Cillian_Murphy,Cillian Murphy,person,flat-baseline,48690.0,26361.5,,
+2023-08-11,Cillian_Murphy,Cillian Murphy,person,flat-baseline,47462.0,26361.5,,
+2023-08-12,Cillian_Murphy,Cillian Murphy,person,flat-baseline,52301.0,26361.5,,
+2023-08-13,Cillian_Murphy,Cillian Murphy,person,flat-baseline,56085.0,26361.5,,
+2023-08-14,Cillian_Murphy,Cillian Murphy,person,flat-baseline,45023.0,26361.5,,
+2023-08-15,Cillian_Murphy,Cillian Murphy,person,flat-baseline,39236.0,26361.5,,
+2023-08-16,Cillian_Murphy,Cillian Murphy,person,flat-baseline,43668.0,26361.5,,
+2023-08-17,Cillian_Murphy,Cillian Murphy,person,flat-baseline,40707.0,26361.5,,
+2023-08-18,Cillian_Murphy,Cillian Murphy,person,flat-baseline,45023.0,26361.5,,
+2023-08-19,Cillian_Murphy,Cillian Murphy,person,flat-baseline,47395.0,26361.5,,
+2023-08-20,Cillian_Murphy,Cillian Murphy,person,flat-baseline,44445.0,26361.5,,
+2023-08-21,Cillian_Murphy,Cillian Murphy,person,flat-baseline,38158.0,26361.5,,
+2023-08-22,Cillian_Murphy,Cillian Murphy,person,flat-baseline,33771.0,26361.5,,
+2023-08-23,Cillian_Murphy,Cillian Murphy,person,flat-baseline,30276.0,26361.5,,
+2023-08-24,Cillian_Murphy,Cillian Murphy,person,flat-baseline,29861.0,26361.5,,
+2023-08-25,Cillian_Murphy,Cillian Murphy,person,flat-baseline,30348.0,26361.5,,
+2023-08-26,Cillian_Murphy,Cillian Murphy,person,flat-baseline,34867.0,26361.5,,
+2023-08-27,Cillian_Murphy,Cillian Murphy,person,flat-baseline,52244.0,26361.5,,
+2023-07-29,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,648899.0,75179.0,,
+2023-07-30,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,695309.0,75179.0,,
+2023-07-31,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,507067.0,75179.0,,
+2023-08-01,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,368474.0,75179.0,,
+2023-08-02,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,348483.0,75179.0,,
+2023-08-03,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,287938.0,75179.0,,
+2023-08-04,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,276631.0,75179.0,,
+2023-08-05,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,352201.0,75179.0,,
+2023-08-06,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,403181.0,75179.0,,
+2023-08-07,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,285991.0,75179.0,,
+2023-08-08,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,211760.0,75179.0,,
+2023-08-09,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,194628.0,75179.0,,
+2023-08-10,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,160565.0,75179.0,,
+2023-08-11,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,158485.0,75179.0,,
+2023-08-12,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,200472.0,75179.0,,
+2023-08-13,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,230460.0,75179.0,,
+2023-08-14,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,164852.0,75179.0,,
+2023-08-15,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,131648.0,75179.0,,
+2023-08-16,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,126252.0,75179.0,,
+2023-08-17,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,107034.0,75179.0,,
+2023-08-18,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,105179.0,75179.0,,
+2023-08-19,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,132233.0,75179.0,,
+2023-08-20,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,143634.0,75179.0,,
+2023-08-21,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,106523.0,75179.0,,
+2023-08-22,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,82632.0,75179.0,,
+2023-08-23,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,83803.0,75179.0,,
+2023-08-24,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,75236.0,75179.0,,
+2023-08-25,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,78484.0,75179.0,,
+2023-08-26,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,101399.0,75179.0,,
+2023-08-27,J._Robert_Oppenheimer,J. R. Oppenheimer,history,flat-baseline,129008.0,75179.0,,
+2023-07-29,Manhattan_Project,Manhattan Project,history,flat-baseline,67354.0,10950.0,,
+2023-07-30,Manhattan_Project,Manhattan Project,history,flat-baseline,71653.0,10950.0,,
+2023-07-31,Manhattan_Project,Manhattan Project,history,flat-baseline,53955.0,10950.0,,
+2023-08-01,Manhattan_Project,Manhattan Project,history,flat-baseline,40020.0,10950.0,,
+2023-08-02,Manhattan_Project,Manhattan Project,history,flat-baseline,37323.0,10950.0,,
+2023-08-03,Manhattan_Project,Manhattan Project,history,flat-baseline,31494.0,10950.0,,
+2023-08-04,Manhattan_Project,Manhattan Project,history,flat-baseline,29815.0,10950.0,,
+2023-08-05,Manhattan_Project,Manhattan Project,history,flat-baseline,34072.0,10950.0,,
+2023-08-06,Manhattan_Project,Manhattan Project,history,flat-baseline,44251.0,10950.0,,
+2023-08-07,Manhattan_Project,Manhattan Project,history,flat-baseline,31306.0,10950.0,,
+2023-08-08,Manhattan_Project,Manhattan Project,history,flat-baseline,24302.0,10950.0,,
+2023-08-09,Manhattan_Project,Manhattan Project,history,flat-baseline,22682.0,10950.0,,
+2023-08-10,Manhattan_Project,Manhattan Project,history,flat-baseline,19102.0,10950.0,,
+2023-08-11,Manhattan_Project,Manhattan Project,history,flat-baseline,18090.0,10950.0,,
+2023-08-12,Manhattan_Project,Manhattan Project,history,flat-baseline,20260.0,10950.0,,
+2023-08-13,Manhattan_Project,Manhattan Project,history,flat-baseline,23489.0,10950.0,,
+2023-08-14,Manhattan_Project,Manhattan Project,history,flat-baseline,17970.0,10950.0,,
+2023-08-15,Manhattan_Project,Manhattan Project,history,flat-baseline,14727.0,10950.0,,
+2023-08-16,Manhattan_Project,Manhattan Project,history,flat-baseline,14297.0,10950.0,,
+2023-08-17,Manhattan_Project,Manhattan Project,history,flat-baseline,12890.0,10950.0,,
+2023-08-18,Manhattan_Project,Manhattan Project,history,flat-baseline,11635.0,10950.0,,
+2023-08-19,Manhattan_Project,Manhattan Project,history,flat-baseline,13222.0,10950.0,,
+2023-08-20,Manhattan_Project,Manhattan Project,history,flat-baseline,14298.0,10950.0,,
+2023-08-21,Manhattan_Project,Manhattan Project,history,flat-baseline,14760.0,10950.0,,
+2023-08-22,Manhattan_Project,Manhattan Project,history,flat-baseline,10167.0,10950.0,,
+2023-08-23,Manhattan_Project,Manhattan Project,history,flat-baseline,9870.0,10950.0,,
+2023-08-24,Manhattan_Project,Manhattan Project,history,flat-baseline,8789.0,10950.0,,
+2023-08-25,Manhattan_Project,Manhattan Project,history,flat-baseline,8719.0,10950.0,,
+2023-08-26,Manhattan_Project,Manhattan Project,history,flat-baseline,10251.0,10950.0,,
+2023-08-27,Manhattan_Project,Manhattan Project,history,flat-baseline,12681.0,10950.0,,

@@ -1,0 +1,142 @@
+{
+  "slug": "gta-vi-trailer",
+  "title": "The first Grand Theft Auto VI trailer",
+  "event_date": "2023-12-05",
+  "primary": "Grand_Theft_Auto_VI",
+  "total_excess_views_60d": 2403581,
+  "spillover_share": 0.47909473406554637,
+  "pages": [
+    {
+      "article": "Grand_Theft_Auto_VI",
+      "label": "GTA VI",
+      "role": "event",
+      "baseline_views": 55.5,
+      "peak_date": "2023-12-05",
+      "peak_offset_days": 0,
+      "peak_views": 341519,
+      "peak_lift": 6153.495495495496,
+      "half_life_days": 1,
+      "excess_views_60d": 1252038,
+      "first_week_share": 0.5942251752742329,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Rockstar_Games",
+      "label": "Rockstar Games",
+      "role": "organization",
+      "baseline_views": 4756.5,
+      "peak_date": "2023-12-05",
+      "peak_offset_days": 0,
+      "peak_views": 83467,
+      "peak_lift": 17.547986965205506,
+      "half_life_days": 2,
+      "excess_views_60d": 228678,
+      "first_week_share": 0.812647040817219,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Grand_Theft_Auto_V",
+      "label": "GTA V",
+      "role": "work",
+      "baseline_views": 10913.5,
+      "peak_date": "2023-12-05",
+      "peak_offset_days": 0,
+      "peak_views": 168422,
+      "peak_lift": 15.432446053053557,
+      "half_life_days": 1,
+      "excess_views_60d": 426608,
+      "first_week_share": 0.7998089578828315,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Grand_Theft_Auto",
+      "label": "Grand Theft Auto",
+      "role": "idea",
+      "baseline_views": 6618.5,
+      "peak_date": "2023-12-05",
+      "peak_offset_days": 0,
+      "peak_views": 144467,
+      "peak_lift": 21.827755533731207,
+      "half_life_days": 1,
+      "excess_views_60d": 445662,
+      "first_week_share": 0.7323139509314234,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Take-Two_Interactive",
+      "label": "Take-Two",
+      "role": "organization",
+      "baseline_views": 1965.5,
+      "peak_date": "2023-12-05",
+      "peak_offset_days": 0,
+      "peak_views": 21950,
+      "peak_lift": 11.167641821419487,
+      "half_life_days": 1,
+      "excess_views_60d": 50595,
+      "first_week_share": 0.8887340646308923,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Rockstar_Games",
+      "target": "Take-Two_Interactive",
+      "lag_days": 0,
+      "correlation": 0.9838952587805078
+    },
+    {
+      "source": "Grand_Theft_Auto_V",
+      "target": "Grand_Theft_Auto",
+      "lag_days": 0,
+      "correlation": 0.9830252834428584
+    },
+    {
+      "source": "Rockstar_Games",
+      "target": "Grand_Theft_Auto_V",
+      "lag_days": 0,
+      "correlation": 0.9795905059754108
+    },
+    {
+      "source": "Grand_Theft_Auto_V",
+      "target": "Take-Two_Interactive",
+      "lag_days": 0,
+      "correlation": 0.9692372758972019
+    },
+    {
+      "source": "Rockstar_Games",
+      "target": "Grand_Theft_Auto",
+      "lag_days": 0,
+      "correlation": 0.9651873681018883
+    },
+    {
+      "source": "Grand_Theft_Auto",
+      "target": "Take-Two_Interactive",
+      "lag_days": 0,
+      "correlation": 0.9599694660740794
+    },
+    {
+      "source": "Grand_Theft_Auto_VI",
+      "target": "Grand_Theft_Auto",
+      "lag_days": 0,
+      "correlation": 0.5768058436290967
+    },
+    {
+      "source": "Grand_Theft_Auto_V",
+      "target": "Grand_Theft_Auto_VI",
+      "lag_days": 3,
+      "correlation": 0.5374875504383193
+    },
+    {
+      "source": "Rockstar_Games",
+      "target": "Grand_Theft_Auto_VI",
+      "lag_days": 3,
+      "correlation": 0.5071224311289957
+    },
+    {
+      "source": "Grand_Theft_Auto_VI",
+      "target": "Take-Two_Interactive",
+      "lag_days": 0,
+      "correlation": 0.4952618154332348
+    }
+  ]
+}

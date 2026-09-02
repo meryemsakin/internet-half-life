@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,20067.0,17854.44140625,12512.85546875,27904.564453125
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,18171.0,14710.6376953125,8418.71484375,25684.02734375
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,16337.0,12153.7451171875,5514.37744140625,24403.751953125
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,15345.0,10668.634765625,4251.7919921875,23458.087890625
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,14070.0,9065.1494140625,3250.140625,22390.2578125
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,14072.0,7852.3125,2431.16064453125,21477.677734375
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,12160.0,7394.66748046875,2436.796630859375,21343.80859375
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,10736.0,7350.25537109375,2888.50927734375,21406.103515625
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,12599.0,6258.484375,2059.86962890625,20515.08203125
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,14911.0,5635.6513671875,2120.14794921875,20028.36328125
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,11897.0,5414.9833984375,1814.26171875,19680.658203125
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,11080.0,5062.396484375,1659.390869140625,19325.78125
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,11465.0,4442.71484375,1179.49609375,18505.478515625
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,10871.0,4247.39208984375,989.5184326171876,18341.958984375
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9906.0,3811.2001953125,789.128173828125,17701.501953125
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9642.0,3597.49951171875,710.1692504882812,17184.8828125
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9623.0,3273.5625,517.0321044921875,17258.5078125
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9007.0,3093.525146484375,557.5400390625,16994.55078125
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9335.0,3074.046875,774.7105102539062,16920.85546875
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9521.0,2858.83251953125,564.8616943359375,16557.6484375
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9561.0,2844.595703125,698.30517578125,16309.6162109375
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,9288.0,2721.91455078125,721.5956420898438,16108.2919921875
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8662.0,2566.16796875,691.9796752929688,15881.16796875
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8091.0,2430.59130859375,729.0325317382812,15247.2548828125
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8331.0,2502.389892578125,850.2328491210938,15109.2421875
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8250.0,2349.04833984375,683.9531860351562,14876.8203125
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,7747.0,1899.14208984375,631.8594970703125,13672.1826171875
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8510.0,1938.3065185546875,653.5354614257812,13405.2353515625
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,8198.0,1700.010498046875,391.9818115234375,13025.8671875
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,timesfm-multivariate,7742.0,1627.250732421875,850.96337890625,12170.1767578125
+2023-12-13,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,8623.0,9586.966796875,8219.279296875,11935.84765625
+2023-12-14,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,8067.0,8464.1982421875,7034.01171875,11552.650390625
+2023-12-15,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,7431.0,7928.60693359375,6294.6015625,11575.2197265625
+2023-12-16,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,7146.0,7444.34619140625,5633.64990234375,11509.80859375
+2023-12-17,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6871.0,7089.53564453125,5222.4423828125,11459.376953125
+2023-12-18,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6954.0,6749.6669921875,4878.455078125,11249.205078125
+2023-12-19,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6327.0,6605.25,4648.44580078125,11391.63671875
+2023-12-20,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5774.0,6419.6083984375,4473.28955078125,11385.33984375
+2023-12-21,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5861.0,6203.48974609375,4202.267578125,11353.248046875
+2023-12-22,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5777.0,5884.513671875,3921.224365234375,11204.12109375
+2023-12-23,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5322.0,5676.38427734375,3647.94091796875,11124.5234375
+2023-12-24,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5106.0,5383.4248046875,3436.991943359375,10997.556640625
+2023-12-25,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6022.0,5223.2421875,3439.50439453125,10742.775390625
+2023-12-26,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6306.0,5127.142578125,3232.5361328125,10847.4013671875
+2023-12-27,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5916.0,5067.4326171875,3147.09375,11071.4873046875
+2023-12-28,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5481.0,4999.7822265625,3278.13525390625,10908.93359375
+2023-12-29,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5002.0,5062.927734375,3352.272216796875,11150.1962890625
+2023-12-30,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4944.0,5081.74609375,3279.86474609375,11465.8046875
+2023-12-31,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4616.0,5029.3779296875,3261.99169921875,11593.44921875
+2024-01-01,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4707.0,4835.17578125,3304.162841796875,11174.107421875
+2024-01-02,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4793.0,4757.390625,3008.67041015625,11278.59375
+2024-01-03,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4769.0,4521.1787109375,2911.401123046875,10923.62109375
+2024-01-04,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4612.0,4317.900390625,2848.003662109375,10635.3642578125
+2024-01-05,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4811.0,4446.41943359375,2866.611572265625,10732.4521484375
+2024-01-06,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4660.0,4294.8076171875,2777.28759765625,10727.015625
+2024-01-07,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4701.0,4214.5732421875,2968.78857421875,10462.650390625
+2024-01-08,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,4646.0,4075.00146484375,2797.29345703125,10379.775390625
+2024-01-09,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,6139.0,4217.421875,2793.181640625,10539.00390625
+2024-01-10,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5360.0,4197.0634765625,2958.507568359375,10356.62109375
+2024-01-11,Rockstar_Games,Rockstar Games,organization,timesfm-multivariate,5486.0,4100.08251953125,2972.8330078125,10088.1552734375
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,17256.0,18176.2890625,15755.474609375,21935.9765625
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,16576.0,16654.078125,13341.5439453125,22032.83203125
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,15875.0,16083.43359375,11909.5146484375,22734.2734375
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,15218.0,15519.37890625,10776.5244140625,23180.359375
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14952.0,15040.759765625,10146.265625,23903.0390625
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14710.0,14122.564453125,9240.0556640625,23716.41015625
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,13709.0,13492.1796875,8780.34375,24096.6328125
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,13584.0,13747.4501953125,9128.8349609375,25397.17578125
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14868.0,13577.283203125,8486.744140625,26502.82421875
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14847.0,13430.755859375,8936.9072265625,27135.650390625
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14513.0,13659.86328125,8945.4521484375,28022.3828125
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,13640.0,13391.130859375,8734.8046875,28233.28515625
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14028.0,12651.4130859375,8035.60498046875,27662.68359375
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,14175.0,12203.3681640625,7599.46826171875,27240.84375
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,16533.0,11686.255859375,7207.06103515625,26760.6796875
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,15766.0,11450.09765625,6776.9130859375,26646.90625
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,13360.0,11608.3232421875,6547.53759765625,27306.57421875
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,12741.0,11911.6650390625,6952.755859375,27688.396484375
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,12339.0,11689.22265625,6545.8115234375,28131.41796875
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,12218.0,11340.634765625,6433.8740234375,27679.77734375
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11795.0,11039.6123046875,6291.86083984375,27747.82421875
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11861.0,10982.337890625,6435.060546875,27880.10546875
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11176.0,10806.787109375,6472.1611328125,27944.765625
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11586.0,10941.498046875,6503.53125,28489.00390625
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11551.0,11229.96875,6777.6884765625,28918.474609375
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11465.0,11362.2724609375,6815.9384765625,29291.0390625
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,10583.0,10859.650390625,6525.93212890625,28039.73046875
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,11050.0,10622.6025390625,6362.5390625,27000.841796875
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,10148.0,10381.251953125,6272.244140625,26366.412109375
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,timesfm-multivariate,10204.0,10316.8994140625,6118.2001953125,25984.1875
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,13712.0,14579.2265625,12922.79296875,17219.7578125
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,15450.0,13193.9248046875,11120.6474609375,16878.998046875
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,16479.0,12393.037109375,9964.720703125,16777.947265625
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,15153.0,11911.013671875,9255.552734375,16718.724609375
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,14088.0,11299.029296875,8627.298828125,16437.724609375
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,13008.0,10468.01953125,7950.5234375,15734.6181640625
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,11596.0,9843.9833984375,7560.8818359375,15224.109375
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,11025.0,9469.041015625,7332.9404296875,14926.31640625
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,11117.0,9081.9013671875,7000.6279296875,14706.0849609375
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10701.0,8944.1640625,6945.17578125,14861.283203125
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10468.0,8933.833984375,6707.5634765625,14989.201171875
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10282.0,8776.498046875,6658.83935546875,14977.9853515625
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10628.0,8289.9912109375,6222.75,14318.314453125
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10908.0,7806.326171875,5974.79443359375,13730.525390625
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,11028.0,7494.1435546875,5695.32958984375,13610.236328125
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,10672.0,7381.82080078125,5613.0302734375,13498.51953125
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,9279.0,7354.6904296875,5573.89404296875,13734.744140625
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,8934.0,7564.3837890625,5594.12353515625,14240.2080078125
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,8118.0,7591.10595703125,5654.8974609375,14394.0751953125
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,8558.0,7222.42724609375,5600.69091796875,13742.9951171875
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,8502.0,6919.7900390625,5400.43798828125,13287.78125
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,8406.0,6568.7001953125,5217.44970703125,12762.140625
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7839.0,6393.9609375,5204.587890625,12478.326171875
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7770.0,6523.9814453125,5063.9169921875,12731.654296875
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7837.0,6750.267578125,5266.052734375,12951.62890625
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7721.0,6797.04052734375,5368.10791015625,13010.900390625
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7527.0,6334.87255859375,5116.94384765625,12196.2109375
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,7175.0,6084.0380859375,5159.91455078125,11423.2392578125
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,6928.0,5902.748046875,5122.68310546875,11109.4375
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-multivariate,6522.0,5857.90185546875,4987.37744140625,11067.576171875
+2023-12-13,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,3240.0,2979.20068359375,2525.360595703125,3706.9169921875
+2023-12-14,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2634.0,2655.100341796875,2165.0,3621.47998046875
+2023-12-15,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2251.0,2356.7138671875,1879.606201171875,3418.9951171875
+2023-12-16,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2145.0,2058.47998046875,1621.5970458984375,3151.925048828125
+2023-12-17,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1996.0,1964.9688720703125,1524.3876953125,3172.731689453125
+2023-12-18,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2119.0,2064.6591796875,1551.9462890625,3418.714111328125
+2023-12-19,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2004.0,2122.785400390625,1554.4873046875,3670.975341796875
+2023-12-20,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1987.0,2113.3466796875,1527.1363525390625,3793.3466796875
+2023-12-21,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1876.0,1977.136962890625,1439.66455078125,3741.541748046875
+2023-12-22,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2059.0,1843.5675048828125,1369.95947265625,3668.187744140625
+2023-12-23,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1691.0,1664.8050537109375,1242.24072265625,3504.983642578125
+2023-12-24,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1470.0,1617.0411376953125,1213.6900634765625,3492.10546875
+2023-12-25,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1915.0,1771.5008544921875,1269.3115234375,3796.9189453125
+2023-12-26,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2068.0,1823.960693359375,1286.04150390625,3965.451416015625
+2023-12-27,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,2016.0,1815.649169921875,1297.8746337890625,3976.036865234375
+2023-12-28,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1995.0,1766.9232177734375,1282.6322021484375,3925.3642578125
+2023-12-29,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1697.0,1658.4229736328125,1217.8360595703125,3802.56494140625
+2023-12-30,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1570.0,1477.374755859375,1065.5770263671875,3636.5244140625
+2023-12-31,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1463.0,1470.7906494140625,1079.580322265625,3689.41552734375
+2024-01-01,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1533.0,1665.9468994140625,1193.228515625,4016.194580078125
+2024-01-02,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1687.0,1760.5283203125,1221.1881103515625,4240.30859375
+2024-01-03,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1690.0,1774.1861572265625,1224.4453125,4350.5771484375
+2024-01-04,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1597.0,1710.2763671875,1229.26123046875,4277.890625
+2024-01-05,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1497.0,1637.567138671875,1189.14453125,4162.03271484375
+2024-01-06,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1372.0,1459.25146484375,1076.02734375,3967.512939453125
+2024-01-07,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1511.0,1470.2576904296875,1114.9708251953125,3947.1416015625
+2024-01-08,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1567.0,1653.758056640625,1227.311279296875,4090.8193359375
+2024-01-09,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1580.0,1711.277099609375,1165.470947265625,4173.9990234375
+2024-01-10,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1456.0,1711.13134765625,1209.79443359375,4060.378662109375
+2024-01-11,Take-Two_Interactive,Take-Two,organization,timesfm-multivariate,1443.0,1671.26318359375,1230.07568359375,3845.8896484375
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,20067.0,20613.5703125,14598.6845703125,30078.55859375
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,18171.0,17718.107421875,10464.9228515625,30888.01953125
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,16337.0,15519.724609375,7382.37451171875,30510.51953125
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,15345.0,13802.822265625,5330.97900390625,29764.7109375
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,14070.0,12435.0302734375,4117.466796875,29371.234375
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,14072.0,11206.33984375,2889.10400390625,28812.607421875
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,12160.0,10540.0751953125,2509.64208984375,28655.677734375
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,10736.0,9876.626953125,2243.556396484375,28227.70703125
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,12599.0,8968.064453125,1511.8892822265625,27735.7890625
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,14911.0,8337.5234375,1500.337158203125,27492.787109375
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,11897.0,7897.9521484375,1093.0059814453125,27266.255859375
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,11080.0,7245.2109375,816.4412231445312,26877.208984375
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,11465.0,6748.2275390625,657.3598022460938,26306.06640625
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,10871.0,6336.7314453125,561.6058349609375,26141.154296875
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9906.0,5769.18603515625,433.67919921875,25654.138671875
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9642.0,5378.453125,370.77197265625,24926.099609375
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9623.0,5003.896484375,264.034912109375,24804.876953125
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9007.0,4682.052734375,134.989013671875,24546.2734375
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9335.0,4709.02587890625,298.8580322265625,24535.013671875
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9521.0,4450.234375,79.2579345703125,24030.115234375
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9561.0,4322.1337890625,186.768310546875,23798.404296875
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,9288.0,3945.946044921875,0.0,23249.533203125
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8662.0,3652.755126953125,0.0,22894.484375
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8091.0,3277.720458984375,0.0,22031.65625
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8331.0,3269.599609375,0.0,21921.775390625
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8250.0,3092.625244140625,0.0,21829.27734375
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,7747.0,2839.6943359375,0.0,21153.822265625
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8510.0,2650.1015625,0.0,20881.1796875
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,8198.0,2541.76025390625,0.0,20758.845703125
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,timesfm-univariate,7742.0,2419.1328125,0.0,19895.32421875
+2023-12-13,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,8623.0,9430.57421875,8198.34375,11628.5029296875
+2023-12-14,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,8067.0,8629.798828125,7268.8564453125,11570.75390625
+2023-12-15,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,7431.0,8062.888671875,6579.3623046875,11432.12109375
+2023-12-16,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,7146.0,7645.7099609375,6034.18798828125,11300.4453125
+2023-12-17,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6871.0,7358.658203125,5700.787109375,11292.49609375
+2023-12-18,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6954.0,6958.1982421875,5284.8662109375,11110.5126953125
+2023-12-19,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6327.0,6852.30859375,5158.3564453125,11210.013671875
+2023-12-20,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5774.0,6601.2021484375,4915.1875,11131.16015625
+2023-12-21,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5861.0,6367.4833984375,4655.951171875,11070.208984375
+2023-12-22,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5777.0,6117.28125,4408.0048828125,10917.9140625
+2023-12-23,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5322.0,5968.76953125,4134.9345703125,10854.283203125
+2023-12-24,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5106.0,5730.09765625,3971.400390625,10708.8720703125
+2023-12-25,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6022.0,5518.6748046875,3866.282470703125,10340.837890625
+2023-12-26,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6306.0,5388.037109375,3709.489990234375,10356.0703125
+2023-12-27,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5916.0,5205.0703125,3491.129638671875,10322.421875
+2023-12-28,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5481.0,5057.8037109375,3503.577880859375,10049.255859375
+2023-12-29,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5002.0,4949.314453125,3368.6298828125,10075.23046875
+2023-12-30,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4944.0,4988.38427734375,3309.217041015625,10263.6796875
+2023-12-31,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4616.0,4949.9189453125,3397.872802734375,10255.03515625
+2024-01-01,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4707.0,4825.0849609375,3311.88427734375,10066.49609375
+2024-01-02,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4793.0,4724.515625,3253.357177734375,9950.4794921875
+2024-01-03,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4769.0,4542.53955078125,3151.07373046875,9677.248046875
+2024-01-04,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4612.0,4394.96484375,3137.11376953125,9434.021484375
+2024-01-05,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4811.0,4365.5205078125,2983.24462890625,9374.3828125
+2024-01-06,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4660.0,4270.4814453125,2908.3486328125,9352.4599609375
+2024-01-07,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4701.0,4263.48193359375,2966.7744140625,9326.611328125
+2024-01-08,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,4646.0,4132.9052734375,2919.239990234375,9083.2646484375
+2024-01-09,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,6139.0,4150.6376953125,2982.68994140625,8962.537109375
+2024-01-10,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5360.0,4097.45556640625,2964.09130859375,8918.3828125
+2024-01-11,Rockstar_Games,Rockstar Games,organization,timesfm-univariate,5486.0,4028.8037109375,2927.981689453125,8760.6162109375
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,17256.0,18254.66015625,15888.56640625,22334.6484375
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,16576.0,17311.080078125,14452.58984375,22965.41796875
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,15875.0,16810.453125,13441.064453125,23432.234375
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,15218.0,16430.62109375,12552.28515625,23842.71484375
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14952.0,16075.4609375,12036.0634765625,24066.37890625
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14710.0,14991.3994140625,11016.2900390625,23360.5390625
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,13709.0,14448.134765625,10558.7939453125,23051.5625
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,13584.0,13891.2705078125,10097.68359375,22755.140625
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14868.0,13735.4140625,9858.1767578125,22991.78125
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14847.0,13787.513671875,9876.1181640625,23416.75390625
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14513.0,13781.7041015625,9590.150390625,23744.13671875
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,13640.0,13651.1640625,9584.591796875,23830.796875
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14028.0,12857.3037109375,8989.6533203125,22780.06640625
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,14175.0,12220.6611328125,8541.3251953125,22160.96875
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,16533.0,11805.939453125,8196.283203125,21782.830078125
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,15766.0,12002.169921875,8433.9951171875,21994.99609375
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,13360.0,12090.9853515625,8375.9462890625,22350.703125
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,12741.0,12131.4482421875,7998.099609375,22854.4921875
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,12339.0,12130.28125,8265.8984375,22866.71484375
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,12218.0,11632.921875,7975.29931640625,22141.16015625
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11795.0,11282.15625,7813.98388671875,21631.2265625
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11861.0,10946.1005859375,7633.23388671875,21235.271484375
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11176.0,10826.36328125,7675.03369140625,21126.1328125
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11586.0,11175.75,7755.50439453125,21698.4375
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11551.0,11268.8779296875,7707.068359375,21981.705078125
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11465.0,11414.037109375,7869.49609375,22271.25390625
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,10583.0,10771.306640625,7514.470703125,21359.6796875
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,11050.0,10470.41015625,7224.52978515625,20934.83203125
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,10148.0,10197.81640625,6946.40625,20856.64453125
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,timesfm-univariate,10204.0,10216.33984375,7220.73876953125,20690.8203125
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,13712.0,14551.5478515625,12688.240234375,17631.31640625
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,15450.0,13258.564453125,11060.583984375,17427.6328125
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,16479.0,12407.9619140625,9937.53515625,17211.609375
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,15153.0,11848.087890625,9161.3232421875,17068.931640625
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,14088.0,11358.861328125,8651.7880859375,16818.89453125
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,13008.0,10509.490234375,7924.4267578125,16100.3994140625
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,11596.0,9983.158203125,7556.9091796875,15640.8994140625
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,11025.0,9438.2216796875,7115.13037109375,15137.205078125
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,11117.0,9171.6767578125,6871.97265625,15009.6943359375
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10701.0,9040.9970703125,6822.25048828125,15072.009765625
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10468.0,9023.115234375,6616.662109375,15160.5751953125
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10282.0,8909.8291015625,6660.07080078125,15135.8544921875
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10628.0,8406.7509765625,6297.04931640625,14407.91015625
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10908.0,7889.75634765625,5933.29638671875,13887.998046875
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,11028.0,7473.1376953125,5536.76513671875,13657.5166015625
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,10672.0,7471.896484375,5598.6044921875,13569.80078125
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,9279.0,7467.7080078125,5598.88720703125,13719.1083984375
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,8934.0,7629.83203125,5538.05810546875,14139.6005859375
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,8118.0,7693.248046875,5683.115234375,14255.240234375
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,8558.0,7380.4775390625,5575.1259765625,13720.7412109375
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,8502.0,7108.47216796875,5414.7822265625,13364.7705078125
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,8406.0,6747.171875,5137.400390625,12894.5234375
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7839.0,6529.52392578125,5099.197265625,12572.189453125
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7770.0,6706.15283203125,5073.98046875,12796.453125
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7837.0,6872.01904296875,5183.02392578125,12992.72265625
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7721.0,6991.3701171875,5377.560546875,13114.498046875
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7527.0,6564.2333984375,5129.20703125,12366.58203125
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,7175.0,6305.6943359375,5048.7177734375,11724.384765625
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,6928.0,6080.318359375,4864.943359375,11493.103515625
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,timesfm-univariate,6522.0,6065.30908203125,4835.22265625,11374.201171875
+2023-12-13,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,3240.0,2868.8095703125,2441.380615234375,3571.107177734375
+2023-12-14,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2634.0,2612.66162109375,2134.88330078125,3540.9130859375
+2023-12-15,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2251.0,2343.440185546875,1856.0848388671875,3373.80908203125
+2023-12-16,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2145.0,2049.2744140625,1567.8541259765625,3121.0439453125
+2023-12-17,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1996.0,1961.81640625,1490.01611328125,3103.94970703125
+2023-12-18,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2119.0,2029.6256103515625,1520.58203125,3265.943115234375
+2023-12-19,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2004.0,2070.348388671875,1532.271484375,3403.17919921875
+2023-12-20,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1987.0,2027.33935546875,1488.7425537109375,3412.89306640625
+2023-12-21,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1876.0,1926.6416015625,1426.14208984375,3326.560302734375
+2023-12-22,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2059.0,1816.2276611328125,1372.164794921875,3199.51220703125
+2023-12-23,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1691.0,1648.2200927734375,1225.76123046875,3024.59814453125
+2023-12-24,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1470.0,1627.871826171875,1220.1378173828125,3037.94873046875
+2023-12-25,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1915.0,1748.378173828125,1312.6053466796875,3200.804443359375
+2023-12-26,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2068.0,1785.657958984375,1313.1895751953125,3341.89111328125
+2023-12-27,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,2016.0,1748.3255615234375,1278.2249755859375,3348.3720703125
+2023-12-28,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1995.0,1703.078857421875,1265.27197265625,3283.8291015625
+2023-12-29,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1697.0,1604.826904296875,1199.633056640625,3183.322265625
+2023-12-30,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1570.0,1466.3013916015625,1087.3369140625,3046.084228515625
+2023-12-31,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1463.0,1465.4161376953125,1113.3546142578125,3066.7958984375
+2024-01-01,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1533.0,1635.0875244140625,1235.177001953125,3286.349365234375
+2024-01-02,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1687.0,1697.3114013671875,1250.634033203125,3426.42724609375
+2024-01-03,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1690.0,1682.5869140625,1220.92431640625,3445.34375
+2024-01-04,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1597.0,1625.51171875,1231.0916748046875,3340.83349609375
+2024-01-05,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1497.0,1567.6383056640625,1190.941650390625,3245.42333984375
+2024-01-06,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1372.0,1415.771240234375,1073.625244140625,3064.4052734375
+2024-01-07,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1511.0,1421.5155029296875,1083.05810546875,3083.511962890625
+2024-01-08,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1567.0,1550.9046630859375,1178.5361328125,3242.32177734375
+2024-01-09,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1580.0,1620.9439697265625,1189.9459228515625,3361.5087890625
+2024-01-10,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1456.0,1616.389892578125,1196.5986328125,3361.6875
+2024-01-11,Take-Two_Interactive,Take-Two,organization,timesfm-univariate,1443.0,1572.392333984375,1195.2171630859375,3259.24658203125
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,20067.0,13246.07924421016,,
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,18171.0,9344.721499604011,,
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,16337.0,6597.262455699677,,
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,15345.0,4662.41523273788,,
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,14070.0,3299.8348570599073,,
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,14072.0,2340.2628256616567,,
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,12160.0,1664.501967896758,,
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,10736.0,1188.6098806485145,,
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,12599.0,853.4716788672528,,
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,14911.0,617.4567979671882,,
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,11897.0,451.24768271202,,
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,11080.0,334.19798699557344,,
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,11465.0,251.76790338506177,,
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,10871.0,193.7180413803269,,
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9906.0,152.8374995784858,,
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9642.0,124.04813401762098,,
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9623.0,103.77375572257142,,
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9007.0,89.49589974197482,,
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9335.0,79.44098370775868,,
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9521.0,72.35999503603286,,
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9561.0,67.37333971255873,,
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,9288.0,63.861579919124104,,
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8662.0,61.3884880275048,,
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8091.0,59.6468587976732,,
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8331.0,58.4203486204805,,
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8250.0,57.55660151002192,,
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,7747.0,56.94832358074034,,
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8510.0,56.51995509791597,,
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,8198.0,56.2182845156971,,
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,exponential-decay,7742.0,56.0058385869578,,
+2023-12-13,Rockstar_Games,Rockstar Games,organization,exponential-decay,8623.0,8090.0856760728675,,
+2023-12-14,Rockstar_Games,Rockstar Games,organization,exponential-decay,8067.0,7095.642138873915,,
+2023-12-15,Rockstar_Games,Rockstar Games,organization,exponential-decay,7431.0,6397.851528814294,,
+2023-12-16,Rockstar_Games,Rockstar Games,organization,exponential-decay,7146.0,5908.219169335282,,
+2023-12-17,Rockstar_Games,Rockstar Games,organization,exponential-decay,6871.0,5564.649273161843,,
+2023-12-18,Rockstar_Games,Rockstar Games,organization,exponential-decay,6954.0,5323.569877016075,,
+2023-12-19,Rockstar_Games,Rockstar Games,organization,exponential-decay,6327.0,5154.406990822262,,
+2023-12-20,Rockstar_Games,Rockstar Games,organization,exponential-decay,5774.0,5035.707166105103,,
+2023-12-21,Rockstar_Games,Rockstar Games,organization,exponential-decay,5861.0,4952.41674286332,,
+2023-12-22,Rockstar_Games,Rockstar Games,organization,exponential-decay,5777.0,4893.9727256094975,,
+2023-12-23,Rockstar_Games,Rockstar Games,organization,exponential-decay,5322.0,4852.963171091451,,
+2023-12-24,Rockstar_Games,Rockstar Games,organization,exponential-decay,5106.0,4824.187196393054,,
+2023-12-25,Rockstar_Games,Rockstar Games,organization,exponential-decay,6022.0,4803.99539646803,,
+2023-12-26,Rockstar_Games,Rockstar Games,organization,exponential-decay,6306.0,4789.827022034656,,
+2023-12-27,Rockstar_Games,Rockstar Games,organization,exponential-decay,5916.0,4779.8852221540255,,
+2023-12-28,Rockstar_Games,Rockstar Games,organization,exponential-decay,5481.0,4772.909165350102,,
+2023-12-29,Rockstar_Games,Rockstar Games,organization,exponential-decay,5002.0,4768.014139387409,,
+2023-12-30,Rockstar_Games,Rockstar Games,organization,exponential-decay,4944.0,4764.57935096052,,
+2023-12-31,Rockstar_Games,Rockstar Games,organization,exponential-decay,4616.0,4762.169195911823,,
+2024-01-01,Rockstar_Games,Rockstar Games,organization,exponential-decay,4707.0,4760.478015368274,,
+2024-01-02,Rockstar_Games,Rockstar Games,organization,exponential-decay,4793.0,4759.291331701419,,
+2024-01-03,Rockstar_Games,Rockstar Games,organization,exponential-decay,4769.0,4758.4586482067125,,
+2024-01-04,Rockstar_Games,Rockstar Games,organization,exponential-decay,4612.0,4757.874362923514,,
+2024-01-05,Rockstar_Games,Rockstar Games,organization,exponential-decay,4811.0,4757.46437606256,,
+2024-01-06,Rockstar_Games,Rockstar Games,organization,exponential-decay,4660.0,4757.1766925781585,,
+2024-01-07,Rockstar_Games,Rockstar Games,organization,exponential-decay,4701.0,4756.974828091564,,
+2024-01-08,Rockstar_Games,Rockstar Games,organization,exponential-decay,4646.0,4756.8331818965,,
+2024-01-09,Rockstar_Games,Rockstar Games,organization,exponential-decay,6139.0,4756.733790245622,,
+2024-01-10,Rockstar_Games,Rockstar Games,organization,exponential-decay,5360.0,4756.664048165649,,
+2024-01-11,Rockstar_Games,Rockstar Games,organization,exponential-decay,5486.0,4756.615110878904,,
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,exponential-decay,17256.0,16104.784343028072,,
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,exponential-decay,16576.0,14473.255024164891,,
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,exponential-decay,15875.0,13354.48666047557,,
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,exponential-decay,15218.0,12587.32750671656,,
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14952.0,12061.27297541443,,
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14710.0,11700.54812640815,,
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,exponential-decay,13709.0,11453.192749830529,,
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,exponential-decay,13584.0,11283.57681544062,,
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14868.0,11167.268184526618,,
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14847.0,11087.513309645628,,
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14513.0,11032.823988506716,,
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,exponential-decay,13640.0,10995.322558643053,,
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14028.0,10969.607168279235,,
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,exponential-decay,14175.0,10951.9736725974,,
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,exponential-decay,16533.0,10939.882074314732,,
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,exponential-decay,15766.0,10931.5906525985,,
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,exponential-decay,13360.0,10925.90507882494,,
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,exponential-decay,12741.0,10922.00638084033,,
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,exponential-decay,12339.0,10919.332975027555,,
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,exponential-decay,12218.0,10917.499773618269,,
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11795.0,10916.242715153385,,
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11861.0,10915.380728043769,,
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11176.0,10914.789648314463,,
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11586.0,10914.384334542952,,
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11551.0,10914.106403757589,,
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11465.0,10913.915821727362,,
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,exponential-decay,10583.0,10913.785136275596,,
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,exponential-decay,11050.0,10913.69552296167,,
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,exponential-decay,10148.0,10913.634073535402,,
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,exponential-decay,10204.0,10913.591936582494,,
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,13712.0,12631.754606920038,,
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,15450.0,10854.5652175431,,
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,16479.0,9602.615874060652,,
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,15153.0,8720.67432747308,,
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,14088.0,8099.386496901856,,
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,13008.0,7661.7173907015485,,
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,11596.0,7353.39935017908,,
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,11025.0,7136.203270389731,,
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,11117.0,6983.198480284291,,
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10701.0,6875.413543199262,,
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10468.0,6799.483942208223,,
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10282.0,6745.994981110531,,
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10628.0,6708.314433314052,,
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10908.0,6681.770195903091,,
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,11028.0,6663.070984216067,,
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,10672.0,6649.898237442344,,
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,9279.0,6640.618634619032,,
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,8934.0,6634.081575185824,,
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,8118.0,6629.476513218522,,
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,8558.0,6626.232455865311,,
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,8502.0,6623.947164552043,,
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,8406.0,6622.337280441542,,
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7839.0,6621.20319008107,,
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7770.0,6620.404274844051,,
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7837.0,6619.84147528399,,
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7721.0,6619.44500851239,,
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7527.0,6619.165715648396,,
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,7175.0,6618.968966489411,,
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,6928.0,6618.830365627909,,
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,exponential-decay,6522.0,6618.732727605421,,
+2023-12-13,Take-Two_Interactive,Take-Two,organization,exponential-decay,3240.0,2692.7448502175357,,
+2023-12-14,Take-Two_Interactive,Take-Two,organization,exponential-decay,2634.0,2468.638255304751,,
+2023-12-15,Take-Two_Interactive,Take-Two,organization,exponential-decay,2251.0,2313.59198562958,,
+2023-12-16,Take-Two_Interactive,Take-Two,organization,exponential-decay,2145.0,2206.3245232439185,,
+2023-12-17,Take-Two_Interactive,Take-Two,organization,exponential-decay,1996.0,2132.112428294679,,
+2023-12-18,Take-Two_Interactive,Take-Two,organization,exponential-decay,2119.0,2080.7694123020565,,
+2023-12-19,Take-Two_Interactive,Take-Two,organization,exponential-decay,2004.0,2045.2481769424871,,
+2023-12-20,Take-Two_Interactive,Take-Two,organization,exponential-decay,1987.0,2020.6731079272345,,
+2023-12-21,Take-Two_Interactive,Take-Two,organization,exponential-decay,1876.0,2003.6710523683269,,
+2023-12-22,Take-Two_Interactive,Take-Two,organization,exponential-decay,2059.0,1991.9083227072715,,
+2023-12-23,Take-Two_Interactive,Take-Two,organization,exponential-decay,1691.0,1983.770376763049,,
+2023-12-24,Take-Two_Interactive,Take-Two,organization,exponential-decay,1470.0,1978.1402070575973,,
+2023-12-25,Take-Two_Interactive,Take-Two,organization,exponential-decay,1915.0,1974.245021327752,,
+2023-12-26,Take-Two_Interactive,Take-Two,organization,exponential-decay,2068.0,1971.5501697222496,,
+2023-12-27,Take-Two_Interactive,Take-Two,organization,exponential-decay,2016.0,1969.6857592218628,,
+2023-12-28,Take-Two_Interactive,Take-Two,organization,exponential-decay,1995.0,1968.3958824409467,,
+2023-12-29,Take-Two_Interactive,Take-Two,organization,exponential-decay,1697.0,1967.5034919992488,,
+2023-12-30,Take-Two_Interactive,Take-Two,organization,exponential-decay,1570.0,1966.8860991503996,,
+2023-12-31,Take-Two_Interactive,Take-Two,organization,exponential-decay,1463.0,1966.4589610816809,,
+2024-01-01,Take-Two_Interactive,Take-Two,organization,exponential-decay,1533.0,1966.1634491882585,,
+2024-01-02,Take-Two_Interactive,Take-Two,organization,exponential-decay,1687.0,1965.9590017611863,,
+2024-01-03,Take-Two_Interactive,Take-Two,organization,exponential-decay,1690.0,1965.817556522038,,
+2024-01-04,Take-Two_Interactive,Take-Two,organization,exponential-decay,1597.0,1965.7196988186456,,
+2024-01-05,Take-Two_Interactive,Take-Two,organization,exponential-decay,1497.0,1965.651996786602,,
+2024-01-06,Take-Two_Interactive,Take-Two,organization,exponential-decay,1372.0,1965.605157703076,,
+2024-01-07,Take-Two_Interactive,Take-Two,organization,exponential-decay,1511.0,1965.5727524756508,,
+2024-01-08,Take-Two_Interactive,Take-Two,organization,exponential-decay,1567.0,1965.5503331906125,,
+2024-01-09,Take-Two_Interactive,Take-Two,organization,exponential-decay,1580.0,1965.5348225961327,,
+2024-01-10,Take-Two_Interactive,Take-Two,organization,exponential-decay,1456.0,1965.5240917213207,,
+2024-01-11,Take-Two_Interactive,Take-Two,organization,exponential-decay,1443.0,1965.516667655507,,
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,20067.0,21075.051954359977,,
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,18171.0,18431.477015800032,,
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,16337.0,16327.675640090589,,
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,15345.0,14618.089368056277,,
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,14070.0,13204.491486986475,,
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,14072.0,12018.340535136207,,
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,12160.0,11010.442654869546,,
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,10736.0,10144.630803696207,,
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,12599.0,9393.756937163544,,
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,14911.0,8737.070035503453,,
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,11897.0,8158.453455997931,,
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,11080.0,7645.211321148249,,
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,11465.0,7187.215061413321,,
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,10871.0,6776.29180166146,,
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9906.0,6405.778575874816,,
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9642.0,6070.1924050317275,,
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9623.0,5764.982715524163,,
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9007.0,5486.343185353112,,
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9335.0,5231.067090196074,,
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9521.0,4996.434904552143,,
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9561.0,4780.126105964183,,
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,9288.0,4580.149340750897,,
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8662.0,4394.78666183605,,
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8091.0,4222.548653550183,,
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8331.0,4062.138053542067,,
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8250.0,3912.420061166918,,
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,7747.0,3772.397948076709,,
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8510.0,3641.19290368332,,
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,8198.0,3518.0272859646966,,
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,power-law-decay,7742.0,3402.210628057849,,
+2023-12-13,Rockstar_Games,Rockstar Games,organization,power-law-decay,8623.0,10247.8001904257,,
+2023-12-14,Rockstar_Games,Rockstar Games,organization,power-law-decay,8067.0,9566.98669908676,,
+2023-12-15,Rockstar_Games,Rockstar Games,organization,power-law-decay,7431.0,9024.126999697211,,
+2023-12-16,Rockstar_Games,Rockstar Games,organization,power-law-decay,7146.0,8582.208119048817,,
+2023-12-17,Rockstar_Games,Rockstar Games,organization,power-law-decay,6871.0,8216.207749664938,,
+2023-12-18,Rockstar_Games,Rockstar Games,organization,power-law-decay,6954.0,7908.6368974179795,,
+2023-12-19,Rockstar_Games,Rockstar Games,organization,power-law-decay,6327.0,7646.924283398909,,
+2023-12-20,Rockstar_Games,Rockstar Games,organization,power-law-decay,5774.0,7421.814607581382,,
+2023-12-21,Rockstar_Games,Rockstar Games,organization,power-law-decay,5861.0,7226.351487571557,,
+2023-12-22,Rockstar_Games,Rockstar Games,organization,power-law-decay,5777.0,7055.211199137988,,
+2023-12-23,Rockstar_Games,Rockstar Games,organization,power-law-decay,5322.0,6904.25422127169,,
+2023-12-24,Rockstar_Games,Rockstar Games,organization,power-law-decay,5106.0,6770.216108213313,,
+2023-12-25,Rockstar_Games,Rockstar Games,organization,power-law-decay,6022.0,6650.48986065678,,
+2023-12-26,Rockstar_Games,Rockstar Games,organization,power-law-decay,6306.0,6542.969804555912,,
+2023-12-27,Rockstar_Games,Rockstar Games,organization,power-law-decay,5916.0,6445.937687510992,,
+2023-12-28,Rockstar_Games,Rockstar Games,organization,power-law-decay,5481.0,6357.978300753559,,
+2023-12-29,Rockstar_Games,Rockstar Games,organization,power-law-decay,5002.0,6277.916103353556,,
+2023-12-30,Rockstar_Games,Rockstar Games,organization,power-law-decay,4944.0,6204.767017666495,,
+2023-12-31,Rockstar_Games,Rockstar Games,organization,power-law-decay,4616.0,6137.701339101683,,
+2024-01-01,Rockstar_Games,Rockstar Games,organization,power-law-decay,4707.0,6076.014893748519,,
+2024-01-02,Rockstar_Games,Rockstar Games,organization,power-law-decay,4793.0,6019.106389669179,,
+2024-01-03,Rockstar_Games,Rockstar Games,organization,power-law-decay,4769.0,5966.459470453643,,
+2024-01-04,Rockstar_Games,Rockstar Games,organization,power-law-decay,4612.0,5917.628375114024,,
+2024-01-05,Rockstar_Games,Rockstar Games,organization,power-law-decay,4811.0,5872.2263899642,,
+2024-01-06,Rockstar_Games,Rockstar Games,organization,power-law-decay,4660.0,5829.916481044964,,
+2024-01-07,Rockstar_Games,Rockstar Games,organization,power-law-decay,4701.0,5790.403643546434,,
+2024-01-08,Rockstar_Games,Rockstar Games,organization,power-law-decay,4646.0,5753.428613609319,,
+2024-01-09,Rockstar_Games,Rockstar Games,organization,power-law-decay,6139.0,5718.762668913165,,
+2024-01-10,Rockstar_Games,Rockstar Games,organization,power-law-decay,5360.0,5686.203305289516,,
+2024-01-11,Rockstar_Games,Rockstar Games,organization,power-law-decay,5486.0,5655.570622662571,,
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,power-law-decay,17256.0,19718.4649679146,,
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,power-law-decay,16576.0,18557.770929042796,,
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,power-law-decay,15875.0,17640.17814734738,,
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,power-law-decay,15218.0,16899.00475086321,,
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14952.0,16289.526760872764,,
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14710.0,15780.710407684572,,
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,power-law-decay,13709.0,15350.396435774004,,
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,power-law-decay,13584.0,14982.371057767676,,
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14868.0,14664.517733422104,,
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14847.0,14387.613482100092,,
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14513.0,14144.523098276766,,
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,power-law-decay,13640.0,13929.64654824722,,
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14028.0,13738.53180623426,,
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,power-law-decay,14175.0,13567.598378199727,,
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,power-law-decay,16533.0,13413.936460609852,,
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,power-law-decay,15766.0,13275.158771831888,,
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,power-law-decay,13360.0,13149.289699734214,,
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,power-law-decay,12741.0,13034.68130147455,,
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,power-law-decay,12339.0,12929.948902620785,,
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,power-law-decay,12218.0,12833.921189541616,,
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11795.0,12745.601148593822,,
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11861.0,12664.135213470368,,
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11176.0,12588.78868797812,,
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11586.0,12518.926012508657,,
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11551.0,12453.994802413094,,
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11465.0,12393.512848065271,,
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,power-law-decay,10583.0,12337.057458513962,,
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,power-law-decay,11050.0,12284.256673137355,,
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,power-law-decay,10148.0,12234.781972418175,,
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,power-law-decay,10204.0,12188.3421995549,,
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,13712.0,16476.349503625752,,
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,15450.0,15267.628383959303,,
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,16479.0,14302.3980189741,,
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,15153.0,13515.583947634364,,
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,14088.0,12863.132743148491,,
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,13008.0,12314.215263480708,,
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,11596.0,11846.64560259131,,
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,11025.0,11444.072449976977,,
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,11117.0,11094.193735535398,,
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10701.0,10787.585890597118,,
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10468.0,10516.915086068118,,
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10282.0,10276.39304231771,,
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10628.0,10061.393594180576,,
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10908.0,9868.17740721843,,
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,11028.0,9693.690984308623,,
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,10672.0,9535.4176666544,,
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,9279.0,9391.265645472831,,
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,8934.0,9259.482726693646,,
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,8118.0,9138.59070719482,,
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,8558.0,9027.334313518602,,
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,8502.0,8924.64108258964,,
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,8406.0,8829.589554342854,,
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7839.0,8741.38384252615,,
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7770.0,8659.333145997369,,
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7837.0,8582.835120507483,,
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7721.0,8511.362291779915,,
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7527.0,8444.45088289637,,
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,7175.0,8381.691572034351,,
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,6928.0,8322.721804032572,,
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,power-law-decay,6522.0,8267.219360651598,,
+2023-12-13,Take-Two_Interactive,Take-Two,organization,power-law-decay,3240.0,3177.9149081561627,,
+2023-12-14,Take-Two_Interactive,Take-Two,organization,power-law-decay,2634.0,3020.9937097524785,,
+2023-12-15,Take-Two_Interactive,Take-Two,organization,power-law-decay,2251.0,2896.612354006323,,
+2023-12-16,Take-Two_Interactive,Take-Two,organization,power-law-decay,2145.0,2795.904861398838,,
+2023-12-17,Take-Two_Interactive,Take-Two,organization,power-law-decay,1996.0,2712.9103138265086,,
+2023-12-18,Take-Two_Interactive,Take-Two,organization,power-law-decay,2119.0,2643.4832778394502,,
+2023-12-19,Take-Two_Interactive,Take-Two,organization,power-law-decay,2004.0,2584.6577142591323,,
+2023-12-20,Take-Two_Interactive,Take-Two,organization,power-law-decay,1987.0,2534.2592829780715,,
+2023-12-21,Take-Two_Interactive,Take-Two,organization,power-law-decay,1876.0,2490.660237069237,,
+2023-12-22,Take-Two_Interactive,Take-Two,organization,power-law-decay,2059.0,2452.61950733837,,
+2023-12-23,Take-Two_Interactive,Take-Two,organization,power-law-decay,1691.0,2419.175471046186,,
+2023-12-24,Take-Two_Interactive,Take-Two,organization,power-law-decay,1470.0,2389.5722977213277,,
+2023-12-25,Take-Two_Interactive,Take-Two,organization,power-law-decay,1915.0,2363.2082693476486,,
+2023-12-26,Take-Two_Interactive,Take-Two,organization,power-law-decay,2068.0,2339.5988238506625,,
+2023-12-27,Take-Two_Interactive,Take-Two,organization,power-law-decay,2016.0,2318.3496730689867,,
+2023-12-28,Take-Two_Interactive,Take-Two,organization,power-law-decay,1995.0,2299.1369457805176,,
+2023-12-29,Take-Two_Interactive,Take-Two,organization,power-law-decay,1697.0,2281.692313825636,,
+2023-12-30,Take-Two_Interactive,Take-Two,organization,power-law-decay,1570.0,2265.791708227569,,
+2023-12-31,Take-Two_Interactive,Take-Two,organization,power-law-decay,1463.0,2251.246658599593,,
+2024-01-01,Take-Two_Interactive,Take-Two,organization,power-law-decay,1533.0,2237.897574512724,,
+2024-01-02,Take-Two_Interactive,Take-Two,organization,power-law-decay,1687.0,2225.608481739974,,
+2024-01-03,Take-Two_Interactive,Take-Two,organization,power-law-decay,1690.0,2214.262860556819,,
+2024-01-04,Take-Two_Interactive,Take-Two,organization,power-law-decay,1597.0,2203.760327412321,,
+2024-01-05,Take-Two_Interactive,Take-Two,organization,power-law-decay,1497.0,2194.013968159419,,
+2024-01-06,Take-Two_Interactive,Take-Two,organization,power-law-decay,1372.0,2184.9481791243684,,
+2024-01-07,Take-Two_Interactive,Take-Two,organization,power-law-decay,1511.0,2176.496907274847,,
+2024-01-08,Take-Two_Interactive,Take-Two,organization,power-law-decay,1567.0,2168.602206459778,,
+2024-01-09,Take-Two_Interactive,Take-Two,organization,power-law-decay,1580.0,2161.213045784334,,
+2024-01-10,Take-Two_Interactive,Take-Two,organization,power-law-decay,1456.0,2154.2843204890873,,
+2024-01-11,Take-Two_Interactive,Take-Two,organization,power-law-decay,1443.0,2147.776026516045,,
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,20067.0,153488.0,,
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,18171.0,82441.0,,
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,16337.0,56454.0,,
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,15345.0,43030.0,,
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,14070.0,37048.0,,
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,14072.0,30401.0,,
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,12160.0,23745.0,,
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,10736.0,153488.0,,
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,12599.0,82441.0,,
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,14911.0,56454.0,,
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,11897.0,43030.0,,
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,11080.0,37048.0,,
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,11465.0,30401.0,,
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,10871.0,23745.0,,
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9906.0,153488.0,,
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9642.0,82441.0,,
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9623.0,56454.0,,
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9007.0,43030.0,,
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9335.0,37048.0,,
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9521.0,30401.0,,
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9561.0,23745.0,,
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,9288.0,153488.0,,
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8662.0,82441.0,,
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8091.0,56454.0,,
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8331.0,43030.0,,
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8250.0,37048.0,,
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,7747.0,30401.0,,
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8510.0,23745.0,,
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,8198.0,153488.0,,
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,seasonal-naive,7742.0,82441.0,,
+2023-12-13,Rockstar_Games,Rockstar Games,organization,seasonal-naive,8623.0,44573.0,,
+2023-12-14,Rockstar_Games,Rockstar Games,organization,seasonal-naive,8067.0,25721.0,,
+2023-12-15,Rockstar_Games,Rockstar Games,organization,seasonal-naive,7431.0,22459.0,,
+2023-12-16,Rockstar_Games,Rockstar Games,organization,seasonal-naive,7146.0,15827.0,,
+2023-12-17,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6871.0,14950.0,,
+2023-12-18,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6954.0,12133.0,,
+2023-12-19,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6327.0,10203.0,,
+2023-12-20,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5774.0,44573.0,,
+2023-12-21,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5861.0,25721.0,,
+2023-12-22,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5777.0,22459.0,,
+2023-12-23,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5322.0,15827.0,,
+2023-12-24,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5106.0,14950.0,,
+2023-12-25,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6022.0,12133.0,,
+2023-12-26,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6306.0,10203.0,,
+2023-12-27,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5916.0,44573.0,,
+2023-12-28,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5481.0,25721.0,,
+2023-12-29,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5002.0,22459.0,,
+2023-12-30,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4944.0,15827.0,,
+2023-12-31,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4616.0,14950.0,,
+2024-01-01,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4707.0,12133.0,,
+2024-01-02,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4793.0,10203.0,,
+2024-01-03,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4769.0,44573.0,,
+2024-01-04,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4612.0,25721.0,,
+2024-01-05,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4811.0,22459.0,,
+2024-01-06,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4660.0,15827.0,,
+2024-01-07,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4701.0,14950.0,,
+2024-01-08,Rockstar_Games,Rockstar Games,organization,seasonal-naive,4646.0,12133.0,,
+2024-01-09,Rockstar_Games,Rockstar Games,organization,seasonal-naive,6139.0,10203.0,,
+2024-01-10,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5360.0,44573.0,,
+2024-01-11,Rockstar_Games,Rockstar Games,organization,seasonal-naive,5486.0,25721.0,,
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,17256.0,78381.0,,
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,16576.0,49724.0,,
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,15875.0,38369.0,,
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,15218.0,31199.0,,
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14952.0,28996.0,,
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14710.0,22508.0,,
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,13709.0,19589.0,,
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,13584.0,78381.0,,
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14868.0,49724.0,,
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14847.0,38369.0,,
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14513.0,31199.0,,
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,13640.0,28996.0,,
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14028.0,22508.0,,
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,14175.0,19589.0,,
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,16533.0,78381.0,,
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,15766.0,49724.0,,
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,13360.0,38369.0,,
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,12741.0,31199.0,,
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,12339.0,28996.0,,
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,12218.0,22508.0,,
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11795.0,19589.0,,
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11861.0,78381.0,,
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11176.0,49724.0,,
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11586.0,38369.0,,
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11551.0,31199.0,,
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11465.0,28996.0,,
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,10583.0,22508.0,,
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,11050.0,19589.0,,
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,10148.0,78381.0,,
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,seasonal-naive,10204.0,49724.0,,
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,13712.0,75059.0,,
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,15450.0,44702.0,,
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,16479.0,36278.0,,
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,15153.0,26918.0,,
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,14088.0,25677.0,,
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,13008.0,19593.0,,
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,11596.0,16210.0,,
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,11025.0,75059.0,,
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,11117.0,44702.0,,
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10701.0,36278.0,,
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10468.0,26918.0,,
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10282.0,25677.0,,
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10628.0,19593.0,,
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10908.0,16210.0,,
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,11028.0,75059.0,,
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,10672.0,44702.0,,
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,9279.0,36278.0,,
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,8934.0,26918.0,,
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,8118.0,25677.0,,
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,8558.0,19593.0,,
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,8502.0,16210.0,,
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,8406.0,75059.0,,
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7839.0,44702.0,,
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7770.0,36278.0,,
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7837.0,26918.0,,
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7721.0,25677.0,,
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7527.0,19593.0,,
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,7175.0,16210.0,,
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,6928.0,75059.0,,
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,seasonal-naive,6522.0,44702.0,,
+2023-12-13,Take-Two_Interactive,Take-Two,organization,seasonal-naive,3240.0,11499.0,,
+2023-12-14,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2634.0,7033.0,,
+2023-12-15,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2251.0,6175.0,,
+2023-12-16,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2145.0,4312.0,,
+2023-12-17,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1996.0,4150.0,,
+2023-12-18,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2119.0,3605.0,,
+2023-12-19,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2004.0,3283.0,,
+2023-12-20,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1987.0,11499.0,,
+2023-12-21,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1876.0,7033.0,,
+2023-12-22,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2059.0,6175.0,,
+2023-12-23,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1691.0,4312.0,,
+2023-12-24,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1470.0,4150.0,,
+2023-12-25,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1915.0,3605.0,,
+2023-12-26,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2068.0,3283.0,,
+2023-12-27,Take-Two_Interactive,Take-Two,organization,seasonal-naive,2016.0,11499.0,,
+2023-12-28,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1995.0,7033.0,,
+2023-12-29,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1697.0,6175.0,,
+2023-12-30,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1570.0,4312.0,,
+2023-12-31,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1463.0,4150.0,,
+2024-01-01,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1533.0,3605.0,,
+2024-01-02,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1687.0,3283.0,,
+2024-01-03,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1690.0,11499.0,,
+2024-01-04,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1597.0,7033.0,,
+2024-01-05,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1497.0,6175.0,,
+2024-01-06,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1372.0,4312.0,,
+2024-01-07,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1511.0,4150.0,,
+2024-01-08,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1567.0,3605.0,,
+2024-01-09,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1580.0,3283.0,,
+2024-01-10,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1456.0,11499.0,,
+2024-01-11,Take-Two_Interactive,Take-Two,organization,seasonal-naive,1443.0,7033.0,,
+2023-12-13,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,20067.0,55.5,,
+2023-12-14,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,18171.0,55.5,,
+2023-12-15,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,16337.0,55.5,,
+2023-12-16,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,15345.0,55.5,,
+2023-12-17,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,14070.0,55.5,,
+2023-12-18,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,14072.0,55.5,,
+2023-12-19,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,12160.0,55.5,,
+2023-12-20,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,10736.0,55.5,,
+2023-12-21,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,12599.0,55.5,,
+2023-12-22,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,14911.0,55.5,,
+2023-12-23,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,11897.0,55.5,,
+2023-12-24,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,11080.0,55.5,,
+2023-12-25,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,11465.0,55.5,,
+2023-12-26,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,10871.0,55.5,,
+2023-12-27,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9906.0,55.5,,
+2023-12-28,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9642.0,55.5,,
+2023-12-29,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9623.0,55.5,,
+2023-12-30,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9007.0,55.5,,
+2023-12-31,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9335.0,55.5,,
+2024-01-01,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9521.0,55.5,,
+2024-01-02,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9561.0,55.5,,
+2024-01-03,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,9288.0,55.5,,
+2024-01-04,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8662.0,55.5,,
+2024-01-05,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8091.0,55.5,,
+2024-01-06,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8331.0,55.5,,
+2024-01-07,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8250.0,55.5,,
+2024-01-08,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,7747.0,55.5,,
+2024-01-09,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8510.0,55.5,,
+2024-01-10,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,8198.0,55.5,,
+2024-01-11,Grand_Theft_Auto_VI,GTA VI,event,flat-baseline,7742.0,55.5,,
+2023-12-13,Rockstar_Games,Rockstar Games,organization,flat-baseline,8623.0,4756.5,,
+2023-12-14,Rockstar_Games,Rockstar Games,organization,flat-baseline,8067.0,4756.5,,
+2023-12-15,Rockstar_Games,Rockstar Games,organization,flat-baseline,7431.0,4756.5,,
+2023-12-16,Rockstar_Games,Rockstar Games,organization,flat-baseline,7146.0,4756.5,,
+2023-12-17,Rockstar_Games,Rockstar Games,organization,flat-baseline,6871.0,4756.5,,
+2023-12-18,Rockstar_Games,Rockstar Games,organization,flat-baseline,6954.0,4756.5,,
+2023-12-19,Rockstar_Games,Rockstar Games,organization,flat-baseline,6327.0,4756.5,,
+2023-12-20,Rockstar_Games,Rockstar Games,organization,flat-baseline,5774.0,4756.5,,
+2023-12-21,Rockstar_Games,Rockstar Games,organization,flat-baseline,5861.0,4756.5,,
+2023-12-22,Rockstar_Games,Rockstar Games,organization,flat-baseline,5777.0,4756.5,,
+2023-12-23,Rockstar_Games,Rockstar Games,organization,flat-baseline,5322.0,4756.5,,
+2023-12-24,Rockstar_Games,Rockstar Games,organization,flat-baseline,5106.0,4756.5,,
+2023-12-25,Rockstar_Games,Rockstar Games,organization,flat-baseline,6022.0,4756.5,,
+2023-12-26,Rockstar_Games,Rockstar Games,organization,flat-baseline,6306.0,4756.5,,
+2023-12-27,Rockstar_Games,Rockstar Games,organization,flat-baseline,5916.0,4756.5,,
+2023-12-28,Rockstar_Games,Rockstar Games,organization,flat-baseline,5481.0,4756.5,,
+2023-12-29,Rockstar_Games,Rockstar Games,organization,flat-baseline,5002.0,4756.5,,
+2023-12-30,Rockstar_Games,Rockstar Games,organization,flat-baseline,4944.0,4756.5,,
+2023-12-31,Rockstar_Games,Rockstar Games,organization,flat-baseline,4616.0,4756.5,,
+2024-01-01,Rockstar_Games,Rockstar Games,organization,flat-baseline,4707.0,4756.5,,
+2024-01-02,Rockstar_Games,Rockstar Games,organization,flat-baseline,4793.0,4756.5,,
+2024-01-03,Rockstar_Games,Rockstar Games,organization,flat-baseline,4769.0,4756.5,,
+2024-01-04,Rockstar_Games,Rockstar Games,organization,flat-baseline,4612.0,4756.5,,
+2024-01-05,Rockstar_Games,Rockstar Games,organization,flat-baseline,4811.0,4756.5,,
+2024-01-06,Rockstar_Games,Rockstar Games,organization,flat-baseline,4660.0,4756.5,,
+2024-01-07,Rockstar_Games,Rockstar Games,organization,flat-baseline,4701.0,4756.5,,
+2024-01-08,Rockstar_Games,Rockstar Games,organization,flat-baseline,4646.0,4756.5,,
+2024-01-09,Rockstar_Games,Rockstar Games,organization,flat-baseline,6139.0,4756.5,,
+2024-01-10,Rockstar_Games,Rockstar Games,organization,flat-baseline,5360.0,4756.5,,
+2024-01-11,Rockstar_Games,Rockstar Games,organization,flat-baseline,5486.0,4756.5,,
+2023-12-13,Grand_Theft_Auto_V,GTA V,work,flat-baseline,17256.0,10913.5,,
+2023-12-14,Grand_Theft_Auto_V,GTA V,work,flat-baseline,16576.0,10913.5,,
+2023-12-15,Grand_Theft_Auto_V,GTA V,work,flat-baseline,15875.0,10913.5,,
+2023-12-16,Grand_Theft_Auto_V,GTA V,work,flat-baseline,15218.0,10913.5,,
+2023-12-17,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14952.0,10913.5,,
+2023-12-18,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14710.0,10913.5,,
+2023-12-19,Grand_Theft_Auto_V,GTA V,work,flat-baseline,13709.0,10913.5,,
+2023-12-20,Grand_Theft_Auto_V,GTA V,work,flat-baseline,13584.0,10913.5,,
+2023-12-21,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14868.0,10913.5,,
+2023-12-22,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14847.0,10913.5,,
+2023-12-23,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14513.0,10913.5,,
+2023-12-24,Grand_Theft_Auto_V,GTA V,work,flat-baseline,13640.0,10913.5,,
+2023-12-25,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14028.0,10913.5,,
+2023-12-26,Grand_Theft_Auto_V,GTA V,work,flat-baseline,14175.0,10913.5,,
+2023-12-27,Grand_Theft_Auto_V,GTA V,work,flat-baseline,16533.0,10913.5,,
+2023-12-28,Grand_Theft_Auto_V,GTA V,work,flat-baseline,15766.0,10913.5,,
+2023-12-29,Grand_Theft_Auto_V,GTA V,work,flat-baseline,13360.0,10913.5,,
+2023-12-30,Grand_Theft_Auto_V,GTA V,work,flat-baseline,12741.0,10913.5,,
+2023-12-31,Grand_Theft_Auto_V,GTA V,work,flat-baseline,12339.0,10913.5,,
+2024-01-01,Grand_Theft_Auto_V,GTA V,work,flat-baseline,12218.0,10913.5,,
+2024-01-02,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11795.0,10913.5,,
+2024-01-03,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11861.0,10913.5,,
+2024-01-04,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11176.0,10913.5,,
+2024-01-05,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11586.0,10913.5,,
+2024-01-06,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11551.0,10913.5,,
+2024-01-07,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11465.0,10913.5,,
+2024-01-08,Grand_Theft_Auto_V,GTA V,work,flat-baseline,10583.0,10913.5,,
+2024-01-09,Grand_Theft_Auto_V,GTA V,work,flat-baseline,11050.0,10913.5,,
+2024-01-10,Grand_Theft_Auto_V,GTA V,work,flat-baseline,10148.0,10913.5,,
+2024-01-11,Grand_Theft_Auto_V,GTA V,work,flat-baseline,10204.0,10913.5,,
+2023-12-13,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,13712.0,6618.5,,
+2023-12-14,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,15450.0,6618.5,,
+2023-12-15,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,16479.0,6618.5,,
+2023-12-16,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,15153.0,6618.5,,
+2023-12-17,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,14088.0,6618.5,,
+2023-12-18,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,13008.0,6618.5,,
+2023-12-19,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,11596.0,6618.5,,
+2023-12-20,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,11025.0,6618.5,,
+2023-12-21,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,11117.0,6618.5,,
+2023-12-22,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10701.0,6618.5,,
+2023-12-23,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10468.0,6618.5,,
+2023-12-24,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10282.0,6618.5,,
+2023-12-25,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10628.0,6618.5,,
+2023-12-26,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10908.0,6618.5,,
+2023-12-27,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,11028.0,6618.5,,
+2023-12-28,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,10672.0,6618.5,,
+2023-12-29,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,9279.0,6618.5,,
+2023-12-30,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,8934.0,6618.5,,
+2023-12-31,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,8118.0,6618.5,,
+2024-01-01,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,8558.0,6618.5,,
+2024-01-02,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,8502.0,6618.5,,
+2024-01-03,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,8406.0,6618.5,,
+2024-01-04,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7839.0,6618.5,,
+2024-01-05,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7770.0,6618.5,,
+2024-01-06,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7837.0,6618.5,,
+2024-01-07,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7721.0,6618.5,,
+2024-01-08,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7527.0,6618.5,,
+2024-01-09,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,7175.0,6618.5,,
+2024-01-10,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,6928.0,6618.5,,
+2024-01-11,Grand_Theft_Auto,Grand Theft Auto,idea,flat-baseline,6522.0,6618.5,,
+2023-12-13,Take-Two_Interactive,Take-Two,organization,flat-baseline,3240.0,1965.5,,
+2023-12-14,Take-Two_Interactive,Take-Two,organization,flat-baseline,2634.0,1965.5,,
+2023-12-15,Take-Two_Interactive,Take-Two,organization,flat-baseline,2251.0,1965.5,,
+2023-12-16,Take-Two_Interactive,Take-Two,organization,flat-baseline,2145.0,1965.5,,
+2023-12-17,Take-Two_Interactive,Take-Two,organization,flat-baseline,1996.0,1965.5,,
+2023-12-18,Take-Two_Interactive,Take-Two,organization,flat-baseline,2119.0,1965.5,,
+2023-12-19,Take-Two_Interactive,Take-Two,organization,flat-baseline,2004.0,1965.5,,
+2023-12-20,Take-Two_Interactive,Take-Two,organization,flat-baseline,1987.0,1965.5,,
+2023-12-21,Take-Two_Interactive,Take-Two,organization,flat-baseline,1876.0,1965.5,,
+2023-12-22,Take-Two_Interactive,Take-Two,organization,flat-baseline,2059.0,1965.5,,
+2023-12-23,Take-Two_Interactive,Take-Two,organization,flat-baseline,1691.0,1965.5,,
+2023-12-24,Take-Two_Interactive,Take-Two,organization,flat-baseline,1470.0,1965.5,,
+2023-12-25,Take-Two_Interactive,Take-Two,organization,flat-baseline,1915.0,1965.5,,
+2023-12-26,Take-Two_Interactive,Take-Two,organization,flat-baseline,2068.0,1965.5,,
+2023-12-27,Take-Two_Interactive,Take-Two,organization,flat-baseline,2016.0,1965.5,,
+2023-12-28,Take-Two_Interactive,Take-Two,organization,flat-baseline,1995.0,1965.5,,
+2023-12-29,Take-Two_Interactive,Take-Two,organization,flat-baseline,1697.0,1965.5,,
+2023-12-30,Take-Two_Interactive,Take-Two,organization,flat-baseline,1570.0,1965.5,,
+2023-12-31,Take-Two_Interactive,Take-Two,organization,flat-baseline,1463.0,1965.5,,
+2024-01-01,Take-Two_Interactive,Take-Two,organization,flat-baseline,1533.0,1965.5,,
+2024-01-02,Take-Two_Interactive,Take-Two,organization,flat-baseline,1687.0,1965.5,,
+2024-01-03,Take-Two_Interactive,Take-Two,organization,flat-baseline,1690.0,1965.5,,
+2024-01-04,Take-Two_Interactive,Take-Two,organization,flat-baseline,1597.0,1965.5,,
+2024-01-05,Take-Two_Interactive,Take-Two,organization,flat-baseline,1497.0,1965.5,,
+2024-01-06,Take-Two_Interactive,Take-Two,organization,flat-baseline,1372.0,1965.5,,
+2024-01-07,Take-Two_Interactive,Take-Two,organization,flat-baseline,1511.0,1965.5,,
+2024-01-08,Take-Two_Interactive,Take-Two,organization,flat-baseline,1567.0,1965.5,,
+2024-01-09,Take-Two_Interactive,Take-Two,organization,flat-baseline,1580.0,1965.5,,
+2024-01-10,Take-Two_Interactive,Take-Two,organization,flat-baseline,1456.0,1965.5,,
+2024-01-11,Take-Two_Interactive,Take-Two,organization,flat-baseline,1443.0,1965.5,,

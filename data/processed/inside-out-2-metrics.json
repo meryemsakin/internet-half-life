@@ -1,0 +1,142 @@
+{
+  "slug": "inside-out-2",
+  "title": "Inside Out 2 opens",
+  "event_date": "2024-06-14",
+  "primary": "Inside_Out_2",
+  "total_excess_views_60d": 4863356,
+  "spillover_share": 0.2319344913265654,
+  "pages": [
+    {
+      "article": "Inside_Out_2",
+      "label": "Inside Out 2",
+      "role": "event",
+      "baseline_views": 22262.5,
+      "peak_date": "2024-06-15",
+      "peak_offset_days": 1,
+      "peak_views": 216432,
+      "peak_lift": 9.721819202695116,
+      "half_life_days": 4,
+      "excess_views_60d": 3735376,
+      "first_week_share": 0.2628298998547937,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Inside_Out_(2015_film)",
+      "label": "Inside Out",
+      "role": "work",
+      "baseline_views": 8732.5,
+      "peak_date": "2024-06-16",
+      "peak_offset_days": 2,
+      "peak_views": 65303,
+      "peak_lift": 7.47815631262525,
+      "half_life_days": 10,
+      "excess_views_60d": 979030,
+      "first_week_share": 0.3280914128824383,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Pixar",
+      "label": "Pixar",
+      "role": "organization",
+      "baseline_views": 3699.0,
+      "peak_date": "2024-06-17",
+      "peak_offset_days": 3,
+      "peak_views": 7686,
+      "peak_lift": 2.0778588807785887,
+      "half_life_days": 1,
+      "excess_views_60d": 45765,
+      "first_week_share": 0.41745875669179505,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Anxiety",
+      "label": "Anxiety",
+      "role": "idea",
+      "baseline_views": 1313.0,
+      "peak_date": "2024-06-24",
+      "peak_offset_days": 10,
+      "peak_views": 1873,
+      "peak_lift": 1.4265041888804264,
+      "half_life_days": 10,
+      "excess_views_60d": 16979,
+      "first_week_share": 0.15919665469108898,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Amy_Poehler",
+      "label": "Amy Poehler",
+      "role": "person",
+      "baseline_views": 4660.5,
+      "peak_date": "2024-06-16",
+      "peak_offset_days": 2,
+      "peak_views": 13014,
+      "peak_lift": 2.792404248471194,
+      "half_life_days": 8,
+      "excess_views_60d": 86206,
+      "first_week_share": 0.4906561028234694,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Inside_Out_(2015_film)",
+      "target": "Pixar",
+      "lag_days": 0,
+      "correlation": 0.9060348262107716
+    },
+    {
+      "source": "Amy_Poehler",
+      "target": "Pixar",
+      "lag_days": 1,
+      "correlation": 0.9016018157647773
+    },
+    {
+      "source": "Amy_Poehler",
+      "target": "Inside_Out_(2015_film)",
+      "lag_days": 1,
+      "correlation": 0.8566486166981363
+    },
+    {
+      "source": "Inside_Out_2",
+      "target": "Pixar",
+      "lag_days": 0,
+      "correlation": 0.8489230903875891
+    },
+    {
+      "source": "Inside_Out_2",
+      "target": "Inside_Out_(2015_film)",
+      "lag_days": 0,
+      "correlation": 0.8095911650584352
+    },
+    {
+      "source": "Inside_Out_2",
+      "target": "Anxiety",
+      "lag_days": 2,
+      "correlation": 0.8033830808883693
+    },
+    {
+      "source": "Inside_Out_(2015_film)",
+      "target": "Anxiety",
+      "lag_days": 3,
+      "correlation": 0.697535631458801
+    },
+    {
+      "source": "Amy_Poehler",
+      "target": "Inside_Out_2",
+      "lag_days": 1,
+      "correlation": 0.6757525632565043
+    },
+    {
+      "source": "Pixar",
+      "target": "Anxiety",
+      "lag_days": 3,
+      "correlation": 0.6542433550234272
+    },
+    {
+      "source": "Amy_Poehler",
+      "target": "Anxiety",
+      "lag_days": 5,
+      "correlation": 0.5190940280534424
+    }
+  ]
+}

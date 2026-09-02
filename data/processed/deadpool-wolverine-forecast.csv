@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,462407.0,376381.15625,307157.8125,452373.59375
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,512085.0,346706.78125,257591.40625,458888.1875
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,438502.0,312335.6875,210283.328125,460166.65625
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,327170.0,291161.28125,182845.171875,465851.1875
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,282017.0,269565.53125,161124.4375,470871.5625
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,279856.0,257058.515625,145761.875,479226.53125
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,298584.0,249843.59375,135744.84375,491680.90625
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,302262.0,235310.046875,122616.65625,481218.15625
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,405380.0,220619.59375,110084.328125,470489.21875
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,316708.0,208654.875,100275.828125,454390.84375
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,256671.0,192071.03125,88835.2109375,441709.59375
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,229226.0,178809.125,80159.921875,433816.3125
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,216387.0,172412.1875,80593.0,427880.15625
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,221532.0,170485.921875,77377.1015625,437065.0625
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,212163.0,165676.765625,79211.234375,435430.96875
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,221201.0,156775.3125,71213.40625,430238.71875
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,203949.0,144575.90625,63308.046875,421753.34375
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,154315.0,134000.28125,59048.0859375,409696.90625
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,118482.0,124963.859375,49309.9765625,403061.0
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,105099.0,117536.734375,48761.78515625,394269.34375
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,120351.0,121873.625,48971.78125,402475.375
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,181460.0,117698.3125,47410.10546875,399215.6875
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,202544.0,107560.921875,43689.875,385444.78125
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,153756.0,106416.9765625,41352.6171875,381662.0625
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,122471.0,99850.9375,39091.3671875,372420.71875
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,120190.0,91239.9609375,31162.546875,362648.65625
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,111047.0,87449.390625,31296.75390625,353742.09375
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,114774.0,90443.59375,33294.125,357248.0625
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,130072.0,88266.2421875,34479.0234375,352791.09375
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-multivariate,157448.0,86575.640625,35224.51171875,347926.375
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,75293.0,67547.796875,61460.79296875,76522.0625
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,83108.0,66740.921875,56662.48046875,83530.1015625
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,67590.0,61026.07421875,49556.7421875,80869.328125
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,63819.0,54619.9140625,42326.5390625,76518.03125
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,75346.0,49776.75,37073.50390625,73919.71875
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,84694.0,46510.16796875,33717.390625,71870.625
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,101886.0,45707.7890625,32281.96875,72842.296875
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,89298.0,47371.53125,33378.05078125,76140.234375
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,85795.0,49666.3125,34769.3046875,80331.296875
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,71187.0,45054.9375,31286.078125,75685.4375
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,64316.0,40530.37890625,27646.373046875,70791.75
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,65846.0,37114.640625,25198.54296875,66899.3984375
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,64214.0,35320.39453125,23957.4453125,64981.6015625
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,65675.0,34968.515625,23747.853515625,65397.3359375
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,67511.0,37055.1484375,25403.46875,68113.765625
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,62406.0,39148.90625,27547.94921875,69864.25
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,53418.0,35989.36328125,25102.07421875,66321.609375
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,43602.0,32026.25390625,21753.8359375,61396.44921875
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,41882.0,29832.82421875,20251.193359375,58787.828125
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,33930.0,29201.12109375,19953.78125,57743.3046875
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,32561.0,29851.94140625,20227.634765625,58949.24609375
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,36434.0,32017.802734375,22119.791015625,61704.0
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,37620.0,33560.1875,23643.4453125,63181.91796875
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,31790.0,31618.19921875,21645.75390625,60430.69921875
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,26660.0,28350.650390625,19170.46484375,56136.77734375
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,26193.0,26275.365234375,17599.73828125,53813.34375
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,26238.0,24751.1015625,16597.751953125,51468.0703125
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,25688.0,25041.837890625,16545.802734375,51945.6171875
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,25827.0,27570.40625,19003.0,54727.53125
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,timesfm-multivariate,27572.0,29103.630859375,20191.1484375,56286.5546875
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,60319.0,52302.9296875,45466.0546875,61475.5859375
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,66708.0,50109.6171875,41726.51953125,64682.6796875
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,52853.0,43624.1328125,34715.19140625,59802.9140625
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,44855.0,37253.5859375,28445.6484375,54234.0703125
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,46974.0,33688.6484375,25214.8671875,51284.6875
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,51868.0,31701.7421875,22674.765625,50331.2734375
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,43615.0,31778.40234375,21476.7734375,51828.34375
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,43052.0,32038.357421875,20965.54296875,53493.921875
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,41885.0,32319.927734375,21073.5390625,54409.703125
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,35397.0,27913.275390625,17234.7578125,50269.6484375
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,29562.0,25270.810546875,15028.20703125,47224.59375
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,28264.0,23609.93359375,13913.935546875,45342.0234375
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,25142.0,22904.2265625,13796.43359375,44735.2421875
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,24451.0,22912.412109375,13431.423828125,45771.6015625
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,30689.0,24589.21875,15210.681640625,47809.734375
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,29865.0,26055.708984375,16438.560546875,49355.7265625
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,25160.0,22670.1484375,13741.2392578125,45483.46875
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,21135.0,19065.365234375,11529.71875,40616.375
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,21494.0,17410.138671875,10332.0712890625,38698.66015625
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,22168.0,18062.09765625,11019.9296875,38998.7578125
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,19310.0,18514.84375,10721.1513671875,40157.5703125
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,20977.0,18686.26171875,10569.0498046875,40488.8984375
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,20953.0,18544.560546875,11016.1083984375,39446.359375
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,22170.0,16553.78125,9378.3232421875,36684.625
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,19589.0,14617.76171875,8271.248046875,33695.296875
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,17535.0,13583.3125,7701.935546875,32334.67578125
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,15375.0,12773.3798828125,7199.294921875,30937.369140625
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,21757.0,13792.244140625,6672.810546875,33333.109375
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,18398.0,15293.876953125,7881.90625,35199.84375
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,timesfm-multivariate,26373.0,15496.56640625,8842.3671875,34180.8671875
+2024-08-03,Wolverine_(character),Wolverine,work,timesfm-multivariate,16283.0,14542.677734375,13142.6015625,16987.3515625
+2024-08-04,Wolverine_(character),Wolverine,work,timesfm-multivariate,17350.0,14228.1044921875,12157.15625,17611.521484375
+2024-08-05,Wolverine_(character),Wolverine,work,timesfm-multivariate,15171.0,12799.9482421875,10375.267578125,16753.34765625
+2024-08-06,Wolverine_(character),Wolverine,work,timesfm-multivariate,13113.0,11943.1279296875,9277.58203125,16276.77734375
+2024-08-07,Wolverine_(character),Wolverine,work,timesfm-multivariate,12318.0,11476.9638671875,8734.0712890625,16139.1767578125
+2024-08-08,Wolverine_(character),Wolverine,work,timesfm-multivariate,12219.0,10918.8837890625,7999.86083984375,15990.9853515625
+2024-08-09,Wolverine_(character),Wolverine,work,timesfm-multivariate,12127.0,10535.845703125,7435.4189453125,16115.6337890625
+2024-08-10,Wolverine_(character),Wolverine,work,timesfm-multivariate,12196.0,10966.947265625,7585.8095703125,17060.546875
+2024-08-11,Wolverine_(character),Wolverine,work,timesfm-multivariate,13151.0,11284.0048828125,7256.2666015625,18362.462890625
+2024-08-12,Wolverine_(character),Wolverine,work,timesfm-multivariate,12202.0,10037.7529296875,6592.4873046875,16771.06640625
+2024-08-13,Wolverine_(character),Wolverine,work,timesfm-multivariate,10935.0,9425.6123046875,6078.595703125,16200.2978515625
+2024-08-14,Wolverine_(character),Wolverine,work,timesfm-multivariate,9913.0,9042.23828125,5823.2021484375,15855.134765625
+2024-08-15,Wolverine_(character),Wolverine,work,timesfm-multivariate,8756.0,8567.708984375,5386.947265625,15420.232421875
+2024-08-16,Wolverine_(character),Wolverine,work,timesfm-multivariate,8956.0,8280.732421875,5115.7255859375,15359.681640625
+2024-08-17,Wolverine_(character),Wolverine,work,timesfm-multivariate,9589.0,8485.2666015625,5153.7255859375,15906.6279296875
+2024-08-18,Wolverine_(character),Wolverine,work,timesfm-multivariate,10386.0,8667.5126953125,5155.43359375,16337.03515625
+2024-08-19,Wolverine_(character),Wolverine,work,timesfm-multivariate,8992.0,7792.59423828125,4506.06787109375,15412.6376953125
+2024-08-20,Wolverine_(character),Wolverine,work,timesfm-multivariate,7372.0,7039.71826171875,4250.24365234375,14236.8662109375
+2024-08-21,Wolverine_(character),Wolverine,work,timesfm-multivariate,6876.0,6813.6025390625,4062.721435546875,14101.1650390625
+2024-08-22,Wolverine_(character),Wolverine,work,timesfm-multivariate,6336.0,6714.91015625,4028.47021484375,13990.0390625
+2024-08-23,Wolverine_(character),Wolverine,work,timesfm-multivariate,6524.0,6757.85791015625,3993.42724609375,14113.4755859375
+2024-08-24,Wolverine_(character),Wolverine,work,timesfm-multivariate,5985.0,6975.56884765625,4182.94921875,14485.0244140625
+2024-08-25,Wolverine_(character),Wolverine,work,timesfm-multivariate,6585.0,6961.2373046875,4231.85302734375,14426.5458984375
+2024-08-26,Wolverine_(character),Wolverine,work,timesfm-multivariate,6030.0,6472.509765625,3801.7900390625,13792.421875
+2024-08-27,Wolverine_(character),Wolverine,work,timesfm-multivariate,5578.0,5952.21826171875,3456.6640625,13089.349609375
+2024-08-28,Wolverine_(character),Wolverine,work,timesfm-multivariate,5287.0,5736.880859375,3397.082275390625,12772.16796875
+2024-08-29,Wolverine_(character),Wolverine,work,timesfm-multivariate,4901.0,5600.5595703125,3303.7119140625,12599.69140625
+2024-08-30,Wolverine_(character),Wolverine,work,timesfm-multivariate,4648.0,5589.79541015625,3308.062255859375,12552.982421875
+2024-08-31,Wolverine_(character),Wolverine,work,timesfm-multivariate,4638.0,5936.3388671875,3598.245849609375,13006.9267578125
+2024-09-01,Wolverine_(character),Wolverine,work,timesfm-multivariate,4709.0,6053.115234375,3350.982666015625,13431.7392578125
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,25058.0,23955.83984375,20818.771484375,31572.87890625
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,25520.0,25723.21484375,20176.068359375,38692.83203125
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,21626.0,21205.15625,16766.599609375,34553.40625
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,19116.0,19226.626953125,14818.8916015625,33302.421875
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,18229.0,18329.60546875,13953.2373046875,33704.94140625
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,16596.0,17657.099609375,13196.6787109375,34078.703125
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,16186.0,17304.158203125,12403.76171875,34644.671875
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,21581.0,18658.73828125,13378.275390625,36967.9921875
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,22434.0,21769.892578125,14630.04296875,42154.328125
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,19193.0,17614.251953125,12327.736328125,36318.2421875
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,16600.0,16299.4462890625,11410.3955078125,34547.4609375
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,16410.0,15440.005859375,10810.0,33489.8125
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,14825.0,14767.9775390625,10338.65625,32800.6484375
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,14208.0,14532.33984375,10146.115234375,32700.6640625
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,15104.0,15176.931640625,10806.81640625,32949.2265625
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,16013.0,17125.380859375,12177.431640625,34901.28125
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,15048.0,14915.7763671875,10671.572265625,31488.00390625
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,13350.0,13709.0498046875,10128.59765625,29188.30859375
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,12734.0,13210.171875,9513.5732421875,28782.72265625
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,11984.0,12907.388671875,9619.345703125,27741.13671875
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,11880.0,12555.525390625,9092.111328125,27526.6171875
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,13280.0,13095.7822265625,9427.7958984375,28254.755859375
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,13504.0,14787.6650390625,10459.69140625,30206.17578125
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,13301.0,12653.2236328125,8918.044921875,27138.03515625
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,11673.0,11911.0126953125,8694.888671875,25951.03515625
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,11368.0,11668.1611328125,8697.5546875,25545.02734375
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,10405.0,11506.57421875,8655.453125,25129.0859375
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,10551.0,11400.263671875,8836.935546875,24644.78515625
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,11325.0,12357.6484375,9042.001953125,26247.193359375
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,timesfm-multivariate,12476.0,13860.7509765625,10095.890625,27867.2890625
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,462407.0,364064.03125,286326.71875,450490.84375
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,512085.0,317653.21875,217545.03125,451799.375
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,438502.0,281394.34375,164778.453125,460749.3125
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,327170.0,255033.40625,143841.765625,449125.84375
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,282017.0,232809.390625,120150.3203125,457190.9375
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,279856.0,217363.15625,110776.9921875,450821.375
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,298584.0,204942.046875,91591.40625,455952.125
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,302262.0,185087.84375,85864.890625,422778.28125
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,405380.0,172365.75,78590.1875,401627.65625
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,316708.0,157365.625,68505.921875,369896.0625
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,256671.0,140035.21875,56704.453125,345780.21875
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,229226.0,132041.265625,54517.12890625,333185.65625
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,216387.0,127393.6484375,54645.17578125,324649.40625
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,221532.0,122247.3984375,50725.421875,321923.78125
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,212163.0,119391.5703125,51316.8515625,318474.65625
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,221201.0,113764.5390625,49843.0625,307240.21875
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,203949.0,99130.46875,41099.92578125,291516.625
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,154315.0,86190.1640625,31685.5078125,276098.84375
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,118482.0,81176.0703125,29961.94921875,268996.3125
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,105099.0,79966.6484375,33940.83203125,262823.03125
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,120351.0,82950.0,33972.625,265783.5625
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,181460.0,78777.7421875,32744.44921875,258393.828125
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,202544.0,71333.40625,29815.51953125,245923.171875
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,153756.0,70104.4140625,27424.1171875,237985.3125
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,122471.0,63846.03515625,26488.02734375,229593.34375
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,120190.0,59735.953125,21916.787109375,224542.75
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,111047.0,57876.20703125,24555.56640625,216284.046875
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,114774.0,62606.4140625,25385.369140625,221331.578125
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,130072.0,62176.86328125,28445.5390625,216566.21875
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,timesfm-univariate,157448.0,64658.3203125,32930.6796875,213735.015625
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,75293.0,66884.328125,60145.4375,76470.140625
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,83108.0,66359.703125,55421.52734375,82469.1875
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,67590.0,60670.49609375,49612.28125,78091.203125
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,63819.0,54146.7890625,42572.3046875,72965.578125
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,75346.0,49496.24609375,37944.7890625,69114.1875
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,84694.0,46556.29296875,34703.265625,67246.4609375
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,101886.0,45817.3515625,33488.46484375,67957.5078125
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,89298.0,47373.640625,34537.01171875,70887.875
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,85795.0,48363.9140625,34890.64453125,73391.984375
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,71187.0,44575.01953125,31988.484375,69283.796875
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,64316.0,39815.4453125,28094.978515625,63928.76953125
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,65846.0,36701.65234375,25775.470703125,60353.1796875
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,64214.0,35047.1875,24499.396484375,58700.796875
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,65675.0,34629.8125,24203.04296875,59108.0703125
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,67511.0,37156.59375,26322.8359375,62545.71484375
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,62406.0,39349.96484375,28163.482421875,64906.9921875
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,53418.0,35714.265625,25204.232421875,61077.796875
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,43602.0,31687.33203125,22292.18359375,55775.3515625
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,41882.0,29564.974609375,20743.349609375,53590.21875
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,33930.0,29145.41796875,20544.73828125,52703.2890625
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,32561.0,29856.783203125,20982.505859375,53879.046875
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,36434.0,32297.615234375,22937.435546875,56843.77734375
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,37620.0,34207.80859375,23656.23046875,59788.58203125
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,31790.0,31832.52734375,22567.154296875,55395.54296875
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,26660.0,27995.98828125,19695.478515625,50431.25
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,26193.0,25755.23828125,17879.123046875,47643.13671875
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,26238.0,24453.025390625,17029.283203125,45475.8359375
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,25688.0,24932.08203125,17375.87109375,45724.625
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,25827.0,27304.908203125,19586.32421875,48390.28125
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,timesfm-univariate,27572.0,28801.359375,20444.9765625,50186.6328125
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,60319.0,50611.8671875,43890.625,59604.640625
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,66708.0,46553.8984375,38759.59375,59531.171875
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,52853.0,40759.09375,32792.3046875,54983.8515625
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,44855.0,35027.796875,27342.32421875,49773.5078125
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,46974.0,31615.267578125,24393.70703125,46389.1953125
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,51868.0,29266.052734375,21995.783203125,44483.5859375
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,43615.0,29075.462890625,21462.65625,44904.375
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,43052.0,28854.716796875,20992.275390625,45275.2265625
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,41885.0,28446.736328125,20679.69921875,45000.3203125
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,35397.0,25213.095703125,17947.91796875,41500.828125
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,29562.0,22554.76171875,15565.9736328125,38274.265625
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,28264.0,20933.39453125,14491.3984375,36426.7578125
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,25142.0,20177.498046875,14230.583984375,35386.87109375
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,24451.0,19994.98828125,13562.068359375,36274.21484375
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,30689.0,20779.66015625,13874.69140625,37647.78125
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,29865.0,21189.21484375,14598.681640625,37370.671875
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,25160.0,18682.390625,12955.7587890625,34057.06640625
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,21135.0,16633.482421875,11411.498046875,31399.521484375
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,21494.0,15669.1728515625,10622.6884765625,30586.2578125
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,22168.0,15672.189453125,10869.06640625,30208.294921875
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,19310.0,16332.9775390625,10966.029296875,31456.490234375
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,20977.0,16879.8359375,11253.181640625,32178.36328125
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,20953.0,16867.802734375,11762.7216796875,31597.6328125
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,22170.0,15688.34765625,10700.037109375,29689.5
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,19589.0,13702.8984375,9291.099609375,27070.703125
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,17535.0,12822.0849609375,8701.51171875,25913.927734375
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,15375.0,12153.9599609375,8370.9921875,24890.51171875
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,21757.0,12899.375,8992.31640625,25585.3671875
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,18398.0,13853.0732421875,9723.7783203125,26843.001953125
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,timesfm-univariate,26373.0,13930.2314453125,9810.2041015625,26611.04296875
+2024-08-03,Wolverine_(character),Wolverine,work,timesfm-univariate,16283.0,14509.5087890625,13096.0107421875,16311.708984375
+2024-08-04,Wolverine_(character),Wolverine,work,timesfm-univariate,17350.0,14294.62890625,11996.0537109375,17229.28515625
+2024-08-05,Wolverine_(character),Wolverine,work,timesfm-univariate,15171.0,12978.0234375,10642.98828125,16163.107421875
+2024-08-06,Wolverine_(character),Wolverine,work,timesfm-univariate,13113.0,11515.505859375,8975.84375,15067.9013671875
+2024-08-07,Wolverine_(character),Wolverine,work,timesfm-univariate,12318.0,11355.55078125,8728.423828125,15186.0380859375
+2024-08-08,Wolverine_(character),Wolverine,work,timesfm-univariate,12219.0,10595.861328125,7816.59619140625,14749.6396484375
+2024-08-09,Wolverine_(character),Wolverine,work,timesfm-univariate,12127.0,10386.9462890625,7438.8720703125,14962.39453125
+2024-08-10,Wolverine_(character),Wolverine,work,timesfm-univariate,12196.0,10797.453125,7650.73193359375,15733.353515625
+2024-08-11,Wolverine_(character),Wolverine,work,timesfm-univariate,13151.0,11268.5146484375,7317.59716796875,17269.3046875
+2024-08-12,Wolverine_(character),Wolverine,work,timesfm-univariate,12202.0,9667.2216796875,6497.84765625,14995.501953125
+2024-08-13,Wolverine_(character),Wolverine,work,timesfm-univariate,10935.0,8981.478515625,5890.60205078125,14315.6328125
+2024-08-14,Wolverine_(character),Wolverine,work,timesfm-univariate,9913.0,8681.83203125,5685.8740234375,14035.38671875
+2024-08-15,Wolverine_(character),Wolverine,work,timesfm-univariate,8756.0,8282.6201171875,5293.9951171875,13699.626953125
+2024-08-16,Wolverine_(character),Wolverine,work,timesfm-univariate,8956.0,8231.9404296875,5287.080078125,13803.318359375
+2024-08-17,Wolverine_(character),Wolverine,work,timesfm-univariate,9589.0,8468.548828125,5301.26611328125,14426.6787109375
+2024-08-18,Wolverine_(character),Wolverine,work,timesfm-univariate,10386.0,8560.232421875,5403.6923828125,14519.8134765625
+2024-08-19,Wolverine_(character),Wolverine,work,timesfm-univariate,8992.0,7699.93212890625,4804.9033203125,13565.1083984375
+2024-08-20,Wolverine_(character),Wolverine,work,timesfm-univariate,7372.0,6747.98095703125,4238.607421875,12333.0595703125
+2024-08-21,Wolverine_(character),Wolverine,work,timesfm-univariate,6876.0,6468.9443359375,3940.65283203125,12190.4208984375
+2024-08-22,Wolverine_(character),Wolverine,work,timesfm-univariate,6336.0,6304.25,3926.88916015625,11950.1884765625
+2024-08-23,Wolverine_(character),Wolverine,work,timesfm-univariate,6524.0,6457.3984375,3958.119384765625,12233.0
+2024-08-24,Wolverine_(character),Wolverine,work,timesfm-univariate,5985.0,6773.703125,4112.12060546875,12806.9794921875
+2024-08-25,Wolverine_(character),Wolverine,work,timesfm-univariate,6585.0,6793.4501953125,4196.662109375,12788.908203125
+2024-08-26,Wolverine_(character),Wolverine,work,timesfm-univariate,6030.0,6357.4765625,3995.89697265625,12045.5791015625
+2024-08-27,Wolverine_(character),Wolverine,work,timesfm-univariate,5578.0,5694.0009765625,3511.71337890625,11214.0986328125
+2024-08-28,Wolverine_(character),Wolverine,work,timesfm-univariate,5287.0,5406.505859375,3335.740478515625,10857.2060546875
+2024-08-29,Wolverine_(character),Wolverine,work,timesfm-univariate,4901.0,5232.515625,3242.3642578125,10606.1015625
+2024-08-30,Wolverine_(character),Wolverine,work,timesfm-univariate,4648.0,5394.68017578125,3400.85009765625,10767.0859375
+2024-08-31,Wolverine_(character),Wolverine,work,timesfm-univariate,4638.0,5671.6484375,3603.819580078125,11168.3662109375
+2024-09-01,Wolverine_(character),Wolverine,work,timesfm-univariate,4709.0,5695.43017578125,3597.182373046875,11161.5849609375
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,25058.0,23945.13671875,20219.70703125,30948.16015625
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,25520.0,26854.529296875,19899.7109375,39587.1015625
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,21626.0,22311.716796875,17020.2265625,34724.8046875
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,19116.0,19451.6171875,14514.341796875,32293.328125
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,18229.0,18178.044921875,13267.2900390625,32052.341796875
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,16596.0,17117.017578125,12276.8828125,31900.783203125
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,16186.0,16835.216796875,11683.34375,32412.798828125
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,21581.0,17811.328125,12002.814453125,34609.359375
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,22434.0,20377.3359375,12830.171875,39220.53515625
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,19193.0,16779.783203125,11325.908203125,34009.8203125
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,16600.0,15076.7216796875,10118.427734375,31853.5859375
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,16410.0,14347.240234375,9700.322265625,31016.765625
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,14825.0,13717.298828125,9255.3876953125,30458.140625
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,14208.0,13338.9775390625,8987.78125,30177.736328125
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,15104.0,14366.2294921875,9801.4111328125,31269.59375
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,16013.0,16390.87890625,11321.2109375,33442.96875
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,15048.0,14488.548828125,9734.8076171875,30779.1640625
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,13350.0,12920.7578125,9180.17578125,27862.08203125
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,12734.0,12496.8291015625,8741.8203125,27419.9375
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,11984.0,12305.685546875,8761.1181640625,26645.58203125
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,11880.0,12054.1767578125,8468.326171875,26387.3671875
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,13280.0,12915.6640625,8934.81640625,27550.150390625
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,13504.0,14621.265625,9753.958984375,29836.359375
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,13301.0,12736.814453125,8671.6904296875,26858.583984375
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,11673.0,11604.015625,8165.4033203125,25141.68359375
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,11368.0,11384.212890625,8094.82763671875,24850.30078125
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,10405.0,11117.748046875,8077.298828125,24223.5390625
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,10551.0,11062.18359375,8163.98193359375,23926.80078125
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,11325.0,12320.697265625,8785.8720703125,25789.08203125
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,timesfm-univariate,12476.0,13863.224609375,9770.38671875,27629.5
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,462407.0,302811.6573135714,,
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,512085.0,266695.74247913435,,
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,438502.0,235473.28551126708,,
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,327170.0,208481.25655175705,,
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,282017.0,185146.4617244044,,
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,279856.0,164973.37097781958,,
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,298584.0,147533.59517173754,,
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,302262.0,132456.78894570668,,
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,405380.0,119422.78618645026,,
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,316708.0,108154.8010852696,,
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,256671.0,98413.55040536926,,
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,229226.0,89992.17214150226,,
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,216387.0,82711.83266625789,,
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,221532.0,76417.92907778948,,
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,212163.0,70976.80610328616,,
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,221201.0,66272.91783942538,,
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,203949.0,62206.37405745785,,
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,154315.0,58690.81896706417,,
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,118482.0,55651.59739310805,,
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,105099.0,53024.16942281675,,
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,120351.0,50752.73985735628,,
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,181460.0,48789.073363284624,,
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,202544.0,47091.470162827005,,
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,153756.0,45623.88051106877,,
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,122471.0,44355.139155393146,,
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,120190.0,43258.3035203959,,
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,111047.0,42310.08156418865,,
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,114774.0,41490.33715623478,,
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,130072.0,40781.662473084165,,
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,exponential-decay,157448.0,40169.00833154241,,
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,75293.0,58506.67606046223,,
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,83108.0,52971.22811037316,,
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,67590.0,48231.79615958792,,
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,63819.0,44173.91043495333,,
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,75346.0,40699.56230100344,,
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,84694.0,37724.8370930953,,
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,101886.0,35177.887357087115,,
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,89298.0,32997.19754395519,,
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,85795.0,31130.09824715065,,
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,71187.0,29531.49409761261,,
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,64316.0,28162.774591749203,,
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,65846.0,26990.881546011544,,
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,64214.0,25987.51065463089,,
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,65675.0,25128.42786603365,,
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,67511.0,24392.884066623155,,
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,62406.0,23763.113934998677,,
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,53418.0,23223.90686262013,,
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,43602.0,22762.239577521887,,
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,41882.0,22366.961597969806,,
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,33930.0,22028.52591893847,,
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,32561.0,21738.758426777153,,
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,36434.0,21490.660472820928,,
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,37620.0,21278.239837579356,,
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,31790.0,21096.366002842307,,
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,26660.0,20940.646236142897,,
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,26193.0,20807.319494690622,,
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,26238.0,20693.165586275172,,
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,25688.0,20595.42739313716,,
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,25827.0,20511.744280307445,,
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,exponential-decay,27572.0,20440.095080050774,,
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,exponential-decay,60319.0,43358.87925231892,,
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,exponential-decay,66708.0,38398.89668653722,,
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,exponential-decay,52853.0,34185.8632719954,,
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,exponential-decay,44855.0,30607.29211440734,,
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,exponential-decay,46974.0,27567.636296411903,,
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,exponential-decay,51868.0,24985.73779977821,,
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,exponential-decay,43615.0,22792.66060746781,,
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,exponential-decay,43052.0,20929.850129944058,,
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,exponential-decay,41885.0,19347.569812890288,,
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,exponential-decay,35397.0,18003.573184170524,,
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,exponential-decay,29562.0,16861.975884032538,,
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,exponential-decay,28264.0,15892.29756205358,,
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,exponential-decay,25142.0,15068.648059727082,,
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,exponential-decay,24451.0,14369.036149977275,,
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,exponential-decay,30689.0,13774.782377127,,
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,exponential-decay,29865.0,13270.020320298843,,
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,exponential-decay,25160.0,12841.272964112375,,
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,exponential-decay,21135.0,12477.09286588548,,
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,exponential-decay,21494.0,12167.75651189787,,
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,exponential-decay,22168.0,11905.004702108605,,
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,exponential-decay,19310.0,11681.82203166729,,
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,exponential-decay,20977.0,11492.24958143273,,
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,exponential-decay,20953.0,11331.2258163847,,
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,exponential-decay,22170.0,11194.451443957894,,
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,exponential-decay,19589.0,11078.274624050806,,
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,exponential-decay,17535.0,10979.593465846649,,
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,exponential-decay,15375.0,10895.773208136872,,
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,exponential-decay,21757.0,10824.575871883508,,
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,exponential-decay,18398.0,10764.100506762034,,
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,exponential-decay,26373.0,10712.732436283091,,
+2024-08-03,Wolverine_(character),Wolverine,work,exponential-decay,16283.0,13548.324977092048,,
+2024-08-04,Wolverine_(character),Wolverine,work,exponential-decay,17350.0,12852.337240579936,,
+2024-08-05,Wolverine_(character),Wolverine,work,exponential-decay,15171.0,12199.598153581655,,
+2024-08-06,Wolverine_(character),Wolverine,work,exponential-decay,13113.0,11587.420246783244,,
+2024-08-07,Wolverine_(character),Wolverine,work,exponential-decay,12318.0,11013.283050104134,,
+2024-08-08,Wolverine_(character),Wolverine,work,exponential-decay,12219.0,10474.822715371532,,
+2024-08-09,Wolverine_(character),Wolverine,work,exponential-decay,12127.0,9969.822283841644,,
+2024-08-10,Wolverine_(character),Wolverine,work,exponential-decay,12196.0,9496.202558496338,,
+2024-08-11,Wolverine_(character),Wolverine,work,exponential-decay,13151.0,9052.013543535308,,
+2024-08-12,Wolverine_(character),Wolverine,work,exponential-decay,12202.0,8635.426415817601,,
+2024-08-13,Wolverine_(character),Wolverine,work,exponential-decay,10935.0,8244.725995197528,,
+2024-08-14,Wolverine_(character),Wolverine,work,exponential-decay,9913.0,7878.303682753593,,
+2024-08-15,Wolverine_(character),Wolverine,work,exponential-decay,8756.0,7534.650837835553,,
+2024-08-16,Wolverine_(character),Wolverine,work,exponential-decay,8956.0,7212.352566661547,,
+2024-08-17,Wolverine_(character),Wolverine,work,exponential-decay,9589.0,6910.081896891514,,
+2024-08-18,Wolverine_(character),Wolverine,work,exponential-decay,10386.0,6626.594314192394,,
+2024-08-19,Wolverine_(character),Wolverine,work,exponential-decay,8992.0,6360.722638300942,,
+2024-08-20,Wolverine_(character),Wolverine,work,exponential-decay,7372.0,6111.372217487789,,
+2024-08-21,Wolverine_(character),Wolverine,work,exponential-decay,6876.0,5877.516421637307,,
+2024-08-22,Wolverine_(character),Wolverine,work,exponential-decay,6336.0,5658.192415387316,,
+2024-08-23,Wolverine_(character),Wolverine,work,exponential-decay,6524.0,5452.497193925704,,
+2024-08-24,Wolverine_(character),Wolverine,work,exponential-decay,5985.0,5259.583865122495,,
+2024-08-25,Wolverine_(character),Wolverine,work,exponential-decay,6585.0,5078.658162690073,,
+2024-08-26,Wolverine_(character),Wolverine,work,exponential-decay,6030.0,4908.975176015485,,
+2024-08-27,Wolverine_(character),Wolverine,work,exponential-decay,5578.0,4749.836283200833,,
+2024-08-28,Wolverine_(character),Wolverine,work,exponential-decay,5287.0,4600.586274684418,,
+2024-08-29,Wolverine_(character),Wolverine,work,exponential-decay,4901.0,4460.610655599936,,
+2024-08-30,Wolverine_(character),Wolverine,work,exponential-decay,4648.0,4329.333115766969,,
+2024-08-31,Wolverine_(character),Wolverine,work,exponential-decay,4638.0,4206.213156896172,,
+2024-09-01,Wolverine_(character),Wolverine,work,exponential-decay,4709.0,4090.743867239815,,
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,25058.0,17558.476773793143,,
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,25520.0,15232.135947882678,,
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,21626.0,13637.278345311868,,
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,19116.0,12543.899961479212,,
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,18229.0,11794.318125266702,,
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,16596.0,11280.431132906228,,
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,16186.0,10928.1282512734,,
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,21581.0,10686.60176344253,,
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,22434.0,10521.019682326563,,
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,19193.0,10407.502420377668,,
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,16600.0,10329.67897068114,,
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,16410.0,10276.325945610868,,
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,14825.0,10239.748984614547,,
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,14208.0,10214.67310421294,,
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,15104.0,10197.481960914314,,
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,16013.0,10185.696316574791,,
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,15048.0,10177.61649255815,,
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,13350.0,10172.0772488597,,
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,12734.0,10168.279737838711,,
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,11984.0,10165.67629759676,,
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,11880.0,10163.891470362303,,
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,13280.0,10162.667855467856,,
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,13504.0,10161.828988052,,
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,13301.0,10161.253890000662,,
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,11673.0,10160.859622965849,,
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,11368.0,10160.589327327776,,
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,10405.0,10160.404022127212,,
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,10551.0,10160.276983386962,,
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,11325.0,10160.189890086423,,
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,exponential-decay,12476.0,10160.13018197704,,
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,462407.0,345101.31681254,,
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,512085.0,328000.6778551565,,
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,438502.0,313704.52918648993,,
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,327170.0,301510.84434536245,,
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,282017.0,290942.6373062965,,
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,279856.0,281662.71421916963,,
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,298584.0,273424.9033947371,,
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,302262.0,266044.62469598063,,
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,405380.0,259380.33285805953,,
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,316708.0,253321.3791618709,,
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,256671.0,247779.81951263643,,
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,229226.0,242684.73510682225,,
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,216387.0,237978.2017322954,,
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,221532.0,233612.36964808975,,
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,212163.0,229547.30912945676,,
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,221201.0,225749.39485817464,,
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,203949.0,222190.07657178905,,
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,154315.0,218844.93121389695,,
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,118482.0,215692.9233330416,,
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,105099.0,212715.82164997916,,
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,120351.0,209897.7342015281,,
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,181460.0,207224.73454917275,,
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,202544.0,204684.5586604513,,
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,153756.0,202266.3571706344,,
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,122471.0,199960.49143178025,,
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,120190.0,197758.36447231905,,
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,111047.0,195652.2800063931,,
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,114774.0,193635.32414412827,,
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,130072.0,191701.26559877055,,
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,power-law-decay,157448.0,189844.47106116763,,
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,75293.0,65683.74016842849,,
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,83108.0,63086.51162198609,,
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,67590.0,60918.4722380133,,
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,63819.0,59071.72981087107,,
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,75346.0,57473.07721809457,,
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,84694.0,56070.825242035455,,
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,101886.0,54827.27914237502,,
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,89298.0,53714.20371234665,,
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,85795.0,52709.96682773107,,
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,71187.0,51797.67274176037,,
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,64316.0,50963.90338008712,,
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,65846.0,50197.84640744493,,
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,64214.0,49490.67687375888,,
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,65675.0,48835.109554285926,,
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,67511.0,48225.06888926,,
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,62406.0,47655.44163116036,,
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,53418.0,47121.888742224575,,
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,43602.0,46620.70044738421,,
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,41882.0,46148.68319475684,,
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,33930.0,45703.07053121242,,
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,32561.0,45281.4521270336,,
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,36434.0,44881.71673192125,,
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,37620.0,44502.00593762728,,
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,31790.0,44140.67640499003,,
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,26660.0,43796.268780575134,,
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,26193.0,43467.48194451775,,
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,26238.0,43153.15154011564,,
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,25688.0,42852.23196732128,,
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,25827.0,42563.78119756866,,
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,power-law-decay,27572.0,42286.94790122963,,
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,power-law-decay,60319.0,51801.433907467945,,
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,power-law-decay,66708.0,49467.511572239986,,
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,power-law-decay,52853.0,47491.52058498834,,
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,power-law-decay,44855.0,45790.30833617973,,
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,power-law-decay,46974.0,44305.48895569306,,
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,power-law-decay,51868.0,42994.69800473441,,
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,power-law-decay,43615.0,41826.34818707773,,
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,power-law-decay,43052.0,40776.34160141018,,
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,power-law-decay,41885.0,39825.93044026417,,
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,power-law-decay,35397.0,38960.28022369342,,
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,power-law-decay,29562.0,38167.47820813894,,
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,power-law-decay,28264.0,37437.8326112877,,
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,power-law-decay,25142.0,36763.36693416771,,
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,power-law-decay,24451.0,36137.44826790341,,
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,power-law-decay,30689.0,35554.50954899691,,
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,power-law-decay,29865.0,35009.83892642521,,
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,power-law-decay,25160.0,34499.41787833495,,
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,power-law-decay,21135.0,34019.79527985038,,
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,power-law-decay,21494.0,33567.98835060197,,
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,power-law-decay,22168.0,33141.40395339551,,
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,power-law-decay,19310.0,32737.775479441167,,
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,power-law-decay,20977.0,32355.11179809933,,
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,power-law-decay,20953.0,31991.65563669307,,
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,power-law-decay,22170.0,31645.84939823298,,
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,power-law-decay,19589.0,31316.306895285496,,
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,power-law-decay,17535.0,31001.78982655506,,
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,power-law-decay,15375.0,30701.18808338582,,
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,power-law-decay,21757.0,30413.50317029447,,
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,power-law-decay,18398.0,30137.834173753137,,
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,power-law-decay,26373.0,29873.365828842572,,
+2024-08-03,Wolverine_(character),Wolverine,work,power-law-decay,16283.0,14341.712360229974,,
+2024-08-04,Wolverine_(character),Wolverine,work,power-law-decay,17350.0,14050.956129984688,,
+2024-08-05,Wolverine_(character),Wolverine,work,power-law-decay,15171.0,13800.347273292036,,
+2024-08-06,Wolverine_(character),Wolverine,work,power-law-decay,13113.0,13580.720864680015,,
+2024-08-07,Wolverine_(character),Wolverine,work,power-law-decay,12318.0,13385.675209939196,,
+2024-08-08,Wolverine_(character),Wolverine,work,power-law-decay,12219.0,13210.571259823628,,
+2024-08-09,Wolverine_(character),Wolverine,work,power-law-decay,12127.0,13051.94536020849,,
+2024-08-10,Wolverine_(character),Wolverine,work,power-law-decay,12196.0,12907.14661844568,,
+2024-08-11,Wolverine_(character),Wolverine,work,power-law-decay,13151.0,12774.103411741493,,
+2024-08-12,Wolverine_(character),Wolverine,work,power-law-decay,12202.0,12651.167687721356,,
+2024-08-13,Wolverine_(character),Wolverine,work,power-law-decay,10935.0,12537.007999434163,,
+2024-08-14,Wolverine_(character),Wolverine,work,power-law-decay,9913.0,12430.53411054194,,
+2024-08-15,Wolverine_(character),Wolverine,work,power-law-decay,8756.0,12330.842652140163,,
+2024-08-16,Wolverine_(character),Wolverine,work,power-law-decay,8956.0,12237.177176494832,,
+2024-08-17,Wolverine_(character),Wolverine,work,power-law-decay,9589.0,12148.898278334564,,
+2024-08-18,Wolverine_(character),Wolverine,work,power-law-decay,10386.0,12065.460896844152,,
+2024-08-19,Wolverine_(character),Wolverine,work,power-law-decay,8992.0,11986.396830675823,,
+2024-08-20,Wolverine_(character),Wolverine,work,power-law-decay,7372.0,11911.30109817579,,
+2024-08-21,Wolverine_(character),Wolverine,work,power-law-decay,6876.0,11839.821175021038,,
+2024-08-22,Wolverine_(character),Wolverine,work,power-law-decay,6336.0,11771.648413401304,,
+2024-08-23,Wolverine_(character),Wolverine,work,power-law-decay,6524.0,11706.511135041532,,
+2024-08-24,Wolverine_(character),Wolverine,work,power-law-decay,5985.0,11644.169022657376,,
+2024-08-25,Wolverine_(character),Wolverine,work,power-law-decay,6585.0,11584.408528832282,,
+2024-08-26,Wolverine_(character),Wolverine,work,power-law-decay,6030.0,11527.03908957378,,
+2024-08-27,Wolverine_(character),Wolverine,work,power-law-decay,5578.0,11471.889979797354,,
+2024-08-28,Wolverine_(character),Wolverine,work,power-law-decay,5287.0,11418.807685019026,,
+2024-08-29,Wolverine_(character),Wolverine,work,power-law-decay,4901.0,11367.653691264186,,
+2024-08-30,Wolverine_(character),Wolverine,work,power-law-decay,4648.0,11318.302616168316,,
+2024-08-31,Wolverine_(character),Wolverine,work,power-law-decay,4638.0,11270.640620249183,,
+2024-09-01,Wolverine_(character),Wolverine,work,power-law-decay,4709.0,11224.564049652658,,
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,25058.0,20785.49675429923,,
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,25520.0,19297.993561143667,,
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,21626.0,18159.7638804339,,
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,19116.0,17262.264655730294,,
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,18229.0,16537.439072713583,,
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,16596.0,15940.513571256864,,
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,16186.0,15440.860915611884,,
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,21581.0,15016.843134431008,,
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,22434.0,14652.751822859547,,
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,19193.0,14336.915424867815,,
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,16600.0,14060.486134705665,,
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,16410.0,13816.638289784789,,
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,14825.0,13600.024420112635,,
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,14208.0,13406.397427785085,,
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,15104.0,13232.342682689572,,
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,16013.0,13075.084526568458,,
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,15048.0,12932.344189913008,,
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,13350.0,12802.233892799846,,
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,12734.0,12683.17683915353,,
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,11984.0,12573.846022916245,,
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,11880.0,12473.116891344478,,
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,13280.0,12380.030345680094,,
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,13504.0,12293.763543788036,,
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,13301.0,12213.606654835114,,
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,11673.0,12138.94420014077,,
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,11368.0,12069.23996058443,,
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,10405.0,12004.02468161522,,
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,10551.0,11942.885990400731,,
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,11325.0,11885.460075373388,,
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,power-law-decay,12476.0,11831.424779801751,,
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,462407.0,682830.0,,
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,512085.0,727240.0,,
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,438502.0,600434.0,,
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,327170.0,477654.0,,
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,282017.0,421118.0,,
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,279856.0,356053.0,,
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,298584.0,396570.0,,
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,302262.0,682830.0,,
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,405380.0,727240.0,,
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,316708.0,600434.0,,
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,256671.0,477654.0,,
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,229226.0,421118.0,,
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,216387.0,356053.0,,
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,221532.0,396570.0,,
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,212163.0,682830.0,,
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,221201.0,727240.0,,
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,203949.0,600434.0,,
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,154315.0,477654.0,,
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,118482.0,421118.0,,
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,105099.0,356053.0,,
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,120351.0,396570.0,,
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,181460.0,682830.0,,
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,202544.0,727240.0,,
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,153756.0,600434.0,,
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,122471.0,477654.0,,
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,120190.0,421118.0,,
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,111047.0,356053.0,,
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,114774.0,396570.0,,
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,130072.0,682830.0,,
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,seasonal-naive,157448.0,727240.0,,
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,75293.0,112158.0,,
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,83108.0,122225.0,,
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,67590.0,103562.0,,
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,63819.0,88466.0,,
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,75346.0,79832.0,,
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,84694.0,70773.0,,
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,101886.0,67775.0,,
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,89298.0,112158.0,,
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,85795.0,122225.0,,
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,71187.0,103562.0,,
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,64316.0,88466.0,,
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,65846.0,79832.0,,
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,64214.0,70773.0,,
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,65675.0,67775.0,,
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,67511.0,112158.0,,
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,62406.0,122225.0,,
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,53418.0,103562.0,,
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,43602.0,88466.0,,
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,41882.0,79832.0,,
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,33930.0,70773.0,,
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,32561.0,67775.0,,
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,36434.0,112158.0,,
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,37620.0,122225.0,,
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,31790.0,103562.0,,
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,26660.0,88466.0,,
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,26193.0,79832.0,,
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,26238.0,70773.0,,
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,25688.0,67775.0,,
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,25827.0,112158.0,,
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,seasonal-naive,27572.0,122225.0,,
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,60319.0,109163.0,,
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,66708.0,104906.0,,
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,52853.0,87949.0,,
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,44855.0,68530.0,,
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,46974.0,65782.0,,
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,51868.0,53044.0,,
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,43615.0,51362.0,,
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,43052.0,109163.0,,
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,41885.0,104906.0,,
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,35397.0,87949.0,,
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,29562.0,68530.0,,
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,28264.0,65782.0,,
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,25142.0,53044.0,,
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,24451.0,51362.0,,
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,30689.0,109163.0,,
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,29865.0,104906.0,,
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,25160.0,87949.0,,
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,21135.0,68530.0,,
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,21494.0,65782.0,,
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,22168.0,53044.0,,
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,19310.0,51362.0,,
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,20977.0,109163.0,,
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,20953.0,104906.0,,
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,22170.0,87949.0,,
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,19589.0,68530.0,,
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,17535.0,65782.0,,
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,15375.0,53044.0,,
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,21757.0,51362.0,,
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,18398.0,109163.0,,
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,seasonal-naive,26373.0,104906.0,,
+2024-08-03,Wolverine_(character),Wolverine,work,seasonal-naive,16283.0,16763.0,,
+2024-08-04,Wolverine_(character),Wolverine,work,seasonal-naive,17350.0,19349.0,,
+2024-08-05,Wolverine_(character),Wolverine,work,seasonal-naive,15171.0,17678.0,,
+2024-08-06,Wolverine_(character),Wolverine,work,seasonal-naive,13113.0,16064.0,,
+2024-08-07,Wolverine_(character),Wolverine,work,seasonal-naive,12318.0,16141.0,,
+2024-08-08,Wolverine_(character),Wolverine,work,seasonal-naive,12219.0,15032.0,,
+2024-08-09,Wolverine_(character),Wolverine,work,seasonal-naive,12127.0,14491.0,,
+2024-08-10,Wolverine_(character),Wolverine,work,seasonal-naive,12196.0,16763.0,,
+2024-08-11,Wolverine_(character),Wolverine,work,seasonal-naive,13151.0,19349.0,,
+2024-08-12,Wolverine_(character),Wolverine,work,seasonal-naive,12202.0,17678.0,,
+2024-08-13,Wolverine_(character),Wolverine,work,seasonal-naive,10935.0,16064.0,,
+2024-08-14,Wolverine_(character),Wolverine,work,seasonal-naive,9913.0,16141.0,,
+2024-08-15,Wolverine_(character),Wolverine,work,seasonal-naive,8756.0,15032.0,,
+2024-08-16,Wolverine_(character),Wolverine,work,seasonal-naive,8956.0,14491.0,,
+2024-08-17,Wolverine_(character),Wolverine,work,seasonal-naive,9589.0,16763.0,,
+2024-08-18,Wolverine_(character),Wolverine,work,seasonal-naive,10386.0,19349.0,,
+2024-08-19,Wolverine_(character),Wolverine,work,seasonal-naive,8992.0,17678.0,,
+2024-08-20,Wolverine_(character),Wolverine,work,seasonal-naive,7372.0,16064.0,,
+2024-08-21,Wolverine_(character),Wolverine,work,seasonal-naive,6876.0,16141.0,,
+2024-08-22,Wolverine_(character),Wolverine,work,seasonal-naive,6336.0,15032.0,,
+2024-08-23,Wolverine_(character),Wolverine,work,seasonal-naive,6524.0,14491.0,,
+2024-08-24,Wolverine_(character),Wolverine,work,seasonal-naive,5985.0,16763.0,,
+2024-08-25,Wolverine_(character),Wolverine,work,seasonal-naive,6585.0,19349.0,,
+2024-08-26,Wolverine_(character),Wolverine,work,seasonal-naive,6030.0,17678.0,,
+2024-08-27,Wolverine_(character),Wolverine,work,seasonal-naive,5578.0,16064.0,,
+2024-08-28,Wolverine_(character),Wolverine,work,seasonal-naive,5287.0,16141.0,,
+2024-08-29,Wolverine_(character),Wolverine,work,seasonal-naive,4901.0,15032.0,,
+2024-08-30,Wolverine_(character),Wolverine,work,seasonal-naive,4648.0,14491.0,,
+2024-08-31,Wolverine_(character),Wolverine,work,seasonal-naive,4638.0,16763.0,,
+2024-09-01,Wolverine_(character),Wolverine,work,seasonal-naive,4709.0,19349.0,,
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,25058.0,27211.0,,
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,25520.0,112047.0,,
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,21626.0,52841.0,,
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,19116.0,35343.0,,
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,18229.0,29208.0,,
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,16596.0,25619.0,,
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,16186.0,24264.0,,
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,21581.0,27211.0,,
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,22434.0,112047.0,,
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,19193.0,52841.0,,
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,16600.0,35343.0,,
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,16410.0,29208.0,,
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,14825.0,25619.0,,
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,14208.0,24264.0,,
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,15104.0,27211.0,,
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,16013.0,112047.0,,
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,15048.0,52841.0,,
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,13350.0,35343.0,,
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,12734.0,29208.0,,
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,11984.0,25619.0,,
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,11880.0,24264.0,,
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,13280.0,27211.0,,
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,13504.0,112047.0,,
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,13301.0,52841.0,,
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,11673.0,35343.0,,
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,11368.0,29208.0,,
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,10405.0,25619.0,,
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,10551.0,24264.0,,
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,11325.0,27211.0,,
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,seasonal-naive,12476.0,112047.0,,
+2024-08-03,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,462407.0,36260.0,,
+2024-08-04,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,512085.0,36260.0,,
+2024-08-05,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,438502.0,36260.0,,
+2024-08-06,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,327170.0,36260.0,,
+2024-08-07,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,282017.0,36260.0,,
+2024-08-08,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,279856.0,36260.0,,
+2024-08-09,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,298584.0,36260.0,,
+2024-08-10,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,302262.0,36260.0,,
+2024-08-11,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,405380.0,36260.0,,
+2024-08-12,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,316708.0,36260.0,,
+2024-08-13,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,256671.0,36260.0,,
+2024-08-14,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,229226.0,36260.0,,
+2024-08-15,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,216387.0,36260.0,,
+2024-08-16,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,221532.0,36260.0,,
+2024-08-17,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,212163.0,36260.0,,
+2024-08-18,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,221201.0,36260.0,,
+2024-08-19,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,203949.0,36260.0,,
+2024-08-20,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,154315.0,36260.0,,
+2024-08-21,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,118482.0,36260.0,,
+2024-08-22,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,105099.0,36260.0,,
+2024-08-23,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,120351.0,36260.0,,
+2024-08-24,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,181460.0,36260.0,,
+2024-08-25,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,202544.0,36260.0,,
+2024-08-26,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,153756.0,36260.0,,
+2024-08-27,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,122471.0,36260.0,,
+2024-08-28,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,120190.0,36260.0,,
+2024-08-29,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,111047.0,36260.0,,
+2024-08-30,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,114774.0,36260.0,,
+2024-08-31,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,130072.0,36260.0,,
+2024-09-01,Deadpool_&_Wolverine,Deadpool & Wolverine,event,flat-baseline,157448.0,36260.0,,
+2024-08-03,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,75293.0,20013.5,,
+2024-08-04,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,83108.0,20013.5,,
+2024-08-05,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,67590.0,20013.5,,
+2024-08-06,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,63819.0,20013.5,,
+2024-08-07,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,75346.0,20013.5,,
+2024-08-08,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,84694.0,20013.5,,
+2024-08-09,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,101886.0,20013.5,,
+2024-08-10,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,89298.0,20013.5,,
+2024-08-11,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,85795.0,20013.5,,
+2024-08-12,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,71187.0,20013.5,,
+2024-08-13,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,64316.0,20013.5,,
+2024-08-14,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,65846.0,20013.5,,
+2024-08-15,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,64214.0,20013.5,,
+2024-08-16,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,65675.0,20013.5,,
+2024-08-17,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,67511.0,20013.5,,
+2024-08-18,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,62406.0,20013.5,,
+2024-08-19,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,53418.0,20013.5,,
+2024-08-20,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,43602.0,20013.5,,
+2024-08-21,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,41882.0,20013.5,,
+2024-08-22,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,33930.0,20013.5,,
+2024-08-23,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,32561.0,20013.5,,
+2024-08-24,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,36434.0,20013.5,,
+2024-08-25,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,37620.0,20013.5,,
+2024-08-26,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,31790.0,20013.5,,
+2024-08-27,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,26660.0,20013.5,,
+2024-08-28,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,26193.0,20013.5,,
+2024-08-29,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,26238.0,20013.5,,
+2024-08-30,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,25688.0,20013.5,,
+2024-08-31,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,25827.0,20013.5,,
+2024-09-01,Ryan_Reynolds,Ryan Reynolds,person,flat-baseline,27572.0,20013.5,,
+2024-08-03,Hugh_Jackman,Hugh Jackman,person,flat-baseline,60319.0,10423.0,,
+2024-08-04,Hugh_Jackman,Hugh Jackman,person,flat-baseline,66708.0,10423.0,,
+2024-08-05,Hugh_Jackman,Hugh Jackman,person,flat-baseline,52853.0,10423.0,,
+2024-08-06,Hugh_Jackman,Hugh Jackman,person,flat-baseline,44855.0,10423.0,,
+2024-08-07,Hugh_Jackman,Hugh Jackman,person,flat-baseline,46974.0,10423.0,,
+2024-08-08,Hugh_Jackman,Hugh Jackman,person,flat-baseline,51868.0,10423.0,,
+2024-08-09,Hugh_Jackman,Hugh Jackman,person,flat-baseline,43615.0,10423.0,,
+2024-08-10,Hugh_Jackman,Hugh Jackman,person,flat-baseline,43052.0,10423.0,,
+2024-08-11,Hugh_Jackman,Hugh Jackman,person,flat-baseline,41885.0,10423.0,,
+2024-08-12,Hugh_Jackman,Hugh Jackman,person,flat-baseline,35397.0,10423.0,,
+2024-08-13,Hugh_Jackman,Hugh Jackman,person,flat-baseline,29562.0,10423.0,,
+2024-08-14,Hugh_Jackman,Hugh Jackman,person,flat-baseline,28264.0,10423.0,,
+2024-08-15,Hugh_Jackman,Hugh Jackman,person,flat-baseline,25142.0,10423.0,,
+2024-08-16,Hugh_Jackman,Hugh Jackman,person,flat-baseline,24451.0,10423.0,,
+2024-08-17,Hugh_Jackman,Hugh Jackman,person,flat-baseline,30689.0,10423.0,,
+2024-08-18,Hugh_Jackman,Hugh Jackman,person,flat-baseline,29865.0,10423.0,,
+2024-08-19,Hugh_Jackman,Hugh Jackman,person,flat-baseline,25160.0,10423.0,,
+2024-08-20,Hugh_Jackman,Hugh Jackman,person,flat-baseline,21135.0,10423.0,,
+2024-08-21,Hugh_Jackman,Hugh Jackman,person,flat-baseline,21494.0,10423.0,,
+2024-08-22,Hugh_Jackman,Hugh Jackman,person,flat-baseline,22168.0,10423.0,,
+2024-08-23,Hugh_Jackman,Hugh Jackman,person,flat-baseline,19310.0,10423.0,,
+2024-08-24,Hugh_Jackman,Hugh Jackman,person,flat-baseline,20977.0,10423.0,,
+2024-08-25,Hugh_Jackman,Hugh Jackman,person,flat-baseline,20953.0,10423.0,,
+2024-08-26,Hugh_Jackman,Hugh Jackman,person,flat-baseline,22170.0,10423.0,,
+2024-08-27,Hugh_Jackman,Hugh Jackman,person,flat-baseline,19589.0,10423.0,,
+2024-08-28,Hugh_Jackman,Hugh Jackman,person,flat-baseline,17535.0,10423.0,,
+2024-08-29,Hugh_Jackman,Hugh Jackman,person,flat-baseline,15375.0,10423.0,,
+2024-08-30,Hugh_Jackman,Hugh Jackman,person,flat-baseline,21757.0,10423.0,,
+2024-08-31,Hugh_Jackman,Hugh Jackman,person,flat-baseline,18398.0,10423.0,,
+2024-09-01,Hugh_Jackman,Hugh Jackman,person,flat-baseline,26373.0,10423.0,,
+2024-08-03,Wolverine_(character),Wolverine,work,flat-baseline,16283.0,2348.0,,
+2024-08-04,Wolverine_(character),Wolverine,work,flat-baseline,17350.0,2348.0,,
+2024-08-05,Wolverine_(character),Wolverine,work,flat-baseline,15171.0,2348.0,,
+2024-08-06,Wolverine_(character),Wolverine,work,flat-baseline,13113.0,2348.0,,
+2024-08-07,Wolverine_(character),Wolverine,work,flat-baseline,12318.0,2348.0,,
+2024-08-08,Wolverine_(character),Wolverine,work,flat-baseline,12219.0,2348.0,,
+2024-08-09,Wolverine_(character),Wolverine,work,flat-baseline,12127.0,2348.0,,
+2024-08-10,Wolverine_(character),Wolverine,work,flat-baseline,12196.0,2348.0,,
+2024-08-11,Wolverine_(character),Wolverine,work,flat-baseline,13151.0,2348.0,,
+2024-08-12,Wolverine_(character),Wolverine,work,flat-baseline,12202.0,2348.0,,
+2024-08-13,Wolverine_(character),Wolverine,work,flat-baseline,10935.0,2348.0,,
+2024-08-14,Wolverine_(character),Wolverine,work,flat-baseline,9913.0,2348.0,,
+2024-08-15,Wolverine_(character),Wolverine,work,flat-baseline,8756.0,2348.0,,
+2024-08-16,Wolverine_(character),Wolverine,work,flat-baseline,8956.0,2348.0,,
+2024-08-17,Wolverine_(character),Wolverine,work,flat-baseline,9589.0,2348.0,,
+2024-08-18,Wolverine_(character),Wolverine,work,flat-baseline,10386.0,2348.0,,
+2024-08-19,Wolverine_(character),Wolverine,work,flat-baseline,8992.0,2348.0,,
+2024-08-20,Wolverine_(character),Wolverine,work,flat-baseline,7372.0,2348.0,,
+2024-08-21,Wolverine_(character),Wolverine,work,flat-baseline,6876.0,2348.0,,
+2024-08-22,Wolverine_(character),Wolverine,work,flat-baseline,6336.0,2348.0,,
+2024-08-23,Wolverine_(character),Wolverine,work,flat-baseline,6524.0,2348.0,,
+2024-08-24,Wolverine_(character),Wolverine,work,flat-baseline,5985.0,2348.0,,
+2024-08-25,Wolverine_(character),Wolverine,work,flat-baseline,6585.0,2348.0,,
+2024-08-26,Wolverine_(character),Wolverine,work,flat-baseline,6030.0,2348.0,,
+2024-08-27,Wolverine_(character),Wolverine,work,flat-baseline,5578.0,2348.0,,
+2024-08-28,Wolverine_(character),Wolverine,work,flat-baseline,5287.0,2348.0,,
+2024-08-29,Wolverine_(character),Wolverine,work,flat-baseline,4901.0,2348.0,,
+2024-08-30,Wolverine_(character),Wolverine,work,flat-baseline,4648.0,2348.0,,
+2024-08-31,Wolverine_(character),Wolverine,work,flat-baseline,4638.0,2348.0,,
+2024-09-01,Wolverine_(character),Wolverine,work,flat-baseline,4709.0,2348.0,,
+2024-08-03,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,25058.0,10160.0,,
+2024-08-04,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,25520.0,10160.0,,
+2024-08-05,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,21626.0,10160.0,,
+2024-08-06,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,19116.0,10160.0,,
+2024-08-07,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,18229.0,10160.0,,
+2024-08-08,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,16596.0,10160.0,,
+2024-08-09,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,16186.0,10160.0,,
+2024-08-10,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,21581.0,10160.0,,
+2024-08-11,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,22434.0,10160.0,,
+2024-08-12,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,19193.0,10160.0,,
+2024-08-13,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,16600.0,10160.0,,
+2024-08-14,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,16410.0,10160.0,,
+2024-08-15,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,14825.0,10160.0,,
+2024-08-16,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,14208.0,10160.0,,
+2024-08-17,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,15104.0,10160.0,,
+2024-08-18,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,16013.0,10160.0,,
+2024-08-19,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,15048.0,10160.0,,
+2024-08-20,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,13350.0,10160.0,,
+2024-08-21,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,12734.0,10160.0,,
+2024-08-22,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,11984.0,10160.0,,
+2024-08-23,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,11880.0,10160.0,,
+2024-08-24,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,13280.0,10160.0,,
+2024-08-25,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,13504.0,10160.0,,
+2024-08-26,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,13301.0,10160.0,,
+2024-08-27,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,11673.0,10160.0,,
+2024-08-28,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,11368.0,10160.0,,
+2024-08-29,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,10405.0,10160.0,,
+2024-08-30,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,10551.0,10160.0,,
+2024-08-31,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,11325.0,10160.0,,
+2024-09-01,Marvel_Cinematic_Universe,MCU,organization,flat-baseline,12476.0,10160.0,,

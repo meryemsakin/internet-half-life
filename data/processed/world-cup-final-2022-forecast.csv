@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,9722.0,9933.1884765625,8327.76171875,12528.15625
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,6785.0,8668.9365234375,6387.9189453125,12225.8359375
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,6644.0,7343.791015625,4511.6943359375,12009.1162109375
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,6195.0,6816.22314453125,3495.14599609375,12490.2802734375
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,6063.0,6253.34814453125,2754.119873046875,12916.9111328125
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,5613.0,5808.8955078125,2119.3662109375,13277.806640625
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4994.0,5504.64599609375,1693.035400390625,13636.9423828125
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4813.0,5315.12548828125,1482.5625,13772.2705078125
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4854.0,5091.2705078125,1216.40869140625,13801.6689453125
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4798.0,4740.5322265625,914.3906860351562,13473.2197265625
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4284.0,4369.76171875,611.3349609375,13246.9912109375
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4309.0,4204.7841796875,553.775146484375,13258.447265625
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4484.0,4013.439697265625,411.9183349609375,13150.3564453125
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,4038.0,3714.54345703125,265.9161682128906,13429.001953125
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3903.0,3462.8564453125,53.355865478515625,13828.171875
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3583.0,3390.875732421875,142.73977661132812,14330.18359375
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3449.0,3124.106201171875,5.0421295166015625,14988.646484375
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3289.0,2893.612548828125,0.0,15512.8046875
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2998.0,2711.532958984375,0.0,16198.150390625
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3190.0,2714.75341796875,0.0,16884.74609375
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3471.0,2605.79736328125,0.0,17366.197265625
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2954.0,2452.787353515625,0.0,17804.375
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2853.0,2365.313720703125,0.0,17979.044921875
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3260.0,2426.6083984375,0.0,18286.08203125
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3505.0,2346.1962890625,0.0,18419.51953125
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3030.0,2262.30322265625,0.0,18382.482421875
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2799.0,2069.63525390625,0.0,18227.396484375
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,3104.0,2096.5732421875,0.0,18098.64453125
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2926.0,2104.162109375,0.0,18142.310546875
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-multivariate,2612.0,2114.197998046875,0.0,18284.591796875
+2022-12-26,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,125717.0,117505.5390625,78902.921875,176391.703125
+2022-12-27,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,105540.0,100767.1875,55589.28515625,179069.75
+2022-12-28,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,96122.0,87552.734375,39513.2890625,174530.984375
+2022-12-29,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,103166.0,76367.4765625,30789.1171875,166131.03125
+2022-12-30,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,110006.0,68678.1015625,26628.578125,160638.46875
+2022-12-31,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,100068.0,64095.37890625,24694.326171875,157895.625
+2023-01-01,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,79963.0,63858.83203125,26394.8203125,159775.84375
+2023-01-02,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,76815.0,61064.140625,25849.34375,158490.125
+2023-01-03,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,72579.0,58230.06640625,23393.15625,156457.8125
+2023-01-04,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,69055.0,53014.796875,21626.1953125,151314.125
+2023-01-05,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,61151.0,49199.87109375,15860.59765625,146347.0
+2023-01-06,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,57138.0,46223.9765625,14910.3671875,142192.75
+2023-01-07,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,57794.0,44277.4609375,14382.25390625,136774.78125
+2023-01-08,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,53172.0,45749.13671875,15677.75,138520.46875
+2023-01-09,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,50168.0,42251.12109375,13344.765625,131777.109375
+2023-01-10,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,48474.0,40578.07421875,11136.44921875,126701.1171875
+2023-01-11,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,52221.0,36590.546875,8758.2578125,122699.8359375
+2023-01-12,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,62788.0,34548.6953125,5660.12109375,120297.65625
+2023-01-13,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,50429.0,33639.8203125,10250.234375,117872.015625
+2023-01-14,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,47366.0,35456.34375,9882.828125,118581.0625
+2023-01-15,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,51765.0,36811.90625,12906.4765625,117483.0
+2023-01-16,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,42302.0,34488.296875,9037.1015625,114631.5234375
+2023-01-17,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,40787.0,33250.4609375,9597.07421875,111806.5
+2023-01-18,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,40832.0,33048.1171875,7734.0,110319.546875
+2023-01-19,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,56106.0,32683.109375,8118.9765625,108552.09375
+2023-01-20,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,53270.0,31420.109375,8416.8671875,106145.609375
+2023-01-21,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,40948.0,31604.912109375,9205.3359375,103948.40625
+2023-01-22,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,43787.0,34476.5546875,15829.859375,101932.25
+2023-01-23,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,44104.0,32207.978515625,11988.01171875,99926.375
+2023-01-24,Lionel_Messi,Lionel Messi,person,timesfm-multivariate,46003.0,31451.767578125,10089.84765625,97331.953125
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,76209.0,80498.0625,56873.2734375,119012.203125
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,61482.0,66355.65625,37626.26953125,119159.328125
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,56230.0,53967.88671875,22849.486328125,113569.0703125
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,62955.0,45805.25,16370.9365234375,107264.4375
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,54851.0,38427.26171875,11985.95703125,101651.4375
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,42115.0,34751.921875,9949.15234375,100118.8671875
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,37649.0,33967.22265625,9613.095703125,101865.4921875
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,33425.0,33226.11328125,11090.9921875,102582.3203125
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,35451.0,31684.2890625,9732.6953125,102127.53125
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,33080.0,28718.85546875,8855.658203125,99464.2109375
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,31052.0,24655.63671875,3173.509765625,94894.046875
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,28315.0,23011.318359375,2820.962890625,93296.2109375
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,26292.0,22124.443359375,1828.71484375,90614.09375
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,24903.0,23230.009765625,2062.82421875,93166.5625
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,23173.0,20166.205078125,519.6171875,89214.515625
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,20693.0,19370.609375,0.0,88419.5
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,21453.0,17167.009765625,0.0,86427.015625
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,20883.0,13817.4296875,0.0,83239.28125
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,18482.0,13598.919921875,0.0,82014.03125
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,20287.0,15868.279296875,0.0,83641.625
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,20831.0,16102.2734375,0.0,84386.203125
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,17569.0,14846.6943359375,0.0,83981.296875
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,16680.0,14949.609375,0.0,84032.140625
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,16232.0,16086.8408203125,0.0,82166.09375
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,23880.0,13402.2294921875,0.0,78952.484375
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,22464.0,10773.25390625,0.0,76062.1015625
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,19307.0,11548.5107421875,0.0,75533.046875
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,21262.0,14438.3984375,0.0,76961.625
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,26890.0,12617.96484375,0.0,77246.7734375
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,timesfm-multivariate,37303.0,12546.234375,0.0,75355.828125
+2022-12-26,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,32300.0,29307.12890625,18129.689453125,47215.5
+2022-12-27,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,27242.0,26245.3671875,13841.8994140625,50202.65234375
+2022-12-28,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,24483.0,22724.890625,9649.666015625,48932.4140625
+2022-12-29,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,23641.0,19549.04296875,7749.60009765625,46107.671875
+2022-12-30,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,24056.0,17600.4296875,6899.18505859375,43960.625
+2022-12-31,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,19739.0,16499.01171875,6403.828125,42989.5234375
+2023-01-01,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,18456.0,15625.6015625,5970.50146484375,42476.4296875
+2023-01-02,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,17843.0,14485.4814453125,5826.54296875,41285.8359375
+2023-01-03,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,17095.0,14154.0673828125,5267.4169921875,41104.6796875
+2023-01-04,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,16310.0,13296.677734375,5310.9638671875,39865.84375
+2023-01-05,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,14540.0,12427.427734375,4191.7763671875,38803.9921875
+2023-01-06,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,14999.0,11460.5546875,3631.146484375,37500.421875
+2023-01-07,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,14352.0,10743.625,2203.3203125,36397.59375
+2023-01-08,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,13467.0,10569.9970703125,3045.6279296875,35470.7734375
+2023-01-09,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,12439.0,9830.623046875,2331.0908203125,34665.33203125
+2023-01-10,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,11926.0,9707.083984375,2052.3701171875,34048.5703125
+2023-01-11,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,11116.0,9277.583984375,1943.4345703125,33897.8828125
+2023-01-12,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,10809.0,9066.9306640625,1952.9736328125,33842.265625
+2023-01-13,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,10277.0,8604.2978515625,2173.56640625,33586.9609375
+2023-01-14,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,11045.0,8636.25,1487.5048828125,33542.44921875
+2023-01-15,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,10736.0,7681.37060546875,1201.6953125,31973.08984375
+2023-01-16,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,9158.0,7369.8818359375,1113.3818359375,31284.25390625
+2023-01-17,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,9145.0,6930.72021484375,365.9970703125,31277.005859375
+2023-01-18,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,8900.0,7441.1650390625,433.4326171875,31508.939453125
+2023-01-19,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,9261.0,6858.85693359375,0.0,30952.66015625
+2023-01-20,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,8588.0,6493.67822265625,0.0,30187.70703125
+2023-01-21,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,8417.0,6052.3447265625,0.0,29636.9453125
+2023-01-22,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,9207.0,6553.2578125,1075.5615234375,29109.29296875
+2023-01-23,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,9341.0,5871.61669921875,188.4765625,28658.2734375
+2023-01-24,Argentina_national_football_team,Argentina,organization,timesfm-multivariate,8295.0,6314.779296875,261.490234375,28953.630859375
+2022-12-26,France_national_football_team,France,organization,timesfm-multivariate,11621.0,11748.0693359375,9277.345703125,17166.53515625
+2022-12-27,France_national_football_team,France,organization,timesfm-multivariate,9884.0,10721.2578125,7998.3125,18167.041015625
+2022-12-28,France_national_football_team,France,organization,timesfm-multivariate,9754.0,9264.4130859375,6369.3193359375,17635.4375
+2022-12-29,France_national_football_team,France,organization,timesfm-multivariate,8581.0,8241.4775390625,5641.5068359375,16964.404296875
+2022-12-30,France_national_football_team,France,organization,timesfm-multivariate,8380.0,7599.9443359375,5210.181640625,16338.5126953125
+2022-12-31,France_national_football_team,France,organization,timesfm-multivariate,7216.0,7199.84033203125,4798.69384765625,16072.880859375
+2023-01-01,France_national_football_team,France,organization,timesfm-multivariate,6991.0,7082.2001953125,4654.4482421875,16216.361328125
+2023-01-02,France_national_football_team,France,organization,timesfm-multivariate,7205.0,6663.365234375,4446.8125,15744.3671875
+2023-01-03,France_national_football_team,France,organization,timesfm-multivariate,6630.0,6506.41796875,4220.61083984375,15581.33984375
+2023-01-04,France_national_football_team,France,organization,timesfm-multivariate,6073.0,5930.84423828125,3796.0126953125,14919.943359375
+2023-01-05,France_national_football_team,France,organization,timesfm-multivariate,6351.0,5587.35595703125,3316.9755859375,14439.017578125
+2023-01-06,France_national_football_team,France,organization,timesfm-multivariate,6320.0,5366.36279296875,3149.38427734375,14027.4912109375
+2023-01-07,France_national_football_team,France,organization,timesfm-multivariate,6453.0,5203.7919921875,3129.2470703125,13354.9375
+2023-01-08,France_national_football_team,France,organization,timesfm-multivariate,6286.0,5298.904296875,3066.24560546875,13708.6455078125
+2023-01-09,France_national_football_team,France,organization,timesfm-multivariate,10527.0,5239.26416015625,3442.81201171875,13065.4736328125
+2023-01-10,France_national_football_team,France,organization,timesfm-multivariate,10281.0,5114.185546875,2887.45263671875,13103.44921875
+2023-01-11,France_national_football_team,France,organization,timesfm-multivariate,6301.0,5142.69677734375,2901.18603515625,13077.576171875
+2023-01-12,France_national_football_team,France,organization,timesfm-multivariate,5674.0,4929.8388671875,2927.6640625,12776.2666015625
+2023-01-13,France_national_football_team,France,organization,timesfm-multivariate,5232.0,4946.306640625,3021.5126953125,13072.7841796875
+2023-01-14,France_national_football_team,France,organization,timesfm-multivariate,5534.0,4825.2705078125,2836.4921875,12923.294921875
+2023-01-15,France_national_football_team,France,organization,timesfm-multivariate,6305.0,4580.833984375,2612.52099609375,12613.7431640625
+2023-01-16,France_national_football_team,France,organization,timesfm-multivariate,4636.0,4403.560546875,2515.42138671875,12215.708984375
+2023-01-17,France_national_football_team,France,organization,timesfm-multivariate,4343.0,4233.6630859375,2189.80712890625,12399.427734375
+2023-01-18,France_national_football_team,France,organization,timesfm-multivariate,3980.0,4243.45654296875,2141.75,12088.5029296875
+2023-01-19,France_national_football_team,France,organization,timesfm-multivariate,4180.0,4125.41796875,1892.39453125,12005.84765625
+2023-01-20,France_national_football_team,France,organization,timesfm-multivariate,3957.0,3800.2958984375,1724.849609375,11672.685546875
+2023-01-21,France_national_football_team,France,organization,timesfm-multivariate,3930.0,3627.640625,1662.7236328125,11026.3798828125
+2023-01-22,France_national_football_team,France,organization,timesfm-multivariate,4013.0,3658.009765625,1845.4619140625,10642.94921875
+2023-01-23,France_national_football_team,France,organization,timesfm-multivariate,4094.0,3484.4609375,1774.8681640625,10490.984375
+2023-01-24,France_national_football_team,France,organization,timesfm-multivariate,4071.0,3498.28076171875,1501.9306640625,10234.31640625
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,9722.0,10322.7890625,9020.7509765625,16193.11328125
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,6785.0,9870.6884765625,7666.68359375,17111.783203125
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,6644.0,9436.974609375,6522.89501953125,18069.763671875
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,6195.0,9264.654296875,5763.73193359375,19315.84375
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,6063.0,9042.888671875,4916.46435546875,20643.62109375
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,5613.0,8905.6875,3944.076904296875,21898.787109375
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4994.0,8816.2890625,3039.93115234375,22905.7890625
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4813.0,8732.705078125,2011.9765625,23594.171875
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4854.0,8694.3388671875,1368.460693359375,24359.904296875
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4798.0,8544.43359375,884.2794799804688,24685.28515625
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4284.0,8235.728515625,574.9512939453125,25018.09765625
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4309.0,8085.63427734375,565.9789428710938,25630.93359375
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4484.0,7858.82861328125,466.2063293457031,26144.05859375
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,4038.0,7627.62890625,243.16346740722656,26920.1171875
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3903.0,7471.88623046875,189.05865478515625,27867.423828125
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3583.0,7316.15771484375,132.77120971679688,28462.427734375
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3449.0,7084.89306640625,127.43480682373048,29196.822265625
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3289.0,6802.900390625,0.0,29798.05859375
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2998.0,6477.755859375,0.0,30487.044921875
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3190.0,6222.45751953125,0.0,30963.892578125
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3471.0,5775.947265625,0.0,31321.45703125
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2954.0,5283.390625,0.0,31506.05078125
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2853.0,4797.40673828125,0.0,31419.96484375
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3260.0,4518.123046875,0.0,31687.904296875
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3505.0,4219.6103515625,0.0,31791.919921875
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3030.0,4009.860595703125,0.0,31696.197265625
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2799.0,3654.46923828125,0.0,31711.830078125
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,3104.0,3414.562744140625,0.0,32061.8828125
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2926.0,3165.62451171875,0.0,32436.646484375
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,timesfm-univariate,2612.0,2871.81591796875,0.0,33215.4609375
+2022-12-26,Lionel_Messi,Lionel Messi,person,timesfm-univariate,125717.0,129812.953125,89234.484375,195816.171875
+2022-12-27,Lionel_Messi,Lionel Messi,person,timesfm-univariate,105540.0,114377.6875,67667.6796875,205078.28125
+2022-12-28,Lionel_Messi,Lionel Messi,person,timesfm-univariate,96122.0,99675.765625,51396.921875,197546.671875
+2022-12-29,Lionel_Messi,Lionel Messi,person,timesfm-univariate,103166.0,86294.0390625,41255.6015625,183882.515625
+2022-12-30,Lionel_Messi,Lionel Messi,person,timesfm-univariate,110006.0,78181.765625,36578.484375,176440.515625
+2022-12-31,Lionel_Messi,Lionel Messi,person,timesfm-univariate,100068.0,75471.625,35691.046875,175662.34375
+2023-01-01,Lionel_Messi,Lionel Messi,person,timesfm-univariate,79963.0,78364.2734375,39038.984375,179717.515625
+2023-01-02,Lionel_Messi,Lionel Messi,person,timesfm-univariate,76815.0,74728.8125,37511.921875,175979.296875
+2023-01-03,Lionel_Messi,Lionel Messi,person,timesfm-univariate,72579.0,67362.5078125,32502.6953125,166619.8125
+2023-01-04,Lionel_Messi,Lionel Messi,person,timesfm-univariate,69055.0,60641.3828125,28943.2265625,156706.328125
+2023-01-05,Lionel_Messi,Lionel Messi,person,timesfm-univariate,61151.0,53654.6875,22186.0234375,146603.078125
+2023-01-06,Lionel_Messi,Lionel Messi,person,timesfm-univariate,57138.0,52069.46484375,22158.01171875,143027.4375
+2023-01-07,Lionel_Messi,Lionel Messi,person,timesfm-univariate,57794.0,51987.59375,23540.412109375,139180.734375
+2023-01-08,Lionel_Messi,Lionel Messi,person,timesfm-univariate,53172.0,54018.28515625,24355.578125,143247.625
+2023-01-09,Lionel_Messi,Lionel Messi,person,timesfm-univariate,50168.0,50613.2265625,22292.0390625,136830.625
+2023-01-10,Lionel_Messi,Lionel Messi,person,timesfm-univariate,48474.0,49545.81640625,20326.17578125,132608.59375
+2023-01-11,Lionel_Messi,Lionel Messi,person,timesfm-univariate,52221.0,44170.73828125,16906.5546875,124392.359375
+2023-01-12,Lionel_Messi,Lionel Messi,person,timesfm-univariate,62788.0,40405.109375,14014.58203125,118536.140625
+2023-01-13,Lionel_Messi,Lionel Messi,person,timesfm-univariate,50429.0,40522.07421875,17220.69921875,118553.7265625
+2023-01-14,Lionel_Messi,Lionel Messi,person,timesfm-univariate,47366.0,43704.6171875,19110.03515625,121217.7578125
+2023-01-15,Lionel_Messi,Lionel Messi,person,timesfm-univariate,51765.0,46550.34375,19519.45703125,126551.7578125
+2023-01-16,Lionel_Messi,Lionel Messi,person,timesfm-univariate,42302.0,43573.0859375,14997.953125,123395.671875
+2023-01-17,Lionel_Messi,Lionel Messi,person,timesfm-univariate,40787.0,40044.03125,14264.8984375,117816.0625
+2023-01-18,Lionel_Messi,Lionel Messi,person,timesfm-univariate,40832.0,39901.0078125,12108.5859375,115457.953125
+2023-01-19,Lionel_Messi,Lionel Messi,person,timesfm-univariate,56106.0,36870.8203125,10594.6796875,111365.7421875
+2023-01-20,Lionel_Messi,Lionel Messi,person,timesfm-univariate,53270.0,35819.26171875,11816.8984375,109420.140625
+2023-01-21,Lionel_Messi,Lionel Messi,person,timesfm-univariate,40948.0,37606.73828125,12361.6796875,111346.578125
+2023-01-22,Lionel_Messi,Lionel Messi,person,timesfm-univariate,43787.0,42167.2265625,15346.2109375,117639.609375
+2023-01-23,Lionel_Messi,Lionel Messi,person,timesfm-univariate,44104.0,40024.69921875,15353.65625,113225.8125
+2023-01-24,Lionel_Messi,Lionel Messi,person,timesfm-univariate,46003.0,37839.6328125,12490.328125,107825.25
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,76209.0,83092.046875,58940.6171875,126537.0703125
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,61482.0,74487.140625,46334.3125,133115.15625
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,56230.0,65402.8125,35948.80859375,130195.328125
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,62955.0,55809.109375,28482.435546875,121440.1015625
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,54851.0,49356.80078125,24285.36328125,116068.359375
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,42115.0,46544.0546875,21747.70703125,115472.921875
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,37649.0,46950.5390625,21937.2265625,118725.5234375
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,33425.0,45281.359375,20322.130859375,118751.59375
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,35451.0,43855.65625,18165.66015625,118796.984375
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,33080.0,39642.7734375,15717.548828125,113938.8515625
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,31052.0,34458.26171875,10518.958984375,107559.390625
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,28315.0,32543.11328125,10074.861328125,104942.6875
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,26292.0,31895.890625,10347.99609375,102746.015625
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,24903.0,33361.015625,9977.640625,107071.8046875
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,23173.0,31464.04296875,8250.056640625,105571.484375
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,20693.0,31412.109375,7184.33984375,105720.375
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,21453.0,28469.9921875,5214.794921875,103277.0390625
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,20883.0,25446.615234375,3532.521484375,99282.8046875
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,18482.0,24258.5625,5084.50390625,97579.15625
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,20287.0,25946.12109375,5677.091796875,100008.9296875
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,20831.0,26983.123046875,6569.787109375,102394.625
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,17569.0,26156.111328125,4835.103515625,101975.265625
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,16680.0,25236.501953125,3732.052734375,101722.09375
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,16232.0,24571.525390625,2600.19921875,98441.8671875
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,23880.0,21377.61328125,576.8203125,94313.0546875
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,22464.0,19547.44921875,1273.19921875,90830.671875
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,19307.0,19837.71875,1322.392578125,90969.9921875
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,21262.0,22743.6015625,2218.17578125,95073.4375
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,26890.0,21317.61328125,1845.3828125,93905.890625
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,timesfm-univariate,37303.0,21928.046875,2420.52734375,92670.0859375
+2022-12-26,Argentina_national_football_team,Argentina,organization,timesfm-univariate,32300.0,34256.6796875,25551.84765625,52086.4140625
+2022-12-27,Argentina_national_football_team,Argentina,organization,timesfm-univariate,27242.0,31551.51171875,21767.751953125,56233.74609375
+2022-12-28,Argentina_national_football_team,Argentina,organization,timesfm-univariate,24483.0,29421.2734375,18523.28515625,57245.203125
+2022-12-29,Argentina_national_football_team,Argentina,organization,timesfm-univariate,23641.0,26506.15234375,16015.34765625,55536.72265625
+2022-12-30,Argentina_national_football_team,Argentina,organization,timesfm-univariate,24056.0,24424.40234375,13960.5537109375,54460.44921875
+2022-12-31,Argentina_national_football_team,Argentina,organization,timesfm-univariate,19739.0,23527.3515625,12774.955078125,54679.03515625
+2023-01-01,Argentina_national_football_team,Argentina,organization,timesfm-univariate,18456.0,23038.578125,12415.048828125,55109.0390625
+2023-01-02,Argentina_national_football_team,Argentina,organization,timesfm-univariate,17843.0,21460.474609375,11232.4609375,53582.89453125
+2023-01-03,Argentina_national_football_team,Argentina,organization,timesfm-univariate,17095.0,20569.5,10119.1171875,53402.2578125
+2023-01-04,Argentina_national_football_team,Argentina,organization,timesfm-univariate,16310.0,19790.7578125,9760.310546875,52692.1328125
+2023-01-05,Argentina_national_football_team,Argentina,organization,timesfm-univariate,14540.0,18978.15234375,8626.46875,52342.89453125
+2023-01-06,Argentina_national_football_team,Argentina,organization,timesfm-univariate,14999.0,18045.119140625,7761.41015625,51691.5625
+2023-01-07,Argentina_national_football_team,Argentina,organization,timesfm-univariate,14352.0,17053.71875,6875.681640625,50115.3046875
+2023-01-08,Argentina_national_football_team,Argentina,organization,timesfm-univariate,13467.0,16339.4287109375,6410.654296875,50320.14453125
+2023-01-09,Argentina_national_football_team,Argentina,organization,timesfm-univariate,12439.0,15613.10546875,5952.09228515625,49597.84375
+2023-01-10,Argentina_national_football_team,Argentina,organization,timesfm-univariate,11926.0,15155.3330078125,5282.0029296875,49411.24609375
+2023-01-11,Argentina_national_football_team,Argentina,organization,timesfm-univariate,11116.0,14698.1806640625,4935.7998046875,49671.44140625
+2023-01-12,Argentina_national_football_team,Argentina,organization,timesfm-univariate,10809.0,14286.087890625,4879.568359375,49498.34765625
+2023-01-13,Argentina_national_football_team,Argentina,organization,timesfm-univariate,10277.0,13796.5341796875,4915.37890625,49157.33203125
+2023-01-14,Argentina_national_football_team,Argentina,organization,timesfm-univariate,11045.0,13731.263671875,4378.45703125,49219.30078125
+2023-01-15,Argentina_national_football_team,Argentina,organization,timesfm-univariate,10736.0,12970.80859375,4364.2509765625,48060.9921875
+2023-01-16,Argentina_national_football_team,Argentina,organization,timesfm-univariate,9158.0,12588.4619140625,4248.5283203125,47124.5703125
+2023-01-17,Argentina_national_football_team,Argentina,organization,timesfm-univariate,9145.0,12421.28515625,3529.998046875,47739.421875
+2023-01-18,Argentina_national_football_team,Argentina,organization,timesfm-univariate,8900.0,12999.6298828125,4143.861328125,47456.59375
+2023-01-19,Argentina_national_football_team,Argentina,organization,timesfm-univariate,9261.0,12165.927734375,3269.7900390625,46960.8671875
+2023-01-20,Argentina_national_football_team,Argentina,organization,timesfm-univariate,8588.0,11746.748046875,3334.1484375,46095.296875
+2023-01-21,Argentina_national_football_team,Argentina,organization,timesfm-univariate,8417.0,11636.4716796875,3688.05859375,45449.984375
+2023-01-22,Argentina_national_football_team,Argentina,organization,timesfm-univariate,9207.0,12027.1201171875,4173.3251953125,45146.5703125
+2023-01-23,Argentina_national_football_team,Argentina,organization,timesfm-univariate,9341.0,11070.9306640625,3428.02734375,44066.7890625
+2023-01-24,Argentina_national_football_team,Argentina,organization,timesfm-univariate,8295.0,11383.6015625,3795.2314453125,43434.44140625
+2022-12-26,France_national_football_team,France,organization,timesfm-univariate,11621.0,11939.453125,9558.46875,15555.0
+2022-12-27,France_national_football_team,France,organization,timesfm-univariate,9884.0,10296.42578125,7876.8427734375,14800.783203125
+2022-12-28,France_national_football_team,France,organization,timesfm-univariate,9754.0,9007.224609375,6443.44140625,14131.123046875
+2022-12-29,France_national_football_team,France,organization,timesfm-univariate,8581.0,8252.4228515625,5899.02197265625,13714.79296875
+2022-12-30,France_national_football_team,France,organization,timesfm-univariate,8380.0,7702.7275390625,5543.20703125,13061.65234375
+2022-12-31,France_national_football_team,France,organization,timesfm-univariate,7216.0,7182.8798828125,4997.87109375,12594.326171875
+2023-01-01,France_national_football_team,France,organization,timesfm-univariate,6991.0,7014.47265625,4874.82080078125,12580.3037109375
+2023-01-02,France_national_football_team,France,organization,timesfm-univariate,7205.0,6338.7373046875,4309.48486328125,11743.7529296875
+2023-01-03,France_national_football_team,France,organization,timesfm-univariate,6630.0,6201.4228515625,4073.69970703125,11633.4267578125
+2023-01-04,France_national_football_team,France,organization,timesfm-univariate,6073.0,5771.7333984375,3779.28759765625,11176.681640625
+2023-01-05,France_national_football_team,France,organization,timesfm-univariate,6351.0,5497.7119140625,3397.0810546875,10825.138671875
+2023-01-06,France_national_football_team,France,organization,timesfm-univariate,6320.0,5372.22509765625,3337.6298828125,10606.3759765625
+2023-01-07,France_national_football_team,France,organization,timesfm-univariate,6453.0,5231.98486328125,3044.0224609375,10282.8173828125
+2023-01-08,France_national_football_team,France,organization,timesfm-univariate,6286.0,5253.4658203125,3206.16748046875,10358.6328125
+2023-01-09,France_national_football_team,France,organization,timesfm-univariate,10527.0,5135.88671875,3270.236328125,9957.3740234375
+2023-01-10,France_national_football_team,France,organization,timesfm-univariate,10281.0,4983.49365234375,2921.8583984375,9871.345703125
+2023-01-11,France_national_football_team,France,organization,timesfm-univariate,6301.0,5018.55908203125,2945.0546875,9882.224609375
+2023-01-12,France_national_football_team,France,organization,timesfm-univariate,5674.0,4796.2958984375,2744.5556640625,9859.466796875
+2023-01-13,France_national_football_team,France,organization,timesfm-univariate,5232.0,4743.70947265625,2779.595703125,10079.6083984375
+2023-01-14,France_national_football_team,France,organization,timesfm-univariate,5534.0,4736.29638671875,2765.47021484375,9997.6025390625
+2023-01-15,France_national_football_team,France,organization,timesfm-univariate,6305.0,4625.0810546875,2550.09814453125,9957.779296875
+2023-01-16,France_national_football_team,France,organization,timesfm-univariate,4636.0,4409.1328125,2265.1083984375,9476.955078125
+2023-01-17,France_national_football_team,France,organization,timesfm-univariate,4343.0,4239.3759765625,2014.958984375,9591.951171875
+2023-01-18,France_national_football_team,France,organization,timesfm-univariate,3980.0,4372.86865234375,1838.107421875,9577.9853515625
+2023-01-19,France_national_football_team,France,organization,timesfm-univariate,4180.0,4277.16015625,1575.2373046875,9698.0009765625
+2023-01-20,France_national_football_team,France,organization,timesfm-univariate,3957.0,3970.56787109375,1437.0166015625,9332.13671875
+2023-01-21,France_national_football_team,France,organization,timesfm-univariate,3930.0,3893.48046875,1442.623046875,9111.3271484375
+2023-01-22,France_national_football_team,France,organization,timesfm-univariate,4013.0,3853.3388671875,1692.5625,8731.2275390625
+2023-01-23,France_national_football_team,France,organization,timesfm-univariate,4094.0,3675.78857421875,1419.0283203125,8803.796875
+2023-01-24,France_national_football_team,France,organization,timesfm-univariate,4071.0,3647.333984375,1315.8125,8376.2890625
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,9722.0,7970.405236360738,,
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,6785.0,6351.7484604940255,,
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,6644.0,5062.0203053708165,,
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,6195.0,4034.37890608353,,
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,6063.0,3215.5653899683875,,
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,5613.0,2563.1436651937397,,
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4994.0,2043.301114258039,,
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4813.0,1629.0962104334792,,
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4854.0,1299.0622375632324,,
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4798.0,1036.0947491467896,,
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4284.0,826.5651078112319,,
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4309.0,659.6141631808373,,
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4484.0,526.5894620678157,,
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,4038.0,420.5968236590662,,
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3903.0,336.14303949079454,,
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3583.0,268.85118066532124,,
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3449.0,215.2337577306053,,
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3289.0,172.51197693366987,,
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2998.0,138.47172556456383,,
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3190.0,111.34882264111998,,
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3471.0,89.73758789970398,,
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2954.0,72.5179905591519,,
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2853.0,58.79760224637749,,
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3260.0,47.8653457173592,,
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3505.0,39.154642339890714,,
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3030.0,32.214048407719744,,
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2799.0,26.68385847427624,,
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,3104.0,22.277463142862057,,
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2926.0,18.766495156158797,,
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,exponential-decay,2612.0,15.9689939615261,,
+2022-12-26,Lionel_Messi,Lionel Messi,person,exponential-decay,125717.0,161822.10847100554,,
+2022-12-27,Lionel_Messi,Lionel Messi,person,exponential-decay,105540.0,161803.2369439661,,
+2022-12-28,Lionel_Messi,Lionel Messi,person,exponential-decay,96122.0,161799.77684474093,,
+2022-12-29,Lionel_Messi,Lionel Messi,person,exponential-decay,103166.0,161799.14243467848,,
+2022-12-30,Lionel_Messi,Lionel Messi,person,exponential-decay,110006.0,161799.0261154341,,
+2022-12-31,Lionel_Messi,Lionel Messi,person,exponential-decay,100068.0,161799.0047882714,,
+2023-01-01,Lionel_Messi,Lionel Messi,person,exponential-decay,79963.0,161799.00087793075,,
+2023-01-02,Lionel_Messi,Lionel Messi,person,exponential-decay,76815.0,161799.00016096883,,
+2023-01-03,Lionel_Messi,Lionel Messi,person,exponential-decay,72579.0,161799.00002951367,,
+2023-01-04,Lionel_Messi,Lionel Messi,person,exponential-decay,69055.0,161799.00000541133,,
+2023-01-05,Lionel_Messi,Lionel Messi,person,exponential-decay,61151.0,161799.00000099218,,
+2023-01-06,Lionel_Messi,Lionel Messi,person,exponential-decay,57138.0,161799.00000018193,,
+2023-01-07,Lionel_Messi,Lionel Messi,person,exponential-decay,57794.0,161799.00000003335,,
+2023-01-08,Lionel_Messi,Lionel Messi,person,exponential-decay,53172.0,161799.0000000061,,
+2023-01-09,Lionel_Messi,Lionel Messi,person,exponential-decay,50168.0,161799.00000000114,,
+2023-01-10,Lionel_Messi,Lionel Messi,person,exponential-decay,48474.0,161799.0000000002,,
+2023-01-11,Lionel_Messi,Lionel Messi,person,exponential-decay,52221.0,161799.00000000003,,
+2023-01-12,Lionel_Messi,Lionel Messi,person,exponential-decay,62788.0,161799.0,,
+2023-01-13,Lionel_Messi,Lionel Messi,person,exponential-decay,50429.0,161799.0,,
+2023-01-14,Lionel_Messi,Lionel Messi,person,exponential-decay,47366.0,161799.0,,
+2023-01-15,Lionel_Messi,Lionel Messi,person,exponential-decay,51765.0,161799.0,,
+2023-01-16,Lionel_Messi,Lionel Messi,person,exponential-decay,42302.0,161799.0,,
+2023-01-17,Lionel_Messi,Lionel Messi,person,exponential-decay,40787.0,161799.0,,
+2023-01-18,Lionel_Messi,Lionel Messi,person,exponential-decay,40832.0,161799.0,,
+2023-01-19,Lionel_Messi,Lionel Messi,person,exponential-decay,56106.0,161799.0,,
+2023-01-20,Lionel_Messi,Lionel Messi,person,exponential-decay,53270.0,161799.0,,
+2023-01-21,Lionel_Messi,Lionel Messi,person,exponential-decay,40948.0,161799.0,,
+2023-01-22,Lionel_Messi,Lionel Messi,person,exponential-decay,43787.0,161799.0,,
+2023-01-23,Lionel_Messi,Lionel Messi,person,exponential-decay,44104.0,161799.0,,
+2023-01-24,Lionel_Messi,Lionel Messi,person,exponential-decay,46003.0,161799.0,,
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,76209.0,106526.67362425494,,
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,61482.0,106526.07747623316,,
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,56230.0,106526.008910853,,
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,62955.0,106526.00102487304,,
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,54851.0,106526.00011787476,,
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,42115.0,106526.00001355723,,
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,37649.0,106526.00000155928,,
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,33425.0,106526.00000017934,,
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,35451.0,106526.00000002062,,
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,33080.0,106526.00000000236,,
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,31052.0,106526.00000000028,,
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,28315.0,106526.00000000004,,
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,26292.0,106526.0,,
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,24903.0,106526.0,,
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,23173.0,106526.0,,
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,20693.0,106526.0,,
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,21453.0,106526.0,,
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,20883.0,106526.0,,
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,18482.0,106526.0,,
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,20287.0,106526.0,,
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,20831.0,106526.0,,
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,17569.0,106526.0,,
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,16680.0,106526.0,,
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,16232.0,106526.0,,
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,23880.0,106526.0,,
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,22464.0,106526.0,,
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,19307.0,106526.0,,
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,21262.0,106526.0,,
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,26890.0,106526.0,,
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,exponential-decay,37303.0,106526.0,,
+2022-12-26,Argentina_national_football_team,Argentina,organization,exponential-decay,32300.0,68287.52246241855,,
+2022-12-27,Argentina_national_football_team,Argentina,organization,exponential-decay,27242.0,68287.50215566286,,
+2022-12-28,Argentina_national_football_team,Argentina,organization,exponential-decay,24483.0,68287.50020687365,,
+2022-12-29,Argentina_national_football_team,Argentina,organization,exponential-decay,23641.0,68287.50001985315,,
+2022-12-30,Argentina_national_football_team,Argentina,organization,exponential-decay,24056.0,68287.50000190525,,
+2022-12-31,Argentina_national_football_team,Argentina,organization,exponential-decay,19739.0,68287.50000018284,,
+2023-01-01,Argentina_national_football_team,Argentina,organization,exponential-decay,18456.0,68287.50000001755,,
+2023-01-02,Argentina_national_football_team,Argentina,organization,exponential-decay,17843.0,68287.50000000169,,
+2023-01-03,Argentina_national_football_team,Argentina,organization,exponential-decay,17095.0,68287.50000000016,,
+2023-01-04,Argentina_national_football_team,Argentina,organization,exponential-decay,16310.0,68287.50000000001,,
+2023-01-05,Argentina_national_football_team,Argentina,organization,exponential-decay,14540.0,68287.5,,
+2023-01-06,Argentina_national_football_team,Argentina,organization,exponential-decay,14999.0,68287.5,,
+2023-01-07,Argentina_national_football_team,Argentina,organization,exponential-decay,14352.0,68287.5,,
+2023-01-08,Argentina_national_football_team,Argentina,organization,exponential-decay,13467.0,68287.5,,
+2023-01-09,Argentina_national_football_team,Argentina,organization,exponential-decay,12439.0,68287.5,,
+2023-01-10,Argentina_national_football_team,Argentina,organization,exponential-decay,11926.0,68287.5,,
+2023-01-11,Argentina_national_football_team,Argentina,organization,exponential-decay,11116.0,68287.5,,
+2023-01-12,Argentina_national_football_team,Argentina,organization,exponential-decay,10809.0,68287.5,,
+2023-01-13,Argentina_national_football_team,Argentina,organization,exponential-decay,10277.0,68287.5,,
+2023-01-14,Argentina_national_football_team,Argentina,organization,exponential-decay,11045.0,68287.5,,
+2023-01-15,Argentina_national_football_team,Argentina,organization,exponential-decay,10736.0,68287.5,,
+2023-01-16,Argentina_national_football_team,Argentina,organization,exponential-decay,9158.0,68287.5,,
+2023-01-17,Argentina_national_football_team,Argentina,organization,exponential-decay,9145.0,68287.5,,
+2023-01-18,Argentina_national_football_team,Argentina,organization,exponential-decay,8900.0,68287.5,,
+2023-01-19,Argentina_national_football_team,Argentina,organization,exponential-decay,9261.0,68287.5,,
+2023-01-20,Argentina_national_football_team,Argentina,organization,exponential-decay,8588.0,68287.5,,
+2023-01-21,Argentina_national_football_team,Argentina,organization,exponential-decay,8417.0,68287.5,,
+2023-01-22,Argentina_national_football_team,Argentina,organization,exponential-decay,9207.0,68287.5,,
+2023-01-23,Argentina_national_football_team,Argentina,organization,exponential-decay,9341.0,68287.5,,
+2023-01-24,Argentina_national_football_team,Argentina,organization,exponential-decay,8295.0,68287.5,,
+2022-12-26,France_national_football_team,France,organization,exponential-decay,11621.0,59830.50828606621,,
+2022-12-27,France_national_football_team,France,organization,exponential-decay,9884.0,59830.5014658191,,
+2022-12-28,France_national_football_team,France,organization,exponential-decay,9754.0,59830.500259305874,,
+2022-12-29,France_national_football_team,France,organization,exponential-decay,8581.0,59830.500045871646,,
+2022-12-30,France_national_football_team,France,organization,exponential-decay,8380.0,59830.500008114774,,
+2022-12-31,France_national_football_team,France,organization,exponential-decay,7216.0,59830.50000143552,,
+2023-01-01,France_national_football_team,France,organization,exponential-decay,6991.0,59830.500000253945,,
+2023-01-02,France_national_football_team,France,organization,exponential-decay,7205.0,59830.50000004492,,
+2023-01-03,France_national_football_team,France,organization,exponential-decay,6630.0,59830.500000007945,,
+2023-01-04,France_national_football_team,France,organization,exponential-decay,6073.0,59830.50000000141,,
+2023-01-05,France_national_football_team,France,organization,exponential-decay,6351.0,59830.50000000025,,
+2023-01-06,France_national_football_team,France,organization,exponential-decay,6320.0,59830.50000000005,,
+2023-01-07,France_national_football_team,France,organization,exponential-decay,6453.0,59830.50000000001,,
+2023-01-08,France_national_football_team,France,organization,exponential-decay,6286.0,59830.5,,
+2023-01-09,France_national_football_team,France,organization,exponential-decay,10527.0,59830.5,,
+2023-01-10,France_national_football_team,France,organization,exponential-decay,10281.0,59830.5,,
+2023-01-11,France_national_football_team,France,organization,exponential-decay,6301.0,59830.5,,
+2023-01-12,France_national_football_team,France,organization,exponential-decay,5674.0,59830.5,,
+2023-01-13,France_national_football_team,France,organization,exponential-decay,5232.0,59830.5,,
+2023-01-14,France_national_football_team,France,organization,exponential-decay,5534.0,59830.5,,
+2023-01-15,France_national_football_team,France,organization,exponential-decay,6305.0,59830.5,,
+2023-01-16,France_national_football_team,France,organization,exponential-decay,4636.0,59830.5,,
+2023-01-17,France_national_football_team,France,organization,exponential-decay,4343.0,59830.5,,
+2023-01-18,France_national_football_team,France,organization,exponential-decay,3980.0,59830.5,,
+2023-01-19,France_national_football_team,France,organization,exponential-decay,4180.0,59830.5,,
+2023-01-20,France_national_football_team,France,organization,exponential-decay,3957.0,59830.5,,
+2023-01-21,France_national_football_team,France,organization,exponential-decay,3930.0,59830.5,,
+2023-01-22,France_national_football_team,France,organization,exponential-decay,4013.0,59830.5,,
+2023-01-23,France_national_football_team,France,organization,exponential-decay,4094.0,59830.5,,
+2023-01-24,France_national_football_team,France,organization,exponential-decay,4071.0,59830.5,,
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,9722.0,10097.447703571066,,
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,6785.0,9249.234861864172,,
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,6644.0,8560.430425712431,,
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,6195.0,7987.88003241424,,
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,6063.0,7503.025055556442,,
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,5613.0,7086.147236126827,,
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4994.0,6723.155289883035,,
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4813.0,6403.68782047078,,
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4854.0,6119.940795269121,,
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4798.0,5865.914493443632,,
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4284.0,5636.913820114511,,
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4309.0,5429.20729557222,,
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4484.0,5239.788572743108,,
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,4038.0,5066.206036035686,,
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3903.0,4906.438707673424,,
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3583.0,4758.804330697458,,
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3449.0,4621.890240456224,,
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3289.0,4494.50065490384,,
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2998.0,4375.615979444742,,
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3190.0,4264.361028365337,,
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3471.0,4159.979949468159,,
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2954.0,4061.816247792291,,
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2853.0,3969.2967305335296,,
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3260.0,3881.9184977538825,,
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3505.0,3799.2383209750496,,
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3030.0,3720.8639100749406,,
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2799.0,3646.4466854661696,,
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,3104.0,3575.6757592567624,,
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2926.0,3508.272894252715,,
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,power-law-decay,2612.0,3443.9882590727575,,
+2022-12-26,Lionel_Messi,Lionel Messi,person,power-law-decay,125717.0,162379.63214460498,,
+2022-12-27,Lionel_Messi,Lionel Messi,person,power-law-decay,105540.0,162139.7321718176,,
+2022-12-28,Lionel_Messi,Lionel Messi,person,power-law-decay,96122.0,162009.3811541814,,
+2022-12-29,Lionel_Messi,Lionel Messi,person,power-law-decay,103166.0,161934.46710573015,,
+2022-12-30,Lionel_Messi,Lionel Messi,person,power-law-decay,110006.0,161889.35907097728,,
+2022-12-31,Lionel_Messi,Lionel Messi,person,power-law-decay,100068.0,161861.1081922811,,
+2023-01-01,Lionel_Messi,Lionel Messi,person,power-law-decay,79963.0,161842.80910946222,,
+2023-01-02,Lionel_Messi,Lionel Messi,person,power-law-decay,76815.0,161830.60578845904,,
+2023-01-03,Lionel_Messi,Lionel Messi,person,power-law-decay,72579.0,161822.25777013646,,
+2023-01-04,Lionel_Messi,Lionel Messi,person,power-law-decay,69055.0,161816.4174725909,,
+2023-01-05,Lionel_Messi,Lionel Messi,person,power-law-decay,61151.0,161812.2493284673,,
+2023-01-06,Lionel_Messi,Lionel Messi,person,power-law-decay,57138.0,161809.22108975297,,
+2023-01-07,Lionel_Messi,Lionel Messi,person,power-law-decay,57794.0,161806.98546430067,,
+2023-01-08,Lionel_Messi,Lionel Messi,person,power-law-decay,53172.0,161805.31089411883,,
+2023-01-09,Lionel_Messi,Lionel Messi,person,power-law-decay,50168.0,161804.0399448107,,
+2023-01-10,Lionel_Messi,Lionel Messi,person,power-law-decay,48474.0,161803.06366513282,,
+2023-01-11,Lionel_Messi,Lionel Messi,person,power-law-decay,52221.0,161802.30542855698,,
+2023-01-12,Lionel_Messi,Lionel Messi,person,power-law-decay,62788.0,161801.7105399808,,
+2023-01-13,Lionel_Messi,Lionel Messi,person,power-law-decay,50429.0,161801.23942447003,,
+2023-01-14,Lionel_Messi,Lionel Messi,person,power-law-decay,47366.0,161800.86308620145,,
+2023-01-15,Lionel_Messi,Lionel Messi,person,power-law-decay,51765.0,161800.5600326783,,
+2023-01-16,Lionel_Messi,Lionel Messi,person,power-law-decay,42302.0,161800.31416073046,,
+2023-01-17,Lionel_Messi,Lionel Messi,person,power-law-decay,40787.0,161800.11328372057,,
+2023-01-18,Lionel_Messi,Lionel Messi,person,power-law-decay,40832.0,161799.9480924529,,
+2023-01-19,Lionel_Messi,Lionel Messi,person,power-law-decay,56106.0,161799.81141340363,,
+2023-01-20,Lionel_Messi,Lionel Messi,person,power-law-decay,53270.0,161799.69767335075,,
+2023-01-21,Lionel_Messi,Lionel Messi,person,power-law-decay,40948.0,161799.60250897735,,
+2023-01-22,Lionel_Messi,Lionel Messi,person,power-law-decay,43787.0,161799.52247942914,,
+2023-01-23,Lionel_Messi,Lionel Messi,person,power-law-decay,44104.0,161799.4548527454,,
+2023-01-24,Lionel_Messi,Lionel Messi,person,power-law-decay,46003.0,161799.39744581413,,
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,76209.0,106565.22372152696,,
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,61482.0,106545.77044201952,,
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,56230.0,106536.63813673804,,
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,62955.0,106532.04157441584,,
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,54851.0,106529.5901602711,,
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,42115.0,106528.21736361792,,
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,37649.0,106527.41580931967,,
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,33425.0,106526.9305751724,,
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,35451.0,106526.627409076,,
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,33080.0,106526.43265180186,,
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,31052.0,106526.30440767488,,
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,28315.0,106526.2180751094,,
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,26292.0,106526.1587907884,,
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,24903.0,106526.11734248688,,
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,23173.0,106526.08788725625,,
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,20693.0,106526.06664074583,,
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,21453.0,106526.05110468746,,
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,20883.0,106526.03960076324,,
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,18482.0,106526.03098324522,,
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,20287.0,106526.0244583208,,
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,20831.0,106526.01946841709,,
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,17569.0,106526.01561688769,,
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,16680.0,106526.01261821126,,
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,16232.0,106526.01026457992,,
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,23880.0,106526.00840318018,,
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,22464.0,106526.0069205485,,
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,19307.0,106526.00573167128,,
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,21262.0,106526.00477230547,,
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,26890.0,106526.00399351216,,
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,power-law-decay,37303.0,106526.0033577265,,
+2022-12-26,Argentina_national_football_team,Argentina,organization,power-law-decay,32300.0,68288.67602815689,,
+2022-12-27,Argentina_national_football_team,Argentina,organization,power-law-decay,27242.0,68288.0303183786,,
+2022-12-28,Argentina_national_football_team,Argentina,organization,power-law-decay,24483.0,68287.758017532,,
+2022-12-29,Argentina_national_football_team,Argentina,organization,power-law-decay,23641.0,68287.6336611964,,
+2022-12-30,Argentina_national_football_team,Argentina,organization,power-law-decay,24056.0,68287.57298581356,,
+2022-12-31,Argentina_national_football_team,Argentina,organization,power-law-decay,19739.0,68287.54168255307,,
+2023-01-01,Argentina_national_football_team,Argentina,organization,power-law-decay,18456.0,68287.52474356059,,
+2023-01-02,Argentina_national_football_team,Argentina,organization,power-law-decay,17843.0,68287.51519123102,,
+2023-01-03,Argentina_national_football_team,Argentina,organization,power-law-decay,17095.0,68287.50960666005,,
+2023-01-04,Argentina_national_football_team,Argentina,organization,power-law-decay,16310.0,68287.50623635545,,
+2023-01-05,Argentina_national_football_team,Argentina,organization,power-law-decay,14540.0,68287.50414416625,,
+2023-01-06,Argentina_national_football_team,Argentina,organization,power-law-decay,14999.0,68287.5028122234,,
+2023-01-07,Argentina_national_football_team,Argentina,organization,power-law-decay,14352.0,68287.50194482187,,
+2023-01-08,Argentina_national_football_team,Argentina,organization,power-law-decay,13467.0,68287.50136824024,,
+2023-01-09,Argentina_national_football_team,Argentina,organization,power-law-decay,12439.0,68287.50097776529,,
+2023-01-10,Argentina_national_football_team,Argentina,organization,power-law-decay,11926.0,68287.50070879147,,
+2023-01-11,Argentina_national_football_team,Argentina,organization,power-law-decay,11116.0,68287.500520603,,
+2023-01-12,Argentina_national_football_team,Argentina,organization,power-law-decay,10809.0,68287.50038703621,,
+2023-01-13,Argentina_national_football_team,Argentina,organization,power-law-decay,10277.0,68287.50029097547,,
+2023-01-14,Argentina_national_football_team,Argentina,organization,power-law-decay,11045.0,68287.50022103827,,
+2023-01-15,Argentina_national_football_team,Argentina,organization,power-law-decay,10736.0,68287.50016953856,,
+2023-01-16,Argentina_national_football_team,Argentina,organization,power-law-decay,9158.0,68287.50013121254,,
+2023-01-17,Argentina_national_football_team,Argentina,organization,power-law-decay,9145.0,68287.5001024075,,
+2023-01-18,Argentina_national_football_team,Argentina,organization,power-law-decay,8900.0,68287.50008055753,,
+2023-01-19,Argentina_national_football_team,Argentina,organization,power-law-decay,9261.0,68287.50006383927,,
+2023-01-20,Argentina_national_football_team,Argentina,organization,power-law-decay,8588.0,68287.50005094313,,
+2023-01-21,Argentina_national_football_team,Argentina,organization,power-law-decay,8417.0,68287.50004091894,,
+2023-01-22,Argentina_national_football_team,Argentina,organization,power-law-decay,9207.0,68287.50003307074,,
+2023-01-23,Argentina_national_football_team,Argentina,organization,power-law-decay,9341.0,68287.50002688424,,
+2023-01-24,Argentina_national_football_team,Argentina,organization,power-law-decay,8295.0,68287.50002197608,,
+2022-12-26,France_national_football_team,France,organization,power-law-decay,11621.0,59830.547861591134,,
+2022-12-27,France_national_football_team,France,organization,power-law-decay,9884.0,59830.52306023223,,
+2022-12-28,France_national_football_team,France,organization,power-law-decay,9754.0,59830.51191216269,,
+2022-12-29,France_national_football_team,France,organization,power-law-decay,8581.0,59830.50651772498,,
+2022-12-30,France_national_football_team,France,organization,power-law-decay,8380.0,59830.50374262545,,
+2022-12-31,France_national_football_team,France,organization,power-law-decay,7216.0,59830.50223933773,,
+2023-01-01,France_national_football_team,France,organization,power-law-decay,6991.0,59830.50138822133,,
+2023-01-02,France_national_football_team,France,organization,power-law-decay,7205.0,59830.50088757473,,
+2023-01-03,France_national_football_team,France,organization,power-law-decay,6630.0,59830.50058308457,,
+2023-01-04,France_national_football_team,France,organization,power-law-decay,6073.0,59830.50039236573,,
+2023-01-05,France_national_football_team,France,organization,power-law-decay,6351.0,59830.500269745826,,
+2023-01-06,France_national_football_team,France,organization,power-law-decay,6320.0,59830.500189046055,,
+2023-01-07,France_national_football_team,France,organization,power-law-decay,6453.0,59830.50013480768,,
+2023-01-08,France_national_football_team,France,organization,power-law-decay,6286.0,59830.500097655015,,
+2023-01-09,France_national_football_team,France,organization,power-law-decay,10527.0,59830.50007176285,,
+2023-01-10,France_national_football_team,France,organization,power-law-decay,10281.0,59830.50005343182,,
+2023-01-11,France_national_football_team,France,organization,power-law-decay,6301.0,59830.50004026524,,
+2023-01-12,France_national_football_team,France,organization,power-law-decay,5674.0,59830.50003068176,,
+2023-01-13,France_national_football_team,France,organization,power-law-decay,5232.0,59830.50002362034,,
+2023-01-14,France_national_football_team,France,organization,power-law-decay,5534.0,59830.500018357925,,
+2023-01-15,France_national_football_team,France,organization,power-law-decay,6305.0,59830.500014394696,,
+2023-01-16,France_national_football_team,France,organization,power-law-decay,4636.0,59830.500011380536,,
+2023-01-17,France_national_football_team,France,organization,power-law-decay,4343.0,59830.50000906711,,
+2023-01-18,France_national_football_team,France,organization,power-law-decay,3980.0,59830.50000727627,,
+2023-01-19,France_national_football_team,France,organization,power-law-decay,4180.0,59830.500005878814,,
+2023-01-20,France_national_football_team,France,organization,power-law-decay,3957.0,59830.500004780086,,
+2023-01-21,France_national_football_team,France,organization,power-law-decay,3930.0,59830.500003910085,,
+2023-01-22,France_national_football_team,France,organization,power-law-decay,4013.0,59830.500003216584,,
+2023-01-23,France_national_football_team,France,organization,power-law-decay,4094.0,59830.50000266028,,
+2023-01-24,France_national_football_team,France,organization,power-law-decay,4071.0,59830.50000221135,,
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,9722.0,8762.0,,
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,6785.0,35012.0,,
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,6644.0,24161.0,,
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,6195.0,18996.0,,
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,6063.0,13304.0,,
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,5613.0,12249.0,,
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4994.0,11528.0,,
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4813.0,8762.0,,
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4854.0,35012.0,,
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4798.0,24161.0,,
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4284.0,18996.0,,
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4309.0,13304.0,,
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4484.0,12249.0,,
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,4038.0,11528.0,,
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3903.0,8762.0,,
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3583.0,35012.0,,
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3449.0,24161.0,,
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3289.0,18996.0,,
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2998.0,13304.0,,
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3190.0,12249.0,,
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3471.0,11528.0,,
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2954.0,8762.0,,
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2853.0,35012.0,,
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3260.0,24161.0,,
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3505.0,18996.0,,
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3030.0,13304.0,,
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2799.0,12249.0,,
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,3104.0,11528.0,,
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2926.0,8762.0,,
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,seasonal-naive,2612.0,35012.0,,
+2022-12-26,Lionel_Messi,Lionel Messi,person,seasonal-naive,125717.0,2022489.0,,
+2022-12-27,Lionel_Messi,Lionel Messi,person,seasonal-naive,105540.0,786925.0,,
+2022-12-28,Lionel_Messi,Lionel Messi,person,seasonal-naive,96122.0,444473.0,,
+2022-12-29,Lionel_Messi,Lionel Messi,person,seasonal-naive,103166.0,289875.0,,
+2022-12-30,Lionel_Messi,Lionel Messi,person,seasonal-naive,110006.0,203980.0,,
+2022-12-31,Lionel_Messi,Lionel Messi,person,seasonal-naive,100068.0,167005.0,,
+2023-01-01,Lionel_Messi,Lionel Messi,person,seasonal-naive,79963.0,146707.0,,
+2023-01-02,Lionel_Messi,Lionel Messi,person,seasonal-naive,76815.0,2022489.0,,
+2023-01-03,Lionel_Messi,Lionel Messi,person,seasonal-naive,72579.0,786925.0,,
+2023-01-04,Lionel_Messi,Lionel Messi,person,seasonal-naive,69055.0,444473.0,,
+2023-01-05,Lionel_Messi,Lionel Messi,person,seasonal-naive,61151.0,289875.0,,
+2023-01-06,Lionel_Messi,Lionel Messi,person,seasonal-naive,57138.0,203980.0,,
+2023-01-07,Lionel_Messi,Lionel Messi,person,seasonal-naive,57794.0,167005.0,,
+2023-01-08,Lionel_Messi,Lionel Messi,person,seasonal-naive,53172.0,146707.0,,
+2023-01-09,Lionel_Messi,Lionel Messi,person,seasonal-naive,50168.0,2022489.0,,
+2023-01-10,Lionel_Messi,Lionel Messi,person,seasonal-naive,48474.0,786925.0,,
+2023-01-11,Lionel_Messi,Lionel Messi,person,seasonal-naive,52221.0,444473.0,,
+2023-01-12,Lionel_Messi,Lionel Messi,person,seasonal-naive,62788.0,289875.0,,
+2023-01-13,Lionel_Messi,Lionel Messi,person,seasonal-naive,50429.0,203980.0,,
+2023-01-14,Lionel_Messi,Lionel Messi,person,seasonal-naive,47366.0,167005.0,,
+2023-01-15,Lionel_Messi,Lionel Messi,person,seasonal-naive,51765.0,146707.0,,
+2023-01-16,Lionel_Messi,Lionel Messi,person,seasonal-naive,42302.0,2022489.0,,
+2023-01-17,Lionel_Messi,Lionel Messi,person,seasonal-naive,40787.0,786925.0,,
+2023-01-18,Lionel_Messi,Lionel Messi,person,seasonal-naive,40832.0,444473.0,,
+2023-01-19,Lionel_Messi,Lionel Messi,person,seasonal-naive,56106.0,289875.0,,
+2023-01-20,Lionel_Messi,Lionel Messi,person,seasonal-naive,53270.0,203980.0,,
+2023-01-21,Lionel_Messi,Lionel Messi,person,seasonal-naive,40948.0,167005.0,,
+2023-01-22,Lionel_Messi,Lionel Messi,person,seasonal-naive,43787.0,146707.0,,
+2023-01-23,Lionel_Messi,Lionel Messi,person,seasonal-naive,44104.0,2022489.0,,
+2023-01-24,Lionel_Messi,Lionel Messi,person,seasonal-naive,46003.0,786925.0,,
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,76209.0,1256057.0,,
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,61482.0,506988.0,,
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,56230.0,297928.0,,
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,62955.0,181261.0,,
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,54851.0,126360.0,,
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,42115.0,102773.0,,
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,37649.0,98999.0,,
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,33425.0,1256057.0,,
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,35451.0,506988.0,,
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,33080.0,297928.0,,
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,31052.0,181261.0,,
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,28315.0,126360.0,,
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,26292.0,102773.0,,
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,24903.0,98999.0,,
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,23173.0,1256057.0,,
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,20693.0,506988.0,,
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,21453.0,297928.0,,
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,20883.0,181261.0,,
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,18482.0,126360.0,,
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,20287.0,102773.0,,
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,20831.0,98999.0,,
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,17569.0,1256057.0,,
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,16680.0,506988.0,,
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,16232.0,297928.0,,
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,23880.0,181261.0,,
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,22464.0,126360.0,,
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,19307.0,102773.0,,
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,21262.0,98999.0,,
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,26890.0,1256057.0,,
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,seasonal-naive,37303.0,506988.0,,
+2022-12-26,Argentina_national_football_team,Argentina,organization,seasonal-naive,32300.0,412097.0,,
+2022-12-27,Argentina_national_football_team,Argentina,organization,seasonal-naive,27242.0,169040.0,,
+2022-12-28,Argentina_national_football_team,Argentina,organization,seasonal-naive,24483.0,102205.0,,
+2022-12-29,Argentina_national_football_team,Argentina,organization,seasonal-naive,23641.0,68644.0,,
+2022-12-30,Argentina_national_football_team,Argentina,organization,seasonal-naive,24056.0,50430.0,,
+2022-12-31,Argentina_national_football_team,Argentina,organization,seasonal-naive,19739.0,40427.0,,
+2023-01-01,Argentina_national_football_team,Argentina,organization,seasonal-naive,18456.0,35406.0,,
+2023-01-02,Argentina_national_football_team,Argentina,organization,seasonal-naive,17843.0,412097.0,,
+2023-01-03,Argentina_national_football_team,Argentina,organization,seasonal-naive,17095.0,169040.0,,
+2023-01-04,Argentina_national_football_team,Argentina,organization,seasonal-naive,16310.0,102205.0,,
+2023-01-05,Argentina_national_football_team,Argentina,organization,seasonal-naive,14540.0,68644.0,,
+2023-01-06,Argentina_national_football_team,Argentina,organization,seasonal-naive,14999.0,50430.0,,
+2023-01-07,Argentina_national_football_team,Argentina,organization,seasonal-naive,14352.0,40427.0,,
+2023-01-08,Argentina_national_football_team,Argentina,organization,seasonal-naive,13467.0,35406.0,,
+2023-01-09,Argentina_national_football_team,Argentina,organization,seasonal-naive,12439.0,412097.0,,
+2023-01-10,Argentina_national_football_team,Argentina,organization,seasonal-naive,11926.0,169040.0,,
+2023-01-11,Argentina_national_football_team,Argentina,organization,seasonal-naive,11116.0,102205.0,,
+2023-01-12,Argentina_national_football_team,Argentina,organization,seasonal-naive,10809.0,68644.0,,
+2023-01-13,Argentina_national_football_team,Argentina,organization,seasonal-naive,10277.0,50430.0,,
+2023-01-14,Argentina_national_football_team,Argentina,organization,seasonal-naive,11045.0,40427.0,,
+2023-01-15,Argentina_national_football_team,Argentina,organization,seasonal-naive,10736.0,35406.0,,
+2023-01-16,Argentina_national_football_team,Argentina,organization,seasonal-naive,9158.0,412097.0,,
+2023-01-17,Argentina_national_football_team,Argentina,organization,seasonal-naive,9145.0,169040.0,,
+2023-01-18,Argentina_national_football_team,Argentina,organization,seasonal-naive,8900.0,102205.0,,
+2023-01-19,Argentina_national_football_team,Argentina,organization,seasonal-naive,9261.0,68644.0,,
+2023-01-20,Argentina_national_football_team,Argentina,organization,seasonal-naive,8588.0,50430.0,,
+2023-01-21,Argentina_national_football_team,Argentina,organization,seasonal-naive,8417.0,40427.0,,
+2023-01-22,Argentina_national_football_team,Argentina,organization,seasonal-naive,9207.0,35406.0,,
+2023-01-23,Argentina_national_football_team,Argentina,organization,seasonal-naive,9341.0,412097.0,,
+2023-01-24,Argentina_national_football_team,Argentina,organization,seasonal-naive,8295.0,169040.0,,
+2022-12-26,France_national_football_team,France,organization,seasonal-naive,11621.0,140048.0,,
+2022-12-27,France_national_football_team,France,organization,seasonal-naive,9884.0,54606.0,,
+2022-12-28,France_national_football_team,France,organization,seasonal-naive,9754.0,32104.0,,
+2022-12-29,France_national_football_team,France,organization,seasonal-naive,8581.0,22377.0,,
+2022-12-30,France_national_football_team,France,organization,seasonal-naive,8380.0,17062.0,,
+2022-12-31,France_national_football_team,France,organization,seasonal-naive,7216.0,13954.0,,
+2023-01-01,France_national_football_team,France,organization,seasonal-naive,6991.0,12458.0,,
+2023-01-02,France_national_football_team,France,organization,seasonal-naive,7205.0,140048.0,,
+2023-01-03,France_national_football_team,France,organization,seasonal-naive,6630.0,54606.0,,
+2023-01-04,France_national_football_team,France,organization,seasonal-naive,6073.0,32104.0,,
+2023-01-05,France_national_football_team,France,organization,seasonal-naive,6351.0,22377.0,,
+2023-01-06,France_national_football_team,France,organization,seasonal-naive,6320.0,17062.0,,
+2023-01-07,France_national_football_team,France,organization,seasonal-naive,6453.0,13954.0,,
+2023-01-08,France_national_football_team,France,organization,seasonal-naive,6286.0,12458.0,,
+2023-01-09,France_national_football_team,France,organization,seasonal-naive,10527.0,140048.0,,
+2023-01-10,France_national_football_team,France,organization,seasonal-naive,10281.0,54606.0,,
+2023-01-11,France_national_football_team,France,organization,seasonal-naive,6301.0,32104.0,,
+2023-01-12,France_national_football_team,France,organization,seasonal-naive,5674.0,22377.0,,
+2023-01-13,France_national_football_team,France,organization,seasonal-naive,5232.0,17062.0,,
+2023-01-14,France_national_football_team,France,organization,seasonal-naive,5534.0,13954.0,,
+2023-01-15,France_national_football_team,France,organization,seasonal-naive,6305.0,12458.0,,
+2023-01-16,France_national_football_team,France,organization,seasonal-naive,4636.0,140048.0,,
+2023-01-17,France_national_football_team,France,organization,seasonal-naive,4343.0,54606.0,,
+2023-01-18,France_national_football_team,France,organization,seasonal-naive,3980.0,32104.0,,
+2023-01-19,France_national_football_team,France,organization,seasonal-naive,4180.0,22377.0,,
+2023-01-20,France_national_football_team,France,organization,seasonal-naive,3957.0,17062.0,,
+2023-01-21,France_national_football_team,France,organization,seasonal-naive,3930.0,13954.0,,
+2023-01-22,France_national_football_team,France,organization,seasonal-naive,4013.0,12458.0,,
+2023-01-23,France_national_football_team,France,organization,seasonal-naive,4094.0,140048.0,,
+2023-01-24,France_national_football_team,France,organization,seasonal-naive,4071.0,54606.0,,
+2022-12-26,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,9722.0,5.0,,
+2022-12-27,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,6785.0,5.0,,
+2022-12-28,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,6644.0,5.0,,
+2022-12-29,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,6195.0,5.0,,
+2022-12-30,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,6063.0,5.0,,
+2022-12-31,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,5613.0,5.0,,
+2023-01-01,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4994.0,5.0,,
+2023-01-02,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4813.0,5.0,,
+2023-01-03,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4854.0,5.0,,
+2023-01-04,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4798.0,5.0,,
+2023-01-05,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4284.0,5.0,,
+2023-01-06,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4309.0,5.0,,
+2023-01-07,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4484.0,5.0,,
+2023-01-08,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,4038.0,5.0,,
+2023-01-09,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3903.0,5.0,,
+2023-01-10,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3583.0,5.0,,
+2023-01-11,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3449.0,5.0,,
+2023-01-12,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3289.0,5.0,,
+2023-01-13,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2998.0,5.0,,
+2023-01-14,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3190.0,5.0,,
+2023-01-15,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3471.0,5.0,,
+2023-01-16,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2954.0,5.0,,
+2023-01-17,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2853.0,5.0,,
+2023-01-18,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3260.0,5.0,,
+2023-01-19,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3505.0,5.0,,
+2023-01-20,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3030.0,5.0,,
+2023-01-21,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2799.0,5.0,,
+2023-01-22,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,3104.0,5.0,,
+2023-01-23,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2926.0,5.0,,
+2023-01-24,2022_FIFA_World_Cup_final,World Cup final,event,flat-baseline,2612.0,5.0,,
+2022-12-26,Lionel_Messi,Lionel Messi,person,flat-baseline,125717.0,161799.0,,
+2022-12-27,Lionel_Messi,Lionel Messi,person,flat-baseline,105540.0,161799.0,,
+2022-12-28,Lionel_Messi,Lionel Messi,person,flat-baseline,96122.0,161799.0,,
+2022-12-29,Lionel_Messi,Lionel Messi,person,flat-baseline,103166.0,161799.0,,
+2022-12-30,Lionel_Messi,Lionel Messi,person,flat-baseline,110006.0,161799.0,,
+2022-12-31,Lionel_Messi,Lionel Messi,person,flat-baseline,100068.0,161799.0,,
+2023-01-01,Lionel_Messi,Lionel Messi,person,flat-baseline,79963.0,161799.0,,
+2023-01-02,Lionel_Messi,Lionel Messi,person,flat-baseline,76815.0,161799.0,,
+2023-01-03,Lionel_Messi,Lionel Messi,person,flat-baseline,72579.0,161799.0,,
+2023-01-04,Lionel_Messi,Lionel Messi,person,flat-baseline,69055.0,161799.0,,
+2023-01-05,Lionel_Messi,Lionel Messi,person,flat-baseline,61151.0,161799.0,,
+2023-01-06,Lionel_Messi,Lionel Messi,person,flat-baseline,57138.0,161799.0,,
+2023-01-07,Lionel_Messi,Lionel Messi,person,flat-baseline,57794.0,161799.0,,
+2023-01-08,Lionel_Messi,Lionel Messi,person,flat-baseline,53172.0,161799.0,,
+2023-01-09,Lionel_Messi,Lionel Messi,person,flat-baseline,50168.0,161799.0,,
+2023-01-10,Lionel_Messi,Lionel Messi,person,flat-baseline,48474.0,161799.0,,
+2023-01-11,Lionel_Messi,Lionel Messi,person,flat-baseline,52221.0,161799.0,,
+2023-01-12,Lionel_Messi,Lionel Messi,person,flat-baseline,62788.0,161799.0,,
+2023-01-13,Lionel_Messi,Lionel Messi,person,flat-baseline,50429.0,161799.0,,
+2023-01-14,Lionel_Messi,Lionel Messi,person,flat-baseline,47366.0,161799.0,,
+2023-01-15,Lionel_Messi,Lionel Messi,person,flat-baseline,51765.0,161799.0,,
+2023-01-16,Lionel_Messi,Lionel Messi,person,flat-baseline,42302.0,161799.0,,
+2023-01-17,Lionel_Messi,Lionel Messi,person,flat-baseline,40787.0,161799.0,,
+2023-01-18,Lionel_Messi,Lionel Messi,person,flat-baseline,40832.0,161799.0,,
+2023-01-19,Lionel_Messi,Lionel Messi,person,flat-baseline,56106.0,161799.0,,
+2023-01-20,Lionel_Messi,Lionel Messi,person,flat-baseline,53270.0,161799.0,,
+2023-01-21,Lionel_Messi,Lionel Messi,person,flat-baseline,40948.0,161799.0,,
+2023-01-22,Lionel_Messi,Lionel Messi,person,flat-baseline,43787.0,161799.0,,
+2023-01-23,Lionel_Messi,Lionel Messi,person,flat-baseline,44104.0,161799.0,,
+2023-01-24,Lionel_Messi,Lionel Messi,person,flat-baseline,46003.0,161799.0,,
+2022-12-26,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,76209.0,106526.0,,
+2022-12-27,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,61482.0,106526.0,,
+2022-12-28,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,56230.0,106526.0,,
+2022-12-29,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,62955.0,106526.0,,
+2022-12-30,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,54851.0,106526.0,,
+2022-12-31,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,42115.0,106526.0,,
+2023-01-01,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,37649.0,106526.0,,
+2023-01-02,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,33425.0,106526.0,,
+2023-01-03,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,35451.0,106526.0,,
+2023-01-04,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,33080.0,106526.0,,
+2023-01-05,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,31052.0,106526.0,,
+2023-01-06,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,28315.0,106526.0,,
+2023-01-07,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,26292.0,106526.0,,
+2023-01-08,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,24903.0,106526.0,,
+2023-01-09,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,23173.0,106526.0,,
+2023-01-10,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,20693.0,106526.0,,
+2023-01-11,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,21453.0,106526.0,,
+2023-01-12,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,20883.0,106526.0,,
+2023-01-13,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,18482.0,106526.0,,
+2023-01-14,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,20287.0,106526.0,,
+2023-01-15,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,20831.0,106526.0,,
+2023-01-16,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,17569.0,106526.0,,
+2023-01-17,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,16680.0,106526.0,,
+2023-01-18,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,16232.0,106526.0,,
+2023-01-19,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,23880.0,106526.0,,
+2023-01-20,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,22464.0,106526.0,,
+2023-01-21,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,19307.0,106526.0,,
+2023-01-22,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,21262.0,106526.0,,
+2023-01-23,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,26890.0,106526.0,,
+2023-01-24,Kylian_Mbappé,Kylian Mbappe,person,flat-baseline,37303.0,106526.0,,
+2022-12-26,Argentina_national_football_team,Argentina,organization,flat-baseline,32300.0,68287.5,,
+2022-12-27,Argentina_national_football_team,Argentina,organization,flat-baseline,27242.0,68287.5,,
+2022-12-28,Argentina_national_football_team,Argentina,organization,flat-baseline,24483.0,68287.5,,
+2022-12-29,Argentina_national_football_team,Argentina,organization,flat-baseline,23641.0,68287.5,,
+2022-12-30,Argentina_national_football_team,Argentina,organization,flat-baseline,24056.0,68287.5,,
+2022-12-31,Argentina_national_football_team,Argentina,organization,flat-baseline,19739.0,68287.5,,
+2023-01-01,Argentina_national_football_team,Argentina,organization,flat-baseline,18456.0,68287.5,,
+2023-01-02,Argentina_national_football_team,Argentina,organization,flat-baseline,17843.0,68287.5,,
+2023-01-03,Argentina_national_football_team,Argentina,organization,flat-baseline,17095.0,68287.5,,
+2023-01-04,Argentina_national_football_team,Argentina,organization,flat-baseline,16310.0,68287.5,,
+2023-01-05,Argentina_national_football_team,Argentina,organization,flat-baseline,14540.0,68287.5,,
+2023-01-06,Argentina_national_football_team,Argentina,organization,flat-baseline,14999.0,68287.5,,
+2023-01-07,Argentina_national_football_team,Argentina,organization,flat-baseline,14352.0,68287.5,,
+2023-01-08,Argentina_national_football_team,Argentina,organization,flat-baseline,13467.0,68287.5,,
+2023-01-09,Argentina_national_football_team,Argentina,organization,flat-baseline,12439.0,68287.5,,
+2023-01-10,Argentina_national_football_team,Argentina,organization,flat-baseline,11926.0,68287.5,,
+2023-01-11,Argentina_national_football_team,Argentina,organization,flat-baseline,11116.0,68287.5,,
+2023-01-12,Argentina_national_football_team,Argentina,organization,flat-baseline,10809.0,68287.5,,
+2023-01-13,Argentina_national_football_team,Argentina,organization,flat-baseline,10277.0,68287.5,,
+2023-01-14,Argentina_national_football_team,Argentina,organization,flat-baseline,11045.0,68287.5,,
+2023-01-15,Argentina_national_football_team,Argentina,organization,flat-baseline,10736.0,68287.5,,
+2023-01-16,Argentina_national_football_team,Argentina,organization,flat-baseline,9158.0,68287.5,,
+2023-01-17,Argentina_national_football_team,Argentina,organization,flat-baseline,9145.0,68287.5,,
+2023-01-18,Argentina_national_football_team,Argentina,organization,flat-baseline,8900.0,68287.5,,
+2023-01-19,Argentina_national_football_team,Argentina,organization,flat-baseline,9261.0,68287.5,,
+2023-01-20,Argentina_national_football_team,Argentina,organization,flat-baseline,8588.0,68287.5,,
+2023-01-21,Argentina_national_football_team,Argentina,organization,flat-baseline,8417.0,68287.5,,
+2023-01-22,Argentina_national_football_team,Argentina,organization,flat-baseline,9207.0,68287.5,,
+2023-01-23,Argentina_national_football_team,Argentina,organization,flat-baseline,9341.0,68287.5,,
+2023-01-24,Argentina_national_football_team,Argentina,organization,flat-baseline,8295.0,68287.5,,
+2022-12-26,France_national_football_team,France,organization,flat-baseline,11621.0,59830.5,,
+2022-12-27,France_national_football_team,France,organization,flat-baseline,9884.0,59830.5,,
+2022-12-28,France_national_football_team,France,organization,flat-baseline,9754.0,59830.5,,
+2022-12-29,France_national_football_team,France,organization,flat-baseline,8581.0,59830.5,,
+2022-12-30,France_national_football_team,France,organization,flat-baseline,8380.0,59830.5,,
+2022-12-31,France_national_football_team,France,organization,flat-baseline,7216.0,59830.5,,
+2023-01-01,France_national_football_team,France,organization,flat-baseline,6991.0,59830.5,,
+2023-01-02,France_national_football_team,France,organization,flat-baseline,7205.0,59830.5,,
+2023-01-03,France_national_football_team,France,organization,flat-baseline,6630.0,59830.5,,
+2023-01-04,France_national_football_team,France,organization,flat-baseline,6073.0,59830.5,,
+2023-01-05,France_national_football_team,France,organization,flat-baseline,6351.0,59830.5,,
+2023-01-06,France_national_football_team,France,organization,flat-baseline,6320.0,59830.5,,
+2023-01-07,France_national_football_team,France,organization,flat-baseline,6453.0,59830.5,,
+2023-01-08,France_national_football_team,France,organization,flat-baseline,6286.0,59830.5,,
+2023-01-09,France_national_football_team,France,organization,flat-baseline,10527.0,59830.5,,
+2023-01-10,France_national_football_team,France,organization,flat-baseline,10281.0,59830.5,,
+2023-01-11,France_national_football_team,France,organization,flat-baseline,6301.0,59830.5,,
+2023-01-12,France_national_football_team,France,organization,flat-baseline,5674.0,59830.5,,
+2023-01-13,France_national_football_team,France,organization,flat-baseline,5232.0,59830.5,,
+2023-01-14,France_national_football_team,France,organization,flat-baseline,5534.0,59830.5,,
+2023-01-15,France_national_football_team,France,organization,flat-baseline,6305.0,59830.5,,
+2023-01-16,France_national_football_team,France,organization,flat-baseline,4636.0,59830.5,,
+2023-01-17,France_national_football_team,France,organization,flat-baseline,4343.0,59830.5,,
+2023-01-18,France_national_football_team,France,organization,flat-baseline,3980.0,59830.5,,
+2023-01-19,France_national_football_team,France,organization,flat-baseline,4180.0,59830.5,,
+2023-01-20,France_national_football_team,France,organization,flat-baseline,3957.0,59830.5,,
+2023-01-21,France_national_football_team,France,organization,flat-baseline,3930.0,59830.5,,
+2023-01-22,France_national_football_team,France,organization,flat-baseline,4013.0,59830.5,,
+2023-01-23,France_national_football_team,France,organization,flat-baseline,4094.0,59830.5,,
+2023-01-24,France_national_football_team,France,organization,flat-baseline,4071.0,59830.5,,

@@ -1,0 +1,901 @@
+date,article,label,role,mode,actual,forecast,q10,q90
+2025-04-29,Pope_Francis,Pope Francis,person,timesfm-multivariate,115925.0,119015.140625,87270.515625,161820.8125
+2025-04-30,Pope_Francis,Pope Francis,person,timesfm-multivariate,81835.0,87201.453125,51343.8359375,144337.8125
+2025-05-01,Pope_Francis,Pope Francis,person,timesfm-multivariate,65611.0,68860.03125,32314.0859375,131777.546875
+2025-05-02,Pope_Francis,Pope Francis,person,timesfm-multivariate,59359.0,59950.15625,27314.890625,124670.296875
+2025-05-03,Pope_Francis,Pope Francis,person,timesfm-multivariate,59015.0,54589.8984375,24345.947265625,118282.765625
+2025-05-04,Pope_Francis,Pope Francis,person,timesfm-multivariate,62069.0,52791.7421875,24968.47265625,115069.453125
+2025-05-05,Pope_Francis,Pope Francis,person,timesfm-multivariate,56367.0,50909.078125,26002.736328125,111875.96875
+2025-05-06,Pope_Francis,Pope Francis,person,timesfm-multivariate,54763.0,47303.2265625,26244.92578125,105796.125
+2025-05-07,Pope_Francis,Pope Francis,person,timesfm-multivariate,127075.0,40994.484375,21398.767578125,96853.609375
+2025-05-08,Pope_Francis,Pope Francis,person,timesfm-multivariate,1048386.0,36911.453125,22018.55078125,92051.7890625
+2025-05-09,Pope_Francis,Pope Francis,person,timesfm-multivariate,551902.0,36488.64453125,20674.9921875,90388.796875
+2025-05-10,Pope_Francis,Pope Francis,person,timesfm-multivariate,208703.0,35183.41015625,19743.40234375,89663.7265625
+2025-05-11,Pope_Francis,Pope Francis,person,timesfm-multivariate,139203.0,36993.90234375,20728.216796875,90878.046875
+2025-05-12,Pope_Francis,Pope Francis,person,timesfm-multivariate,93628.0,37220.58203125,21209.099609375,90675.8125
+2025-05-13,Pope_Francis,Pope Francis,person,timesfm-multivariate,64982.0,33544.6796875,20827.0546875,86417.328125
+2025-05-14,Pope_Francis,Pope Francis,person,timesfm-multivariate,50881.0,31927.890625,19176.060546875,81515.6484375
+2025-05-15,Pope_Francis,Pope Francis,person,timesfm-multivariate,40288.0,29394.181640625,18220.197265625,79650.984375
+2025-05-16,Pope_Francis,Pope Francis,person,timesfm-multivariate,36900.0,26099.068359375,15040.4052734375,76884.875
+2025-05-17,Pope_Francis,Pope Francis,person,timesfm-multivariate,32001.0,29819.21875,17959.4609375,83605.421875
+2025-05-18,Pope_Francis,Pope Francis,person,timesfm-multivariate,39929.0,35252.3125,22295.5078125,87871.546875
+2025-05-19,Pope_Francis,Pope Francis,person,timesfm-multivariate,31062.0,34811.3046875,20045.80078125,89297.1640625
+2025-05-20,Pope_Francis,Pope Francis,person,timesfm-multivariate,23530.0,29101.017578125,14111.0859375,83400.765625
+2025-05-21,Pope_Francis,Pope Francis,person,timesfm-multivariate,21102.0,24680.98046875,12431.94140625,77924.8828125
+2025-05-22,Pope_Francis,Pope Francis,person,timesfm-multivariate,18906.0,22512.259765625,10070.734375,73946.6328125
+2025-05-23,Pope_Francis,Pope Francis,person,timesfm-multivariate,17485.0,23553.720703125,10273.310546875,75025.296875
+2025-05-24,Pope_Francis,Pope Francis,person,timesfm-multivariate,17425.0,24099.0078125,10526.56640625,76516.234375
+2025-05-25,Pope_Francis,Pope Francis,person,timesfm-multivariate,17343.0,25220.73828125,10309.306640625,74949.984375
+2025-05-26,Pope_Francis,Pope Francis,person,timesfm-multivariate,16641.0,26525.62109375,13712.6552734375,72155.15625
+2025-05-27,Pope_Francis,Pope Francis,person,timesfm-multivariate,14684.0,23997.779296875,12630.98046875,65393.546875
+2025-05-28,Pope_Francis,Pope Francis,person,timesfm-multivariate,13438.0,20482.201171875,9345.080078125,57189.67578125
+2025-04-29,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,38999.0,48836.40625,15613.4404296875,69428.0234375
+2025-04-30,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,30884.0,37234.515625,3563.40771484375,80080.8828125
+2025-05-01,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,26944.0,31100.587890625,570.4873046875,83387.046875
+2025-05-02,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,25333.0,25515.7734375,597.7733154296875,84600.3984375
+2025-05-03,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,27692.0,21681.109375,1417.271728515625,89000.6015625
+2025-05-04,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,32189.0,19287.16015625,437.0925903320313,94121.21875
+2025-05-05,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,40765.0,16549.1640625,0.0,96534.890625
+2025-05-06,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,48994.0,14298.55859375,0.0,96424.40625
+2025-05-07,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,161016.0,12484.1162109375,0.0,94629.9921875
+2025-05-08,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,597815.0,10522.134765625,0.0,93552.34375
+2025-05-09,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,179044.0,8890.41015625,0.0,91488.5
+2025-05-10,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,54978.0,7938.97900390625,0.0,89505.921875
+2025-05-11,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,38024.0,7181.875,0.0,87601.4609375
+2025-05-12,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,32170.0,5893.19921875,0.0,81955.1875
+2025-05-13,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,23363.0,5057.986328125,0.0,75435.1484375
+2025-05-14,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,17691.0,4584.0908203125,0.0,68530.6640625
+2025-05-15,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,13080.0,3659.135498046875,0.0,59452.296875
+2025-05-16,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,11119.0,2718.9287109375,0.0,53130.3828125
+2025-05-17,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,9044.0,2429.36474609375,0.0,49779.859375
+2025-05-18,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,11143.0,2392.607421875,0.0,46523.3046875
+2025-05-19,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,9342.0,2160.3427734375,0.0,44933.5546875
+2025-05-20,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,6301.0,1815.932373046875,0.0,44015.984375
+2025-05-21,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,5073.0,1483.57177734375,0.0,43078.2578125
+2025-05-22,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,4721.0,1491.285888671875,0.0,41542.203125
+2025-05-23,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,4270.0,1432.87060546875,0.0,40849.296875
+2025-05-24,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,4553.0,1327.3201904296875,0.0,39496.6015625
+2025-05-25,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,4398.0,1013.862060546875,0.0,37822.1953125
+2025-05-26,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,4018.0,932.3648681640624,0.0,35676.7578125
+2025-05-27,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,3544.0,682.4072875976562,0.0,35319.8828125
+2025-05-28,2025_papal_conclave,2025 conclave,event,timesfm-multivariate,3203.0,502.676025390625,0.0,35764.6953125
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0054567754268646,0.0,2.2556262016296387
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0019444674253463,0.0,2.3668432235717773
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0022356361150741,0.0,2.355808973312378
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0,0.0,2.3222086429595947
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,1.0,0.0,0.0,2.248882293701172
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0,0.0,2.1792855262756348
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,0.0,0.0,0.0,2.0918502807617188
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,1.0,0.000390812754631,0.0,2.0215349197387695
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,5.0,0.0018917918205261,0.0,1.971231698989868
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,7538267.0,0.0007977485656738,0.0,1.8971788883209229
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,2965427.0,0.0064764767885208,0.0,1.8465255498886108
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,932628.0,0.0042207986116409,0.0,1.8192754983901975
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,533224.0,0.0048142224550247,0.0,1.817421317100525
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,365510.0,0.0063646286725997,0.0,1.8035593032836912
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,247342.0,0.0076813399791717,0.0,1.817007541656494
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,179005.0,0.0076231211423873,0.0,1.8084930181503296
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,128100.0,0.0076394826173782,0.0,1.8022316694259644
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,106790.0,0.0085372626781463,0.0,1.806654453277588
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,88792.0,0.0108608901500701,0.0,1.8231886625289917
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,123333.0,0.0101462304592132,0.0,1.8276833295822144
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,94575.0,0.0081866830587387,0.0,1.8329272270202637
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,64524.0,0.0088665783405303,0.0,1.8483922481536863
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,53343.0,0.0105458050966262,0.0,1.8543227910995483
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,45844.0,0.0080209225416183,0.0,1.8619093894958496
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,38789.0,0.0100992023944854,0.0,1.862698316574097
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,40563.0,0.0086743980646133,0.0,1.8686703443527224
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,37509.0,0.0092434138059616,0.0,1.869292140007019
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,37833.0,0.00505892932415,0.0,1.8682055473327637
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,30998.0,0.0067288726568222,0.0,1.8761873245239256
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-multivariate,30226.0,0.0046172440052032,0.0,1.8743425607681272
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,8721.0,9931.685546875,7356.08935546875,13191.1708984375
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,6757.0,7640.18505859375,4835.138671875,11881.1884765625
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,4940.0,6169.4375,2623.40185546875,11984.8642578125
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,4865.0,5586.40283203125,2635.461181640625,11445.3798828125
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,5407.0,5543.7666015625,2211.14208984375,12604.85546875
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,6349.0,5437.19873046875,2343.70361328125,12741.9091796875
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,6465.0,4652.96875,1972.4901123046875,11861.64453125
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,6847.0,3817.6396484375,1494.14599609375,10738.3994140625
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,23264.0,3156.087158203125,1203.3060302734375,9661.8525390625
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,34100.0,2827.58349609375,1132.8819580078125,8996.26953125
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,19949.0,2683.80419921875,1001.1004638671876,8698.294921875
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,11655.0,2828.04150390625,1150.21435546875,8838.2109375
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,8026.0,3062.2578125,1148.793212890625,9268.400390625
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,5094.0,2761.736083984375,1110.467041015625,8692.2978515625
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,3287.0,2240.067626953125,1069.32080078125,7643.18359375
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,2497.0,1955.750244140625,875.459228515625,7003.2626953125
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1742.0,1655.1363525390625,711.1217041015625,6479.6220703125
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1562.0,1505.550537109375,478.3380737304687,6279.38720703125
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1618.0,1853.15283203125,736.9296264648438,6671.97314453125
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,2241.0,2086.057861328125,935.71728515625,6776.4326171875
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1398.0,1999.73486328125,860.9276123046875,6601.1640625
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1046.0,1544.2730712890625,674.7650756835938,5849.71728515625
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,870.0,1268.3321533203125,584.6979370117188,5315.37890625
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,844.0,1138.4508056640625,599.610107421875,4834.4423828125
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,725.0,1148.502685546875,491.828369140625,4867.2822265625
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,1011.0,1519.103759765625,673.26123046875,5384.71044921875
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,997.0,1734.87255859375,861.7102661132812,5591.36279296875
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,917.0,1578.068115234375,763.5255126953125,5284.4814453125
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,750.0,1210.9154052734375,494.26947021484375,4775.87939453125
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,timesfm-multivariate,511.0,978.0030517578124,540.512939453125,4106.2666015625
+2025-04-29,Vatican_City,Vatican City,place,timesfm-multivariate,17369.0,18444.5078125,14431.1357421875,23870.865234375
+2025-04-30,Vatican_City,Vatican City,place,timesfm-multivariate,14229.0,13937.326171875,9585.8408203125,21019.734375
+2025-05-01,Vatican_City,Vatican City,place,timesfm-multivariate,11411.0,11207.138671875,7021.12939453125,18835.576171875
+2025-05-02,Vatican_City,Vatican City,place,timesfm-multivariate,11208.0,9714.3017578125,5965.1875,17409.421875
+2025-05-03,Vatican_City,Vatican City,place,timesfm-multivariate,11255.0,9181.080078125,5690.17236328125,16949.0625
+2025-05-04,Vatican_City,Vatican City,place,timesfm-multivariate,11469.0,9074.1123046875,5703.962890625,17016.33203125
+2025-05-05,Vatican_City,Vatican City,place,timesfm-multivariate,11804.0,8831.8388671875,5440.06787109375,16876.560546875
+2025-05-06,Vatican_City,Vatican City,place,timesfm-multivariate,12336.0,8357.50390625,5207.40283203125,16393.5078125
+2025-05-07,Vatican_City,Vatican City,place,timesfm-multivariate,31531.0,7327.14697265625,4506.7314453125,15145.1904296875
+2025-05-08,Vatican_City,Vatican City,place,timesfm-multivariate,128604.0,6598.390625,4104.9560546875,14253.46484375
+2025-05-09,Vatican_City,Vatican City,place,timesfm-multivariate,76533.0,6155.96435546875,3642.215087890625,13592.95703125
+2025-05-10,Vatican_City,Vatican City,place,timesfm-multivariate,37656.0,6239.53515625,3788.94677734375,13643.8310546875
+2025-05-11,Vatican_City,Vatican City,place,timesfm-multivariate,28325.0,6596.6875,4106.767578125,13950.9990234375
+2025-05-12,Vatican_City,Vatican City,place,timesfm-multivariate,21717.0,6674.32421875,4199.64306640625,14100.435546875
+2025-05-13,Vatican_City,Vatican City,place,timesfm-multivariate,15322.0,5909.8974609375,3948.50927734375,12824.28125
+2025-05-14,Vatican_City,Vatican City,place,timesfm-multivariate,12198.0,5649.06982421875,3524.67724609375,12346.86328125
+2025-05-15,Vatican_City,Vatican City,place,timesfm-multivariate,11083.0,5196.97314453125,3094.006103515625,11864.82421875
+2025-05-16,Vatican_City,Vatican City,place,timesfm-multivariate,9655.0,4578.396484375,2558.552978515625,11044.8623046875
+2025-05-17,Vatican_City,Vatican City,place,timesfm-multivariate,10371.0,4657.33837890625,2718.20654296875,11097.5341796875
+2025-05-18,Vatican_City,Vatican City,place,timesfm-multivariate,12859.0,5464.302734375,3419.267333984375,11788.3203125
+2025-05-19,Vatican_City,Vatican City,place,timesfm-multivariate,10120.0,5865.83642578125,3648.52880859375,12285.26171875
+2025-05-20,Vatican_City,Vatican City,place,timesfm-multivariate,8010.0,5257.84130859375,3079.403076171875,11621.75390625
+2025-05-21,Vatican_City,Vatican City,place,timesfm-multivariate,7431.0,4827.26708984375,2866.29150390625,10909.361328125
+2025-05-22,Vatican_City,Vatican City,place,timesfm-multivariate,6571.0,4488.33935546875,2730.681640625,10206.8134765625
+2025-05-23,Vatican_City,Vatican City,place,timesfm-multivariate,6140.0,4305.1044921875,2452.386474609375,9921.9794921875
+2025-05-24,Vatican_City,Vatican City,place,timesfm-multivariate,6503.0,4597.88671875,2781.8056640625,10308.533203125
+2025-05-25,Vatican_City,Vatican City,place,timesfm-multivariate,7299.0,5022.58447265625,3174.802001953125,10587.765625
+2025-05-26,Vatican_City,Vatican City,place,timesfm-multivariate,6621.0,5222.4365234375,3383.18408203125,10668.470703125
+2025-05-27,Vatican_City,Vatican City,place,timesfm-multivariate,5940.0,4930.80126953125,3139.98583984375,10214.794921875
+2025-05-28,Vatican_City,Vatican City,place,timesfm-multivariate,5465.0,4670.876953125,2931.07666015625,9453.486328125
+2025-04-29,Pope_Francis,Pope Francis,person,timesfm-univariate,115925.0,129203.65625,98603.890625,166870.546875
+2025-04-30,Pope_Francis,Pope Francis,person,timesfm-univariate,81835.0,98146.484375,64646.8515625,147677.03125
+2025-05-01,Pope_Francis,Pope Francis,person,timesfm-univariate,65611.0,78839.46875,45178.9609375,133705.734375
+2025-05-02,Pope_Francis,Pope Francis,person,timesfm-univariate,59359.0,67984.828125,37402.72265625,124499.859375
+2025-05-03,Pope_Francis,Pope Francis,person,timesfm-univariate,59015.0,60404.40625,31420.27734375,116872.109375
+2025-05-04,Pope_Francis,Pope Francis,person,timesfm-univariate,62069.0,57399.546875,29804.6796875,113222.1875
+2025-05-05,Pope_Francis,Pope Francis,person,timesfm-univariate,56367.0,54339.734375,29189.705078125,109902.078125
+2025-05-06,Pope_Francis,Pope Francis,person,timesfm-univariate,54763.0,48508.6484375,26409.61328125,101046.859375
+2025-05-07,Pope_Francis,Pope Francis,person,timesfm-univariate,127075.0,43192.1015625,22169.94140625,92912.625
+2025-05-08,Pope_Francis,Pope Francis,person,timesfm-univariate,1048386.0,38609.99609375,22076.87109375,87645.9375
+2025-05-09,Pope_Francis,Pope Francis,person,timesfm-univariate,551902.0,36605.0,18820.26171875,84957.3203125
+2025-05-10,Pope_Francis,Pope Francis,person,timesfm-univariate,208703.0,36285.59375,18023.8828125,85411.453125
+2025-05-11,Pope_Francis,Pope Francis,person,timesfm-univariate,139203.0,37730.2109375,18849.16015625,87547.390625
+2025-05-12,Pope_Francis,Pope Francis,person,timesfm-univariate,93628.0,37785.5,19107.6484375,87632.5234375
+2025-05-13,Pope_Francis,Pope Francis,person,timesfm-univariate,64982.0,33046.89453125,17175.125,83237.0
+2025-05-14,Pope_Francis,Pope Francis,person,timesfm-univariate,50881.0,30779.103515625,16078.248046875,77131.875
+2025-05-15,Pope_Francis,Pope Francis,person,timesfm-univariate,40288.0,27153.431640625,13453.3603515625,73937.2421875
+2025-05-16,Pope_Francis,Pope Francis,person,timesfm-univariate,36900.0,25256.576171875,11555.548828125,72720.421875
+2025-05-17,Pope_Francis,Pope Francis,person,timesfm-univariate,32001.0,27688.837890625,13234.9013671875,77073.65625
+2025-05-18,Pope_Francis,Pope Francis,person,timesfm-univariate,39929.0,32712.255859375,16951.359375,81294.109375
+2025-05-19,Pope_Francis,Pope Francis,person,timesfm-univariate,31062.0,32094.86328125,14907.248046875,82416.34375
+2025-05-20,Pope_Francis,Pope Francis,person,timesfm-univariate,23530.0,28023.103515625,10474.41796875,77414.609375
+2025-05-21,Pope_Francis,Pope Francis,person,timesfm-univariate,21102.0,24064.2734375,9801.6953125,70967.6015625
+2025-05-22,Pope_Francis,Pope Francis,person,timesfm-univariate,18906.0,21874.40625,7046.37890625,66798.8359375
+2025-05-23,Pope_Francis,Pope Francis,person,timesfm-univariate,17485.0,21844.87109375,6144.39453125,67023.1328125
+2025-05-24,Pope_Francis,Pope Francis,person,timesfm-univariate,17425.0,23469.044921875,8567.80078125,69306.5390625
+2025-05-25,Pope_Francis,Pope Francis,person,timesfm-univariate,17343.0,24739.720703125,8105.078125,69838.125
+2025-05-26,Pope_Francis,Pope Francis,person,timesfm-univariate,16641.0,24539.591796875,8827.36328125,67050.796875
+2025-05-27,Pope_Francis,Pope Francis,person,timesfm-univariate,14684.0,22283.671875,6838.361328125,62916.0390625
+2025-05-28,Pope_Francis,Pope Francis,person,timesfm-univariate,13438.0,19903.77734375,6335.044921875,54525.4296875
+2025-04-29,2025_papal_conclave,2025 conclave,event,timesfm-univariate,38999.0,63434.3828125,46841.4140625,79242.15625
+2025-04-30,2025_papal_conclave,2025 conclave,event,timesfm-univariate,30884.0,62351.8359375,36745.296875,82689.265625
+2025-05-01,2025_papal_conclave,2025 conclave,event,timesfm-univariate,26944.0,60707.8984375,28283.763671875,84733.046875
+2025-05-02,2025_papal_conclave,2025 conclave,event,timesfm-univariate,25333.0,59909.6015625,22136.298828125,86929.8125
+2025-05-03,2025_papal_conclave,2025 conclave,event,timesfm-univariate,27692.0,59174.421875,16694.140625,89025.515625
+2025-05-04,2025_papal_conclave,2025 conclave,event,timesfm-univariate,32189.0,58702.5390625,12440.1533203125,90334.0078125
+2025-05-05,2025_papal_conclave,2025 conclave,event,timesfm-univariate,40765.0,57301.0,9753.0673828125,91308.609375
+2025-05-06,2025_papal_conclave,2025 conclave,event,timesfm-univariate,48994.0,56437.921875,6177.15478515625,91007.0703125
+2025-05-07,2025_papal_conclave,2025 conclave,event,timesfm-univariate,161016.0,55840.015625,4899.52685546875,92246.6171875
+2025-05-08,2025_papal_conclave,2025 conclave,event,timesfm-univariate,597815.0,55349.671875,3288.66015625,92627.2734375
+2025-05-09,2025_papal_conclave,2025 conclave,event,timesfm-univariate,179044.0,53819.8828125,2360.4453125,92679.390625
+2025-05-10,2025_papal_conclave,2025 conclave,event,timesfm-univariate,54978.0,53284.0078125,2918.772216796875,93721.734375
+2025-05-11,2025_papal_conclave,2025 conclave,event,timesfm-univariate,38024.0,53087.0390625,3703.44189453125,94284.6796875
+2025-05-12,2025_papal_conclave,2025 conclave,event,timesfm-univariate,32170.0,52092.0546875,3249.62109375,96113.890625
+2025-05-13,2025_papal_conclave,2025 conclave,event,timesfm-univariate,23363.0,50693.9765625,2659.23779296875,95998.9765625
+2025-05-14,2025_papal_conclave,2025 conclave,event,timesfm-univariate,17691.0,49985.59375,2004.61865234375,96679.109375
+2025-05-15,2025_papal_conclave,2025 conclave,event,timesfm-univariate,13080.0,48874.4140625,1537.70751953125,96929.171875
+2025-05-16,2025_papal_conclave,2025 conclave,event,timesfm-univariate,11119.0,47454.3671875,52.6607666015625,96835.40625
+2025-05-17,2025_papal_conclave,2025 conclave,event,timesfm-univariate,9044.0,46769.59375,0.0,97895.015625
+2025-05-18,2025_papal_conclave,2025 conclave,event,timesfm-univariate,11143.0,46156.78125,0.0,98174.03125
+2025-05-19,2025_papal_conclave,2025 conclave,event,timesfm-univariate,9342.0,44842.7265625,0.0,97880.0546875
+2025-05-20,2025_papal_conclave,2025 conclave,event,timesfm-univariate,6301.0,43499.515625,0.0,97645.484375
+2025-05-21,2025_papal_conclave,2025 conclave,event,timesfm-univariate,5073.0,42514.6796875,0.0,96946.59375
+2025-05-22,2025_papal_conclave,2025 conclave,event,timesfm-univariate,4721.0,41581.3125,0.0,97578.2265625
+2025-05-23,2025_papal_conclave,2025 conclave,event,timesfm-univariate,4270.0,39677.1484375,0.0,96734.203125
+2025-05-24,2025_papal_conclave,2025 conclave,event,timesfm-univariate,4553.0,39280.9140625,0.0,95690.2734375
+2025-05-25,2025_papal_conclave,2025 conclave,event,timesfm-univariate,4398.0,38108.3359375,0.0,96155.6171875
+2025-05-26,2025_papal_conclave,2025 conclave,event,timesfm-univariate,4018.0,37977.6875,0.0,97165.5234375
+2025-05-27,2025_papal_conclave,2025 conclave,event,timesfm-univariate,3544.0,37363.6796875,0.0,97881.390625
+2025-05-28,2025_papal_conclave,2025 conclave,event,timesfm-univariate,3203.0,36271.2109375,0.0,98598.453125
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0,0.0,1.7275869846343994
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0025303363800048,0.0,1.7064993381500244
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0069658458232879,0.0,1.7203571796417236
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0030824244022369,0.0,1.7228574752807615
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,1.0,0.0,0.0,1.705517292022705
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0,0.0,1.6830826997756958
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,0.0,0.0,0.0,1.647785782814026
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,1.0,0.0,0.0,1.5960116386413574
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,5.0,0.0,0.0,1.5502455234527588
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,7538267.0,0.0,0.0,1.4737632274627686
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,2965427.0,0.0,0.0,1.4328948259353638
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,932628.0,0.0,0.0,1.4061607122421265
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,533224.0,0.0,0.0,1.3951576948165894
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,365510.0,0.0,0.0,1.3794023990631104
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,247342.0,0.000950887799263,0.0,1.4124853610992432
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,179005.0,0.0001127123832702,0.0,1.408345341682434
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,128100.0,8.390843868255615e-05,0.0,1.419273018836975
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,106790.0,0.0,0.0,1.442801833152771
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,88792.0,0.0032460540533065,0.0,1.4639068841934204
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,123333.0,1.7717480659484863e-05,0.0,1.4790626764297483
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,94575.0,0.0,0.0,1.4967151880264282
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,64524.0,0.0,0.0,1.517515778541565
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,53343.0,0.0013732314109802,0.0,1.547548532485962
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,45844.0,0.0,0.0,1.5665371417999268
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,38789.0,0.0,0.0,1.595666766166687
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,40563.0,0.0,0.0,1.642301321029663
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,37509.0,0.0,0.0,1.6561191082000732
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,37833.0,0.0002980828285217,0.0,1.6923251152038574
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,30998.0,0.0011631697416305,0.0,1.7010972499847412
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,timesfm-univariate,30226.0,0.0,0.0,1.6839138269424438
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,8721.0,10252.48046875,8217.0859375,12773.64453125
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,6757.0,7851.6484375,5515.79541015625,11660.1748046875
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,4940.0,6691.79052734375,3949.181640625,11624.40234375
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,4865.0,6297.22802734375,3778.9443359375,11628.0927734375
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,5407.0,6154.32666015625,3226.987548828125,12486.390625
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,6349.0,6012.646484375,3419.474853515625,12320.8134765625
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,6465.0,5329.7705078125,2870.8408203125,11660.119140625
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,6847.0,4388.5595703125,2200.322021484375,10429.39453125
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,23264.0,3571.49072265625,1662.4188232421875,9225.6923828125
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,34100.0,3289.1982421875,1606.00537109375,8550.1640625
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,19949.0,3164.29931640625,1441.4072265625,8241.380859375
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,11655.0,3375.41259765625,1633.111083984375,8488.013671875
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,8026.0,3638.705810546875,1653.2376708984375,8900.66796875
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,5094.0,3299.48095703125,1565.3515625,8368.453125
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,3287.0,2569.05419921875,1181.3203125,7434.365234375
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,2497.0,2339.87109375,1104.125,6918.21435546875
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1742.0,1965.588623046875,865.19677734375,6518.32470703125
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1562.0,1861.837890625,713.257568359375,6494.544921875
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1618.0,2062.356201171875,848.5252685546875,6789.84130859375
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,2241.0,2358.51953125,1134.472900390625,7071.28564453125
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1398.0,2254.141845703125,1065.200439453125,6925.88671875
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1046.0,1715.15576171875,741.9598388671875,6176.06201171875
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,870.0,1481.377685546875,727.4915771484375,5683.06591796875
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,844.0,1303.660888671875,627.8096313476562,5239.5126953125
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,725.0,1255.0687255859375,498.21722412109375,5188.98046875
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,1011.0,1670.950927734375,819.5684814453125,5692.07666015625
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,997.0,1907.42822265625,1012.3359985351562,5910.05517578125
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,917.0,1763.5323486328125,942.1527099609376,5576.52783203125
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,750.0,1320.3094482421875,625.4256591796875,4925.62109375
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,timesfm-univariate,511.0,1126.7501220703125,606.3349609375,4384.5986328125
+2025-04-29,Vatican_City,Vatican City,place,timesfm-univariate,17369.0,17752.71484375,14085.4423828125,23790.36328125
+2025-04-30,Vatican_City,Vatican City,place,timesfm-univariate,14229.0,13545.06640625,9568.330078125,20592.79296875
+2025-05-01,Vatican_City,Vatican City,place,timesfm-univariate,11411.0,11138.703125,7194.6103515625,18681.484375
+2025-05-02,Vatican_City,Vatican City,place,timesfm-univariate,11208.0,9751.146484375,6139.8623046875,17362.9921875
+2025-05-03,Vatican_City,Vatican City,place,timesfm-univariate,11255.0,9428.2958984375,5976.787109375,16991.72265625
+2025-05-04,Vatican_City,Vatican City,place,timesfm-univariate,11469.0,9501.810546875,6154.49365234375,17095.64453125
+2025-05-05,Vatican_City,Vatican City,place,timesfm-univariate,11804.0,9330.953125,6047.2109375,16875.759765625
+2025-05-06,Vatican_City,Vatican City,place,timesfm-univariate,12336.0,8576.275390625,5541.9365234375,15885.2177734375
+2025-05-07,Vatican_City,Vatican City,place,timesfm-univariate,31531.0,7662.400390625,4877.4453125,14702.5927734375
+2025-05-08,Vatican_City,Vatican City,place,timesfm-univariate,128604.0,6829.13427734375,4361.88134765625,13675.041015625
+2025-05-09,Vatican_City,Vatican City,place,timesfm-univariate,76533.0,6321.82177734375,3794.677978515625,12992.7890625
+2025-05-10,Vatican_City,Vatican City,place,timesfm-univariate,37656.0,6548.03515625,4035.467041015625,13256.341796875
+2025-05-11,Vatican_City,Vatican City,place,timesfm-univariate,28325.0,6951.03955078125,4437.9580078125,13594.8359375
+2025-05-12,Vatican_City,Vatican City,place,timesfm-univariate,21717.0,7121.5205078125,4588.310546875,13914.748046875
+2025-05-13,Vatican_City,Vatican City,place,timesfm-univariate,15322.0,6457.49853515625,4099.7021484375,13211.541015625
+2025-05-14,Vatican_City,Vatican City,place,timesfm-univariate,12198.0,6080.5859375,3864.32568359375,12323.1484375
+2025-05-15,Vatican_City,Vatican City,place,timesfm-univariate,11083.0,5458.654296875,3426.330322265625,11520.1748046875
+2025-05-16,Vatican_City,Vatican City,place,timesfm-univariate,9655.0,4998.3955078125,2956.348388671875,10972.091796875
+2025-05-17,Vatican_City,Vatican City,place,timesfm-univariate,10371.0,5172.5673828125,3179.9033203125,11188.666015625
+2025-05-18,Vatican_City,Vatican City,place,timesfm-univariate,12859.0,5993.986328125,3883.2978515625,11907.51953125
+2025-05-19,Vatican_City,Vatican City,place,timesfm-univariate,10120.0,6176.443359375,3980.8134765625,12207.802734375
+2025-05-20,Vatican_City,Vatican City,place,timesfm-univariate,8010.0,5636.97314453125,3526.770751953125,11519.86328125
+2025-05-21,Vatican_City,Vatican City,place,timesfm-univariate,7431.0,5275.8486328125,3443.55615234375,10880.271484375
+2025-05-22,Vatican_City,Vatican City,place,timesfm-univariate,6571.0,4732.55712890625,2947.501220703125,10055.6796875
+2025-05-23,Vatican_City,Vatican City,place,timesfm-univariate,6140.0,4438.7958984375,2605.177001953125,9670.8154296875
+2025-05-24,Vatican_City,Vatican City,place,timesfm-univariate,6503.0,4834.53173828125,3064.21142578125,10113.244140625
+2025-05-25,Vatican_City,Vatican City,place,timesfm-univariate,7299.0,5271.11328125,3376.092041015625,10532.3681640625
+2025-05-26,Vatican_City,Vatican City,place,timesfm-univariate,6621.0,5516.15234375,3653.799072265625,10620.98828125
+2025-05-27,Vatican_City,Vatican City,place,timesfm-univariate,5940.0,5167.50390625,3405.65625,10159.51953125
+2025-05-28,Vatican_City,Vatican City,place,timesfm-univariate,5465.0,4838.90234375,3178.482666015625,9392.962890625
+2025-04-29,Pope_Francis,Pope Francis,person,exponential-decay,115925.0,112108.55322434174,,
+2025-04-30,Pope_Francis,Pope Francis,person,exponential-decay,81835.0,80768.75229849911,,
+2025-05-01,Pope_Francis,Pope Francis,person,exponential-decay,65611.0,59056.87116436892,,
+2025-05-02,Pope_Francis,Pope Francis,person,exponential-decay,59359.0,44015.110576991305,,
+2025-05-03,Pope_Francis,Pope Francis,person,exponential-decay,59015.0,33594.33864248019,,
+2025-05-04,Pope_Francis,Pope Francis,person,exponential-decay,62069.0,26374.938554287015,,
+2025-05-05,Pope_Francis,Pope Francis,person,exponential-decay,56367.0,21373.414870538098,,
+2025-05-06,Pope_Francis,Pope Francis,person,exponential-decay,54763.0,17908.412397546992,,
+2025-05-07,Pope_Francis,Pope Francis,person,exponential-decay,127075.0,15507.895495698564,,
+2025-05-08,Pope_Francis,Pope Francis,person,exponential-decay,1048386.0,13844.842888672403,,
+2025-05-09,Pope_Francis,Pope Francis,person,exponential-decay,551902.0,12692.697710437318,,
+2025-05-10,Pope_Francis,Pope Francis,person,exponential-decay,208703.0,11894.50377109822,,
+2025-05-11,Pope_Francis,Pope Francis,person,exponential-decay,139203.0,11341.523489764551,,
+2025-05-12,Pope_Francis,Pope Francis,person,exponential-decay,93628.0,10958.424625599968,,
+2025-05-13,Pope_Francis,Pope Francis,person,exponential-decay,64982.0,10693.017802466547,,
+2025-05-14,Pope_Francis,Pope Francis,person,exponential-decay,50881.0,10509.146775024628,,
+2025-05-15,Pope_Francis,Pope Francis,person,exponential-decay,40288.0,10381.76288061905,,
+2025-05-16,Pope_Francis,Pope Francis,person,exponential-decay,36900.0,10293.512671873916,,
+2025-05-17,Pope_Francis,Pope Francis,person,exponential-decay,32001.0,10232.373864806495,,
+2025-05-18,Pope_Francis,Pope Francis,person,exponential-decay,39929.0,10190.017548795704,,
+2025-05-19,Pope_Francis,Pope Francis,person,exponential-decay,31062.0,10160.673543047802,,
+2025-05-20,Pope_Francis,Pope Francis,person,exponential-decay,23530.0,10140.344327610052,,
+2025-05-21,Pope_Francis,Pope Francis,person,exponential-decay,21102.0,10126.260463127985,,
+2025-05-22,Pope_Francis,Pope Francis,person,exponential-decay,18906.0,10116.503311438748,,
+2025-05-23,Pope_Francis,Pope Francis,person,exponential-decay,17485.0,10109.743660406324,,
+2025-05-24,Pope_Francis,Pope Francis,person,exponential-decay,17425.0,10105.060645984136,,
+2025-05-25,Pope_Francis,Pope Francis,person,exponential-decay,17343.0,10101.816303343783,,
+2025-05-26,Pope_Francis,Pope Francis,person,exponential-decay,16641.0,10099.568657229742,,
+2025-05-27,Pope_Francis,Pope Francis,person,exponential-decay,14684.0,10098.011511880442,,
+2025-05-28,Pope_Francis,Pope Francis,person,exponential-decay,13438.0,10096.932738125224,,
+2025-04-29,2025_papal_conclave,2025 conclave,event,exponential-decay,38999.0,45035.02331465142,,
+2025-04-30,2025_papal_conclave,2025 conclave,event,exponential-decay,30884.0,39654.337341678765,,
+2025-05-01,2025_papal_conclave,2025 conclave,event,exponential-decay,26944.0,34916.538221996045,,
+2025-05-02,2025_papal_conclave,2025 conclave,event,exponential-decay,25333.0,30744.813536478923,,
+2025-05-03,2025_papal_conclave,2025 conclave,event,exponential-decay,27692.0,27071.5284494323,,
+2025-05-04,2025_papal_conclave,2025 conclave,event,exponential-decay,32189.0,23837.12916666977,,
+2025-05-05,2025_papal_conclave,2025 conclave,event,exponential-decay,40765.0,20989.1774089298,,
+2025-05-06,2025_papal_conclave,2025 conclave,event,exponential-decay,48994.0,18481.500246855114,,
+2025-05-07,2025_papal_conclave,2025 conclave,event,exponential-decay,161016.0,16273.441514083148,,
+2025-05-08,2025_papal_conclave,2025 conclave,event,exponential-decay,597815.0,14329.202661847192,,
+2025-05-09,2025_papal_conclave,2025 conclave,event,exponential-decay,179044.0,12617.26236857501,,
+2025-05-10,2025_papal_conclave,2025 conclave,event,exponential-decay,54978.0,11109.865494801805,,
+2025-05-11,2025_papal_conclave,2025 conclave,event,exponential-decay,38024.0,9782.573097986942,,
+2025-05-12,2025_papal_conclave,2025 conclave,event,exponential-decay,32170.0,8613.86621176872,,
+2025-05-13,2025_papal_conclave,2025 conclave,event,exponential-decay,23363.0,7584.796965857543,,
+2025-05-14,2025_papal_conclave,2025 conclave,event,exponential-decay,17691.0,6678.681390285898,,
+2025-05-15,2025_papal_conclave,2025 conclave,event,exponential-decay,13080.0,5880.828923548771,,
+2025-05-16,2025_papal_conclave,2025 conclave,event,exponential-decay,11119.0,5178.304239236916,,
+2025-05-17,2025_papal_conclave,2025 conclave,event,exponential-decay,9044.0,4559.717529734308,,
+2025-05-18,2025_papal_conclave,2025 conclave,event,exponential-decay,11143.0,4015.039846916527,,
+2025-05-19,2025_papal_conclave,2025 conclave,event,exponential-decay,9342.0,3535.440506028184,,
+2025-05-20,2025_papal_conclave,2025 conclave,event,exponential-decay,6301.0,3113.143916620299,,
+2025-05-21,2025_papal_conclave,2025 conclave,event,exponential-decay,5073.0,2741.3035193937194,,
+2025-05-22,2025_papal_conclave,2025 conclave,event,exponential-decay,4721.0,2413.890785126818,,
+2025-05-23,2025_papal_conclave,2025 conclave,event,exponential-decay,4270.0,2125.5974760628014,,
+2025-05-24,2025_papal_conclave,2025 conclave,event,exponential-decay,4553.0,1871.7495851517297,,
+2025-05-25,2025_papal_conclave,2025 conclave,event,exponential-decay,4398.0,1648.231557871776,,
+2025-05-26,2025_papal_conclave,2025 conclave,event,exponential-decay,4018.0,1451.4195680623943,,
+2025-05-27,2025_papal_conclave,2025 conclave,event,exponential-decay,3544.0,1278.122765991872,,
+2025-05-28,2025_papal_conclave,2025 conclave,event,exponential-decay,3203.0,1125.5315461329776,,
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.8203353560076383,,
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.7553609435210475,,
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.6955328096229152,,
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.6404433448821367,,
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,1.0,1.5897172244486826,,
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.5430088509631694,,
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,0.0,1.5000000000000004,,
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,1.0,1.4603976520024664,,
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,5.0,1.423931995938768,,
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,7538267.0,1.3903545910778554,,
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,2965427.0,1.359436674361255,,
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,932628.0,1.330967601838993,,
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,533224.0,1.3047534135511192,,
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,365510.0,1.2806155120773437,,
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,247342.0,1.2583894457517573,,
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,179005.0,1.2379237882526553,,
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,128100.0,1.2190791069341087,,
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,106790.0,1.2017270128705215,,
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,88792.0,1.1857492861421188,,
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,123333.0,1.1710370704019315,,
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,94575.0,1.1574901312368593,,
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,64524.0,1.1450161732700206,,
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,53343.0,1.1335302113518004,,
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,45844.0,1.122953991555524,,
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,38789.0,1.1132154580329885,,
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,40563.0,1.1042482620975431,,
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,37509.0,1.095991310190093,,
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,37833.0,1.0883883476483187,,
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,30998.0,1.081387575443327,,
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,exponential-decay,30226.0,1.0749412972725627,,
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,exponential-decay,8721.0,10418.99973703225,,
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,exponential-decay,6757.0,8681.372606959358,,
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,exponential-decay,4940.0,7251.465424306541,,
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,exponential-decay,4865.0,6074.7834333224655,,
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,exponential-decay,5407.0,5106.482466166315,,
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,exponential-decay,6349.0,4309.659900528677,,
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,exponential-decay,6465.0,3653.948275067748,,
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,exponential-decay,6847.0,3114.3579643684625,,
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,exponential-decay,23264.0,2670.324806963511,,
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,exponential-decay,34100.0,2304.92639085872,,
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,exponential-decay,19949.0,2004.2371286599391,,
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,exponential-decay,11655.0,1756.7975437666155,,
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,exponential-decay,8026.0,1553.177541760344,,
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,exponential-decay,5094.0,1385.6170229577083,,
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,exponential-decay,3287.0,1247.7301396222306,,
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,exponential-decay,2497.0,1134.2619268723874,,
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1742.0,1040.888032320584,,
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1562.0,964.0499120005536,,
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1618.0,900.8192117855174,,
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,exponential-decay,2241.0,848.7861657787746,,
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1398.0,805.9677584618809,,
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1046.0,770.7321505961061,,
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,exponential-decay,870.0,741.7364886957903,,
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,exponential-decay,844.0,717.8757279494414,,
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,exponential-decay,725.0,698.2405181945537,,
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,exponential-decay,1011.0,682.0825479514034,,
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,exponential-decay,997.0,668.7860257528798,,
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,exponential-decay,917.0,657.8442119040283,,
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,exponential-decay,750.0,648.840106280363,,
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,exponential-decay,511.0,641.4305561635301,,
+2025-04-29,Vatican_City,Vatican City,place,exponential-decay,17369.0,24186.393923191856,,
+2025-04-30,Vatican_City,Vatican City,place,exponential-decay,14229.0,20544.238347352177,,
+2025-05-01,Vatican_City,Vatican City,place,exponential-decay,11411.0,17576.530176339915,,
+2025-05-02,Vatican_City,Vatican City,place,exponential-decay,11208.0,15158.37652944019,,
+2025-05-03,Vatican_City,Vatican City,place,exponential-decay,11255.0,13188.011950762642,,
+2025-05-04,Vatican_City,Vatican City,place,exponential-decay,11469.0,11582.515716937858,,
+2025-05-05,Vatican_City,Vatican City,place,exponential-decay,11804.0,10274.322205584976,,
+2025-05-06,Vatican_City,Vatican City,place,exponential-decay,12336.0,9208.377467073316,,
+2025-05-07,Vatican_City,Vatican City,place,exponential-decay,31531.0,8339.82233688801,,
+2025-05-08,Vatican_City,Vatican City,place,exponential-decay,128604.0,7632.104584817166,,
+2025-05-09,Vatican_City,Vatican City,place,exponential-decay,76533.0,7055.440652742578,,
+2025-05-10,Vatican_City,Vatican City,place,exponential-decay,37656.0,6585.562244884821,,
+2025-05-11,Vatican_City,Vatican City,place,exponential-decay,28325.0,6202.695022069873,,
+2025-05-12,Vatican_City,Vatican City,place,exponential-decay,21717.0,5890.726419438523,,
+2025-05-13,Vatican_City,Vatican City,place,exponential-decay,15322.0,5636.527566080949,,
+2025-05-14,Vatican_City,Vatican City,place,exponential-decay,12198.0,5429.400770296753,,
+2025-05-15,Vatican_City,Vatican City,place,exponential-decay,11083.0,5260.629318477966,,
+2025-05-16,Vatican_City,Vatican City,place,exponential-decay,9655.0,5123.110641374025,,
+2025-05-17,Vatican_City,Vatican City,place,exponential-decay,10371.0,5011.057409926307,,
+2025-05-18,Vatican_City,Vatican City,place,exponential-decay,12859.0,4919.753981604452,,
+2025-05-19,Vatican_City,Vatican City,place,exponential-decay,10120.0,4845.357947544393,,
+2025-05-20,Vatican_City,Vatican City,place,exponential-decay,8010.0,4784.73842880787,,
+2025-05-21,Vatican_City,Vatican City,place,exponential-decay,7431.0,4735.344316631392,,
+2025-05-22,Vatican_City,Vatican City,place,exponential-decay,6571.0,4695.096911693937,,
+2025-05-23,Vatican_City,Vatican City,place,exponential-decay,6140.0,4662.302444239759,,
+2025-05-24,Vatican_City,Vatican City,place,exponential-decay,6503.0,4635.580793557575,,
+2025-05-25,Vatican_City,Vatican City,place,exponential-decay,7299.0,4613.807407050281,,
+2025-05-26,Vatican_City,Vatican City,place,exponential-decay,6621.0,4596.065974620281,,
+2025-05-27,Vatican_City,Vatican City,place,exponential-decay,5940.0,4581.609866721641,,
+2025-05-28,Vatican_City,Vatican City,place,exponential-decay,5465.0,4569.8307132400005,,
+2025-04-29,Pope_Francis,Pope Francis,person,power-law-decay,115925.0,173187.11953884724,,
+2025-04-30,Pope_Francis,Pope Francis,person,power-law-decay,81835.0,151466.23959154927,,
+2025-05-01,Pope_Francis,Pope Francis,person,power-law-decay,65611.0,134320.33188562217,,
+2025-05-02,Pope_Francis,Pope Francis,person,power-law-decay,59359.0,120489.74089116936,,
+2025-05-03,Pope_Francis,Pope Francis,person,power-law-decay,59015.0,109130.77234157016,,
+2025-05-04,Pope_Francis,Pope Francis,person,power-law-decay,62069.0,99658.72815850684,,
+2025-05-05,Pope_Francis,Pope Francis,person,power-law-decay,56367.0,91656.5966625777,,
+2025-05-06,Pope_Francis,Pope Francis,person,power-law-decay,54763.0,84819.58103603343,,
+2025-05-07,Pope_Francis,Pope Francis,person,power-law-decay,127075.0,78920.13519908508,,
+2025-05-08,Pope_Francis,Pope Francis,person,power-law-decay,1048386.0,73785.21594272405,,
+2025-05-09,Pope_Francis,Pope Francis,person,power-law-decay,551902.0,69281.06929463393,,
+2025-05-10,Pope_Francis,Pope Francis,person,power-law-decay,208703.0,65302.80638513001,,
+2025-05-11,Pope_Francis,Pope Francis,person,power-law-decay,139203.0,61767.106248455486,,
+2025-05-12,Pope_Francis,Pope Francis,person,power-law-decay,93628.0,58607.00898874168,,
+2025-05-13,Pope_Francis,Pope Francis,person,power-law-decay,64982.0,55768.13621906991,,
+2025-05-14,Pope_Francis,Pope Francis,person,power-law-decay,50881.0,53205.90472762658,,
+2025-05-15,Pope_Francis,Pope Francis,person,power-law-decay,40288.0,50883.44330599149,,
+2025-05-16,Pope_Francis,Pope Francis,person,power-law-decay,36900.0,48770.01522299737,,
+2025-05-17,Pope_Francis,Pope Francis,person,power-law-decay,32001.0,46839.80953101296,,
+2025-05-18,Pope_Francis,Pope Francis,person,power-law-decay,39929.0,45071.00494793877,,
+2025-05-19,Pope_Francis,Pope Francis,person,power-law-decay,31062.0,43445.03761514798,,
+2025-05-20,Pope_Francis,Pope Francis,person,power-law-decay,23530.0,41946.02304817751,,
+2025-05-21,Pope_Francis,Pope Francis,person,power-law-decay,21102.0,40560.295908857166,,
+2025-05-22,Pope_Francis,Pope Francis,person,power-law-decay,18906.0,39276.040670081755,,
+2025-05-23,Pope_Francis,Pope Francis,person,power-law-decay,17485.0,38082.99302495562,,
+2025-05-24,Pope_Francis,Pope Francis,person,power-law-decay,17425.0,36972.19681692036,,
+2025-05-25,Pope_Francis,Pope Francis,person,power-law-decay,17343.0,35935.80488283671,,
+2025-05-26,Pope_Francis,Pope Francis,person,power-law-decay,16641.0,34966.91488159758,,
+2025-05-27,Pope_Francis,Pope Francis,person,power-law-decay,14684.0,34059.433186999115,,
+2025-05-28,Pope_Francis,Pope Francis,person,power-law-decay,13438.0,33207.96143821663,,
+2025-04-29,2025_papal_conclave,2025 conclave,event,power-law-decay,38999.0,52249.02553070294,,
+2025-04-30,2025_papal_conclave,2025 conclave,event,power-law-decay,30884.0,49638.66315003192,,
+2025-05-01,2025_papal_conclave,2025 conclave,event,power-law-decay,26944.0,47389.833111177824,,
+2025-05-02,2025_papal_conclave,2025 conclave,event,power-law-decay,25333.0,45425.89317515909,,
+2025-05-03,2025_papal_conclave,2025 conclave,event,power-law-decay,27692.0,43691.19888087574,,
+2025-05-04,2025_papal_conclave,2025 conclave,event,power-law-decay,32189.0,42144.23851584703,,
+2025-05-05,2025_papal_conclave,2025 conclave,event,power-law-decay,40765.0,40753.32688637931,,
+2025-05-06,2025_papal_conclave,2025 conclave,event,power-law-decay,48994.0,39493.801862188455,,
+2025-05-07,2025_papal_conclave,2025 conclave,event,power-law-decay,161016.0,38346.14066630589,,
+2025-05-08,2025_papal_conclave,2025 conclave,event,power-law-decay,597815.0,37294.659249382974,,
+2025-05-09,2025_papal_conclave,2025 conclave,event,power-law-decay,179044.0,36326.592734798,,
+2025-05-10,2025_papal_conclave,2025 conclave,event,power-law-decay,54978.0,35431.43161248507,,
+2025-05-11,2025_papal_conclave,2025 conclave,event,power-law-decay,38024.0,34600.43363686219,,
+2025-05-12,2025_papal_conclave,2025 conclave,event,power-law-decay,32170.0,33826.2589705157,,
+2025-05-13,2025_papal_conclave,2025 conclave,event,power-law-decay,23363.0,33102.69339786611,,
+2025-05-14,2025_papal_conclave,2025 conclave,event,power-law-decay,17691.0,32424.435532860673,,
+2025-05-15,2025_papal_conclave,2025 conclave,event,power-law-decay,13080.0,31786.931234442396,,
+2025-05-16,2025_papal_conclave,2025 conclave,event,power-law-decay,11119.0,31186.24332835648,,
+2025-05-17,2025_papal_conclave,2025 conclave,event,power-law-decay,9044.0,30618.948067507303,,
+2025-05-18,2025_papal_conclave,2025 conclave,event,power-law-decay,11143.0,30082.052076348693,,
+2025-05-19,2025_papal_conclave,2025 conclave,event,power-law-decay,9342.0,29572.925154669796,,
+2025-05-20,2025_papal_conclave,2025 conclave,event,power-law-decay,6301.0,29089.245480721635,,
+2025-05-21,2025_papal_conclave,2025 conclave,event,power-law-decay,5073.0,28628.95459657812,,
+2025-05-22,2025_papal_conclave,2025 conclave,event,power-law-decay,4721.0,28190.220176107163,,
+2025-05-23,2025_papal_conclave,2025 conclave,event,power-law-decay,4270.0,27771.40503329987,,
+2025-05-24,2025_papal_conclave,2025 conclave,event,power-law-decay,4553.0,27371.04117100136,,
+2025-05-25,2025_papal_conclave,2025 conclave,event,power-law-decay,4398.0,26987.807928740225,,
+2025-05-26,2025_papal_conclave,2025 conclave,event,power-law-decay,4018.0,26620.513485572592,,
+2025-05-27,2025_papal_conclave,2025 conclave,event,power-law-decay,3544.0,26268.07912551116,,
+2025-05-28,2025_papal_conclave,2025 conclave,event,power-law-decay,3203.0,25929.525790650907,,
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.907053832610044,,
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.8778397049069884,,
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.852223718833799,,
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.8294914112098504,,
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,1.0,1.809115563343123,,
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.790696975014976,,
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,0.0,1.773926745606384,,
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,1.0,1.7585613736849894,,
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,5.0,1.7444058088613323,,
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,7538267.0,1.731301608707829,,
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,2965427.0,1.7191184712537018,,
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,932628.0,1.7077480578399993,,
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,533224.0,1.6970994057496989,,
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,365510.0,1.687095466835498,,
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,247342.0,1.6776704581938464,,
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,179005.0,1.6687678080600548,,
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,128100.0,1.6603385444515195,,
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,106790.0,1.6523400175717586,,
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,88792.0,1.6447348769032168,,
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,123333.0,1.6374902448347397,,
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,94575.0,1.630577043516192,,
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,64524.0,1.6239694423156514,,
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,53343.0,1.6176444010394562,,
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,45844.0,1.61158128981518,,
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,38789.0,1.6057615708157549,,
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,40563.0,1.600168530224142,,
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,37509.0,1.5947870512862377,,
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,37833.0,1.5896034211770735,,
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,30998.0,1.5846051658568912,,
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,power-law-decay,30226.0,1.5797809082247003,,
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,power-law-decay,8721.0,12895.434990883714,,
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,power-law-decay,6757.0,11964.093106868851,,
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,power-law-decay,4940.0,11182.549355633048,,
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,power-law-decay,4865.0,10516.113231424762,,
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,power-law-decay,5407.0,9940.20098562179,,
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,power-law-decay,6349.0,9436.874168927448,,
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,power-law-decay,6465.0,8992.716935704186,,
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,power-law-decay,6847.0,8597.482523286395,,
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,power-law-decay,23264.0,8243.201082555326,,
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,power-law-decay,34100.0,7923.574572441656,,
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,power-law-decay,19949.0,7633.556025947801,,
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,power-law-decay,11655.0,7369.050554380103,,
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,power-law-decay,8026.0,7126.698717071267,,
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,power-law-decay,5094.0,6903.7168368005505,,
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,power-law-decay,3287.0,6697.777455188944,,
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,power-law-decay,2497.0,6506.9185785881555,,
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1742.0,6329.473901511763,,
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1562.0,6164.018535032913,,
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1618.0,6009.326345846263,,
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,power-law-decay,2241.0,5864.336094479186,,
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1398.0,5728.124315773195,,
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1046.0,5599.883418350926,,
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,power-law-decay,870.0,5478.903862148102,,
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,power-law-decay,844.0,5364.559550486938,,
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,power-law-decay,725.0,5256.295776729763,,
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,power-law-decay,1011.0,5153.619216533596,,
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,power-law-decay,997.0,5056.089569826634,,
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,power-law-decay,917.0,4963.312542143341,,
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,power-law-decay,750.0,4874.933920179148,,
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,power-law-decay,511.0,4790.634546581854,,
+2025-04-29,Vatican_City,Vatican City,place,power-law-decay,17369.0,30553.697919622555,,
+2025-04-30,Vatican_City,Vatican City,place,power-law-decay,14229.0,28612.367608381417,,
+2025-05-01,Vatican_City,Vatican City,place,power-law-decay,11411.0,26981.22280217755,,
+2025-05-02,Vatican_City,Vatican City,place,power-law-decay,11208.0,25588.71905280124,,
+2025-05-03,Vatican_City,Vatican City,place,power-law-decay,11255.0,24384.096615982235,,
+2025-05-04,Vatican_City,Vatican City,place,power-law-decay,11469.0,23330.277289086636,,
+2025-05-05,Vatican_City,Vatican City,place,power-law-decay,11804.0,22399.50373991915,,
+2025-05-06,Vatican_City,Vatican City,place,power-law-decay,12336.0,21570.556177780327,,
+2025-05-07,Vatican_City,Vatican City,place,power-law-decay,31531.0,20826.916034241673,,
+2025-05-08,Vatican_City,Vatican City,place,power-law-decay,128604.0,20155.519426506435,,
+2025-05-09,Vatican_City,Vatican City,place,power-law-decay,76533.0,19545.889735693818,,
+2025-05-10,Vatican_City,Vatican City,place,power-law-decay,37656.0,18989.520706248615,,
+2025-05-11,Vatican_City,Vatican City,place,power-law-decay,28325.0,18479.429167544626,,
+2025-05-12,Vatican_City,Vatican City,place,power-law-decay,21717.0,18009.825110101963,,
+2025-05-13,Vatican_City,Vatican City,place,power-law-decay,15322.0,17575.864537358568,,
+2025-05-14,Vatican_City,Vatican City,place,power-law-decay,12198.0,17173.461725506735,,
+2025-05-15,Vatican_City,Vatican City,place,power-law-decay,11083.0,16799.14479542166,,
+2025-05-16,Vatican_City,Vatican City,place,power-law-decay,9655.0,16449.943315686578,,
+2025-05-17,Vatican_City,Vatican City,place,power-law-decay,10371.0,16123.299904649262,,
+2025-05-18,Vatican_City,Vatican City,place,power-law-decay,12859.0,15817.000029617117,,
+2025-05-19,Vatican_City,Vatican City,place,power-law-decay,10120.0,15529.11575640901,,
+2025-05-20,Vatican_City,Vatican City,place,power-law-decay,8010.0,15257.960302634625,,
+2025-05-21,Vatican_City,Vatican City,place,power-law-decay,7431.0,15002.05103680334,,
+2025-05-22,Vatican_City,Vatican City,place,power-law-decay,6571.0,14760.079137838527,,
+2025-05-23,Vatican_City,Vatican City,place,power-law-decay,6140.0,14530.884549860592,,
+2025-05-24,Vatican_City,Vatican City,place,power-law-decay,6503.0,14313.435178962687,,
+2025-05-25,Vatican_City,Vatican City,place,power-law-decay,7299.0,14106.809512415974,,
+2025-05-26,Vatican_City,Vatican City,place,power-law-decay,6621.0,13910.182017524005,,
+2025-05-27,Vatican_City,Vatican City,place,power-law-decay,5940.0,13722.810812233209,,
+2025-05-28,Vatican_City,Vatican City,place,power-law-decay,5465.0,13544.02720337274,,
+2025-04-29,Pope_Francis,Pope Francis,person,seasonal-naive,115925.0,2141275.0,,
+2025-04-30,Pope_Francis,Pope Francis,person,seasonal-naive,81835.0,558700.0,,
+2025-05-01,Pope_Francis,Pope Francis,person,seasonal-naive,65611.0,332546.0,,
+2025-05-02,Pope_Francis,Pope Francis,person,seasonal-naive,59359.0,275122.0,,
+2025-05-03,Pope_Francis,Pope Francis,person,seasonal-naive,59015.0,478330.0,,
+2025-05-04,Pope_Francis,Pope Francis,person,seasonal-naive,62069.0,292922.0,,
+2025-05-05,Pope_Francis,Pope Francis,person,seasonal-naive,56367.0,176317.0,,
+2025-05-06,Pope_Francis,Pope Francis,person,seasonal-naive,54763.0,2141275.0,,
+2025-05-07,Pope_Francis,Pope Francis,person,seasonal-naive,127075.0,558700.0,,
+2025-05-08,Pope_Francis,Pope Francis,person,seasonal-naive,1048386.0,332546.0,,
+2025-05-09,Pope_Francis,Pope Francis,person,seasonal-naive,551902.0,275122.0,,
+2025-05-10,Pope_Francis,Pope Francis,person,seasonal-naive,208703.0,478330.0,,
+2025-05-11,Pope_Francis,Pope Francis,person,seasonal-naive,139203.0,292922.0,,
+2025-05-12,Pope_Francis,Pope Francis,person,seasonal-naive,93628.0,176317.0,,
+2025-05-13,Pope_Francis,Pope Francis,person,seasonal-naive,64982.0,2141275.0,,
+2025-05-14,Pope_Francis,Pope Francis,person,seasonal-naive,50881.0,558700.0,,
+2025-05-15,Pope_Francis,Pope Francis,person,seasonal-naive,40288.0,332546.0,,
+2025-05-16,Pope_Francis,Pope Francis,person,seasonal-naive,36900.0,275122.0,,
+2025-05-17,Pope_Francis,Pope Francis,person,seasonal-naive,32001.0,478330.0,,
+2025-05-18,Pope_Francis,Pope Francis,person,seasonal-naive,39929.0,292922.0,,
+2025-05-19,Pope_Francis,Pope Francis,person,seasonal-naive,31062.0,176317.0,,
+2025-05-20,Pope_Francis,Pope Francis,person,seasonal-naive,23530.0,2141275.0,,
+2025-05-21,Pope_Francis,Pope Francis,person,seasonal-naive,21102.0,558700.0,,
+2025-05-22,Pope_Francis,Pope Francis,person,seasonal-naive,18906.0,332546.0,,
+2025-05-23,Pope_Francis,Pope Francis,person,seasonal-naive,17485.0,275122.0,,
+2025-05-24,Pope_Francis,Pope Francis,person,seasonal-naive,17425.0,478330.0,,
+2025-05-25,Pope_Francis,Pope Francis,person,seasonal-naive,17343.0,292922.0,,
+2025-05-26,Pope_Francis,Pope Francis,person,seasonal-naive,16641.0,176317.0,,
+2025-05-27,Pope_Francis,Pope Francis,person,seasonal-naive,14684.0,2141275.0,,
+2025-05-28,Pope_Francis,Pope Francis,person,seasonal-naive,13438.0,558700.0,,
+2025-04-29,2025_papal_conclave,2025 conclave,event,seasonal-naive,38999.0,137462.0,,
+2025-04-30,2025_papal_conclave,2025 conclave,event,seasonal-naive,30884.0,87135.0,,
+2025-05-01,2025_papal_conclave,2025 conclave,event,seasonal-naive,26944.0,64134.0,,
+2025-05-02,2025_papal_conclave,2025 conclave,event,seasonal-naive,25333.0,53972.0,,
+2025-05-03,2025_papal_conclave,2025 conclave,event,seasonal-naive,27692.0,70333.0,,
+2025-05-04,2025_papal_conclave,2025 conclave,event,seasonal-naive,32189.0,60913.0,,
+2025-05-05,2025_papal_conclave,2025 conclave,event,seasonal-naive,40765.0,63694.0,,
+2025-05-06,2025_papal_conclave,2025 conclave,event,seasonal-naive,48994.0,137462.0,,
+2025-05-07,2025_papal_conclave,2025 conclave,event,seasonal-naive,161016.0,87135.0,,
+2025-05-08,2025_papal_conclave,2025 conclave,event,seasonal-naive,597815.0,64134.0,,
+2025-05-09,2025_papal_conclave,2025 conclave,event,seasonal-naive,179044.0,53972.0,,
+2025-05-10,2025_papal_conclave,2025 conclave,event,seasonal-naive,54978.0,70333.0,,
+2025-05-11,2025_papal_conclave,2025 conclave,event,seasonal-naive,38024.0,60913.0,,
+2025-05-12,2025_papal_conclave,2025 conclave,event,seasonal-naive,32170.0,63694.0,,
+2025-05-13,2025_papal_conclave,2025 conclave,event,seasonal-naive,23363.0,137462.0,,
+2025-05-14,2025_papal_conclave,2025 conclave,event,seasonal-naive,17691.0,87135.0,,
+2025-05-15,2025_papal_conclave,2025 conclave,event,seasonal-naive,13080.0,64134.0,,
+2025-05-16,2025_papal_conclave,2025 conclave,event,seasonal-naive,11119.0,53972.0,,
+2025-05-17,2025_papal_conclave,2025 conclave,event,seasonal-naive,9044.0,70333.0,,
+2025-05-18,2025_papal_conclave,2025 conclave,event,seasonal-naive,11143.0,60913.0,,
+2025-05-19,2025_papal_conclave,2025 conclave,event,seasonal-naive,9342.0,63694.0,,
+2025-05-20,2025_papal_conclave,2025 conclave,event,seasonal-naive,6301.0,137462.0,,
+2025-05-21,2025_papal_conclave,2025 conclave,event,seasonal-naive,5073.0,87135.0,,
+2025-05-22,2025_papal_conclave,2025 conclave,event,seasonal-naive,4721.0,64134.0,,
+2025-05-23,2025_papal_conclave,2025 conclave,event,seasonal-naive,4270.0,53972.0,,
+2025-05-24,2025_papal_conclave,2025 conclave,event,seasonal-naive,4553.0,70333.0,,
+2025-05-25,2025_papal_conclave,2025 conclave,event,seasonal-naive,4398.0,60913.0,,
+2025-05-26,2025_papal_conclave,2025 conclave,event,seasonal-naive,4018.0,63694.0,,
+2025-05-27,2025_papal_conclave,2025 conclave,event,seasonal-naive,3544.0,137462.0,,
+2025-05-28,2025_papal_conclave,2025 conclave,event,seasonal-naive,3203.0,87135.0,,
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,2.0,,
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,3.0,,
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,0.0,,
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,0.0,,
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,1.0,1.0,,
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,2.0,,
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,0.0,0.0,,
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,1.0,2.0,,
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,5.0,3.0,,
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,7538267.0,0.0,,
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,2965427.0,0.0,,
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,932628.0,1.0,,
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,533224.0,2.0,,
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,365510.0,0.0,,
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,247342.0,2.0,,
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,179005.0,3.0,,
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,128100.0,0.0,,
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,106790.0,0.0,,
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,88792.0,1.0,,
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,123333.0,2.0,,
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,94575.0,0.0,,
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,64524.0,2.0,,
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,53343.0,3.0,,
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,45844.0,0.0,,
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,38789.0,0.0,,
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,40563.0,1.0,,
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,37509.0,2.0,,
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,37833.0,0.0,,
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,30998.0,2.0,,
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,seasonal-naive,30226.0,3.0,,
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,8721.0,44099.0,,
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,6757.0,27138.0,,
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,4940.0,17640.0,,
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,4865.0,13749.0,,
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,5407.0,24063.0,,
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,6349.0,17832.0,,
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,6465.0,14307.0,,
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,6847.0,44099.0,,
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,23264.0,27138.0,,
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,34100.0,17640.0,,
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,19949.0,13749.0,,
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,11655.0,24063.0,,
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,8026.0,17832.0,,
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,5094.0,14307.0,,
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,3287.0,44099.0,,
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,2497.0,27138.0,,
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1742.0,17640.0,,
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1562.0,13749.0,,
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1618.0,24063.0,,
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,2241.0,17832.0,,
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1398.0,14307.0,,
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1046.0,44099.0,,
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,870.0,27138.0,,
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,844.0,17640.0,,
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,725.0,13749.0,,
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,1011.0,24063.0,,
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,997.0,17832.0,,
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,917.0,14307.0,,
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,750.0,44099.0,,
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,seasonal-naive,511.0,27138.0,,
+2025-04-29,Vatican_City,Vatican City,place,seasonal-naive,17369.0,100702.0,,
+2025-04-30,Vatican_City,Vatican City,place,seasonal-naive,14229.0,61792.0,,
+2025-05-01,Vatican_City,Vatican City,place,seasonal-naive,11411.0,38757.0,,
+2025-05-02,Vatican_City,Vatican City,place,seasonal-naive,11208.0,34651.0,,
+2025-05-03,Vatican_City,Vatican City,place,seasonal-naive,11255.0,78948.0,,
+2025-05-04,Vatican_City,Vatican City,place,seasonal-naive,11469.0,37664.0,,
+2025-05-05,Vatican_City,Vatican City,place,seasonal-naive,11804.0,25112.0,,
+2025-05-06,Vatican_City,Vatican City,place,seasonal-naive,12336.0,100702.0,,
+2025-05-07,Vatican_City,Vatican City,place,seasonal-naive,31531.0,61792.0,,
+2025-05-08,Vatican_City,Vatican City,place,seasonal-naive,128604.0,38757.0,,
+2025-05-09,Vatican_City,Vatican City,place,seasonal-naive,76533.0,34651.0,,
+2025-05-10,Vatican_City,Vatican City,place,seasonal-naive,37656.0,78948.0,,
+2025-05-11,Vatican_City,Vatican City,place,seasonal-naive,28325.0,37664.0,,
+2025-05-12,Vatican_City,Vatican City,place,seasonal-naive,21717.0,25112.0,,
+2025-05-13,Vatican_City,Vatican City,place,seasonal-naive,15322.0,100702.0,,
+2025-05-14,Vatican_City,Vatican City,place,seasonal-naive,12198.0,61792.0,,
+2025-05-15,Vatican_City,Vatican City,place,seasonal-naive,11083.0,38757.0,,
+2025-05-16,Vatican_City,Vatican City,place,seasonal-naive,9655.0,34651.0,,
+2025-05-17,Vatican_City,Vatican City,place,seasonal-naive,10371.0,78948.0,,
+2025-05-18,Vatican_City,Vatican City,place,seasonal-naive,12859.0,37664.0,,
+2025-05-19,Vatican_City,Vatican City,place,seasonal-naive,10120.0,25112.0,,
+2025-05-20,Vatican_City,Vatican City,place,seasonal-naive,8010.0,100702.0,,
+2025-05-21,Vatican_City,Vatican City,place,seasonal-naive,7431.0,61792.0,,
+2025-05-22,Vatican_City,Vatican City,place,seasonal-naive,6571.0,38757.0,,
+2025-05-23,Vatican_City,Vatican City,place,seasonal-naive,6140.0,34651.0,,
+2025-05-24,Vatican_City,Vatican City,place,seasonal-naive,6503.0,78948.0,,
+2025-05-25,Vatican_City,Vatican City,place,seasonal-naive,7299.0,37664.0,,
+2025-05-26,Vatican_City,Vatican City,place,seasonal-naive,6621.0,25112.0,,
+2025-05-27,Vatican_City,Vatican City,place,seasonal-naive,5940.0,100702.0,,
+2025-05-28,Vatican_City,Vatican City,place,seasonal-naive,5465.0,61792.0,,
+2025-04-29,Pope_Francis,Pope Francis,person,flat-baseline,115925.0,10094.5,,
+2025-04-30,Pope_Francis,Pope Francis,person,flat-baseline,81835.0,10094.5,,
+2025-05-01,Pope_Francis,Pope Francis,person,flat-baseline,65611.0,10094.5,,
+2025-05-02,Pope_Francis,Pope Francis,person,flat-baseline,59359.0,10094.5,,
+2025-05-03,Pope_Francis,Pope Francis,person,flat-baseline,59015.0,10094.5,,
+2025-05-04,Pope_Francis,Pope Francis,person,flat-baseline,62069.0,10094.5,,
+2025-05-05,Pope_Francis,Pope Francis,person,flat-baseline,56367.0,10094.5,,
+2025-05-06,Pope_Francis,Pope Francis,person,flat-baseline,54763.0,10094.5,,
+2025-05-07,Pope_Francis,Pope Francis,person,flat-baseline,127075.0,10094.5,,
+2025-05-08,Pope_Francis,Pope Francis,person,flat-baseline,1048386.0,10094.5,,
+2025-05-09,Pope_Francis,Pope Francis,person,flat-baseline,551902.0,10094.5,,
+2025-05-10,Pope_Francis,Pope Francis,person,flat-baseline,208703.0,10094.5,,
+2025-05-11,Pope_Francis,Pope Francis,person,flat-baseline,139203.0,10094.5,,
+2025-05-12,Pope_Francis,Pope Francis,person,flat-baseline,93628.0,10094.5,,
+2025-05-13,Pope_Francis,Pope Francis,person,flat-baseline,64982.0,10094.5,,
+2025-05-14,Pope_Francis,Pope Francis,person,flat-baseline,50881.0,10094.5,,
+2025-05-15,Pope_Francis,Pope Francis,person,flat-baseline,40288.0,10094.5,,
+2025-05-16,Pope_Francis,Pope Francis,person,flat-baseline,36900.0,10094.5,,
+2025-05-17,Pope_Francis,Pope Francis,person,flat-baseline,32001.0,10094.5,,
+2025-05-18,Pope_Francis,Pope Francis,person,flat-baseline,39929.0,10094.5,,
+2025-05-19,Pope_Francis,Pope Francis,person,flat-baseline,31062.0,10094.5,,
+2025-05-20,Pope_Francis,Pope Francis,person,flat-baseline,23530.0,10094.5,,
+2025-05-21,Pope_Francis,Pope Francis,person,flat-baseline,21102.0,10094.5,,
+2025-05-22,Pope_Francis,Pope Francis,person,flat-baseline,18906.0,10094.5,,
+2025-05-23,Pope_Francis,Pope Francis,person,flat-baseline,17485.0,10094.5,,
+2025-05-24,Pope_Francis,Pope Francis,person,flat-baseline,17425.0,10094.5,,
+2025-05-25,Pope_Francis,Pope Francis,person,flat-baseline,17343.0,10094.5,,
+2025-05-26,Pope_Francis,Pope Francis,person,flat-baseline,16641.0,10094.5,,
+2025-05-27,Pope_Francis,Pope Francis,person,flat-baseline,14684.0,10094.5,,
+2025-05-28,Pope_Francis,Pope Francis,person,flat-baseline,13438.0,10094.5,,
+2025-04-29,2025_papal_conclave,2025 conclave,event,flat-baseline,38999.0,1.0,,
+2025-04-30,2025_papal_conclave,2025 conclave,event,flat-baseline,30884.0,1.0,,
+2025-05-01,2025_papal_conclave,2025 conclave,event,flat-baseline,26944.0,1.0,,
+2025-05-02,2025_papal_conclave,2025 conclave,event,flat-baseline,25333.0,1.0,,
+2025-05-03,2025_papal_conclave,2025 conclave,event,flat-baseline,27692.0,1.0,,
+2025-05-04,2025_papal_conclave,2025 conclave,event,flat-baseline,32189.0,1.0,,
+2025-05-05,2025_papal_conclave,2025 conclave,event,flat-baseline,40765.0,1.0,,
+2025-05-06,2025_papal_conclave,2025 conclave,event,flat-baseline,48994.0,1.0,,
+2025-05-07,2025_papal_conclave,2025 conclave,event,flat-baseline,161016.0,1.0,,
+2025-05-08,2025_papal_conclave,2025 conclave,event,flat-baseline,597815.0,1.0,,
+2025-05-09,2025_papal_conclave,2025 conclave,event,flat-baseline,179044.0,1.0,,
+2025-05-10,2025_papal_conclave,2025 conclave,event,flat-baseline,54978.0,1.0,,
+2025-05-11,2025_papal_conclave,2025 conclave,event,flat-baseline,38024.0,1.0,,
+2025-05-12,2025_papal_conclave,2025 conclave,event,flat-baseline,32170.0,1.0,,
+2025-05-13,2025_papal_conclave,2025 conclave,event,flat-baseline,23363.0,1.0,,
+2025-05-14,2025_papal_conclave,2025 conclave,event,flat-baseline,17691.0,1.0,,
+2025-05-15,2025_papal_conclave,2025 conclave,event,flat-baseline,13080.0,1.0,,
+2025-05-16,2025_papal_conclave,2025 conclave,event,flat-baseline,11119.0,1.0,,
+2025-05-17,2025_papal_conclave,2025 conclave,event,flat-baseline,9044.0,1.0,,
+2025-05-18,2025_papal_conclave,2025 conclave,event,flat-baseline,11143.0,1.0,,
+2025-05-19,2025_papal_conclave,2025 conclave,event,flat-baseline,9342.0,1.0,,
+2025-05-20,2025_papal_conclave,2025 conclave,event,flat-baseline,6301.0,1.0,,
+2025-05-21,2025_papal_conclave,2025 conclave,event,flat-baseline,5073.0,1.0,,
+2025-05-22,2025_papal_conclave,2025 conclave,event,flat-baseline,4721.0,1.0,,
+2025-05-23,2025_papal_conclave,2025 conclave,event,flat-baseline,4270.0,1.0,,
+2025-05-24,2025_papal_conclave,2025 conclave,event,flat-baseline,4553.0,1.0,,
+2025-05-25,2025_papal_conclave,2025 conclave,event,flat-baseline,4398.0,1.0,,
+2025-05-26,2025_papal_conclave,2025 conclave,event,flat-baseline,4018.0,1.0,,
+2025-05-27,2025_papal_conclave,2025 conclave,event,flat-baseline,3544.0,1.0,,
+2025-05-28,2025_papal_conclave,2025 conclave,event,flat-baseline,3203.0,1.0,,
+2025-04-29,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-04-30,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-05-01,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-05-02,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-05-03,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,1.0,1.0,,
+2025-05-04,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-05-05,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,0.0,1.0,,
+2025-05-06,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,1.0,1.0,,
+2025-05-07,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,5.0,1.0,,
+2025-05-08,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,7538267.0,1.0,,
+2025-05-09,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,2965427.0,1.0,,
+2025-05-10,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,932628.0,1.0,,
+2025-05-11,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,533224.0,1.0,,
+2025-05-12,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,365510.0,1.0,,
+2025-05-13,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,247342.0,1.0,,
+2025-05-14,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,179005.0,1.0,,
+2025-05-15,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,128100.0,1.0,,
+2025-05-16,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,106790.0,1.0,,
+2025-05-17,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,88792.0,1.0,,
+2025-05-18,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,123333.0,1.0,,
+2025-05-19,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,94575.0,1.0,,
+2025-05-20,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,64524.0,1.0,,
+2025-05-21,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,53343.0,1.0,,
+2025-05-22,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,45844.0,1.0,,
+2025-05-23,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,38789.0,1.0,,
+2025-05-24,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,40563.0,1.0,,
+2025-05-25,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,37509.0,1.0,,
+2025-05-26,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,37833.0,1.0,,
+2025-05-27,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,30998.0,1.0,,
+2025-05-28,Pope_Leo_XIV,Pope Leo XIV,person,flat-baseline,30226.0,1.0,,
+2025-04-29,College_of_Cardinals,College of Cardinals,organization,flat-baseline,8721.0,607.0,,
+2025-04-30,College_of_Cardinals,College of Cardinals,organization,flat-baseline,6757.0,607.0,,
+2025-05-01,College_of_Cardinals,College of Cardinals,organization,flat-baseline,4940.0,607.0,,
+2025-05-02,College_of_Cardinals,College of Cardinals,organization,flat-baseline,4865.0,607.0,,
+2025-05-03,College_of_Cardinals,College of Cardinals,organization,flat-baseline,5407.0,607.0,,
+2025-05-04,College_of_Cardinals,College of Cardinals,organization,flat-baseline,6349.0,607.0,,
+2025-05-05,College_of_Cardinals,College of Cardinals,organization,flat-baseline,6465.0,607.0,,
+2025-05-06,College_of_Cardinals,College of Cardinals,organization,flat-baseline,6847.0,607.0,,
+2025-05-07,College_of_Cardinals,College of Cardinals,organization,flat-baseline,23264.0,607.0,,
+2025-05-08,College_of_Cardinals,College of Cardinals,organization,flat-baseline,34100.0,607.0,,
+2025-05-09,College_of_Cardinals,College of Cardinals,organization,flat-baseline,19949.0,607.0,,
+2025-05-10,College_of_Cardinals,College of Cardinals,organization,flat-baseline,11655.0,607.0,,
+2025-05-11,College_of_Cardinals,College of Cardinals,organization,flat-baseline,8026.0,607.0,,
+2025-05-12,College_of_Cardinals,College of Cardinals,organization,flat-baseline,5094.0,607.0,,
+2025-05-13,College_of_Cardinals,College of Cardinals,organization,flat-baseline,3287.0,607.0,,
+2025-05-14,College_of_Cardinals,College of Cardinals,organization,flat-baseline,2497.0,607.0,,
+2025-05-15,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1742.0,607.0,,
+2025-05-16,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1562.0,607.0,,
+2025-05-17,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1618.0,607.0,,
+2025-05-18,College_of_Cardinals,College of Cardinals,organization,flat-baseline,2241.0,607.0,,
+2025-05-19,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1398.0,607.0,,
+2025-05-20,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1046.0,607.0,,
+2025-05-21,College_of_Cardinals,College of Cardinals,organization,flat-baseline,870.0,607.0,,
+2025-05-22,College_of_Cardinals,College of Cardinals,organization,flat-baseline,844.0,607.0,,
+2025-05-23,College_of_Cardinals,College of Cardinals,organization,flat-baseline,725.0,607.0,,
+2025-05-24,College_of_Cardinals,College of Cardinals,organization,flat-baseline,1011.0,607.0,,
+2025-05-25,College_of_Cardinals,College of Cardinals,organization,flat-baseline,997.0,607.0,,
+2025-05-26,College_of_Cardinals,College of Cardinals,organization,flat-baseline,917.0,607.0,,
+2025-05-27,College_of_Cardinals,College of Cardinals,organization,flat-baseline,750.0,607.0,,
+2025-05-28,College_of_Cardinals,College of Cardinals,organization,flat-baseline,511.0,607.0,,
+2025-04-29,Vatican_City,Vatican City,place,flat-baseline,17369.0,4518.0,,
+2025-04-30,Vatican_City,Vatican City,place,flat-baseline,14229.0,4518.0,,
+2025-05-01,Vatican_City,Vatican City,place,flat-baseline,11411.0,4518.0,,
+2025-05-02,Vatican_City,Vatican City,place,flat-baseline,11208.0,4518.0,,
+2025-05-03,Vatican_City,Vatican City,place,flat-baseline,11255.0,4518.0,,
+2025-05-04,Vatican_City,Vatican City,place,flat-baseline,11469.0,4518.0,,
+2025-05-05,Vatican_City,Vatican City,place,flat-baseline,11804.0,4518.0,,
+2025-05-06,Vatican_City,Vatican City,place,flat-baseline,12336.0,4518.0,,
+2025-05-07,Vatican_City,Vatican City,place,flat-baseline,31531.0,4518.0,,
+2025-05-08,Vatican_City,Vatican City,place,flat-baseline,128604.0,4518.0,,
+2025-05-09,Vatican_City,Vatican City,place,flat-baseline,76533.0,4518.0,,
+2025-05-10,Vatican_City,Vatican City,place,flat-baseline,37656.0,4518.0,,
+2025-05-11,Vatican_City,Vatican City,place,flat-baseline,28325.0,4518.0,,
+2025-05-12,Vatican_City,Vatican City,place,flat-baseline,21717.0,4518.0,,
+2025-05-13,Vatican_City,Vatican City,place,flat-baseline,15322.0,4518.0,,
+2025-05-14,Vatican_City,Vatican City,place,flat-baseline,12198.0,4518.0,,
+2025-05-15,Vatican_City,Vatican City,place,flat-baseline,11083.0,4518.0,,
+2025-05-16,Vatican_City,Vatican City,place,flat-baseline,9655.0,4518.0,,
+2025-05-17,Vatican_City,Vatican City,place,flat-baseline,10371.0,4518.0,,
+2025-05-18,Vatican_City,Vatican City,place,flat-baseline,12859.0,4518.0,,
+2025-05-19,Vatican_City,Vatican City,place,flat-baseline,10120.0,4518.0,,
+2025-05-20,Vatican_City,Vatican City,place,flat-baseline,8010.0,4518.0,,
+2025-05-21,Vatican_City,Vatican City,place,flat-baseline,7431.0,4518.0,,
+2025-05-22,Vatican_City,Vatican City,place,flat-baseline,6571.0,4518.0,,
+2025-05-23,Vatican_City,Vatican City,place,flat-baseline,6140.0,4518.0,,
+2025-05-24,Vatican_City,Vatican City,place,flat-baseline,6503.0,4518.0,,
+2025-05-25,Vatican_City,Vatican City,place,flat-baseline,7299.0,4518.0,,
+2025-05-26,Vatican_City,Vatican City,place,flat-baseline,6621.0,4518.0,,
+2025-05-27,Vatican_City,Vatican City,place,flat-baseline,5940.0,4518.0,,
+2025-05-28,Vatican_City,Vatican City,place,flat-baseline,5465.0,4518.0,,

@@ -1,0 +1,142 @@
+{
+  "slug": "jwst-first-images",
+  "title": "James Webb's first images",
+  "event_date": "2022-07-12",
+  "primary": "James_Webb_Space_Telescope",
+  "total_excess_views_60d": 1915712,
+  "spillover_share": 0.3508345722112718,
+  "pages": [
+    {
+      "article": "James_Webb_Space_Telescope",
+      "label": "James Webb",
+      "role": "event",
+      "baseline_views": 3489.5,
+      "peak_date": "2022-07-13",
+      "peak_offset_days": 1,
+      "peak_views": 332918,
+      "peak_lift": 95.40564550795243,
+      "half_life_days": 1,
+      "excess_views_60d": 1243614,
+      "first_week_share": 0.7473054340012255,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "NASA",
+      "label": "NASA",
+      "role": "organization",
+      "baseline_views": 3020.5,
+      "peak_date": "2022-07-12",
+      "peak_offset_days": 0,
+      "peak_views": 13943,
+      "peak_lift": 4.616123158417481,
+      "half_life_days": 2,
+      "excess_views_60d": 96930,
+      "first_week_share": 0.40998963174645753,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Hubble_Space_Telescope",
+      "label": "Hubble",
+      "role": "technology",
+      "baseline_views": 1564.0,
+      "peak_date": "2022-07-12",
+      "peak_offset_days": 0,
+      "peak_views": 32989,
+      "peak_lift": 21.092710997442456,
+      "half_life_days": 2,
+      "excess_views_60d": 116220,
+      "first_week_share": 0.7821717432455687,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Webb's_First_Deep_Field",
+      "label": "Webb's First Deep Field",
+      "role": "work",
+      "baseline_views": 1.0,
+      "peak_date": "2022-07-12",
+      "peak_offset_days": 0,
+      "peak_views": 75554,
+      "peak_lift": 75554.0,
+      "half_life_days": 2,
+      "excess_views_60d": 272809,
+      "first_week_share": 0.7721079583151582,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Carina_Nebula",
+      "label": "Carina Nebula",
+      "role": "idea",
+      "baseline_views": 156.5,
+      "peak_date": "2022-07-12",
+      "peak_offset_days": 0,
+      "peak_views": 65537,
+      "peak_lift": 418.7667731629393,
+      "half_life_days": 2,
+      "excess_views_60d": 186139,
+      "first_week_share": 0.8221893316285142,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "James_Webb_Space_Telescope",
+      "target": "Hubble_Space_Telescope",
+      "lag_days": 0,
+      "correlation": 0.9872663339890698
+    },
+    {
+      "source": "James_Webb_Space_Telescope",
+      "target": "Carina_Nebula",
+      "lag_days": 0,
+      "correlation": 0.9546880700717392
+    },
+    {
+      "source": "Hubble_Space_Telescope",
+      "target": "Carina_Nebula",
+      "lag_days": 0,
+      "correlation": 0.9401703339555232
+    },
+    {
+      "source": "NASA",
+      "target": "Hubble_Space_Telescope",
+      "lag_days": 0,
+      "correlation": 0.9087531172676951
+    },
+    {
+      "source": "James_Webb_Space_Telescope",
+      "target": "NASA",
+      "lag_days": 0,
+      "correlation": 0.8993739237810614
+    },
+    {
+      "source": "NASA",
+      "target": "Carina_Nebula",
+      "lag_days": 0,
+      "correlation": 0.8441117144632628
+    },
+    {
+      "source": "Carina_Nebula",
+      "target": "Webb's_First_Deep_Field",
+      "lag_days": 4,
+      "correlation": 0.7706229606203685
+    },
+    {
+      "source": "James_Webb_Space_Telescope",
+      "target": "Webb's_First_Deep_Field",
+      "lag_days": 1,
+      "correlation": 0.6927163815154594
+    },
+    {
+      "source": "Hubble_Space_Telescope",
+      "target": "Webb's_First_Deep_Field",
+      "lag_days": 1,
+      "correlation": 0.6578111746947292
+    },
+    {
+      "source": "NASA",
+      "target": "Webb's_First_Deep_Field",
+      "lag_days": 0,
+      "correlation": 0.6475869572401475
+    }
+  ]
+}

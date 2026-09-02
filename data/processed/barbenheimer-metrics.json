@@ -1,0 +1,236 @@
+{
+  "slug": "barbenheimer",
+  "title": "Barbenheimer",
+  "event_date": "2023-07-21",
+  "primary": "Barbenheimer",
+  "total_excess_views_60d": 41144646,
+  "spillover_share": 0.9776566798022761,
+  "pages": [
+    {
+      "article": "Barbenheimer",
+      "label": "Barbenheimer",
+      "role": "event",
+      "baseline_views": 7049.0,
+      "peak_date": "2023-07-22",
+      "peak_offset_days": 1,
+      "peak_views": 139861,
+      "peak_lift": 19.84125407859271,
+      "half_life_days": 3,
+      "excess_views_60d": 919308,
+      "first_week_share": 0.6674215823206151,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Barbie_(film)",
+      "label": "Barbie",
+      "role": "work",
+      "baseline_views": 54159.0,
+      "peak_date": "2023-07-23",
+      "peak_offset_days": 2,
+      "peak_views": 833627,
+      "peak_lift": 15.392215513580384,
+      "half_life_days": 4,
+      "excess_views_60d": 9093507,
+      "first_week_share": 0.4641989058786671,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Oppenheimer_(film)",
+      "label": "Oppenheimer",
+      "role": "work",
+      "baseline_views": 79744.5,
+      "peak_date": "2023-07-23",
+      "peak_offset_days": 2,
+      "peak_views": 1362922,
+      "peak_lift": 17.091109731705636,
+      "half_life_days": 3,
+      "excess_views_60d": 13289932,
+      "first_week_share": 0.5008664829887768,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Margot_Robbie",
+      "label": "Margot Robbie",
+      "role": "person",
+      "baseline_views": 44114.5,
+      "peak_date": "2023-07-23",
+      "peak_offset_days": 2,
+      "peak_views": 247289,
+      "peak_lift": 5.60561720069365,
+      "half_life_days": 8,
+      "excess_views_60d": 1987840,
+      "first_week_share": 0.5541043429311069,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Cillian_Murphy",
+      "label": "Cillian Murphy",
+      "role": "person",
+      "baseline_views": 26361.5,
+      "peak_date": "2023-07-23",
+      "peak_offset_days": 2,
+      "peak_views": 284411,
+      "peak_lift": 10.7888777194014,
+      "half_life_days": 4,
+      "excess_views_60d": 2630214,
+      "first_week_share": 0.5416278786387955,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "J._Robert_Oppenheimer",
+      "label": "J. R. Oppenheimer",
+      "role": "history",
+      "baseline_views": 75179.0,
+      "peak_date": "2023-07-22",
+      "peak_offset_days": 1,
+      "peak_views": 1464456,
+      "peak_lift": 19.47958871493369,
+      "half_life_days": 4,
+      "excess_views_60d": 12054586,
+      "first_week_share": 0.5708468959448296,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Manhattan_Project",
+      "label": "Manhattan Project",
+      "role": "history",
+      "baseline_views": 10950.0,
+      "peak_date": "2023-07-22",
+      "peak_offset_days": 1,
+      "peak_views": 146550,
+      "peak_lift": 13.383561643835616,
+      "half_life_days": 4,
+      "excess_views_60d": 1169259,
+      "first_week_share": 0.5972680133315202,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "J._Robert_Oppenheimer",
+      "target": "Manhattan_Project",
+      "lag_days": 0,
+      "correlation": 0.9966373970811417
+    },
+    {
+      "source": "Oppenheimer_(film)",
+      "target": "J._Robert_Oppenheimer",
+      "lag_days": 0,
+      "correlation": 0.9937319456932557
+    },
+    {
+      "source": "Cillian_Murphy",
+      "target": "Manhattan_Project",
+      "lag_days": 0,
+      "correlation": 0.9935278666359895
+    },
+    {
+      "source": "Cillian_Murphy",
+      "target": "J._Robert_Oppenheimer",
+      "lag_days": 0,
+      "correlation": 0.9901186939168733
+    },
+    {
+      "source": "Oppenheimer_(film)",
+      "target": "Manhattan_Project",
+      "lag_days": 0,
+      "correlation": 0.98865145890217
+    },
+    {
+      "source": "Margot_Robbie",
+      "target": "Manhattan_Project",
+      "lag_days": 0,
+      "correlation": 0.9877650236602874
+    },
+    {
+      "source": "Margot_Robbie",
+      "target": "J._Robert_Oppenheimer",
+      "lag_days": 0,
+      "correlation": 0.9871952896667563
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "Manhattan_Project",
+      "lag_days": 0,
+      "correlation": 0.9848036102548123
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "Cillian_Murphy",
+      "lag_days": 0,
+      "correlation": 0.9841276310321193
+    },
+    {
+      "source": "Oppenheimer_(film)",
+      "target": "Cillian_Murphy",
+      "lag_days": 0,
+      "correlation": 0.9812969283548282
+    },
+    {
+      "source": "Margot_Robbie",
+      "target": "Cillian_Murphy",
+      "lag_days": 0,
+      "correlation": 0.981289996339354
+    },
+    {
+      "source": "Oppenheimer_(film)",
+      "target": "Margot_Robbie",
+      "lag_days": 0,
+      "correlation": 0.9791070863344249
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "J._Robert_Oppenheimer",
+      "lag_days": 0,
+      "correlation": 0.9776708480931326
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "Oppenheimer_(film)",
+      "lag_days": 0,
+      "correlation": 0.9732318778652699
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "Margot_Robbie",
+      "lag_days": 1,
+      "correlation": 0.9727793945294736
+    },
+    {
+      "source": "Oppenheimer_(film)",
+      "target": "Barbie_(film)",
+      "lag_days": 1,
+      "correlation": 0.9705653706576328
+    },
+    {
+      "source": "J._Robert_Oppenheimer",
+      "target": "Barbie_(film)",
+      "lag_days": 1,
+      "correlation": 0.9617991345746687
+    },
+    {
+      "source": "Barbie_(film)",
+      "target": "Margot_Robbie",
+      "lag_days": 0,
+      "correlation": 0.9566224177030158
+    },
+    {
+      "source": "Manhattan_Project",
+      "target": "Barbie_(film)",
+      "lag_days": 1,
+      "correlation": 0.9495211408068244
+    },
+    {
+      "source": "Barbenheimer",
+      "target": "Barbie_(film)",
+      "lag_days": 1,
+      "correlation": 0.936938796548347
+    },
+    {
+      "source": "Cillian_Murphy",
+      "target": "Barbie_(film)",
+      "lag_days": 1,
+      "correlation": 0.9363635558193418
+    }
+  ]
+}

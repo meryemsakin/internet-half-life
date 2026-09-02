@@ -1,0 +1,118 @@
+{
+  "slug": "chatgpt-launch",
+  "title": "ChatGPT launches",
+  "event_date": "2022-11-30",
+  "primary": "ChatGPT",
+  "total_excess_views_60d": 9289415,
+  "spillover_share": 0.3058165664899243,
+  "pages": [
+    {
+      "article": "ChatGPT",
+      "label": "ChatGPT",
+      "role": "event",
+      "baseline_views": 1.0,
+      "peak_date": "2022-12-13",
+      "peak_offset_days": 13,
+      "peak_views": 123453,
+      "peak_lift": 123453.0,
+      "half_life_days": 11,
+      "excess_views_60d": 6448558,
+      "first_week_share": 0.004886984035810797,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "OpenAI",
+      "label": "OpenAI",
+      "role": "organization",
+      "baseline_views": 3427.0,
+      "peak_date": "2022-12-07",
+      "peak_offset_days": 7,
+      "peak_views": 41263,
+      "peak_lift": 12.04056025678436,
+      "half_life_days": 17,
+      "excess_views_60d": 1744403,
+      "first_week_share": 0.06589360371427933,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "GPT-3",
+      "label": "GPT-3",
+      "role": "technology",
+      "baseline_views": 2972.0,
+      "peak_date": "2022-12-07",
+      "peak_offset_days": 7,
+      "peak_views": 21661,
+      "peak_lift": 7.28835800807537,
+      "half_life_days": 10,
+      "excess_views_60d": 556745,
+      "first_week_share": 0.1155825377865989,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Artificial_intelligence",
+      "label": "Artificial intelligence",
+      "role": "idea",
+      "baseline_views": 16648.5,
+      "peak_date": "2022-12-12",
+      "peak_offset_days": 12,
+      "peak_views": 21097,
+      "peak_lift": 1.2672012493618043,
+      "half_life_days": 2,
+      "excess_views_60d": 23732,
+      "first_week_share": 0.3785896382445273,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Sam_Altman",
+      "label": "Sam Altman",
+      "role": "person",
+      "baseline_views": 946.0,
+      "peak_date": "2022-12-07",
+      "peak_offset_days": 7,
+      "peak_views": 12883,
+      "peak_lift": 13.618393234672304,
+      "half_life_days": 16,
+      "excess_views_60d": 515977,
+      "first_week_share": 0.06753207991829094,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "OpenAI",
+      "target": "Sam_Altman",
+      "lag_days": 0,
+      "correlation": 0.9793554659934006
+    },
+    {
+      "source": "OpenAI",
+      "target": "ChatGPT",
+      "lag_days": 4,
+      "correlation": 0.9255903230283852
+    },
+    {
+      "source": "OpenAI",
+      "target": "GPT-3",
+      "lag_days": 0,
+      "correlation": 0.9010207928888568
+    },
+    {
+      "source": "Sam_Altman",
+      "target": "ChatGPT",
+      "lag_days": 4,
+      "correlation": 0.8846830441053605
+    },
+    {
+      "source": "GPT-3",
+      "target": "Sam_Altman",
+      "lag_days": 0,
+      "correlation": 0.8768484428357357
+    },
+    {
+      "source": "GPT-3",
+      "target": "ChatGPT",
+      "lag_days": 4,
+      "correlation": 0.780669745743535
+    }
+  ]
+}

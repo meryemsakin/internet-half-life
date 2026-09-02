@@ -1,0 +1,142 @@
+{
+  "slug": "deadpool-wolverine",
+  "title": "Deadpool & Wolverine opens",
+  "event_date": "2024-07-26",
+  "primary": "Deadpool_&_Wolverine",
+  "total_excess_views_60d": 14656229,
+  "spillover_share": 0.24870585742075946,
+  "pages": [
+    {
+      "article": "Deadpool_&_Wolverine",
+      "label": "Deadpool & Wolverine",
+      "role": "event",
+      "baseline_views": 36260.0,
+      "peak_date": "2024-07-28",
+      "peak_offset_days": 2,
+      "peak_views": 727240,
+      "peak_lift": 20.056260341974628,
+      "half_life_days": 9,
+      "excess_views_60d": 11011139,
+      "first_week_share": 0.33745491724334786,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Ryan_Reynolds",
+      "label": "Ryan Reynolds",
+      "role": "person",
+      "baseline_views": 20013.5,
+      "peak_date": "2024-07-28",
+      "peak_offset_days": 2,
+      "peak_views": 122225,
+      "peak_lift": 6.107127688810054,
+      "half_life_days": 16,
+      "excess_views_60d": 1654906,
+      "first_week_share": 0.3222227358464058,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Hugh_Jackman",
+      "label": "Hugh Jackman",
+      "role": "person",
+      "baseline_views": 10423.0,
+      "peak_date": "2024-07-27",
+      "peak_offset_days": 1,
+      "peak_views": 109163,
+      "peak_lift": 10.473280245610669,
+      "half_life_days": 9,
+      "excess_views_60d": 1226719,
+      "first_week_share": 0.42639430872106815,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Wolverine_(character)",
+      "label": "Wolverine",
+      "role": "work",
+      "baseline_views": 2348.0,
+      "peak_date": "2024-07-28",
+      "peak_offset_days": 2,
+      "peak_views": 19349,
+      "peak_lift": 8.240630323679728,
+      "half_life_days": 17,
+      "excess_views_60d": 340093,
+      "first_week_share": 0.288673980352433,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Marvel_Cinematic_Universe",
+      "label": "MCU",
+      "role": "organization",
+      "baseline_views": 10160.0,
+      "peak_date": "2024-07-28",
+      "peak_offset_days": 2,
+      "peak_views": 112047,
+      "peak_lift": 11.028248031496062,
+      "half_life_days": 1,
+      "excess_views_60d": 423372,
+      "first_week_share": 0.5562578536133708,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Ryan_Reynolds",
+      "target": "Wolverine_(character)",
+      "lag_days": 1,
+      "correlation": 0.9594960039523718
+    },
+    {
+      "source": "Deadpool_&_Wolverine",
+      "target": "Hugh_Jackman",
+      "lag_days": 0,
+      "correlation": 0.9589828398534085
+    },
+    {
+      "source": "Deadpool_&_Wolverine",
+      "target": "Wolverine_(character)",
+      "lag_days": 1,
+      "correlation": 0.9499103937178807
+    },
+    {
+      "source": "Hugh_Jackman",
+      "target": "Wolverine_(character)",
+      "lag_days": 1,
+      "correlation": 0.9333606590136135
+    },
+    {
+      "source": "Deadpool_&_Wolverine",
+      "target": "Ryan_Reynolds",
+      "lag_days": 0,
+      "correlation": 0.920448825324161
+    },
+    {
+      "source": "Ryan_Reynolds",
+      "target": "Hugh_Jackman",
+      "lag_days": 0,
+      "correlation": 0.9067874127717483
+    },
+    {
+      "source": "Hugh_Jackman",
+      "target": "Marvel_Cinematic_Universe",
+      "lag_days": 1,
+      "correlation": 0.8658568614533367
+    },
+    {
+      "source": "Deadpool_&_Wolverine",
+      "target": "Marvel_Cinematic_Universe",
+      "lag_days": 1,
+      "correlation": 0.824211527165341
+    },
+    {
+      "source": "Wolverine_(character)",
+      "target": "Marvel_Cinematic_Universe",
+      "lag_days": 0,
+      "correlation": 0.8206202206457088
+    },
+    {
+      "source": "Ryan_Reynolds",
+      "target": "Marvel_Cinematic_Universe",
+      "lag_days": 1,
+      "correlation": 0.7925693014971027
+    }
+  ]
+}

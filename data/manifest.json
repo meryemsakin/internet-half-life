@@ -1,0 +1,689 @@
+{
+  "schema_version": 1,
+  "catalog": {
+    "path": "catalog/events.json",
+    "bytes": 14725,
+    "sha256": "366eec1b094e3c88fdfd5a8ce79463f997ceca1ad1e9714dd32b214b66b920c4"
+  },
+  "source": {
+    "provider": "Wikimedia Pageviews API",
+    "endpoint": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article",
+    "project": "en.wikipedia.org",
+    "access": "all-access",
+    "agent": "user",
+    "granularity": "daily"
+  },
+  "analysis_settings": {
+    "baseline_days": 28,
+    "baseline_floor": 1,
+    "peak_window_days": 14,
+    "post_event_days": 60,
+    "half_life_sustained_days": 3,
+    "late_window_offsets": [
+      53,
+      59
+    ]
+  },
+  "forecast_settings": {
+    "checkpoint": "google/timesfm-3.0-pytorch",
+    "revealed_event_day_offsets": [
+      0,
+      7
+    ],
+    "forecast_event_day_offsets": [
+      8,
+      37
+    ],
+    "maximum_context_days": 512,
+    "use_symmetric_averaging": false
+  },
+  "provenance_limitations": [
+    "Original fetch timestamps and HTTP response provenance were not recorded.",
+    "Original forecast package/device details and immutable checkpoint revision were not recorded.",
+    "Hashes identify the published files, not a promise of bit-identical model reruns.",
+    "Legacy all-zero padding before API availability remains in the Straight Outta Compton raw file; the loader excludes it."
+  ],
+  "events": [
+    {
+      "event_slug": "straight-outta-compton",
+      "event_date": "2015-08-14",
+      "pages": [
+        "Straight_Outta_Compton_(2015_film)",
+        "N.W.A",
+        "Dr._Dre",
+        "Ice_Cube",
+        "Eazy-E"
+      ],
+      "raw": {
+        "path": "data/raw/straight-outta-compton.csv",
+        "bytes": 21417,
+        "sha256": "becacff6c14bafdaad6ba647421a6fed39075177d5f09ec8613554ff068237c8",
+        "rows": 603,
+        "stored_start": "2014-03-20",
+        "stored_end": "2015-11-12"
+      },
+      "metrics": {
+        "path": "data/processed/straight-outta-compton-metrics.json",
+        "bytes": 3684,
+        "sha256": "abacff3c4f38f6a6d8ad1346ab104b4d7bb9717aca8d3a0014e14f4a46bfcc61"
+      },
+      "forecasts": {
+        "path": "data/processed/straight-outta-compton-forecast.csv",
+        "bytes": 82340,
+        "sha256": "d9b2b2b4d225087959612b0cf2ba5be7980d7cdad8f872a740d47a38d1551636",
+        "rows": 900,
+        "start": "2015-08-22",
+        "end": "2015-09-20",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "ever-given",
+      "event_date": "2021-03-23",
+      "pages": [
+        "2021_Suez_Canal_obstruction",
+        "Ever_Given",
+        "Suez_Canal",
+        "Container_ship",
+        "Supply_chain"
+      ],
+      "raw": {
+        "path": "data/raw/ever-given.csv",
+        "bytes": 23869,
+        "sha256": "2afb9bf3f97f4626fb8210b5462551e0f7b98eaf90727f11d2c2103767118a90",
+        "rows": 603,
+        "stored_start": "2019-10-28",
+        "stored_end": "2021-06-21"
+      },
+      "metrics": {
+        "path": "data/processed/ever-given-metrics.json",
+        "bytes": 3115,
+        "sha256": "b54ac7894cccef0f54d534b2f915f0e6de3bdff7dedb9d55752d3267571d21de"
+      },
+      "forecasts": {
+        "path": "data/processed/ever-given-forecast.csv",
+        "bytes": 82866,
+        "sha256": "700535e5970f9dc125f46d36d9392cc140d0bc2c3f92f31aae6db3977df84bc1",
+        "rows": 900,
+        "start": "2021-03-31",
+        "end": "2021-04-29",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "jwst-first-images",
+      "event_date": "2022-07-12",
+      "pages": [
+        "James_Webb_Space_Telescope",
+        "NASA",
+        "Hubble_Space_Telescope",
+        "Webb's_First_Deep_Field",
+        "Carina_Nebula"
+      ],
+      "raw": {
+        "path": "data/raw/jwst-first-images.csv",
+        "bytes": 25744,
+        "sha256": "1c1b30478245041f157564abd5801b74ee67c31b74e115ba8cedc5cbf5e6e217",
+        "rows": 603,
+        "stored_start": "2021-02-15",
+        "stored_end": "2022-10-10"
+      },
+      "metrics": {
+        "path": "data/processed/jwst-first-images-metrics.json",
+        "bytes": 3788,
+        "sha256": "b3ebba87502a1f1aa61eec6bcbc29f504960a2a68681ee3467b14bb40a741fcb"
+      },
+      "forecasts": {
+        "path": "data/processed/jwst-first-images-forecast.csv",
+        "bytes": 89265,
+        "sha256": "7836dfcbc61a1f2b2771337a300c19f7bdcf0d5b1e643b22b580414cba45783a",
+        "rows": 900,
+        "start": "2022-07-20",
+        "end": "2022-08-18",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "chatgpt-launch",
+      "event_date": "2022-11-30",
+      "pages": [
+        "ChatGPT",
+        "OpenAI",
+        "GPT-3",
+        "Artificial_intelligence",
+        "Sam_Altman"
+      ],
+      "raw": {
+        "path": "data/raw/chatgpt-launch.csv",
+        "bytes": 26575,
+        "sha256": "9259235c5bd6bfbe5659d45119846d1e8551d22d9778d37b47969d5ecf2738d2",
+        "rows": 603,
+        "stored_start": "2021-07-06",
+        "stored_end": "2023-02-28"
+      },
+      "metrics": {
+        "path": "data/processed/chatgpt-launch-metrics.json",
+        "bytes": 3004,
+        "sha256": "4d19d7ab668077f4210b572d921ec55cf9734840689ae6db75e70de0ff8ac149"
+      },
+      "forecasts": {
+        "path": "data/processed/chatgpt-launch-forecast.csv",
+        "bytes": 81545,
+        "sha256": "a27bf1c5bd8b584c93eb2e3c442adf21c4bd4496747428d855f90c7b74c995c6",
+        "rows": 900,
+        "start": "2022-12-08",
+        "end": "2023-01-06",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "world-cup-final-2022",
+      "event_date": "2022-12-18",
+      "pages": [
+        "2022_FIFA_World_Cup_final",
+        "Lionel_Messi",
+        "Kylian_Mbapp\u00e9",
+        "Argentina_national_football_team",
+        "France_national_football_team"
+      ],
+      "raw": {
+        "path": "data/raw/world-cup-final-2022.csv",
+        "bytes": 27497,
+        "sha256": "0f80ce0717692e96e3a7c2d0c965dcb6c40bf43616cc9892bc08cdf09f054327",
+        "rows": 603,
+        "stored_start": "2021-07-24",
+        "stored_end": "2023-03-18"
+      },
+      "metrics": {
+        "path": "data/processed/world-cup-final-2022-metrics.json",
+        "bytes": 3395,
+        "sha256": "ee86bfa9eedda97df4d5a187ee3cc574b56cc199e8a120e6be4802a0732cf4b0"
+      },
+      "forecasts": {
+        "path": "data/processed/world-cup-final-2022-forecast.csv",
+        "bytes": 93600,
+        "sha256": "9226c71e04c164c130ad9e43c6e267c7edeff95bcf9590bfadf3f8fef9661d52",
+        "rows": 900,
+        "start": "2022-12-26",
+        "end": "2023-01-24",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "barbenheimer",
+      "event_date": "2023-07-21",
+      "pages": [
+        "Barbenheimer",
+        "Barbie_(film)",
+        "Oppenheimer_(film)",
+        "Margot_Robbie",
+        "Cillian_Murphy",
+        "J._Robert_Oppenheimer",
+        "Manhattan_Project"
+      ],
+      "raw": {
+        "path": "data/raw/barbenheimer.csv",
+        "bytes": 36817,
+        "sha256": "a3ae3c2f63d7fdf1e14050c323da6f826fbae9c314913ba1943b581b23cb981f",
+        "rows": 603,
+        "stored_start": "2022-02-24",
+        "stored_end": "2023-10-19"
+      },
+      "metrics": {
+        "path": "data/processed/barbenheimer-metrics.json",
+        "bytes": 6144,
+        "sha256": "88df45ca4c6fd38387beaa18e3a4c434268987a2abdec8507f17774042f6a557"
+      },
+      "forecasts": {
+        "path": "data/processed/barbenheimer-forecast.csv",
+        "bytes": 122080,
+        "sha256": "a610addeb14ddff2c830f86ecbc95adffebe5c35baaeef44c3bed0117cf0bfb9",
+        "rows": 1260,
+        "start": "2023-07-29",
+        "end": "2023-08-27",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "chandrayaan-3",
+      "event_date": "2023-08-23",
+      "pages": [
+        "Chandrayaan-3",
+        "Indian_Space_Research_Organisation",
+        "Moon_landing",
+        "Lunar_south_pole",
+        "Vikram_(spacecraft)"
+      ],
+      "raw": {
+        "path": "data/raw/chandrayaan-3.csv",
+        "bytes": 24849,
+        "sha256": "3ed32e08f2efc55fd65bdcc69ab3a03eee3f9723d6a4ce35f64eaeeef034e8d6",
+        "rows": 603,
+        "stored_start": "2022-03-29",
+        "stored_end": "2023-11-21"
+      },
+      "metrics": {
+        "path": "data/processed/chandrayaan-3-metrics.json",
+        "bytes": 3794,
+        "sha256": "cb99830c004abb104cab94b7df770635470f7c3a068decc39c9df6968e8740df"
+      },
+      "forecasts": {
+        "path": "data/processed/chandrayaan-3-forecast.csv",
+        "bytes": 89206,
+        "sha256": "72cad078a70a529760ff8976b46693a42cee4cc8b182af54d5568d55f5a3cf5b",
+        "rows": 900,
+        "start": "2023-08-31",
+        "end": "2023-09-29",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "gta-vi-trailer",
+      "event_date": "2023-12-05",
+      "pages": [
+        "Grand_Theft_Auto_VI",
+        "Rockstar_Games",
+        "Grand_Theft_Auto_V",
+        "Grand_Theft_Auto",
+        "Take-Two_Interactive"
+      ],
+      "raw": {
+        "path": "data/raw/gta-vi-trailer.csv",
+        "bytes": 26814,
+        "sha256": "b0376af2df37dee5e0cfa57781b0449a98cd8698482ed685446334a7a082e44d",
+        "rows": 603,
+        "stored_start": "2022-07-11",
+        "stored_end": "2024-03-04"
+      },
+      "metrics": {
+        "path": "data/processed/gta-vi-trailer-metrics.json",
+        "bytes": 3797,
+        "sha256": "40a93b763e80dfd3e35cc67cb7e9778651af835899ecbdd3239a133c073b2b5a"
+      },
+      "forecasts": {
+        "path": "data/processed/gta-vi-trailer-forecast.csv",
+        "bytes": 89016,
+        "sha256": "da6e9f50f3530f9339df92ebd5ceb3c90338b0a9b573a2921d35d4d1c3c38820",
+        "rows": 900,
+        "start": "2023-12-13",
+        "end": "2024-01-11",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "total-solar-eclipse-2024",
+      "event_date": "2024-04-08",
+      "pages": [
+        "Solar_eclipse_of_April_8,_2024",
+        "Solar_eclipse",
+        "Eclipse_glasses",
+        "Total_solar_eclipse",
+        "Saros"
+      ],
+      "raw": {
+        "path": "data/raw/total-solar-eclipse-2024.csv",
+        "bytes": 22719,
+        "sha256": "80757e0038071a405b6be90e51892ca04e1f23970e825cb5a55083c00074fd48",
+        "rows": 603,
+        "stored_start": "2022-11-13",
+        "stored_end": "2024-07-07"
+      },
+      "metrics": {
+        "path": "data/processed/total-solar-eclipse-2024-metrics.json",
+        "bytes": 3729,
+        "sha256": "d2e27b995f46376fb29aae8a2f8a76964dcdfb2cc3a19f910fd822a654dc8ee7"
+      },
+      "forecasts": {
+        "path": "data/processed/total-solar-eclipse-2024-forecast.csv",
+        "bytes": 85053,
+        "sha256": "d68c615606a056d6945846cf79952f43727facc7b8bca32b6ea8bf94d419618d",
+        "rows": 900,
+        "start": "2024-04-16",
+        "end": "2024-05-15",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "inside-out-2",
+      "event_date": "2024-06-14",
+      "pages": [
+        "Inside_Out_2",
+        "Inside_Out_(2015_film)",
+        "Pixar",
+        "Anxiety",
+        "Amy_Poehler"
+      ],
+      "raw": {
+        "path": "data/raw/inside-out-2.csv",
+        "bytes": 27809,
+        "sha256": "a1757200da6cfe48f76c582820d4bf4eb1111171817980efecf6ab4af4e0d836",
+        "rows": 603,
+        "stored_start": "2023-01-19",
+        "stored_end": "2024-09-12"
+      },
+      "metrics": {
+        "path": "data/processed/inside-out-2-metrics.json",
+        "bytes": 3606,
+        "sha256": "22ad77053b037acd7a7cd1e0a3fa53c1ec3a3354541657ee6081390048ab6c2f"
+      },
+      "forecasts": {
+        "path": "data/processed/inside-out-2-forecast.csv",
+        "bytes": 81655,
+        "sha256": "ad08c60d02773d907214ecdd54e839a2533afc00f4fbeb88209dfc404afbdcd6",
+        "rows": 900,
+        "start": "2024-06-22",
+        "end": "2024-07-21",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "paris-2024-opening",
+      "event_date": "2024-07-26",
+      "pages": [
+        "2024_Summer_Olympics_opening_ceremony",
+        "2024_Summer_Olympics",
+        "Celine_Dion",
+        "L\u00e9on_Marchand",
+        "Paris"
+      ],
+      "raw": {
+        "path": "data/raw/paris-2024-opening.csv",
+        "bytes": 27004,
+        "sha256": "0b240c4e2a4351199cbc60be93a14731aff6c84b872aded14e22fd793c7df132",
+        "rows": 603,
+        "stored_start": "2023-03-02",
+        "stored_end": "2024-10-24"
+      },
+      "metrics": {
+        "path": "data/processed/paris-2024-opening-metrics.json",
+        "bytes": 3822,
+        "sha256": "103e0872d360956cb3641d8e34c6bd14a50c147867dc505b168b0768017d4cb0"
+      },
+      "forecasts": {
+        "path": "data/processed/paris-2024-opening-forecast.csv",
+        "bytes": 87420,
+        "sha256": "a094977d864d4d25c6334f477adbee21f42fa7c01fe2320eded5a9ec710d8fc9",
+        "rows": 900,
+        "start": "2024-08-03",
+        "end": "2024-09-01",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "deadpool-wolverine",
+      "event_date": "2024-07-26",
+      "pages": [
+        "Deadpool_&_Wolverine",
+        "Ryan_Reynolds",
+        "Hugh_Jackman",
+        "Wolverine_(character)",
+        "Marvel_Cinematic_Universe"
+      ],
+      "raw": {
+        "path": "data/raw/deadpool-wolverine.csv",
+        "bytes": 28376,
+        "sha256": "925de282766454a6f6b1be8b71ed80926c625de3265ab1d879b4cbe6e253a1a2",
+        "rows": 603,
+        "stored_start": "2023-03-02",
+        "stored_end": "2024-10-24"
+      },
+      "metrics": {
+        "path": "data/processed/deadpool-wolverine-metrics.json",
+        "bytes": 3827,
+        "sha256": "41008fc828e1e11b9e632b7b13b2f94aa170ea998a7906bbba79313c87a22b07"
+      },
+      "forecasts": {
+        "path": "data/processed/deadpool-wolverine-forecast.csv",
+        "bytes": 90128,
+        "sha256": "40a55566ca0ae0e4100d74e1164b7b97974279166cff80bf1311bb6cecb014ff",
+        "rows": 900,
+        "start": "2024-08-03",
+        "end": "2024-09-01",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "us-election-2024",
+      "event_date": "2024-11-05",
+      "pages": [
+        "2024_United_States_presidential_election",
+        "Donald_Trump",
+        "Kamala_Harris",
+        "JD_Vance",
+        "Tim_Walz"
+      ],
+      "raw": {
+        "path": "data/raw/us-election-2024.csv",
+        "bytes": 28332,
+        "sha256": "efd992541eb8372b6aaf8628f1e1dc3182f8846d52505ca4203c94ac56852bf8",
+        "rows": 603,
+        "stored_start": "2023-06-12",
+        "stored_end": "2025-02-03"
+      },
+      "metrics": {
+        "path": "data/processed/us-election-2024-metrics.json",
+        "bytes": 3792,
+        "sha256": "0585d886485f22d968877ca8c0515cf99783e06daea42925bcb29b8584c37a4c"
+      },
+      "forecasts": {
+        "path": "data/processed/us-election-2024-forecast.csv",
+        "bytes": 86017,
+        "sha256": "4d18ac2e656686a30f12f94da7585c9bf43fe7c933f65c3687847662532fcb5c",
+        "rows": 900,
+        "start": "2024-11-13",
+        "end": "2024-12-12",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "notre-dame-reopening",
+      "event_date": "2024-12-07",
+      "pages": [
+        "Notre-Dame_de_Paris",
+        "Notre-Dame_fire",
+        "Emmanuel_Macron",
+        "Gothic_architecture",
+        "Paris"
+      ],
+      "raw": {
+        "path": "data/raw/notre-dame-reopening.csv",
+        "bytes": 27791,
+        "sha256": "a21131d6930e965b62f018165c4477c2c4334952ad0633b948ce8a249b08f2de",
+        "rows": 603,
+        "stored_start": "2023-07-14",
+        "stored_end": "2025-03-07"
+      },
+      "metrics": {
+        "path": "data/processed/notre-dame-reopening-metrics.json",
+        "bytes": 3298,
+        "sha256": "444e74bf011c7e7353562f3627fd2b894cc89df432dfcc0261765fed5b2ca944"
+      },
+      "forecasts": {
+        "path": "data/processed/notre-dame-reopening-forecast.csv",
+        "bytes": 86338,
+        "sha256": "e0fc23fe17c78b2ee428e6d3ab1afa225f9b6a6522c95f9ed1cd9fcf270d65da",
+        "rows": 900,
+        "start": "2024-12-15",
+        "end": "2025-01-13",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "super-bowl-lix",
+      "event_date": "2025-02-09",
+      "pages": [
+        "Super_Bowl_LIX",
+        "Kendrick_Lamar",
+        "Philadelphia_Eagles",
+        "Kansas_City_Chiefs"
+      ],
+      "raw": {
+        "path": "data/raw/super-bowl-lix.csv",
+        "bytes": 24045,
+        "sha256": "36ad44989f80b8a432decbec069d3b987ed6bfff42ca334fafd350b55e745317",
+        "rows": 603,
+        "stored_start": "2023-09-16",
+        "stored_end": "2025-05-10"
+      },
+      "metrics": {
+        "path": "data/processed/super-bowl-lix-metrics.json",
+        "bytes": 2728,
+        "sha256": "565930f9a01a25809e1b1e84814775acf43d0e09ef9aabca011f29d10c01f4ca"
+      },
+      "forecasts": {
+        "path": "data/processed/super-bowl-lix-forecast.csv",
+        "bytes": 70882,
+        "sha256": "dc4bfe15384f32f54e5b8b3a327cefa842b22194eccea7fe3ce3d0a13eff4a7e",
+        "rows": 720,
+        "start": "2025-02-17",
+        "end": "2025-03-18",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    },
+    {
+      "event_slug": "pope-francis-death",
+      "event_date": "2025-04-21",
+      "pages": [
+        "Pope_Francis",
+        "2025_papal_conclave",
+        "Pope_Leo_XIV",
+        "College_of_Cardinals",
+        "Vatican_City"
+      ],
+      "raw": {
+        "path": "data/raw/pope-francis-death.csv",
+        "bytes": 24609,
+        "sha256": "280337fa137c05d4228f0528e09fde8f57b36cca0989a3827a7f994a00b36aee",
+        "rows": 603,
+        "stored_start": "2023-11-26",
+        "stored_end": "2025-07-20"
+      },
+      "metrics": {
+        "path": "data/processed/pope-francis-death-metrics.json",
+        "bytes": 3292,
+        "sha256": "ebff847fd305a20a8925ce9174d240abfdab87db37c0d1ee0e2401755dfd49fd"
+      },
+      "forecasts": {
+        "path": "data/processed/pope-francis-death-forecast.csv",
+        "bytes": 88351,
+        "sha256": "df76f5c032fb3b3e814ee172fab497d5bf79727cb41401b9f715b53909a3337f",
+        "rows": 900,
+        "start": "2025-04-29",
+        "end": "2025-05-28",
+        "modes": [
+          "exponential-decay",
+          "flat-baseline",
+          "power-law-decay",
+          "seasonal-naive",
+          "timesfm-multivariate",
+          "timesfm-univariate"
+        ]
+      }
+    }
+  ]
+}

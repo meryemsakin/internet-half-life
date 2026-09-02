@@ -1,0 +1,124 @@
+{
+  "slug": "notre-dame-reopening",
+  "title": "Notre-Dame reopens",
+  "event_date": "2024-12-07",
+  "primary": "Notre-Dame_de_Paris",
+  "total_excess_views_60d": 570979,
+  "spillover_share": 0.5225813909092979,
+  "pages": [
+    {
+      "article": "Notre-Dame_de_Paris",
+      "label": "Notre-Dame",
+      "role": "place",
+      "baseline_views": 3512.5,
+      "peak_date": "2024-12-08",
+      "peak_offset_days": 1,
+      "peak_views": 84017,
+      "peak_lift": 23.919430604982207,
+      "half_life_days": 1,
+      "excess_views_60d": 272596,
+      "first_week_share": 0.8836338691069034,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Notre-Dame_fire",
+      "label": "2019 fire",
+      "role": "history",
+      "baseline_views": 1509.0,
+      "peak_date": "2024-12-08",
+      "peak_offset_days": 1,
+      "peak_views": 31220,
+      "peak_lift": 20.689198144466534,
+      "half_life_days": 1,
+      "excess_views_60d": 94686,
+      "first_week_share": 0.9301163846820015,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Emmanuel_Macron",
+      "label": "Emmanuel Macron",
+      "role": "person",
+      "baseline_views": 5962.0,
+      "peak_date": "2024-12-08",
+      "peak_offset_days": 1,
+      "peak_views": 38969,
+      "peak_lift": 6.536229453203623,
+      "half_life_days": 1,
+      "excess_views_60d": 192145,
+      "first_week_share": 0.5276483905383955,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Gothic_architecture",
+      "label": "Gothic architecture",
+      "role": "idea",
+      "baseline_views": 1485.0,
+      "peak_date": "2024-12-08",
+      "peak_offset_days": 1,
+      "peak_views": 2005,
+      "peak_lift": 1.3501683501683501,
+      "half_life_days": 2,
+      "excess_views_60d": 3202,
+      "first_week_share": 0.4113054341036852,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Paris",
+      "label": "Paris",
+      "role": "place",
+      "baseline_views": 5422.5,
+      "peak_date": "2024-12-09",
+      "peak_offset_days": 2,
+      "peak_views": 6151,
+      "peak_lift": 1.1343476256339327,
+      "half_life_days": 1,
+      "excess_views_60d": 8350,
+      "first_week_share": 0.1383316366249476,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Notre-Dame_de_Paris",
+      "target": "Notre-Dame_fire",
+      "lag_days": 0,
+      "correlation": 0.9923584417203943
+    },
+    {
+      "source": "Emmanuel_Macron",
+      "target": "Notre-Dame_fire",
+      "lag_days": 3,
+      "correlation": 0.7793466317514941
+    },
+    {
+      "source": "Emmanuel_Macron",
+      "target": "Notre-Dame_de_Paris",
+      "lag_days": 3,
+      "correlation": 0.7689182282647214
+    },
+    {
+      "source": "Notre-Dame_de_Paris",
+      "target": "Gothic_architecture",
+      "lag_days": 0,
+      "correlation": 0.6682570854614085
+    },
+    {
+      "source": "Notre-Dame_fire",
+      "target": "Gothic_architecture",
+      "lag_days": 0,
+      "correlation": 0.6551036652835464
+    },
+    {
+      "source": "Emmanuel_Macron",
+      "target": "Gothic_architecture",
+      "lag_days": 3,
+      "correlation": 0.4686557959907196
+    },
+    {
+      "source": "Gothic_architecture",
+      "target": "Paris",
+      "lag_days": 1,
+      "correlation": 0.40616133526147985
+    }
+  ]
+}

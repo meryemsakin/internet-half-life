@@ -1,0 +1,104 @@
+{
+  "slug": "super-bowl-lix",
+  "title": "Super Bowl LIX",
+  "event_date": "2025-02-09",
+  "primary": "Super_Bowl_LIX",
+  "total_excess_views_60d": 5285918,
+  "spillover_share": 0.8203874899307935,
+  "pages": [
+    {
+      "article": "Super_Bowl_LIX",
+      "label": "Super Bowl LIX",
+      "role": "event",
+      "baseline_views": 44767.5,
+      "peak_date": "2025-02-10",
+      "peak_offset_days": 1,
+      "peak_views": 672728,
+      "peak_lift": 15.027151393309879,
+      "half_life_days": 1,
+      "excess_views_60d": 949417,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Kendrick_Lamar",
+      "label": "Kendrick Lamar",
+      "role": "person",
+      "baseline_views": 24581.0,
+      "peak_date": "2025-02-10",
+      "peak_offset_days": 1,
+      "peak_views": 1781900,
+      "peak_lift": 72.49094829339734,
+      "half_life_days": 1,
+      "excess_views_60d": 3480239,
+      "first_week_share": 0.890813245871907,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Philadelphia_Eagles",
+      "label": "Eagles",
+      "role": "organization",
+      "baseline_views": 9637.5,
+      "peak_date": "2025-02-10",
+      "peak_offset_days": 1,
+      "peak_views": 443707,
+      "peak_lift": 46.039636835278856,
+      "half_life_days": 1,
+      "excess_views_60d": 621295,
+      "first_week_share": 0.9972935562011604,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Kansas_City_Chiefs",
+      "label": "Chiefs",
+      "role": "organization",
+      "baseline_views": 10470.0,
+      "peak_date": "2025-02-10",
+      "peak_offset_days": 1,
+      "peak_views": 156227,
+      "peak_lift": 14.921394460362942,
+      "half_life_days": 1,
+      "excess_views_60d": 234967,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Super_Bowl_LIX",
+      "target": "Kansas_City_Chiefs",
+      "lag_days": 0,
+      "correlation": 0.9933614788621618
+    },
+    {
+      "source": "Super_Bowl_LIX",
+      "target": "Philadelphia_Eagles",
+      "lag_days": 0,
+      "correlation": 0.9564347855694559
+    },
+    {
+      "source": "Philadelphia_Eagles",
+      "target": "Kansas_City_Chiefs",
+      "lag_days": 0,
+      "correlation": 0.9401808924777643
+    },
+    {
+      "source": "Kendrick_Lamar",
+      "target": "Philadelphia_Eagles",
+      "lag_days": 0,
+      "correlation": 0.9229690657702129
+    },
+    {
+      "source": "Super_Bowl_LIX",
+      "target": "Kendrick_Lamar",
+      "lag_days": 1,
+      "correlation": 0.8963272513975893
+    },
+    {
+      "source": "Kansas_City_Chiefs",
+      "target": "Kendrick_Lamar",
+      "lag_days": 1,
+      "correlation": 0.8881053127901395
+    }
+  ]
+}

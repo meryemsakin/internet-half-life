@@ -1,0 +1,142 @@
+{
+  "slug": "chandrayaan-3",
+  "title": "Chandrayaan-3 lands on the Moon",
+  "event_date": "2023-08-23",
+  "primary": "Chandrayaan-3",
+  "total_excess_views_60d": 3217021,
+  "spillover_share": 0.18344735704243154,
+  "pages": [
+    {
+      "article": "Chandrayaan-3",
+      "label": "Chandrayaan-3",
+      "role": "event",
+      "baseline_views": 26320.5,
+      "peak_date": "2023-08-24",
+      "peak_offset_days": 1,
+      "peak_views": 940655,
+      "peak_lift": 35.73849280978705,
+      "half_life_days": 1,
+      "excess_views_60d": 2626867,
+      "first_week_share": 0.876568741394216,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Indian_Space_Research_Organisation",
+      "label": "ISRO",
+      "role": "organization",
+      "baseline_views": 533.5,
+      "peak_date": "2023-08-23",
+      "peak_offset_days": 0,
+      "peak_views": 10425,
+      "peak_lift": 19.540768509840674,
+      "half_life_days": 2,
+      "excess_views_60d": 30291,
+      "first_week_share": 0.8761183189726321,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Moon_landing",
+      "label": "Moon landing",
+      "role": "idea",
+      "baseline_views": 3101.0,
+      "peak_date": "2023-08-23",
+      "peak_offset_days": 0,
+      "peak_views": 145272,
+      "peak_lift": 46.84682360528862,
+      "half_life_days": 2,
+      "excess_views_60d": 321585,
+      "first_week_share": 0.9300371596933936,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Lunar_south_pole",
+      "label": "Lunar south pole",
+      "role": "place",
+      "baseline_views": 825.5,
+      "peak_date": "2023-08-23",
+      "peak_offset_days": 0,
+      "peak_views": 102896,
+      "peak_lift": 124.64688067837675,
+      "half_life_days": 2,
+      "excess_views_60d": 235134,
+      "first_week_share": 0.880233994730653,
+      "half_life_status": "observed"
+    },
+    {
+      "article": "Vikram_(spacecraft)",
+      "label": "Vikram",
+      "role": "object",
+      "baseline_views": 207.0,
+      "peak_date": "2023-08-23",
+      "peak_offset_days": 0,
+      "peak_views": 1765,
+      "peak_lift": 8.526570048309178,
+      "half_life_days": 2,
+      "excess_views_60d": 3144,
+      "first_week_share": 1.0,
+      "half_life_status": "observed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Chandrayaan-3",
+      "target": "Moon_landing",
+      "lag_days": 0,
+      "correlation": 0.9826939032762564
+    },
+    {
+      "source": "Indian_Space_Research_Organisation",
+      "target": "Moon_landing",
+      "lag_days": 0,
+      "correlation": 0.9711905207796412
+    },
+    {
+      "source": "Chandrayaan-3",
+      "target": "Indian_Space_Research_Organisation",
+      "lag_days": 0,
+      "correlation": 0.9642476909415207
+    },
+    {
+      "source": "Moon_landing",
+      "target": "Lunar_south_pole",
+      "lag_days": 0,
+      "correlation": 0.9620370347654308
+    },
+    {
+      "source": "Indian_Space_Research_Organisation",
+      "target": "Lunar_south_pole",
+      "lag_days": 0,
+      "correlation": 0.9512432483305611
+    },
+    {
+      "source": "Chandrayaan-3",
+      "target": "Lunar_south_pole",
+      "lag_days": 0,
+      "correlation": 0.9459969142594179
+    },
+    {
+      "source": "Moon_landing",
+      "target": "Vikram_(spacecraft)",
+      "lag_days": 0,
+      "correlation": 0.8506897564792465
+    },
+    {
+      "source": "Lunar_south_pole",
+      "target": "Vikram_(spacecraft)",
+      "lag_days": 0,
+      "correlation": 0.8273978092179324
+    },
+    {
+      "source": "Indian_Space_Research_Organisation",
+      "target": "Vikram_(spacecraft)",
+      "lag_days": 0,
+      "correlation": 0.8231689275015742
+    },
+    {
+      "source": "Chandrayaan-3",
+      "target": "Vikram_(spacecraft)",
+      "lag_days": 0,
+      "correlation": 0.8139965954128046
+    }
+  ]
+}
